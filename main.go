@@ -21,7 +21,7 @@ type CourseDB struct {
 
 func (db *CourseDB) GetCourse (id string) (course *Course, err error) {
 	course = db.coursesById[id]; if course == nil {
-		return nil, errors.New("Course with id: \"" + id + "\" does not exist in database.")
+		return nil, errors.New("Course with id: \\\"" + id + "\\\" does not exist in database.")
 	}
 	return course, nil
 }
