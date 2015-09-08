@@ -2,7 +2,7 @@
 
 var head = document.getElementsByTagName("head")[0]
 var style = document.createElement("STYLE")
-style.innerHTML = "body{margin:0 auto;width: 400px}"
+style.innerHTML = "body{margin:2em;width:400px}"
 head.appendChild(style)
 
 var goCourseSort = new GoCourseSort("ws://" + window.location.host + "/websocket")
@@ -17,10 +17,11 @@ document.getElementById("searchGoCourseSort")
     else {
       console.log("Search '" + searchSrc + "':", data)
       var newOutput = "";
-      for (var i = 0; i < data.length; i++) {
-        newOutput += "<div>" + data[i].T + "</div>"
+      for (var i = 0; i < data.Results.length; i++) {
+        newOutput += "<div>" + data.Results[i].T + "</div>"
       };
-      outputElem.innerHTML = newOutput
+      newOutput += "<br><i>Total Results: " + data.TotalResults + "    Execution Time: " + (Math.ceil(data.ExecutionTime * 1E4) / 1E4) + "s</i></div>";
+      outputElem.innerHTML = newOutput;
     }
   })
   event.preventDefault()

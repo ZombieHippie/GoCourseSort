@@ -7,6 +7,7 @@ import (
 	"github.com/ZombieHippie/fuzzysearch/fuzzy"
 	"sort"
 	"regexp"
+	"time"
 )
 
 // use short JSON identifiers for smaller sent data
@@ -96,7 +97,14 @@ func (st searchTermRelevance) Less(st2 searchTermRelevance) bool {
 }
 
 
-func (db *CourseDB) SearchKeywords (term string) []*Course {
+type SearchResults struct {
+	Results []*Course
+	TotalResults int
+	ExecutionTime float64
+}
+
+func (db *CourseDB) SearchKeywords (term string) SearchResults {
+	timerStart := time.Now()
 	// create a map of courses to keywords with ranks
 	var keywordLinks = make(map[*Course][]KeywordLinkRank)
 	
@@ -183,7 +191,11 @@ func (db *CourseDB) SearchKeywords (term string) []*Course {
 	for i, sr := range searchRes[:limit] {
 		res[i] = sr.Target
 	}
-	return res
+	return SearchResults{
+		Results: res,
+		TotalResults: len(searchRes),
+		ExecutionTime: 1E-9 * float64(time.Now().Sub(timerStart).Nanoseconds()),
+	}
 }
 
 type KeywordLink struct {

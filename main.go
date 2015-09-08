@@ -3,8 +3,6 @@ package main
 import (
 	"net/http"
 	"encoding/json"
-	"time"
-	"strconv"
 	"io/ioutil"
 	"io"
 	"os"
@@ -50,25 +48,6 @@ func main() {
 	fmt.Printf("Populated Database with %d courses.\n", len(db.coursesById))
 	db.CreateIndexCourseKeywords()
 	
-	http.HandleFunc("/byId/", func (w http.ResponseWriter, r *http.Request) {
-		header := w.Header()
-		timerStart := time.Now()
-		
-		header.Add("Content-Type", "text/json")
-		courseId := r.URL.Path[6:]
-		course, getCourseErr := db.GetCourse(courseId); if getCourseErr != nil {
-			defer w.Write([]byte(`{"error":"Error looking up course","message":"` + getCourseErr.Error() + `"}`))
-		}
-		res, marshalErr := json.Marshal(course); if marshalErr != nil {
-			defer w.Write([]byte(`{"error":"Error encoding course json","message":"` + marshalErr.Error() + `"}`))
-		}
-		if marshalErr == nil && getCourseErr == nil {
-			defer w.Write(res)
-		}
-		dur := time.Now().Sub(timerStart)
-		header.Add("X-Execution-Time", strconv.Itoa(int(dur.Nanoseconds())))
-	})
-	
 	//var scriptJS string
 	http.HandleFunc("/js/", func (w http.ResponseWriter, r *http.Request) {
 		file, err := os.Open(relSrcDir + "/js/" + r.URL.Path[4:]); if err != nil {
@@ -111,7 +90,7 @@ func main() {
 	            conn.Close()
 	            break
 	        }
-	        message := make([]byte, 140)
+	        message := make([]byte, 40)
 	        length, err := messageReader.Read(message); if err != nil && err != io.EOF {
 	        	fmt.Println("readLoop readError", err.Error())
 	        }
@@ -129,10 +108,8 @@ func main() {
 				}
 				case '?':
 				// do search		
-				//timerStart := time.Now()
 				searchResults := db.SearchKeywords(messageString)
-				//dur := time.Now().Sub(timerStart)
-				//fmt.Println("Search Execution Time:", 1E-9 * float64(dur.Nanoseconds()))
+				
 				conn.WriteJSON(searchResults)
 	        }
 	    }
