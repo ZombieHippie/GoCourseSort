@@ -10,14 +10,19 @@ import (
 	"github.com/gorilla/websocket"
 )
 
-const relSrcDir = "./src/github.com/ZombieHippie/GoCourseSort"
+//const relSrcDir = "./src/github.com/ZombieHippie/GoCourseSort"
 
 func main() {
+	if (len(os.Args) != 3) {
+		fmt.Println("Incorrect number of command-line arguments.\nUsage: " + os.Args[0] + " <host> <GoCourseSort directory>")
+		return
+	}
+	
 	db := CourseDB{
 		coursesById: map[string]*Course{},
 	}
-	wd, _ := os.Getwd()
-	fmt.Println("Working Directory: ", wd)
+	
+	relSrcDir := os.Args[2]
 	
 	// Populate CourseDB
 	catalog_pagesDir := relSrcDir + "/new_catalog_pages"
@@ -60,7 +65,9 @@ func main() {
 	
 	http.HandleFunc("/", func (w http.ResponseWriter, r *http.Request) {
 		w.Write([]byte(`<html>
-<head></head>
+<head>
+<title>GoCourseSort - Missouri State Catalog Utility</title>
+</head>
 <body>
 <h1>GoCourseSort</h1>
 <br>
@@ -123,6 +130,9 @@ func main() {
 		go readLoop(conn)
 	})
 	
-	http.ListenAndServe(":8080", nil)
+	listenOn := os.Args[1]
+
+	fmt.Println("Server listening on: ", listenOn)
+	http.ListenAndServe(listenOn, nil)
 }
 
