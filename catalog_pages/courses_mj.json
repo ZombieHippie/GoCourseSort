@@ -1,0 +1,1038 @@
+{
+  "JRN270": {
+    "course_id": "JRN270",
+    "title": "JRN 270 Introduction to Journalism",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Study of the purposes and forms of journalism. Includes writing the basic types of stories. Typing skills required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "JRN300": {
+    "course_id": "JRN300",
+    "title": "JRN 300 Special Topics in Journalism",
+    "desc": "A course upon a single topic of current interest. May be repeated with permission of the department to a total of 6 hours if topics are different. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "JRN305": {
+    "course_id": "JRN305",
+    "title": "JRN 305 Service Learning in Journalism",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a journalism course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in journalism to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "JRN370": {
+    "course_id": "JRN370",
+    "title": "JRN 370 News Reporting and Writing",
+    "req": "<em>Prerequisite: <span data-link='JRN270'>JRN 270</span>.</em>",
+    "desc": "Instruction and practice in gathering news material, writing news reports, and editing copy. Includes introduction to news beats and specialized reporting techniques. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "JRN374": {
+    "course_id": "JRN374",
+    "title": "JRN 374 Opinion Writing",
+    "req": "<em>Prerequisite: <span data-link='JRN270'>JRN 270</span>.</em>",
+    "desc": "Instruction and practice in writing editorials, opinion columns, news analyses and critical reviews. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "JRN375": {
+    "course_id": "JRN375",
+    "title": "JRN 375 Feature Writing",
+    "req": "<em>Prerequisite: <span data-link='JRN270'>JRN 270</span>.</em>",
+    "desc": "Practice in writing feature articles for print and online publications, including human interest stories, news features, personality profiles, how-to articles and historical pieces. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "JRN376": {
+    "course_id": "JRN376",
+    "title": "JRN 376 Business Reporting",
+    "req": "<em>Prerequisite: <span data-link='JRN270'>JRN 270</span>.</em>",
+    "desc": "Instruction and practice in gathering information and writing business-related articles. The course covers interviewing and reporting techniques used to write business stories, including enterprise and trend stories as well as company profiles. The student also will gain an understanding of the importance of business news to public affairs. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "JRN381": {
+    "course_id": "JRN381",
+    "title": "JRN 381 Broadcast News Writing",
+    "req": "<em>Prerequisite: <span data-link='JRN270'>JRN 270</span>.</em>",
+    "desc": "Instruction and practice in basic scripting technique and writing skills needed to be a broadcast journalist. Through writing, students will examine the fundamentals of news judgment and the organizational style of storytelling for radio and television formats. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "JRN384": {
+    "course_id": "JRN384",
+    "title": "JRN 384 Broadcast Performance",
+    "req": "<em>Prerequisite: <span data-link='JRN381'>JRN 381</span>.</em>",
+    "desc": "The development of disciplines controlling vocal and visual mechanics as well as interpretative performance for announcers, newscasters, interviewers and narrators of various radio and television situations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "JRN388": {
+    "course_id": "JRN388",
+    "title": "JRN 388 Electronic News Gathering",
+    "req": "<em>Prerequisite: <span data-link='JRN381'>JRN 381</span> and <span data-link='JRN384'>JRN 384</span>.</em>",
+    "desc": "Instruction and practice in news gathering techniques for television. Students will learn the basics of video production (shooting, editing, lighting, etc.) and reporting as well as advanced storytelling techniques, including solo reporting, recording natural sound packages, and live shot production and reporting. Emphasis is placed on gaining expertise in shooting and editing techniques as they apply to news. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "JRN407": {
+    "course_id": "JRN407",
+    "title": "JRN 407 Media Law",
+    "desc": "History and application of the speech and press clause of the First Amendment; libel law, privacy law, copyright and other legal matters relating to mass media; relation of media law to journalistic ethics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "JRN476": {
+    "course_id": "JRN476",
+    "title": "JRN 476 Copy Editing and Design",
+    "req": "<em>Prerequisite: <span data-link='JRN370'>JRN 370</span>.</em>",
+    "desc": "Principles and practices of copy-editing and rewriting news stories, headline writing, use of graphics, and makeup for print and online newspapers. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "JRN477": {
+    "course_id": "JRN477",
+    "title": "JRN 477 Publications",
+    "req": "<em>Prerequisite: <span data-link='JRN270'>JRN 270</span>.</em>",
+    "desc": "Design and production of tabloids, magazines, newsletters, and brochures using desktop publishing techniques; survey of printing processes and type selection; use of color, graphics, and photographs. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "JRN478": {
+    "course_id": "JRN478",
+    "title": "JRN 478 Multimedia Journalism",
+    "req": "<em>Prerequisite: <span data-link='JRN270'>JRN 270</span>.</em>",
+    "desc": "Instruction and practice in multimedia reporting and publishing for print media and the Internet, including digital still photography, video, audio, social media, and text. The course will also address content management systems for the web, ethics, and legal concerns. Note: Students must have a digital camera (3.1 megapixels or greater) with still and video modes. (All-in-one devices such as the iPhone fulfill this requirement.) ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "JRN481": {
+    "course_id": "JRN481",
+    "title": "JRN 481 Broadcast News Reporting and Producing",
+    "req": "<em>Prerequisite: <span data-link='JRN381'>JRN 381</span> and <span data-link='JRN384'>JRN 384</span>.</em>",
+    "desc": "Instruction and practice in video news production and line producing for television news. The course covers both video production techniques (shooting, editing, lighting, etc.) and techniques for producing a newscast. Students will shoot, edit and report news packages as well as develop skills as a line producer. Students will learn how to create a rundown, time a show, create proper flow and make critical show decisions that are essential to producing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "JRN492": {
+    "course_id": "JRN492",
+    "title": "JRN 492 Independent Study in Journalism",
+    "req": "<em>Prerequisite: <span data-link='JRN270'>JRN 270</span> and permission of instructor.</em>",
+    "desc": "Supervised independent study exploring topics determined by the student in consultation with journalism faculty member. May be repeated to a total of 6 hours with permission of the department. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "JRN572": {
+    "course_id": "JRN572",
+    "title": "JRN 572 Public Affairs Reporting",
+    "req": "<em>Prerequisite: <span data-link='JRN370'>JRN 370</span>.</em>",
+    "desc": "Capstone course on instruction and practice in advanced reporting techniques, including gathering material and writing in-depth stories on public affairs issues, with an emphasis on state and local government. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "JRN590": {
+    "course_id": "JRN590",
+    "title": "JRN 590 Issues in Journalism",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "A variable content course addressing topics of current interest as well as timeless issues. May be repeated to a total of 6 hours with permission if topic is different. May be taught concurrently with <span data-link='JRN690'>JRN 690</span>. Cannot receive credit for both <span data-link='JRN690'>JRN 690</span> and <span data-link='JRN590'>JRN 590</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "JRN592": {
+    "course_id": "JRN592",
+    "title": "JRN 592 Newscast Practicum",
+    "req": "<em>Prerequisite: <span data-link='JRN384'>JRN 384</span> and <span data-link='JRN388'>JRN 388</span> and <span data-link='MED383'>MED 383</span> and permission of instructor.</em>",
+    "desc": "Practical on-air experience with a student-run news program. Students will produce, report, anchor and work as studio crew for a weekly show. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "JRN595": {
+    "course_id": "JRN595",
+    "title": "JRN 595 Journalism Internship",
+    "req": "<em>Prerequisite: 60 hours and permission of instructor.</em>",
+    "desc": "Work experience with a professional news organization. The student will be provided an educational opportunity not available through classroom experience. The instructor must approve all necessary paperwork before the student may begin the internship. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "JRN690": {
+    "course_id": "JRN690",
+    "title": "JRN 690 Issues in Journalism",
+    "desc": "A variable content course addressing topics of current interest as well as timeless issues. May be repeated to a total of 6 hours with permission if topic is different. May be taught concurrently with <span data-link='JRN590'>JRN 590</span>. Cannot receive credit for both <span data-link='JRN590'>JRN 590</span> and <span data-link='JRN690'>JRN 690</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "JRN695": {
+    "course_id": "JRN695",
+    "title": "JRN 695 Journalism Internship",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Work experience with news organizations. The student will be provided an educational opportunity not available through classroom experience. The instructor must approve all necessary paperwork before the student may begin the internship. May be repeated for a total of 6 hours. May be taught concurrently with <span data-link='JRN595'>JRN 595</span>. Cannot receive credit for both <span data-link='JRN595'>JRN 595</span> and <span data-link='JRN695'>JRN 695</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED120": {
+    "course_id": "MED120",
+    "title": "MED 120 Mass Media and Society",
+    "req": "<em>General Education Course (Focus on Social and Behavioral Sciences).</em>",
+    "desc": "Theories and issues related to mass media as agents of social change. Both print and electronic media will be covered, including newspapers, radio, television and film. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED130": {
+    "course_id": "MED130",
+    "title": "MED 130 Fundamentals of Media Convergence",
+    "desc": "An exploration of the role and impact of convergence across all areas of journalism and media. Emphasis will be placed on the teaching of audio, video, web and social media skills. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED220": {
+    "course_id": "MED220",
+    "title": "MED 220 Case Studies in Mass Media",
+    "req": "<em>Prerequisite: <span data-link='MED120'>MED 120</span>.</em>",
+    "desc": "A case study approach investigating how the mass media cover a single significant public affairs issue such as Hurricane Katrina or health care reform. Emphasis will be placed on media literacy and critical thinking as students consider the role that the mass media play in public discourse and social reality. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MED274": {
+    "course_id": "MED274",
+    "title": "MED 274 Introduction to Film",
+    "req": "<em>General Education Course (Focus on Humanities).</em>",
+    "desc": "The aesthetic and technical perspective of all types of motion pictures (narrative, non-narrative, experimental), using a number of selected domestic and foreign films as examples. Written analyses are required. Viewing of selected films outside of class time may be required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED290": {
+    "course_id": "MED290",
+    "title": "MED 290 Fundamentals of Multimedia Design",
+    "desc": "A broad exploration of multimedia design via readings and creative experiences. The following areas are considered: fundamental design principles, effective multimedia design, implementation and implications of multimedia, evaluation of existing multimedia examples, and collaboration in a group multimedia project. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED300": {
+    "course_id": "MED300",
+    "title": "MED 300 Special Topics in Media",
+    "desc": "A course upon a single topic of current interest. May be repeated to a total of 6 hours if topics are different. Approved Recurring Course Topic: Anime. An in-depth exploration of anime, or Japanese animation. The course includes an examination of the various figures involved (artists, writers, directors, etc.), genres (action, martial arts, mythological, etc.), and the relationship between anime and animation in the West. 1 hour. Approved Recurring Course Topic: Asian Horror Cinema. An in-depth exploration of Asian Horror cinema. It includes an examination of the various figures involved (artists, writers, directors, etc.), the cultures of these Asian nations, and the relationship between Asian horror films and Hollywood. 1 hour. Approved Recurring Course Topic: Documentary Film History and Theory. Students will screen a series of classic documentary films as they study the history, theory, and the social role played by documentaries in the 20th century. The course will examine those characteristics that distinguish the documentary from other film genres. The diversity and historical development of the genre will also be traced through critical essays written by documentary film makers and critics, and through discussions of classic films. 2 hours. Approved Recurring Course Topic: Great Directors. A survey of important national and international directors. Students will learn to analyze influential directors&apos; work from both a historical and theoretical approach. The course is Internet-based and will require membership to a movie rental outlet. 3 hours. Approved Recurring Course Topic: Hong Kong Cinema. An in-depth exploration of Hong Kong cinema. It includes an examination of the various figures involved (actors, directors, etc.), genres (action, martial arts, art film, etc.), and the relationship between Hong Kong cinema and Hollywood. 1 hour. Approved Recurring Course Topic: Sci-Fi Noir. An exploration into the cinematic style of Film Noir in its latest version, the science fiction film. The course will investigate the influences and impact that the 1940s Film Noir style has had on specific films that can be categorized of Future Noir or relating to the development of Future Noir. 1 hour. Approved Recurring Course Topic: The Cinema of Iran. An introduction to the cinema of Iran and to the cinema of Islamic cultures in general. The course will cover such topics as the history of Iranian cinema, the place of women in the Iranian film industry, and film in the context of Islamic art. 1 hour. Approved Recurring Course Topic: The Films of the Coen Brothers. An exploration into the cinematic style of the Coen Brothers. The course will investigate how Noir writers of the 1940s, Hitchcock, the Horror genre and the struggle to remain independent have influenced the Coens. Students will learn the stylistic choices that reoccur in the Coen Brothers films and be able to discuss them in relation to their films and the film industry at large. 1 hour. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MED304": {
+    "course_id": "MED304",
+    "title": "MED 304 Mass Media Theory",
+    "req": "<em>Prerequisite: <span data-link='MED120'>MED 120</span>.</em>",
+    "desc": "An examination of the history, development, and current state of mass communication theory and its relationship to the ways in which mediated messages are delivered and received. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED305": {
+    "course_id": "MED305",
+    "title": "MED 305 Service Learning in Media",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a media course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in media to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED320": {
+    "course_id": "MED320",
+    "title": "MED 320 Understanding the Broadcast Industry",
+    "req": "<em>Prerequisite: <span data-link='MED120'>MED 120</span>.</em>",
+    "desc": "An overview of national and local broadcast operations, including a detailed examination of national and local broadcast operations including organizational structure, management functions, program production and distribution strategies, program management, sales, promotion and research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MED325": {
+    "course_id": "MED325",
+    "title": "MED 325 Media History",
+    "desc": "The development and growth of U.S. mass media from their origins through the development of the Internet. Emphasis will be placed on changing technologies, changing socio-political roles and changing structure of the mass media industry. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED355": {
+    "course_id": "MED355",
+    "title": "MED 355 Social Media",
+    "req": "<em>Prerequisite: <span data-link='MED120'>MED 120</span>.</em>",
+    "desc": "An overview of how social media are changing the ways we communicate, collaborate and create through digital media. Students will examine the historical, theoretical and practical implications of social media on human communication through a series of critical readings, media presentations and practical encounters with social networking. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MED361": {
+    "course_id": "MED361",
+    "title": "MED 361 Introduction to Sound Recording for Digital Film and TV",
+    "req": "<em>Prerequisite: <span data-link='MED365'>MED 365</span>.</em>",
+    "desc": "A foundational-level production course introducing recording/mixing techniques and technologies of production sound in digital film and television. Lectures will focus on basic acoustics and audio electronics, the aesthetics of the sound medium and sound as art in digital film and television. Students will learn critical-listening skills and gain recording/mixing experience in all aspects of field sound production including field sound recording equipment and setup, microphone placement and boom operation, and mixing with single and multiple microphones on the set. Students will also learn how to solve production problems and prepare production sounds for post-production. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MED365": {
+    "course_id": "MED365",
+    "title": "MED 365 Digital Film and Media Production",
+    "req": "<em>Prerequisite: <span data-link='MED120'>MED 120</span> required for Mass Media and Journalism majors only.</em>",
+    "desc": "A study of visual aesthetics and production techniques used in film and video. Students will learn image, motion design, sound, and nonlinear concepts that will be reinforced through video production exercises. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED374": {
+    "course_id": "MED374",
+    "title": "MED 374 History of Film I",
+    "desc": "An examination of the evolution of film technique and theory from 1895 to World War II. Emphasis is placed on the social impact of film and on the artistic and technical aspects of the medium. Viewing of selected films outside of class may be required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MED375": {
+    "course_id": "MED375",
+    "title": "MED 375 History of Film II",
+    "desc": "An examination of the evolution of film technique and theory from World War II to the present. Emphasis is placed on the social impact of film and on the artistic and technical aspects of the medium. Viewing of selected films outside of class may be required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MED381": {
+    "course_id": "MED381",
+    "title": "MED 381 Broadcast Writing",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "An examination of the principles and production techniques involved in writing broadcast copy. Three areas will be investigated in depth: copywriting for radio and television, news writing and feature story preparation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED382": {
+    "course_id": "MED382",
+    "title": "MED 382 Audio Production",
+    "desc": "Theory and practice of audio production techniques, procedures, and aesthetics. Emphasis is placed on audio production in a studio setting, including mic selection and placement, mixing boards and signal flow, and digital audio production techniques and technologies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MED383": {
+    "course_id": "MED383",
+    "title": "MED 383 Television Production",
+    "req": "<em>Prerequisite: <span data-link='MED365'>MED 365</span> or <span data-link='JRN388'>JRN 388</span>.</em>",
+    "desc": "Orientation to and practical experience in creating TV production in the professional studio setting. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED390": {
+    "course_id": "MED390",
+    "title": "MED 390 Interactive Web Design",
+    "req": "<em>Prerequisite: <span data-link='MED290'>MED 290</span>.</em>",
+    "desc": "An overview of multimedia design and multimedia-specific concepts. The course will look at multimedia design standards on multiple levels; content design and creation, user experience, navigation, interface, functionality, interactivity, multimedia integration, etc. Students will create and publish a website. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED454": {
+    "course_id": "MED454",
+    "title": "MED 454 Media Analysis and Criticism",
+    "req": "<em>Prerequisite: <span data-link='MED120'>MED 120</span>; and <span data-link='COM209'>COM 209</span> or <span data-link='MED304'>MED 304</span>.</em>",
+    "desc": "The political, cultural, economic and social impact of the American media and their content as they affect and influence the individual and the culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED461": {
+    "course_id": "MED461",
+    "title": "MED 461 Sound Editing",
+    "req": "<em>Prerequisite: <span data-link='MED365'>MED 365</span>.</em>",
+    "desc": "An introduction to the theoretical and practical principles of sound editing for digital film and TV post-production. Students will be exposed to sound-design ideas and learn sound-editing skills and techniques using a professional sound-editing program. Students will design and build soundtracks for digital film and TV with both aesthetic and technical considerations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED462": {
+    "course_id": "MED462",
+    "title": "MED 462 TV/Film Producing",
+    "desc": "An in-depth examination of the producer&apos;s various roles in television and film production. Practical experience with script breakdowns, scheduling and budgets will provide the student with an understanding of the various aspects of production and how the development and structure of the script can affect the production&apos;s outcome. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MED463": {
+    "course_id": "MED463",
+    "title": "MED 463 Writing Adaptations for Television and Film",
+    "desc": "Study and practice in adapting material for television or film. During the course, students will select a source to adapt and will outline and begin writing their script. May be taught concurrently with <span data-link='MED663'>MED 663</span>. Cannot receive credit for both <span data-link='MED463'>MED 463</span> and <span data-link='MED663'>MED 663</span>. May be repeated to a total of 6 hours with permission of the instructor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED464": {
+    "course_id": "MED464",
+    "title": "MED 464 Genre Writing for Film and Television",
+    "desc": "An overview of the expectations and requirements of various genres in both film and television. Students will study past, present and possible future trends of each genre in the professional marketplace. The course will focus on what defines audience expectations as students write for different genres. May be taught concurrently with <span data-link='MED664'>MED 664</span>. Cannot receive credit for both <span data-link='MED464'>MED 464</span> and <span data-link='MED664'>MED 664</span>. May be repeated to a total of 6 hours with permission of the instructor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MED465": {
+    "course_id": "MED465",
+    "title": "MED 465 Principles of Cinematography and Editing",
+    "req": "<em>Prerequisite: <span data-link='MED365'>MED 365</span>.</em>",
+    "desc": "The fundamental theoretical and practical principles of editing and lighting for film and video. Location lighting and camera techniques and aesthetics will be explored in depth. Editing theory will be addressed as students learn nonlinear editing techniques. The class will shoot and edit a variety of exercises designed to illustrate the theoretical, practical, and aesthetic issues explored in this course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MED466": {
+    "course_id": "MED466",
+    "title": "MED 466 Advanced Editing",
+    "req": "<em>Prerequisite: <span data-link='MED365'>MED 365</span>.</em>",
+    "desc": "An examination of the theoretical, historical, and practical principles involved in editing narrative film and video. Students will learn intermediate and advanced nonlinear editing techniques using AVID editors. Editing theory and aesthetics will be addressed through a series of editing exercises pulled from feature films and television series. Issues of narrative clarity, dramatic focus, pacing, and effective storytelling will be emphasized. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MED470": {
+    "course_id": "MED470",
+    "title": "MED 470 Special Topics in Film",
+    "desc": "An examination of special topics from historical or current interest in film. Subject will vary from semester to semester depending on student interest and faculty availability. Examples: Experimental Films, Science Fiction and Horror in Film, Film as Propaganda, The Image of Minorities in Film, the French New Wave, Film Criticism. Viewing of selected films outside of class may be required. Variable Content Course. May be repeated to a total of 6 hours. 3(3-1) D. Approved recurring course topic: Animation. An examination of the history and aesthetics of animation, including both commercial and independent animation. Animation techniques (cel, computer, pixilation, cut-out, etc.), national animation industries (Hollywood, Japanese, Eastern European, etc.), and significant issues of contemporary animation studies will be covered. Written research essays are required, and film viewing outside of class may be required. 3(3-1) D. Approved recurring course topic: Asian Cinema. An examination of the art and industry of Asian cinema, looking at the histories and aesthetic features of the films (both mainstream and alternative) of the major filmmaking nations of Asia, as well as the practical and social factors involved in filmmaking in Asia. Written research essays are required, and film viewing outside of class may be required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MED490": {
+    "course_id": "MED490",
+    "title": "MED 490 Advanced Interactivity Multimedia Design",
+    "req": "<em>Prerequisite: <span data-link='MED290'>MED 290</span>.</em>",
+    "desc": "An advanced study of interactive multimedia design based on human-computer interaction principles. Course will include the creation of a project incorporating interactivity as a core element. Topics may include mobile applications, site-specific multimedia design, trans-media, advanced physical interactivity, or advanced Flash design. May be repeated to a total of 6 hours if topics are different. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MED492": {
+    "course_id": "MED492",
+    "title": "MED 492 Independent Study in Electronic Media",
+    "req": "<em>Prerequisite: admission to a departmental major, permission of instructor and 6 hours of upper division MED or JRN coursework.</em>",
+    "desc": "Supervised independent study exploring selected areas determined by the student in consultation with the media faculty. Course work may include readings, term papers, or projects. May be repeated to a total of 6 hours with permission of the department. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MED498": {
+    "course_id": "MED498",
+    "title": "MED 498 Senior Project in Electronic Arts",
+    "req": "<em>Prerequisite: <span data-link='ART300'>ART 300</span> and permission of instructor.</em>",
+    "desc": "Admission to this course is contingent upon the successful completion of the Electronics Arts junior portfolio review and the achievement of a &quot;C&quot; or better grade in all required option courses completed at the time of the junior portfolio review. Under advisement from faculty, EA students will form production teams consisting of computer animation, video, interactive new media and audio studies students. Each team will produce a broadcast-quality project over two semesters. The first semester will be spent in pre-production preparations for the approved senior project. The second semester will involve production and post-production of the approved project. This course must be repeated in sequence for a total of four hours across a single academic year. Identical with <span data-link='ART498'>ART 498</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED561": {
+    "course_id": "MED561",
+    "title": "MED 561 Sound Mixing",
+    "req": "<em>Prerequisite: <span data-link='MED461'>MED 461</span>.</em>",
+    "desc": "An in-depth exploration of the art of sound design for digital film and TV. Students will learn how to carry out the aesthetic considerations of sound through the mixing process. Emphasis will be placed on advanced sound editing for sub- and final mixing, mix engineering, sound-effect processing and surround-sound practice. Students will learn how to mix a movie&apos;s dialogue, sound effects, ambience and music into stereo and surround tracks. May be taught concurrently with <span data-link='MED661'>MED 661</span>. Cannot receive credit for both <span data-link='MED561'>MED 561</span> and <span data-link='MED661'>MED 661</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MED562": {
+    "course_id": "MED562",
+    "title": "MED 562 Digital Filmmaking",
+    "req": "<em>Prerequisite: <span data-link='MED461'>MED 461</span> or <span data-link='MED462'>MED 462</span> or <span data-link='MED465'>MED 465</span>.</em>",
+    "desc": "A film-style production class in high-definition digital filmmaking. Students will form small production teams to plan, design, and produce short narrative films. May be taught concurrently with <span data-link='MED662'>MED 662</span>. Cannot receive credit for both <span data-link='MED662'>MED 662</span> and <span data-link='MED562'>MED 562</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MED565": {
+    "course_id": "MED565",
+    "title": "MED 565 Screenwriting",
+    "desc": "Writing the feature film screenplay. Students will study format, structure, and the effective tools of screenwriting. The course will include discussion of feature films and their screenplays, as well as the business of professional screenwriting. Students will create a premise, outline their projects, and write the first draft of a short film or the first act of a full-length film. May be taught concurrently with <span data-link='MED667'>MED 667</span>. Cannot receive credit for both <span data-link='MED667'>MED 667</span> and <span data-link='MED565'>MED 565</span>. May be repeated to a total of 6 hours with permission of the instructor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED566": {
+    "course_id": "MED566",
+    "title": "MED 566 Writing for Television",
+    "desc": "This course will focus on the foundations of structure, character, conflict, dialogue, and setting, and how to apply these elements to storytelling on the small screen. Students will learn to pitch their ideas effectively to writer-producers and then outline, write, and polish a spec script for a currently running television series. May be taught concurrently with <span data-link='MED668'>MED 668</span>. Cannot receive credit for both <span data-link='MED668'>MED 668</span> and <span data-link='MED566'>MED 566</span>. May be repeated to a total of 6 hours with permission of the instructor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED567": {
+    "course_id": "MED567",
+    "title": "MED 567 Rewriting Film and Television Scripts",
+    "req": "<em>Prerequisite: <span data-link='MED565'>MED 565</span> or <span data-link='MED566'>MED 566</span>.</em>",
+    "desc": "An examination of the many phases of rewriting television or feature length screenplays for professional submission. Students will rewrite and workshop their scripts with an eye toward the current marketplace. May be taught concurrently with <span data-link='MED669'>MED 669</span>. Cannot receive credit for both <span data-link='MED669'>MED 669</span> and <span data-link='MED567'>MED 567</span>. May be repeated to a total of 6 hours with permission of the instructor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MED570": {
+    "course_id": "MED570",
+    "title": "MED 570 Film Theory",
+    "desc": "An analysis of the art of film by using classical and contemporary film theory to investigate such aspects as the relationship between form and content, visual style and the nature of pictorial motion. Weekly screenings and discussions of short films, excerpts, complete classics and contemporary films. May be taught concurrently with <span data-link='MED670'>MED 670</span>. Cannot receive credit for both <span data-link='MED670'>MED 670</span> and <span data-link='MED570'>MED 570</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MED580": {
+    "course_id": "MED580",
+    "title": "MED 580 Media in Politics",
+    "req": "<em>Prerequisite: <span data-link='MED120'>MED 120</span>; and <span data-link='COM209'>COM 209</span> or <span data-link='MED304'>MED 304</span>.</em>",
+    "desc": "An in-depth examination of the role of print and electronic media in American politics. Emphasis is placed on media coverage of government, social issues, and political campaigns. The course examines both the strategies of paid media and the media&apos;s coverage of politics as news. May be taught concurrently with <span data-link='MED680'>MED 680</span>. Cannot receive credit for both <span data-link='MED680'>MED 680</span> and <span data-link='MED580'>MED 580</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MED581": {
+    "course_id": "MED581",
+    "title": "MED 581 Issues in Media Ethics",
+    "req": "<em>Prerequisite: <span data-link='MED120'>MED 120</span> and <span data-link='MED304'>MED 304</span>.</em>",
+    "desc": "An investigation of fundamental ethical issues and their implications for media practitioners. Responsibilities of media practitioners to the public, advertising agencies, the government, and special interest groups will be examined. Special attention will be paid to the possibility of conflict between the business of media and general ethical considerations. May be taught concurrently with <span data-link='MED681'>MED 681</span>. Cannot receive credit for both <span data-link='MED681'>MED 681</span> and <span data-link='MED581'>MED 581</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED583": {
+    "course_id": "MED583",
+    "title": "MED 583 Advanced Television Production",
+    "req": "<em>Prerequisite: <span data-link='MED383'>MED 383</span>.</em>",
+    "desc": "Principles, skills, and techniques involved in advanced television production. Practical experience in writing, producing, directing and editing non-fiction television content for a video-magazine, news show, and/or promotions. May be taught concurrently with <span data-link='MED683'>MED 683</span>. Cannot receive credit for both <span data-link='MED583'>MED 583</span> and <span data-link='MED683'>MED 683</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MED595": {
+    "course_id": "MED595",
+    "title": "MED 595 Media Internship",
+    "req": "<em>Prerequisite: 60 hours and permission of instructor.</em>",
+    "desc": "Work experience with a professional media organization. The student will be provided an educational opportunity not available through classroom experience. The instructor must approve all necessary paperwork before the student may begin the internship. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED597": {
+    "course_id": "MED597",
+    "title": "MED 597 Advanced Studies in Media",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "In-depth examination of a special topic in media. Variable content course. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='MED697'>MED 697</span>. Cannot receive credit for both <span data-link='MED697'>MED 697</span> and <span data-link='MED597'>MED 597</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MED661": {
+    "course_id": "MED661",
+    "title": "MED 661 Sound Mixing",
+    "desc": "An in-depth exploration of the art of sound design for digital film and TV. Students will learn how to carry out the aesthetic considerations of sound through the mixing process. Emphasis will be placed on advanced sound editing for sub- and final mixing, mix engineering, sound-effect processing and surround-sound practice. Students will learn how to mix a movie&apos;s dialogue, sound effects, ambience and music into stereo and surround tracks. May be taught concurrently with <span data-link='MED561'>MED 561</span>. Cannot receive credit for both <span data-link='MED661'>MED 661</span> and <span data-link='MED561'>MED 561</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MED662": {
+    "course_id": "MED662",
+    "title": "MED 662 Digital Filmmaking",
+    "req": "<em>Prerequisite: <span data-link='MED461'>MED 461</span> or <span data-link='MED462'>MED 462</span> or <span data-link='MED465'>MED 465</span>.</em>",
+    "desc": "A film-style production class in high-definition digital filmmaking. Students will form small production teams to plan, design, and produce short narrative films. May be taught concurrently with <span data-link='MED562'>MED 562</span>. Cannot receive credit for both <span data-link='MED662'>MED 662</span> and <span data-link='MED562'>MED 562</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MED663": {
+    "course_id": "MED663",
+    "title": "MED 663 Writing Adaptations for Television and Film",
+    "desc": "Study and practice in adapting material for television or film. Plot decisions, character redefinition and story structure will be examined through analysis and application. Students will select a source to adapt and will create a polished outline and selected scenes from original materials during the course. This course will also review the legalities and business issues of public domain rights versus options and licensing. May be taught concurrently with <span data-link='MED463'>MED 463</span>. Cannot receive credit for both <span data-link='MED463'>MED 463</span> and <span data-link='MED663'>MED 663</span>. May be repeated to a total of 6 hours with permission of the instructor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MED664": {
+    "course_id": "MED664",
+    "title": "MED 664 Genre Writing for Television and Film",
+    "desc": "An overview of the expectations and requirements of the various genres, including comedy, mystery, romance, horror, science fiction and fantasy. Students will study the past, present and possible future trends of each genre in the television and film markets. The course will focus on what defines audience expectations. Students will craft characters, plot, dialogue, settings, and themes that are genre specific. May be taught concurrently with <span data-link='MED464'>MED 464</span>. Cannot receive credit for both <span data-link='MED464'>MED 464</span> and <span data-link='MED664'>MED 664</span>. May be repeated to a total of 6 hours with permission of the instructor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MED667": {
+    "course_id": "MED667",
+    "title": "MED 667 Screenwriting",
+    "desc": "Writing the feature film screenplay. Students will study characterization, structure, plot, description, dialogue and format. The course will include screenings and discussions of feature films and their screenplays, and the business of professional screenwriting. Students will create a premise, character biographies, story structure and scene outline as well as generate their first draft of a short film screenplay or the first act of a full-length film for student and instructor critique and feedback. May be taught concurrently with <span data-link='MED565'>MED 565</span>. Cannot receive credit for both <span data-link='MED565'>MED 565</span> and <span data-link='MED667'>MED 667</span>. May be repeated to a total of 6 hours with permission of the instructor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED668": {
+    "course_id": "MED668",
+    "title": "MED 668 Writing the One-Hour Drama Teleplay",
+    "desc": "An in-depth look of the elements of writing for the one-hour television market. The course will include the foundations of story structure and plot, character and conflict, dialogue and setting, and how to apply these elements to storytelling on the small screen. Writing will include development of a story through outline and beat sheets as well as a first and polished draft of an episode of a currently running television series. Students will learn to pitch their ideas effectively to writer-producers. May be taught concurrently with <span data-link='MED566'>MED 566</span>. Cannot receive credit for both <span data-link='MED566'>MED 566</span> and <span data-link='MED668'>MED 668</span>. May be repeated to a total of 6 hours with permission of the instructor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED669": {
+    "course_id": "MED669",
+    "title": "MED 669 Script Rewriting and Marketing",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "An examination of the many phases of rewriting television or feature length screenplays for professional submission. Students will analyze and critique screenplays and teleplays, apply rewriting methods to their scripts for workshopping, create a marketing business plan for submission, and receive feedback. May be taught concurrently with <span data-link='MED567'>MED 567</span>. Cannot receive credit for both <span data-link='MED567'>MED 567</span> and <span data-link='MED669'>MED 669</span>. May be repeated to a total of 6 hours with permission of the instructor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MED670": {
+    "course_id": "MED670",
+    "title": "MED 670 Film Theory",
+    "desc": "An analysis of the art of film by using classical and contemporary film theory to investigate such aspects as the relationship between form and content, visual style, and the nature of pictorial motion. Weekly screenings and discussions of short film excerpts, complete classics and contemporary films. May be taught concurrently with <span data-link='MED570'>MED 570</span>. Cannot receive credit for both <span data-link='MED570'>MED 570</span> and <span data-link='MED670'>MED 670</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MED680": {
+    "course_id": "MED680",
+    "title": "MED 680 Media in Politics",
+    "desc": "An in-depth examination of the role of print and electronic media in American politics. Emphasis is placed on media coverage of government, social issues, and political campaigns. The course examines both the strategies of paid media and the media&apos;s coverage of politics as news. May be taught concurrently with <span data-link='MED580'>MED 580</span>. Cannot receive credit for both <span data-link='MED580'>MED 580</span> and <span data-link='MED680'>MED 680</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MED681": {
+    "course_id": "MED681",
+    "title": "MED 681 Issues in Media Ethics",
+    "desc": "An investigation of fundamental ethical issues and their implications for media practitioners. Responsibilities of media practitioners to the public, advertising agencies, the government, and special interest groups will be examined. Special attention will be paid to the possibility of conflict between the business of media and general ethical considerations. May be taught concurrently with <span data-link='MED581'>MED 581</span>. Cannot receive credit for both <span data-link='MED581'>MED 581</span> and <span data-link='MED681'>MED 681</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED683": {
+    "course_id": "MED683",
+    "title": "MED 683 Advanced Television Production",
+    "req": "<em>Prerequisite: <span data-link='MED383'>MED 383</span>.</em>",
+    "desc": "Principles, skills, and techniques involved in advanced television production. Practical experience in writing, producing, directing and editing non-fiction television content for a video-magazine, news show, and/or promotions. May be taught concurrently with <span data-link='MED583'>MED 583</span>. Cannot receive credit for both <span data-link='MED683'>MED 683</span> and <span data-link='MED583'>MED 583</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MED695": {
+    "course_id": "MED695",
+    "title": "MED 695 Media Internship",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Work experience with a professional media organization. The student will be provided an educational opportunity not available through classroom experience. The instructor must approve all necessary paperwork before the student may begin the internship. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='MED595'>MED 595</span>. Cannot receive credit for both <span data-link='MED595'>MED 595</span> and <span data-link='MED695'>MED 695</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MED697": {
+    "course_id": "MED697",
+    "title": "MED 697 Advanced Studies in Media",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "In-depth examination of a special topic in media. Variable content course. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='MED597'>MED 597</span>. Cannot receive credit for both <span data-link='MED597'>MED 597</span> and <span data-link='MED697'>MED 697</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MED704": {
+    "course_id": "MED704",
+    "title": "MED 704 Theory and Research in Mass Communication",
+    "desc": "Survey of theories, models and research in mass communication. Topics include propaganda, attitude change, agenda setting and media effects research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MED762": {
+    "course_id": "MED762",
+    "title": "MED 762 TV/Film Producing and Marketing",
+    "desc": "An in-depth examination of the producer&apos;s various roles in television and film production. Practical experience with grant writing, script breakdowns, scheduling, budgets, and business plan development will provide the student with an understanding of the various aspects of production and how the development and structure of the script can affect the production&apos;s outcome. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  }
+}

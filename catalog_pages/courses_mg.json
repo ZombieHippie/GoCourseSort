@@ -1,0 +1,900 @@
+{
+  "MGT211": {
+    "course_id": "MGT211",
+    "title": "MGT 211 Talent Management in the Entertainment Industry",
+    "req": "<em>Prerequisite: 45 hours.</em>",
+    "desc": "Introduction to the roles, knowledge, and skills helpful to the development and growth of talent in the entertainment industry. While the primary focus will be on the relationship between the personal manager and the recording artist/group in the music industry, attention will also focus on strategies for expanding opportunities across the entertainment industry. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT286": {
+    "course_id": "MGT286",
+    "title": "MGT 286 Business Communications",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Managerial business communication theory and practice that includes speaking to large groups, interacting within small groups, improving listening skills, composing messages, writing reports based on library research, making ethical decisions, and communicating with other cultures and nationalities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT300": {
+    "course_id": "MGT300",
+    "title": "MGT 300 Service Learning in Management",
+    "req": "<em>Prerequisite: 54 credit hours, concurrent registration in a management course designated as a service learning offering; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in Management to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT310": {
+    "course_id": "MGT310",
+    "title": "MGT 310 Introduction to the Entertainment Industry",
+    "req": "<em>Prerequisite: 54 credit hours; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An introduction to the entertainment industry including facets unique to the field such as managerial roles and organizational structures. Topics will also include an exposure to policies, legal, social, economic, and financial characteristics of this industry. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MGT320": {
+    "course_id": "MGT320",
+    "title": "MGT 320 Patterns of Management",
+    "req": "<em>Prerequisite: 54 hours.</em>",
+    "desc": "A course designed specifically for non-business majors desiring a knowledge of management and its importance and application in various fields. Topical areas include: management functions and problems, decision-making, organizational design, managerial/non-managerial relationships, and management job opportunities. Cannot be taken for credit by students who have previously received credit for <span data-link='MGT340'>MGT 340</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT325": {
+    "course_id": "MGT325",
+    "title": "MGT 325 Fundamentals of Personnel Administration",
+    "req": "<em>Prerequisite: 54 hours.</em>",
+    "desc": "This course is designed for non-business majors. Topics include principles of employee supervision, recruitment, selection, training and development, compensation, labor relations, and separation. This course will be of particular value to managerial, supervisory, administrative, professional, and technical personnel in a variety of organizational settings. Cannot be used to satisfy any requirement for a College of Business major. Cannot be taken for credit by students who have previously received credit for <span data-link='MGT345'>MGT 345</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT340": {
+    "course_id": "MGT340",
+    "title": "MGT 340 Organizational Behavior and Management",
+    "req": "<em>Prerequisite: 54 hours, including <span data-link='PSY121'>PSY 121</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A study of individual, interpersonal, and group behavior within organizations and the behavioral implications of management processes. The interaction of human, technological, structural, global, ethical, and environmental factors are also discussed. A &quot;C&quot; grade or better is required in this course in order to take <span data-link='ACC555'>ACC 555</span>. Cannot be taken Pass/Not Pass. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT341": {
+    "course_id": "MGT341",
+    "title": "MGT 341 Advanced Organization Behavior and Development",
+    "req": "<em>Prerequisite: <span data-link='MGT340'>MGT 340</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An in-depth study of individual and organizational behaviors and processes. Such areas as individual differences, group dynamics, organizational processes, organizational change/development, and culture and ethics will be addressed utilizing a variety of interactive teaching methods. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT342": {
+    "course_id": "MGT342",
+    "title": "MGT 342 Organization Structure and Design",
+    "req": "<em>Prerequisite: <span data-link='MGT340'>MGT 340</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A study of the macro-organization functioning with emphasis on how organization design dimensions interrelate to effect performance. Organization dimensions studied include environment, technology, size, structure, and effectiveness. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT345": {
+    "course_id": "MGT345",
+    "title": "MGT 345 Human Resources Management",
+    "req": "<em>Prerequisite: <span data-link='MGT340'>MGT 340</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A study of the personnel functions of procurement, development, compensation, integration, and the maintenance of human resources within the framework of total available resources used in the accomplishment of organizational goals. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT364": {
+    "course_id": "MGT364",
+    "title": "MGT 364 Operations Management",
+    "req": "<em>Prerequisite: <span data-link='MGT340'>MGT 340</span>; nonbusiness majors <span data-link='QBA237'>QBA 237</span> or equivalent; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Exploration of competitive priorities to improve performance in a variety of business environments. Application of analytical tools to manage processes and projects within and across business functions. Flexible content to reflect trends in the occupational marketplace. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT367": {
+    "course_id": "MGT367",
+    "title": "MGT 367 Purchasing and Supply Management",
+    "req": "<em>Prerequisite: <span data-link='MGT364'>MGT 364</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A study of the processes and problems involved in acquiring and controlling materials and services required for operations management in business, industry, and government. Includes source selection, quality and quantity control, value analysis, and negotiation and legal consideration. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MGT368": {
+    "course_id": "MGT368",
+    "title": "MGT 368 Management Decision Making",
+    "req": "<em>Prerequisite: <span data-link='MGT364'>MGT 364</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Quantitative techniques that aid the manager in making rational decisions. A study of the methods used in evaluating and selecting resources relative to achieving organizational objectives. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT384": {
+    "course_id": "MGT384",
+    "title": "MGT 384 Entrepreneurship",
+    "req": "<em>Prerequisite: <span data-link='ACC201'>ACC 201</span> and <span data-link='MGT340'>MGT 340</span> and <span data-link='MKT350'>MKT 350</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An exposure to the dynamics of identifying opportunities and dealing with the risks of implementing new ideas and ventures. In consultation with the instructor, students assess the viability of real business ventures. Cases are referred through the Small Business Development Center. Emphasis is placed on team preparation and presentation of a feasibility study. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT394": {
+    "course_id": "MGT394",
+    "title": "MGT 394 Cooperative Education in Management",
+    "req": "<em>Prerequisite: acceptance into Cooperative Education Program and permission of department head; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "The opportunity to earn academic credit in a planned learning process that integrates academic training with supervised work experience. This is a variable content course that may be repeated to a total of 6 semester hours in Cooperative Education. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT397": {
+    "course_id": "MGT397",
+    "title": "MGT 397 Business Report Writing",
+    "req": "<em>Prerequisite: <span data-link='MGT286'>MGT 286</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Intensive preparation in the fundamentals of writing various types of business reports. Attention given to methods of and practice in determining the purpose, planning the investigation, collecting and organizing data, interpreting findings, and making oral and written presentations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT398": {
+    "course_id": "MGT398",
+    "title": "MGT 398 Managerial Communication",
+    "req": "<em>Prerequisite: <span data-link='UHC110'>UHC 110</span> and <span data-link='COM115'>COM 115</span> and <span data-link='ENG221'>ENG 221</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Accelerated study of organizational communications theory and practice. Emphasis on international communication and ethics. Individual and small group development of a variety of business documents and presentations. Replaces <span data-link='MGT286'>MGT 286</span> and 397. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MGT400": {
+    "course_id": "MGT400",
+    "title": "MGT 400 Topics in Management",
+    "req": "<em>Prerequisite: <span data-link='MGT340'>MGT 340</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A variable content course with topics that can change from semester to semester depending upon student and faculty interests. Topics generally require previous study in management. Examples: entrepreneurship, federal regulation of personnel management, designing structure for growth organizations, computerization and human resource management, stress and time management, managing not-for-profit organizations, women in management, and management feasibility studies. May be repeated to a total of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT408": {
+    "course_id": "MGT408",
+    "title": "MGT 408 Sponsorships in Entertainment and Sport",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Study of how sponsorship is a symbiotic revenue relationship between a brand and an entertainment/sport property, including reasons for the growth of sponsorship, benefits for brands, and benefits for properties. Other concepts examined include activation, cross-promotion, sponsorship tiers, associative benefits, sponsorship sales, and evaluative techniques for sponsorships. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT410": {
+    "course_id": "MGT410",
+    "title": "MGT 410 Venue Management",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program; Recommended: <span data-link='MGT310'>MGT 310</span>.</em>",
+    "desc": "Study of the management of venues such as convention centers, sports arenas, theme parks, performing arts centers, etc. Topics addressed include technical, financial, legal, risk, contracting, and political implications. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT412": {
+    "course_id": "MGT412",
+    "title": "MGT 412 Managing Events in Entertainment and Sport",
+    "req": "<em>Prerequisite: <span data-link='MGT340'>MGT 340</span> and <span data-link='MGT310'>MGT 310</span>; and undergraduate business majors must be admitted to degree program; others by permission of instructor.</em>",
+    "desc": "Study of the financing, management and marketing processes of various entertainment and sport events. Topics addressed include alignment of events with organizational values and mission; strategic planning of an event; cost/benefit analysis; operational effectiveness; factors involving promotion, audience, partnerships, environment, revenue and cost centers; management of an event&apos;s stakeholder groups; analysis of pre- and post-even activities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Upon demand": true
+    }
+  },
+  "MGT413": {
+    "course_id": "MGT413",
+    "title": "MGT 413 Managing the Sport Enterprise",
+    "req": "<em>Prerequisite: <span data-link='MGT340'>MGT 340</span> and <span data-link='MGT310'>MGT 310</span>; and undergraduate business majors must be admitted to degree program; others by permission of instructor.</em>",
+    "desc": "Study of the distinct nature of the sport business and the application of planning, organizing, leading, and evaluating techniques applied to the operation of sport enterprises. Topics include the unique nature of the sport product; sport financial management principles, including cost sources and revenue streams; and the impact of sport as a social institution on the marketplace. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true,
+      "Upon demand": true
+    }
+  },
+  "MGT440": {
+    "course_id": "MGT440",
+    "title": "MGT 440 Leadership Foundations and Development",
+    "req": "<em>Prerequisite: <span data-link='MGT340'>MGT 340</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "The focus of this course is a comprehensive review of the writings and theories of leadership. Students will evaluate leadership traits and behavior, the effects of reciprocal influences, transformational leadership, the role of power versus authority, followership, and related matters. Focuses on building skills to inspire and organize people to achieve goals. Applications of theory to practice will be emphasized. Includes comprehensive self-assessments, experiential exercises, action learning projects, and individually tailored skill-improvement plans. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MGT441": {
+    "course_id": "MGT441",
+    "title": "MGT 441 Authentic Leadership in Business",
+    "req": "<em>Prerequisite: <span data-link='MGT440'>MGT 440</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This course examines the unique ethical demands of leadership and prepares students to better meet these challenges. Alternative perspectives of leadership and ethics are explored and applied to emergent ethical issues facing organizations. The overall mission of the course is to promote ethical decision-making and authentic leadership in organizations. The course seeks to teach students to recognize and be sensitive to moral issues, to consider such issues from multiple perspectives, to engage in a systematic and transparent analysis of alternatives, and to take individual responsibility for their decisions and ethical conduct. Short cases, videos, news stories, self-assessment, exercises, and readings will be used to stimulate discussion. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MGT442": {
+    "course_id": "MGT442",
+    "title": "MGT 442 Selected Topics in Organizational Behavior",
+    "req": "<em>Prerequisite: <span data-link='MGT340'>MGT 340</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This course will focus on major current and emerging issues in organizational behavior (OB). Issues include topics such as motivation and leadership, communications, stress and wellness programs, group dynamics, etc. A single or selected set of topics will be dealt with in any given offering of the course. Content, research findings, and practical application of major models and theories will be stressed through a variety of approaches intended to maximize student involvement. The course content will vary as demanded by student interest, faculty expertise, and environmental changes. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT447": {
+    "course_id": "MGT447",
+    "title": "MGT 447 International Management",
+    "req": "<em>Prerequisite: <span data-link='MGT340'>MGT 340</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A study of management principles and practices as they relate to the management of international organizations. Emphasis is placed on understanding, analyzing, and integrating managerial concepts within the context of cross-cultural settings. Cannot receive credit for both <span data-link='MGT447'>MGT 447</span> and <span data-link='MGT747'>MGT 747</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT450": {
+    "course_id": "MGT450",
+    "title": "MGT 450 Human Resource Development",
+    "req": "<em>Prerequisite: <span data-link='MGT345'>MGT 345</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "The design, implementation and evaluation of employee development programs. Topics covered include: training needs, analysis, learning theory, training methods, validity, and legal requirements. Specific employee development programs are discussed as they relate to executives, managers, and supervisors in organizations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT451": {
+    "course_id": "MGT451",
+    "title": "MGT 451 Human Resource Acquisition",
+    "req": "<em>Prerequisite: <span data-link='MGT345'>MGT 345</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An in-depth study of the application of Federal and state laws and regulations to HRM practices regarding the acquisition of human resources, appropriate and effective techniques of job analysis, HR planning, recruitment, and a detailed study of techniques and procedures for ensuring valid and effective selection of employees. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT465": {
+    "course_id": "MGT465",
+    "title": "MGT 465 Industrial Relations",
+    "req": "<em>Prerequisite: <span data-link='MGT340'>MGT 340</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A study of environmental and policy considerations involved between management and labor unions in the industrial relations process. Emphasis is placed on the nature, process, and types of collective bargaining relationships; the interface between parties in preserving effective industrial relations within organizations; and promoting economic stability and growth. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT466": {
+    "course_id": "MGT466",
+    "title": "MGT 466 Advanced Issues in Human Resources Management",
+    "req": "<em>Prerequisite: <span data-link='MGT345'>MGT 345</span> and <span data-link='QBA237'>QBA 237</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An in-depth study of practical human resource management issues and the steps involved in the design and implementation of employee selection systems, training programs, and performance appraisal systems. Included are methods of job analysis and the design and utilization of appraisal forms useful to managers. Based on practical considerations, some experiential techniques are used. Recent developments relevant to human resources practices will also be covered. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT467": {
+    "course_id": "MGT467",
+    "title": "MGT 467 Service Operations Management",
+    "req": "<em>Prerequisite: <span data-link='MGT364'>MGT 364</span> and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "The study of operational initiatives and strategic issues to improve service performance. Application of techniques to investigate and resolve problems relative to quality, productivity, and effectiveness in the service firm environment. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MGT486": {
+    "course_id": "MGT486",
+    "title": "MGT 486 Administrative Communication",
+    "req": "<em>Prerequisite: <span data-link='MGT286'>MGT 286</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Analysis of various business problem situations and development of appropriate communication strategies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MGT487": {
+    "course_id": "MGT487",
+    "title": "MGT 487 Strategic Management and Policy",
+    "req": "<em>Prerequisite: 102 credit hours including <span data-link='FIN380'>FIN 380</span> and <span data-link='MKT350'>MKT 350</span> and <span data-link='MGT364'>MGT 364</span> (Marketing majors may substitute <span data-link='MKT450'>MKT 450</span> for <span data-link='MGT364'>MGT 364</span>); and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Integration of specialized areas of business administration; coordination of various business functions from the standpoint of the formulation, implementation and control of business objectives, strategies and policies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT494": {
+    "course_id": "MGT494",
+    "title": "MGT 494 Internship in Management",
+    "req": "<em>Prerequisite: permission of department head and for Entertainment Management majors, completion of <span data-link='MGT310'>MGT 310</span> or <span data-link='MGT410'>MGT 410</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Opportunity to obtain simultaneously the practical as well as the theoretical knowledge through internship with cooperating businesses. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT496": {
+    "course_id": "MGT496",
+    "title": "MGT 496 Readings in Business Administration-Management",
+    "req": "<em>Prerequisite: permission of department head; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Planned readings designed to intensify and supplement the area of management. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT543": {
+    "course_id": "MGT543",
+    "title": "MGT 543 New Venture Management",
+    "req": "<em>Prerequisite: <span data-link='MGT384'>MGT 384</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Students conduct extensive research and in-depth analysis in starting or expanding their own business venture. Major topics include new venture strategy, sources of capital, and growth management. Emphasis is placed on student preparation and presentation of a complete business plan. May be taught concurrently with <span data-link='MGT643'>MGT 643</span>. Cannot receive credit for both <span data-link='MGT643'>MGT 643</span> and <span data-link='MGT543'>MGT 543</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MGT546": {
+    "course_id": "MGT546",
+    "title": "MGT 546 Direct Compensation System Management",
+    "req": "<em>Prerequisite: <span data-link='MGT345'>MGT 345</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Development and management of job-based and individual-based pay systems using job evaluation, skill/competency analysis and certification, wage surveys, and related techniques. The development of performance appraisal systems and the creation of individual-based, team-based, and aggregate performance-based pay systems are studied with emphasis on the strategic aspects of pay, internal consistency, external competitiveness, and legal compliance. May be taught concurrently with <span data-link='MGT646'>MGT 646</span>. Cannot receive credit for both <span data-link='MGT646'>MGT 646</span> and <span data-link='MGT546'>MGT 546</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MGT560": {
+    "course_id": "MGT560",
+    "title": "MGT 560 History of Management Thought",
+    "req": "<em>Prerequisite: <span data-link='MGT340'>MGT 340</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Background and interrelationship of classical, behavioral science, systems and quantitative management schools of thought; works of major contributors to contemporary management concepts, practices and theory. May be taught concurrently with <span data-link='MGT680'>MGT 680</span>. Cannot receive credit for both <span data-link='MGT680'>MGT 680</span> and <span data-link='MGT560'>MGT 560</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT561": {
+    "course_id": "MGT561",
+    "title": "MGT 561 Practicum in Small Business Operations",
+    "req": "<em>Prerequisite: <span data-link='MGT384'>MGT 384</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Students solve real problems within the small business environment. Students gain first-hand experience in assessing and improving the operations of existing entrepreneurial firms. Cases are referred through the Small Business Development Center. May be taught concurrently with <span data-link='MGT671'>MGT 671</span>. Cannot receive credit for both <span data-link='MGT671'>MGT 671</span> and <span data-link='MGT561'>MGT 561</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MGT565": {
+    "course_id": "MGT565",
+    "title": "MGT 565 Advanced OM: Business Process Management",
+    "req": "<em>Prerequisite: <span data-link='MGT364'>MGT 364</span>; and undergraduate majors must be admitted to degree program.</em>",
+    "desc": "An in-depth analysis of business processes from an operations perspective. Study of specific practices and tools to design, improve, and support these processes in a variety of organizational settings. Use of professional BPM software is emphasized. May be taught concurrently with <span data-link='MGT675'>MGT 675</span>. Cannot receive credit for both <span data-link='MGT675'>MGT 675</span> and <span data-link='MGT565'>MGT 565</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MGT567": {
+    "course_id": "MGT567",
+    "title": "MGT 567 Practicum in Operations",
+    "req": "<em>Prerequisite: <span data-link='MGT364'>MGT 364</span>; and one of the following: <span data-link='MGT367'>MGT 367</span>, <span data-link='MGT368'>MGT 368</span> (or equivalent), <span data-link='MGT467'>MGT 467</span>, <span data-link='MGT565'>MGT 565</span> or <span data-link='MGT611'>MGT 611</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Real-life experience in applying operational techniques to business and non-profit organizations. Students interests are matched to needs of local organizations to create hands-on projects. May be taught concurrently with <span data-link='MGT677'>MGT 677</span>. Cannot receive credit for both <span data-link='MGT677'>MGT 677</span> and <span data-link='MGT567'>MGT 567</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MGT596": {
+    "course_id": "MGT596",
+    "title": "MGT 596 Research Issues and Problems: Management",
+    "req": "<em>Prerequisite: 90 hours; and permission of department head; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Research issues and projects growing from particular needs which may require additional depth or breadth of study. Outline of study must be approved prior to enrolling. Undergraduates only may repeat to a total of 6 hours. May be taught concurrently with <span data-link='MGT697'>MGT 697</span>. Cannot receive credit for both <span data-link='MGT697'>MGT 697</span> and <span data-link='MGT596'>MGT 596</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT600": {
+    "course_id": "MGT600",
+    "title": "MGT 600 Administrative, Organizational and Operations Concepts for Managers",
+    "req": "<em>Prerequisite: permission of a director of a College of Business graduate program.</em>",
+    "desc": "Comprehensive study of the fundamentals of the management function, organizational behavior and design, and production and operations management. Designed for graduate students who have not had undergraduate courses in management or organizational behavior and operations management. This course will not be counted in the hours required for a College of Business graduate degree. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT643": {
+    "course_id": "MGT643",
+    "title": "MGT 643 New Venture Management",
+    "desc": "Students conduct extensive research and in-depth analysis in starting or expanding their own business venture. Major topics include new venture strategy, sources of capital, and growth management. Emphasis is placed on student preparation and presentation of a complete business plan. May be taught concurrently with <span data-link='MGT543'>MGT 543</span>. Cannot receive credit for both <span data-link='MGT543'>MGT 543</span> and <span data-link='MGT643'>MGT 643</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MGT646": {
+    "course_id": "MGT646",
+    "title": "MGT 646 Direct Compensation System Management",
+    "desc": "Development and management of job-based and individual-based pay systems using job evaluation, skill/competency analysis and certification, wage surveys, and related techniques. The development of performance appraisal systems and the creation of individual-based, team-based, and aggregate performance-based pay systems are studied with emphasis on the strategic aspects of pay, internal consistency, external competitiveness, and legal compliance. May be taught concurrently with <span data-link='MGT546'>MGT 546</span>. Cannot receive credit for both <span data-link='MGT546'>MGT 546</span> and <span data-link='MGT646'>MGT 646</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MGT671": {
+    "course_id": "MGT671",
+    "title": "MGT 671 Practicum in Small Business Operations",
+    "desc": "Students solve real problems within the small business environment. Students gain first-hand experience in assessing and improving the operations of existing entrepreneurial firms. Cases are referred through the Small Business Development Center. May be taught concurrently with <span data-link='MGT561'>MGT 561</span>. Cannot receive credit for both <span data-link='MGT561'>MGT 561</span> and <span data-link='MGT671'>MGT 671</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MGT675": {
+    "course_id": "MGT675",
+    "title": "MGT 675 Advanced OM: Business Process Management",
+    "desc": "An in-depth analysis of business processes from an operations perspective. Study of specific practices and tools to design, improve, and support these processes in a variety of organizational settings. Use of professional BPM software is emphasized. May be taught concurrently with <span data-link='MGT565'>MGT 565</span>. Cannot receive credit for both <span data-link='MGT565'>MGT 565</span> and <span data-link='MGT675'>MGT 675</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MGT677": {
+    "course_id": "MGT677",
+    "title": "MGT 677 Practicum in Operations",
+    "req": "<em>Prerequisite: <span data-link='MGT600'>MGT 600</span>.</em>",
+    "desc": "Real-life experience in applying operational techniques to business and non-profit organizations. Students interests are matched to needs of local organizations to create hands-on projects. May be taught concurrently with <span data-link='MGT567'>MGT 567</span>. Cannot receive credit for both <span data-link='MGT567'>MGT 567</span> and <span data-link='MGT677'>MGT 677</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MGT680": {
+    "course_id": "MGT680",
+    "title": "MGT 680 History of Management Thought",
+    "desc": "Background and interrelationship of classical, behavioral science, systems and quantitative management schools of thought; works of major contributors to contemporary management concepts, practices and theory. May be taught concurrently with <span data-link='MGT560'>MGT 560</span>. Cannot receive credit for both <span data-link='MGT560'>MGT 560</span> and <span data-link='MGT680'>MGT 680</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT697": {
+    "course_id": "MGT697",
+    "title": "MGT 697 Research Issues and Problems: Management",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Research issues and projects growing from particular needs which may require additional depth or breadth of study. Outline of study must be approved prior to enrolling. May be taught concurrently with <span data-link='MGT596'>MGT 596</span>. Cannot receive credit for both <span data-link='MGT596'>MGT 596</span> and <span data-link='MGT697'>MGT 697</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT701": {
+    "course_id": "MGT701",
+    "title": "MGT 701 Health Services Organization",
+    "desc": "Introduction to the health services delivery system. Analysis of the organizing, financing, and distribution of health services. Alternate delivery systems such as hospitals, acute care facilities, long-term facilities, prepaid practices, fee-for-services group practices and others are examined. Forces shaping present and future health care are evaluated. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT702": {
+    "course_id": "MGT702",
+    "title": "MGT 702 Managing Healthcare Organizations",
+    "req": "<em>Prerequisite: <span data-link='MGT701'>MGT 701</span> or permission of instructor.</em>",
+    "desc": "A broad overview of techniques and practices applied to managing healthcare provider organizations at levels including governing board; professional staff; executive offices; and operational systems that deliver acute care, rehabilitation, diagnosis, therapy, ambulatory care, clinical information, clinical support, patient access, facilities and nutrition services. Organizational settings will include hospitals; physician practices; integrated health systems; rehabilitation and sub-acute facilities; behavioral medicine; long-term care; hospice; and home health. Course format will include a series of guest presentations from actively practicing, senior healthcare executives, along with visits to healthcare organizations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MGT703": {
+    "course_id": "MGT703",
+    "title": "MGT 703 Organizational Behavior in Healthcare Organizations",
+    "req": "<em>Prerequisite: <span data-link='MGT600'>MGT 600</span> or equivalent.</em>",
+    "desc": "The course will involve the study of individual and group behavior viewed from a leadership perspective within a healthcare organization with specific emphasis on leadership styles, ethics, motivational techniques, conflict resolution and professional norms in relationship to the various healthcare stakeholders and providers. Attention is focused on organizational dynamics, culture and governance of the different business entities involved in the delivery of healthcare services. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MGT704": {
+    "course_id": "MGT704",
+    "title": "MGT 704 Human Resources in Healthcare Organizations",
+    "req": "<em>Prerequisite: <span data-link='MGT600'>MGT 600</span> or equivalent.</em>",
+    "desc": "Integration of human resources management into the strategic and operational decision-making processes of a contemporary healthcare organization. Functional topics include HR strategic planning, HR legal environment, direct and indirect compensation strategies, recruitment/selection/retention, workforce planning, job design and analysis, performance management, productivity analysis, workforce development/training, employee/labor and stakeholder relations and safety/health considerations. Particular consideration for HR concepts related to clinical professionals and physicians. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MGT705": {
+    "course_id": "MGT705",
+    "title": "MGT 705 Strategic Management of Healthcare Organizations",
+    "req": "<em>Prerequisite: 18 graduate hours in health administration, including <span data-link='FIN788'>FIN 788</span>.</em>",
+    "desc": "Integration of the functional areas of healthcare organizations via the strategic planning process. Emphasis is placed upon the identification of major strategic processes for healthcare organizations as well as policy issues related to the current and anticipated future healthcare environment. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MGT706": {
+    "course_id": "MGT706",
+    "title": "MGT 706 Organizational Communication",
+    "desc": "Intensive study of communication behavior within various types of business organizations; provides student opportunities to develop communication skills further and to apply one&apos;s capacity to use effective organizational communication concepts through written and oral presentations. Emphasis upon the study of oral communication within business. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MGT711": {
+    "course_id": "MGT711",
+    "title": "MGT 711 Measurement and Management of Quality in Health Care",
+    "req": "<em>Prerequisite: <span data-link='MGT600'>MGT 600</span> and <span data-link='QBA600'>QBA 600</span>.</em>",
+    "desc": "Design, implementation, and management of health quality systems. Major emphasis placed on controlling health care costs through a reduction of waste and defects. Exposure to a variety of quality tools and quantitative techniques aimed at measuring performance and fostering continuous improvement. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT747": {
+    "course_id": "MGT747",
+    "title": "MGT 747 International Management",
+    "req": "<em>Prerequisite: admission to the MBA program or permission from the MBA Program Director; and <span data-link='MGT600'>MGT 600</span> or equivalent.</em>",
+    "desc": "A study of management theory and practices as related to international organizations that are multinational in nature. Emphasis is placed on analyzing, understanding, and integrating managerial concepts as they apply to cross-cultural settings. Students are required to complete a research project. Cannot receive credit for both <span data-link='MGT447'>MGT 447</span> and <span data-link='MGT747'>MGT 747</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT760": {
+    "course_id": "MGT760",
+    "title": "MGT 760 Selected Topics in Management",
+    "desc": "Variable topics course in Management. Areas studied will be announced each semester in the class schedule. Course requirements include extensive readings, a paper, and, when appropriate, field trips. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT761": {
+    "course_id": "MGT761",
+    "title": "MGT 761 Operations Management: Comparative Theory and Practice",
+    "desc": "Advanced study of the operations function in organizations. Emphasis is placed on operations management, planning and controlling techniques as they apply to all types of domestic and international organizations. Cost output-profit decisional techniques and productivity issues are studied as they relate to managerial goals, environmental conditions, and economic developments. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT762": {
+    "course_id": "MGT762",
+    "title": "MGT 762 Problems in Human Resources Management and Industrial Relations",
+    "req": "<em>Prerequisite: <span data-link='MGT600'>MGT 600</span> or equivalent.</em>",
+    "desc": "Intensive examination of the institutional, legal, and policy considerations of the parties involved in human resources management and labor relations with an emphasis on current issues. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT764": {
+    "course_id": "MGT764",
+    "title": "MGT 764 Organizational Behavior",
+    "req": "<em>Prerequisite: admission to the MBA program or permission from the MBA Program Director; and <span data-link='MGT600'>MGT 600</span> or equivalent.</em>",
+    "desc": "Study of individual and group behavior viewed from a managerial perspective within the organizational setting. Attention is focused on applications by managers of theory and research about the interaction between human beings and the formal organization, with emphasis on individual differences, interpersonal relations, and small group dynamics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT765": {
+    "course_id": "MGT765",
+    "title": "MGT 765 Organization Structure and Design",
+    "desc": "An intensive macro approach to the study of the organization with emphasis on the interrelationships of organizational dimensions as they interact to effect organization design. Topics covered include environment, technology, work flows, structure, size, power, objectives, managerial philosophies, and effectiveness. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT767": {
+    "course_id": "MGT767",
+    "title": "MGT 767 Organization Strategy and Policy",
+    "req": "<em>Prerequisite: admission to the MBA program or permission from the MBA Program Director; 18 graduate hours in business administration and economics at the 700 level, including <span data-link='FIN780'>FIN 780</span> and <span data-link='MKT772'>MKT 772</span>.</em>",
+    "desc": "Integration of the functional areas of business via the strategic planning process. Emphasis is placed upon the formulation, implementation, and control of an organization&apos;s mission, objectives, strategies, and policies as determined by external and internal analyses. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT770": {
+    "course_id": "MGT770",
+    "title": "MGT 770 Leadership Development",
+    "req": "<em>Prerequisite: <span data-link='MGT764'>MGT 764</span>.</em>",
+    "desc": "Comprehensive review of the writings and theories of leadership. Focuses on building skills to inspire and organize people to achieve tangible results. Comprehensive self-assessments, experiential exercises, action learning projects, and individually tailored skill-improvement plans. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT790": {
+    "course_id": "MGT790",
+    "title": "MGT 790 Seminar in Management",
+    "req": "<em>Prerequisite: 15 hours of graduate business administration courses and permission from the MBA Program Director.</em>",
+    "desc": "Critical evaluation and analysis of theory, research and practice in management. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MGT794": {
+    "course_id": "MGT794",
+    "title": "MGT 794 Internship: Management",
+    "req": "<em>Prerequisite: permission of the director of the appropriate graduate program and department head.</em>",
+    "desc": "In consultation with the coordinating professor, the student is engaged in first-hand experience with a business, organization, or other professional entity. A portfolio of assigned work shall be collected, examined and evaluated during the semester. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MGT796": {
+    "course_id": "MGT796",
+    "title": "MGT 796 Independent Study: Business Administration",
+    "req": "<em>Prerequisite: permission of advisor.</em>",
+    "desc": "In consultation with the advisor, student selects for intensive study a specific area of concern related to the student&apos;s program with emphasis on research. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MGT799": {
+    "course_id": "MGT799",
+    "title": "MGT 799 Thesis",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Independent research and study connected with preparation of thesis. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

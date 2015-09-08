@@ -1,0 +1,1556 @@
+{
+  "BSE493": {
+    "course_id": "BSE493",
+    "title": "BSE 493 Supervised Teaching (Secondary Business)",
+    "req": "<em>Prerequisite: completion of all methods courses in Business; a grade of &quot;C&quot; or better in all professional education courses; current pre-professional liability insurance; and approval for supervised teaching.</em>",
+    "desc": "Student observes then teaches business classes under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BSE494": {
+    "course_id": "BSE494",
+    "title": "BSE 494 Supervised Teaching (Secondary Business)",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BSE493'>BSE 493</span>.</em>",
+    "desc": "Student observes then teaches under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. The course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BSE499": {
+    "course_id": "BSE499",
+    "title": "BSE 499 Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate masters-level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BSE503": {
+    "course_id": "BSE503",
+    "title": "BSE 503 Teaching of Business",
+    "req": "<em>Prerequisite: <span data-link='EDC350'>EDC 350</span>; and <span data-link='ACC211'>ACC 211</span> or <span data-link='ACC206'>ACC 206</span>; and admitted to Teacher Education Program; and 70 hours; and approved major or minor in business.</em>",
+    "desc": "Development of a philosophy for and about business education; study of relevant legislation; study of methods of teaching selected business subjects including use of research-based readings, observation, and microteaching. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='BSE493'>BSE 493</span> or <span data-link='BSE494'>BSE 494</span>. Cannot be taken Pass/Not Pass. May be taught concurrently with <span data-link='BSE603'>BSE 603</span>. Cannot receive credit for both <span data-link='BSE603'>BSE 603</span> and <span data-link='BSE503'>BSE 503</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BSE509": {
+    "course_id": "BSE509",
+    "title": "BSE 509 Business Education Workshop",
+    "desc": "Development and promotion of desirable programs in business education. Each workshop emphasizes a single topic. May be repeated for a maximum of 5 hours when topic varies. May be taught concurrently with <span data-link='BSE609'>BSE 609</span>. Cannot receive credit for both <span data-link='BSE609'>BSE 609</span> and <span data-link='BSE509'>BSE 509</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE520": {
+    "course_id": "BSE520",
+    "title": "BSE 520 Occupational Analysis",
+    "req": "<em>Prerequisite: teacher certification student.</em>",
+    "desc": "Analysis and breakdown of broad occupations or specific jobs into basic elements for instructional purposes. Identical with <span data-link='AGV520'>AGV 520</span>. May be repeated to a total of 2 hours when topic varies. May be taught concurrently with <span data-link='BSE620'>BSE 620</span>. Cannot receive credit for both <span data-link='BSE620'>BSE 620</span> and <span data-link='BSE520'>BSE 520</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE522": {
+    "course_id": "BSE522",
+    "title": "BSE 522 Philosophy of Vocational Education",
+    "desc": "Philosophical foundations of vocational education; philosophies of vocational education in the contemporary school. Meets Missouri Vocational Education certification requirements. Identical with <span data-link='AGV522'>AGV 522</span> and <span data-link='SEC522'>SEC 522</span>. May be repeated to a total of 3 hours when topic varies. May be taught concurrently with <span data-link='BSE622'>BSE 622</span>. Cannot receive credit for both <span data-link='BSE622'>BSE 622</span> and <span data-link='BSE522'>BSE 522</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE523": {
+    "course_id": "BSE523",
+    "title": "BSE 523 Guidance for Vocational Development",
+    "req": "<em>Prerequisite: teacher certification student.</em>",
+    "desc": "Materials, procedures, and problems in guidance of individuals in the selection of, preparation for, and advancement in a vocation. Identical with <span data-link='AGV523'>AGV 523</span>. May be repeated to a total of 3 hours when topic varies. May be taught concurrently with <span data-link='BSE623'>BSE 623</span>. Cannot receive credit for both <span data-link='BSE623'>BSE 623</span> and <span data-link='BSE523'>BSE 523</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE524": {
+    "course_id": "BSE524",
+    "title": "BSE 524 Implementing Vocational Business Education Programs",
+    "req": "<em>Prerequisite: teacher certification student.</em>",
+    "desc": "Problems; procedures; and local, state and federal relationships in the implementation and administration of vocational business education in the contemporary school. May be taught concurrently with <span data-link='BSE624'>BSE 624</span>. Cannot receive credit for both <span data-link='BSE624'>BSE 624</span> and <span data-link='BSE524'>BSE 524</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE526": {
+    "course_id": "BSE526",
+    "title": "BSE 526 Coordination of Cooperative Education",
+    "req": "<em>Prerequisite: teacher certification student.</em>",
+    "desc": "Problems and procedures in organizing and operating part-time cooperative and evening occupation programs. Restricted to those who can qualify as coordinators. Identical with <span data-link='AGV526'>AGV 526</span> and <span data-link='SEC526'>SEC 526</span>. May be repeated to a total of 2 hours when topic varies. May be taught concurrently with <span data-link='BSE626'>BSE 626</span>. Cannot receive credit for both <span data-link='BSE626'>BSE 626</span> and <span data-link='BSE526'>BSE 526</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE528": {
+    "course_id": "BSE528",
+    "title": "BSE 528 Measurement and Evaluation of Vocational Education Programs",
+    "req": "<em>Prerequisite: teacher certification student.</em>",
+    "desc": "Assessing specific program needs as determined from occupational surveys and other demographic data; follow-up techniques to evaluate the overall effectiveness of the program on manpower needs in a given labor market area. Identical with <span data-link='AGV528'>AGV 528</span> and <span data-link='SEC528'>SEC 528</span>. May be repeated to a total of 3 hours when topic varies. May be taught concurrently with <span data-link='BSE628'>BSE 628</span>. Cannot receive credit for both <span data-link='BSE628'>BSE 628</span> and <span data-link='BSE528'>BSE 528</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE540": {
+    "course_id": "BSE540",
+    "title": "BSE 540 Curriculum Development for Business Education",
+    "req": "<em>Prerequisite: admitted to Teacher Education Program.</em>",
+    "desc": "Major emphasis given to curriculum development in business courses. Selected topics include teaching basic business courses; developing course objectives, content, and evaluative strategies; sponsoring youth organizations; selecting equipment. May be taught concurrently with <span data-link='BSE640'>BSE 640</span>. Cannot receive credit for both <span data-link='BSE640'>BSE 640</span> and <span data-link='BSE540'>BSE 540</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BSE596": {
+    "course_id": "BSE596",
+    "title": "BSE 596 Problems in Business Education",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Technical or professional problems growing from particular needs that may require additional depth or breadth of study. Outline of study must be approved prior to enrolling. May be repeated to a total of 3 hours when topic varies. May be taught concurrently with <span data-link='BSE696'>BSE 696</span>. Cannot receive credit for both <span data-link='BSE696'>BSE 696</span> and <span data-link='BSE596'>BSE 596</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BSE603": {
+    "course_id": "BSE603",
+    "title": "BSE 603 Teaching of Business",
+    "req": "<em>Prerequisite: <span data-link='EDC350'>EDC 350</span>; and <span data-link='ACC211'>ACC 211</span> or <span data-link='ACC206'>ACC 206</span>; and Teacher Certification students must be admitted to teacher education program; and approved major in business; or permission of department head.</em>",
+    "desc": "Development of a philosophy for and about business education; study of relevant legislation; study of methods of teaching selected business subjects including use of research-based readings, observation, and microteaching. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='BSE493'>BSE 493</span> or <span data-link='BSE494'>BSE 494</span>. May be taught concurrently with <span data-link='BSE503'>BSE 503</span>. Cannot receive credit for both <span data-link='BSE503'>BSE 503</span> and <span data-link='BSE603'>BSE 603</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BSE609": {
+    "course_id": "BSE609",
+    "title": "BSE 609 Business Education Workshop",
+    "desc": "Development and promotion of desirable programs in business education. Each workshop emphasizes a single topic. May be repeated for a maximum of 5 hours when topic varies. May be taught concurrently with <span data-link='BSE509'>BSE 509</span>. Cannot receive credit for both <span data-link='BSE509'>BSE 509</span> and <span data-link='BSE609'>BSE 609</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE620": {
+    "course_id": "BSE620",
+    "title": "BSE 620 Occupational Analysis",
+    "req": "<em>Prerequisite: teacher certification student.</em>",
+    "desc": "Analysis and breakdown of broad occupations or specific jobs into basic elements for instructional purposes. Identical with <span data-link='AGV620'>AGV 620</span>. May be repeated to a total of 2 hours when topic varies. May be taught concurrently with <span data-link='BSE520'>BSE 520</span>. Cannot receive credit for both <span data-link='BSE520'>BSE 520</span> and <span data-link='BSE620'>BSE 620</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE622": {
+    "course_id": "BSE622",
+    "title": "BSE 622 Philosophy of Vocational Education",
+    "desc": "Philosophical foundations of vocational education; philosophies of vocational education in the contemporary school. Meets Missouri Vocational Education certification requirements. Identical with <span data-link='AGV622'>AGV 622</span> and <span data-link='SEC622'>SEC 622</span>. May be repeated to a total of 3 hours when topic varies. May be taught concurrently with <span data-link='BSE522'>BSE 522</span>. Cannot receive credit for both <span data-link='BSE522'>BSE 522</span> and <span data-link='BSE622'>BSE 622</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE623": {
+    "course_id": "BSE623",
+    "title": "BSE 623 Guidance for Vocational Development",
+    "req": "<em>Prerequisite: teacher certification student.</em>",
+    "desc": "Materials, procedures, and problems in guidance of individuals in the selection of, preparation for, and advancement in a vocation. Identical with <span data-link='AGV623'>AGV 623</span>. May be repeated to a total of 3 hours when topic varies. May be taught concurrently with <span data-link='BSE523'>BSE 523</span>. Cannot receive credit for both <span data-link='BSE523'>BSE 523</span> and <span data-link='BSE623'>BSE 623</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE624": {
+    "course_id": "BSE624",
+    "title": "BSE 624 Implementing Vocational Business Education Programs",
+    "req": "<em>Prerequisite: teacher certification student.</em>",
+    "desc": "Problems; procedures; and local, state and federal relationships in the implementation and administration of vocational business education in the contemporary school. May be taught concurrently with <span data-link='BSE524'>BSE 524</span>. Cannot receive credit for both <span data-link='BSE524'>BSE 524</span> and <span data-link='BSE624'>BSE 624</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE626": {
+    "course_id": "BSE626",
+    "title": "BSE 626 Coordination of Cooperative Education",
+    "req": "<em>Prerequisite: teacher certification student.</em>",
+    "desc": "Problems and procedures in organizing and operating part-time cooperative and evening occupation programs. Restricted to those who can qualify as coordinators. Identical with <span data-link='AGV626'>AGV 626</span> and <span data-link='SEC626'>SEC 626</span>. May be repeated to a total of 2 hours when topic varies. May be taught concurrently with <span data-link='BSE526'>BSE 526</span>. Cannot receive credit for both <span data-link='BSE526'>BSE 526</span> and <span data-link='BSE626'>BSE 626</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE628": {
+    "course_id": "BSE628",
+    "title": "BSE 628 Measurement and Evaluation of Vocational Education Programs",
+    "req": "<em>Prerequisite: teacher certification student.</em>",
+    "desc": "Assessing specific program needs as determined from occupational surveys and other demographic data; follow-up techniques to evaluate the overall effectiveness of the program on manpower needs in a given labor market area. Identical with <span data-link='AGV628'>AGV 628</span> and <span data-link='SEC628'>SEC 628</span>. May be repeated to a total of 3 hours when topic varies. May be taught concurrently with <span data-link='BSE528'>BSE 528</span>. Cannot receive credit for <span data-link='BSE528'>BSE 528</span> and <span data-link='BSE628'>BSE 628</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE640": {
+    "course_id": "BSE640",
+    "title": "BSE 640 Curriculum Development for Business Education",
+    "req": "<em>Prerequisite: teacher certification student must be admitted to Teacher Education Program.</em>",
+    "desc": "Major emphasis given to curriculum development in business courses. Selected topics include teaching basic business courses; developing course objectives, content, and evaluative strategies; sponsoring youth organizations; selecting equipment. May be taught concurrently with <span data-link='BSE540'>BSE 540</span>. Cannot receive credit for both <span data-link='BSE540'>BSE 540</span> and <span data-link='BSE640'>BSE 640</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BSE696": {
+    "course_id": "BSE696",
+    "title": "BSE 696 Problems in Business Education",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Technical or professional problems growing from particular needs that may require additional depth or breadth of study. Outline of study must be approved prior to enrolling. May be repeated to a total of 3 hours when topic varies. May be taught concurrently with <span data-link='BSE596'>BSE 596</span>. Cannot receive credit for both <span data-link='BSE596'>BSE 596</span> and <span data-link='BSE696'>BSE 696</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BSE705": {
+    "course_id": "BSE705",
+    "title": "BSE 705 Curriculum Construction in Business Education",
+    "desc": "Objectives and interrelationships of business education courses and programs. Development of curricular materials and evaluative devices. Identical with <span data-link='SEC705'>SEC 705</span>. May be repeated to a total of 3 hours when topic varies. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE710": {
+    "course_id": "BSE710",
+    "title": "BSE 710 Improvement of Instruction in Business Education",
+    "desc": "Current developments and trends in teaching business subjects; new developments in resources, methods, and techniques. May be repeated to a total of 3 hours when topic varies. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BSE730": {
+    "course_id": "BSE730",
+    "title": "BSE 730 Research Seminar in Business Education",
+    "desc": "Critical interpretation and evaluations of research in business education. Individualized assistance provided in the development of an extensive research paper to satisfy the requirement for Research Option II. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS101": {
+    "course_id": "CIS101",
+    "title": "CIS 101 Computers for Learning",
+    "desc": "Fundamental computer concepts including word processing spreadsheets, assessing information and the responsible use of information and technology. Course may be waived by proficiency exam. Identical with <span data-link='CSC101'>CSC 101</span>. Cannot receive credit for both <span data-link='CIS101'>CIS 101</span> and <span data-link='CSC101'>CSC 101</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS195": {
+    "course_id": "CIS195",
+    "title": "CIS 195 Introduction to Desktop Publishing",
+    "desc": "Introduction to desktop publishing concepts and applications. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CIS197": {
+    "course_id": "CIS197",
+    "title": "CIS 197 Topics in Computer Information Systems",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Study of topics in Computer Information Systems. May be repeated as topics change to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS200": {
+    "course_id": "CIS200",
+    "title": "CIS 200 Critical and Creative Thinking Using Information Technology",
+    "req": "<em>Prerequisite: 12 hours. General Education Course (Focus on Public Issues).</em>",
+    "desc": "Students learn and apply techniques that support critical and creative thinking when solving individual and public policy problems using information technology. Case studies with applied, real-world examples are used throughout. Instructional methods include lecture, discussion, demonstration, guided practice, and technology-supported collaboration. Course sections are offered via online, blended, and traditional modalities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS201": {
+    "course_id": "CIS201",
+    "title": "CIS 201 Computer Applications for Business",
+    "desc": "A study of the use and applications of computer information systems concepts in business and public organizations. The course emphasizes the use of spreadsheet software to plan, analyze, design, develop and test business solutions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS202": {
+    "course_id": "CIS202",
+    "title": "CIS 202 Program Design and Development",
+    "desc": "A study of structured program design, concepts and techniques related to the development of computer programs with an emphasis on business applications. A high level language is used to implement the design concepts and techniques. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS205": {
+    "course_id": "CIS205",
+    "title": "CIS 205 Web Site Design and Development",
+    "desc": "A study of the design and development of web sites using HTML editors (such as Microsoft FrontPage or Macromedia Dreamweaver). Graphics packages and multimedia packages. The student will learn to create and deploy professional-grade web sites. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS223": {
+    "course_id": "CIS223",
+    "title": "CIS 223 Introduction to COBOL Programming",
+    "req": "<em>Prerequisite: <span data-link='CIS202'>CIS 202</span>.</em>",
+    "desc": "Introduction to COBOL (Common Business Oriented Language) programming to process business data. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS224": {
+    "course_id": "CIS224",
+    "title": "CIS 224 Windows Programming with Development Tools",
+    "req": "<em>Prerequisite: <span data-link='CIS202'>CIS 202</span>.</em>",
+    "desc": "An introduction to development of computer applications using rapid developmental tools such as Visual Basic. Emphasis on designing and managing graphical user interfaces, procedures, file management, debugging, and testing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS229": {
+    "course_id": "CIS229",
+    "title": "CIS 229 Fundamentals of Computer Information Systems",
+    "desc": "Fundamentals of computer hardware, operating systems, networking, security, and trouble shooting. This course follows the CompTIA A+ curriculum. Cannot receive credit for both <span data-link='CIS229'>CIS 229</span> and <span data-link='CIS230'>CIS 230</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS230": {
+    "course_id": "CIS230",
+    "title": "CIS 230 Computer Hardware, Operating Systems, and Networking",
+    "desc": "A study of computer hardware and operating system software as it relates to the IT professional. Computer networking is introduced. Cannot receive credit for both <span data-link='CIS229'>CIS 229</span> and <span data-link='CIS230'>CIS 230</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS260": {
+    "course_id": "CIS260",
+    "title": "CIS 260 Application Development I",
+    "desc": "Introduction to the key concepts of object technology and the fundamentals of the Java programming language. Projects using Java involve the development of elementary applications and applets. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS270": {
+    "course_id": "CIS270",
+    "title": "CIS 270 Application Development II",
+    "req": "<em>Prerequisite: <span data-link='CIS260'>CIS 260</span>.</em>",
+    "desc": "This course is a continuation of the study of object technology and the Java programming language. Projects using Java involve the development of standalone and web based applets. Topics include Swing, layout managers, event handling, exception handling, inheritance, arrays, graphics, and file I/O. An introduction to HTML is covered to support web server based applets. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS281": {
+    "course_id": "CIS281",
+    "title": "CIS 281 Introduction to IT Service Management",
+    "req": "<em>Prerequisite: <span data-link='CIS230'>CIS 230</span> or concurrent enrollment.</em>",
+    "desc": "Introduction to the field of Information Technology (IT) Service Management. IT Service Management provides for the effective and efficient delivery of IT services in support of changing business needs. Topics include technical infrastructure, service operations, service support, and service delivery. Cannot receive credit for both <span data-link='CIS281'>CIS 281</span> and <span data-link='CIS581'>CIS 581</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CIS290": {
+    "course_id": "CIS290",
+    "title": "CIS 290 Advanced Microcomputer Applications",
+    "desc": "Emphasis on problem-solving activities using advanced applications such as word processing, desktop publishing, database, graphics, and multimedia. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS294": {
+    "course_id": "CIS294",
+    "title": "CIS 294 Internship in Computer Information Systems",
+    "req": "<em>Prerequisite: permission of advisor.</em>",
+    "desc": "Work-study program with cooperating employers in appropriate office situations to include a broad range of relevant on-the-job experiences. May be repeated to a total of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS316": {
+    "course_id": "CIS316",
+    "title": "CIS 316 Computer Programming in RPG",
+    "req": "<em>Prerequisite: <span data-link='CIS270'>CIS 270</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Solving business-oriented problems using RPG (Report Program Generator) programming language. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS320": {
+    "course_id": "CIS320",
+    "title": "CIS 320 Survey of Computer Languages",
+    "req": "<em>Prerequisite: <span data-link='CIS223'>CIS 223</span> or <span data-link='CIS224'>CIS 224</span> or <span data-link='CIS260'>CIS 260</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A survey of computer languages used for business applications with emphasis on teaching high level languages currently not being taught in other CIS courses. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS321": {
+    "course_id": "CIS321",
+    "title": "CIS 321 Information Systems Analysis and Design",
+    "req": "<em>Prerequisite: <span data-link='CIS260'>CIS 260</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A study of the analysis and design of computer information systems emphasizing UML and agile development. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS323": {
+    "course_id": "CIS323",
+    "title": "CIS 323 Advanced COBOL Programming Techniques",
+    "req": "<em>Prerequisite: <span data-link='CIS270'>CIS 270</span> and <span data-link='CIS321'>CIS 321</span> and <span data-link='CIS326'>CIS 326</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Methods and techniques of programming for applications in the solution of business problems, using COBOL. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS326": {
+    "course_id": "CIS326",
+    "title": "CIS 326 Database Management Systems Concepts and Design",
+    "req": "<em>Prerequisite: <span data-link='CIS260'>CIS 260</span> or concurrent enrollment; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Study of database management concepts and techniques. Emphasis on data modeling using various data models such as semantic object, entity-relationship, relational, hierarchical, and network. Discussion and application of SQL to develop and query databases. Additional topics include database administration, study of micro and mainframe DBMS such as SQL/DS (DB2), client-server database environment, and distributed databases. Completion of a major study project is required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CIS329": {
+    "course_id": "CIS329",
+    "title": "CIS 329 Linux Essentials",
+    "req": "<em>Prerequisite: <span data-link='CIS229'>CIS 229</span> or <span data-link='CIS230'>CIS 230</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Essentials of the Linux operating system including system navigation, the command line, file system, security, and open source software. This course follows the Linux Professional Institute&apos;s Linux Essentials curriculum. Cannot receive credit for both <span data-link='CIS329'>CIS 329</span> and <span data-link='CIS330'>CIS 330</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS330": {
+    "course_id": "CIS330",
+    "title": "CIS 330 Linux System Administration and Basic Shell Scripting",
+    "req": "<em>Prerequisite: <span data-link='CIS230'>CIS 230</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A continuation of <span data-link='CIS230'>CIS 230</span> emphasizing advanced computer networking, Linux system administration, and shell scripting. Cannot receive credit for both <span data-link='CIS329'>CIS 329</span> and <span data-link='CIS330'>CIS 330</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS334": {
+    "course_id": "CIS334",
+    "title": "CIS 334 Advanced Windows Applications Programming",
+    "req": "<em>Prerequisite: <span data-link='CIS270'>CIS 270</span> and 321 and 326; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Methods and techniques of designing and Implementing Windows software applications. Case study will provide a framework for developing working prototypes of business applications using a graphical user interface, object-oriented language. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS350": {
+    "course_id": "CIS350",
+    "title": "CIS 350 Advanced Object Oriented Programming",
+    "req": "<em>Prerequisite: <span data-link='CIS270'>CIS 270</span> and <span data-link='CIS321'>CIS 321</span> and <span data-link='CIS326'>CIS 326</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A continuation of <span data-link='CIS270'>CIS 270</span> using the Java programming language. Projects will include both database concepts and analysis and design concepts. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS360": {
+    "course_id": "CIS360",
+    "title": "CIS 360 Object Technology II",
+    "req": "<em>Prerequisite: <span data-link='CIS260'>CIS 260</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This course is a continuation of the study of object technology and the Java programming language. Projects using Java involve the development of standalone and web based applets. Topics include abstract windows toolkit (AWT), layout managers, event handling, exception handling, inheritance, arrays, graphics, and file I/O. An introduction to HTML is covered to support web server based applets. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS370": {
+    "course_id": "CIS370",
+    "title": "CIS 370 Web Application Development for Business I",
+    "req": "<em>Prerequisite: <span data-link='CIS260'>CIS 260</span> and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Introduction to the key concepts of developing business applications for the World Wide Web, a critical element of successful e-business systems. Provides extensive hands-on experience of an introductory nature in several important web technologies such as HTML, XHTML, CSS, XML, ASP, and scripting languages (e.g., JavaScript and/or VBScript). ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CIS375": {
+    "course_id": "CIS375",
+    "title": "CIS 375 Web Application Development for Business II",
+    "req": "<em>Prerequisite: <span data-link='CIS370'>CIS 370</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Continuing coverage of the key concepts of developing intermediate to advanced business applications for the World Wide Web within the context of e-business. Provides extensive hands-on experience of an advanced nature in several important web technologies such as HTML, XHTML, CSS, XML, ASP, and scripting languages (e.g., JavaScript and/or VBScript). The student will be expected to develop a working e-business system. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CIS381": {
+    "course_id": "CIS381",
+    "title": "CIS 381 Incident and Problem Management",
+    "req": "<em>Prerequisite: <span data-link='CIS281'>CIS 281</span>; and <span data-link='CIS330'>CIS 330</span> or concurrent enrollment; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Methods for managing incidences (detecting and resolving any event which is not part of the standard operation of a service and which causes, or may cause, an interruption to, or a reduction in the quality of that service) and problems (identifying the underlying cause of actual and potential failures in the provision of a service). Techniques to provide high quality interactions with users will be stressed. Cannot receive credit for both <span data-link='CIS381'>CIS 381</span> and <span data-link='CIS582'>CIS 582</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CIS382": {
+    "course_id": "CIS382",
+    "title": "CIS 382 IT Service Level Management",
+    "req": "<em>Prerequisite: <span data-link='CIS281'>CIS 281</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Methods for developing, monitoring, and reporting on service level agreements. Approaches to review service achievements to ensure that the required and cost-justifiable service quality is maintained and gradually improved. Methods for pricing IT services will be surveyed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CIS385": {
+    "course_id": "CIS385",
+    "title": "CIS 385 Records Storage and Retrieval Systems",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A study of the design and use of records storage and retrieval systems to include micrographics, electronic controls, and optical disk systems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS394": {
+    "course_id": "CIS394",
+    "title": "CIS 394 Cooperative Education in CIS",
+    "req": "<em>Prerequisite: acceptance into Cooperative Education Program and permission of department head; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "The opportunity to earn academic credit in a planned learning process that integrates academic training with a supervised work experience. This is a variable content course that may be repeated to a total of 6 semester hours in Cooperative Education. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS396": {
+    "course_id": "CIS396",
+    "title": "CIS 396 Readings in Computer Information Systems",
+    "req": "<em>Prerequisite: permission of department head; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Planned readings designed to intensify and supplement an area of computer information systems or business education. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS397": {
+    "course_id": "CIS397",
+    "title": "CIS 397 Topics in Computer Information Systems",
+    "req": "<em>Prerequisite: permission; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A variable content course with topics that can change from semester to semester. Topics are identified by title in the schedule of classes. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS420": {
+    "course_id": "CIS420",
+    "title": "CIS 420 IT Services Project Management",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A study of the concepts, practices, processes, tools, techniques and resources used to manage the entire life cycle of IT service projects. The importance of financial budgeting, accounting, and reporting will be stressed. Case studies will be used extensively. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CIS429": {
+    "course_id": "CIS429",
+    "title": "CIS 429 Information Systems in Business",
+    "req": "<em>Prerequisite: <span data-link='CIS201'>CIS 201</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Computer information systems analysis, design, and utilization including information as a resource, hardware/software concepts, data communications, database concepts, systems development and general systems concepts. Explores various computer information systems applications in accounting, management, marketing, finance, and office administration. Cannot be taken for credit by a Computer Information Systems major. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS431": {
+    "course_id": "CIS431",
+    "title": "CIS 431 Advanced Systems Analysis and Design",
+    "req": "<em>Prerequisite: <span data-link='CIS321'>CIS 321</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Advanced study of systems development methodologies. The course emphasizes the strategies and techniques utilized for analysis and design in the development of complex information systems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS461": {
+    "course_id": "CIS461",
+    "title": "CIS 461 Strategic Management Information Systems",
+    "req": "<em>Prerequisite: undergraduate majors must be admitted to degree program.</em>",
+    "desc": "The role of Information Technology (IT)/Information Systems (IS) as a key contributor to the success of the contemporary organization and the relationships that exist between the IT/IS function and other organization units is emphasized. The course focuses on the effective management of the IT/IS function and related topics such as the relationship of technology use and the globalization of trade, the use of IT for competitive advantage, and how technology may affect supply and value chain management, enterprise planning, etc. Cannot receive credit for both <span data-link='CIS461'>CIS 461</span> and <span data-link='CIS761'>CIS 761</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS494": {
+    "course_id": "CIS494",
+    "title": "CIS 494 Internship in Computer Information Systems",
+    "req": "<em>Prerequisite: permission of department head; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Work-study program with cooperating employers. Class or conference study of problems encountered by the student; on-the-job application of principles with analysis and improvement of work operations. May be repeated to a total of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS510": {
+    "course_id": "CIS510",
+    "title": "CIS 510 e-Business Technology Concepts",
+    "req": "<em>Prerequisite: <span data-link='CIS201'>CIS 201</span> and <span data-link='BUS510'>BUS 510</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An introduction to e-Business and Internet concepts and technology. The course emphasizes content driven web development using database concepts. May be taught concurrently with <span data-link='CIS610'>CIS 610</span>. Cannot receive credit for both <span data-link='CIS610'>CIS 610</span> and <span data-link='CIS510'>CIS 510</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS515": {
+    "course_id": "CIS515",
+    "title": "CIS 515 Fourth-Generation Languages",
+    "req": "<em>Prerequisite: <span data-link='CIS321'>CIS 321</span> or <span data-link='CIS429'>CIS 429</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An introduction to fourth-generation languages (4GL). A study of the versatility and integrated functions of popular fourth generation languages including general application development, report generation, database query, screen development and graphics. May be taught concurrently with <span data-link='CIS615'>CIS 615</span>. Cannot receive credit for both <span data-link='CIS615'>CIS 615</span> and <span data-link='CIS515'>CIS 515</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CIS522": {
+    "course_id": "CIS522",
+    "title": "CIS 522 Decision Support Systems Development",
+    "req": "<em>Prerequisite: <span data-link='QBA337'>QBA 337</span> and <span data-link='CIS323'>CIS 323</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A study of Decision Support Systems (DSS), a review of current DSS literature, and the design and development of a DSS with emphasis on the user interface. May be taught concurrently with <span data-link='CIS622'>CIS 622</span>. Cannot receive credit for both <span data-link='CIS622'>CIS 622</span> and <span data-link='CIS522'>CIS 522</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS525": {
+    "course_id": "CIS525",
+    "title": "CIS 525 Fundamentals of Cybersecurity",
+    "req": "<em>Prerequisite: <span data-link='MGT340'>MGT 340</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "The course is an introduction to the basic issues in computer security. While technical in nature, this course is introductory in its approach in that the student is not required to have an extensive background in programming or technical support. May be taught concurrently with <span data-link='CIS625'>CIS 625</span>. Cannot receive credit for both <span data-link='CIS625'>CIS 625</span> and <span data-link='CIS525'>CIS 525</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS528": {
+    "course_id": "CIS528",
+    "title": "CIS 528 Database Management Systems Implementation",
+    "req": "<em>Prerequisite: <span data-link='CIS326'>CIS 326</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Application of database management principles in the implementation of a business information system. Emphasis will be on the design, construction, testing, and installation of a comprehensive database system using SQL, fourth generation languages or other data access tools. May be taught concurrently with <span data-link='CIS628'>CIS 628</span>. Cannot receive credit for both <span data-link='CIS628'>CIS 628</span> and <span data-link='CIS528'>CIS 528</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS530": {
+    "course_id": "CIS530",
+    "title": "CIS 530 Training for End User Computing",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An analysis of the training function and its application to end user computing. Emphasis on selecting appropriate methods and media. May be taught concurrently with <span data-link='CIS630'>CIS 630</span>. Cannot receive credit for both <span data-link='CIS630'>CIS 630</span> and <span data-link='CIS530'>CIS 530</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CIS540": {
+    "course_id": "CIS540",
+    "title": "CIS 540 Advanced Network Administration",
+    "req": "<em>Prerequisite: <span data-link='CIS330'>CIS 330</span> or <span data-link='CSC465'>CSC 465</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Application of basic networking concepts to create working network systems for organizations and to solve business problems. Installing and configuring network operating systems and Internet web servers. Planning and implementing network security schemes. Planning and implementing enterprise networking. Server-based roll-outs and maintenance of applications on multiple workstations. May be taught concurrently with <span data-link='CIS641'>CIS 641</span>. Cannot receive credit for both <span data-link='CIS641'>CIS 641</span> and <span data-link='CIS540'>CIS 540</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS550": {
+    "course_id": "CIS550",
+    "title": "CIS 550 Advanced Object-Oriented Systems",
+    "req": "<em>Prerequisite: <span data-link='CIS326'>CIS 326</span> and <span data-link='CIS350'>CIS 350</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Application of the concepts of object-oriented systems. Case study approach provides the framework for developing working prototypes of business applications using one or more graphical user interface object-oriented languages. May be taught concurrently with <span data-link='CIS651'>CIS 651</span>. Cannot receive credit for both <span data-link='CIS651'>CIS 651</span> and <span data-link='CIS550'>CIS 550</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS581": {
+    "course_id": "CIS581",
+    "title": "CIS 581 Foundations of Information Technology Service Management (ITSM)",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Essential concepts of Information Technology (IT) Service Management. IT Service Management provides for the effective and efficient delivery of IT services in support of changing business needs. May be taught concurrently with <span data-link='CIS581'>CIS 581</span>. Can receive credit for only one of the following courses: <span data-link='CIS281'>CIS 281</span> and <span data-link='CIS581'>CIS 581</span> and <span data-link='CIS681'>CIS 681</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS582": {
+    "course_id": "CIS582",
+    "title": "CIS 582 Lean IT",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Lean principles to manage IT with an emphasis on the reduction of waste and providing value to customers. Additional principles from Lean Six Sigma, continual improvement, IT Service Management, and other relevant areas will be covered. Course requires students to complete a project analyzing one or more of the existing IT processes of an organization. May be taught concurrently with <span data-link='CIS682'>CIS 682</span>. Can receive credit for only one of the following courses: <span data-link='CIS381'>CIS 381</span> and <span data-link='CIS582'>CIS 582</span> and <span data-link='CIS682'>CIS 682</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS583": {
+    "course_id": "CIS583",
+    "title": "CIS 583 Cloud Computing",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A study of the concepts and applications of cloud computing. Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g. networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction. May be taught concurrently with <span data-link='CIS683'>CIS 683</span>. Cannot receive credit for both <span data-link='CIS583'>CIS 583</span> and <span data-link='CIS683'>CIS 683</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CIS591": {
+    "course_id": "CIS591",
+    "title": "CIS 591 Information Systems Development",
+    "req": "<em>Prerequisite: 90 hours; and <span data-link='CIS323'>CIS 323</span> or <span data-link='CIS334'>CIS 334</span> or <span data-link='CIS350'>CIS 350</span> or <span data-link='CIS375'>CIS 375</span>; and <span data-link='CIS431'>CIS 431</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Independent analysis, design and development of an information system in a field of the student&apos;s choice. With the instructor&apos;s approval, the system can be developed in a language and on a machine of the student&apos;s choice. These systems can be individual or group projects. Cannot be taken Pass/Not Pass. May be taught concurrently with <span data-link='CIS691'>CIS 691</span>. Cannot receive credit for both <span data-link='CIS691'>CIS 691</span> and <span data-link='CIS591'>CIS 591</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS596": {
+    "course_id": "CIS596",
+    "title": "CIS 596 Problems in Business Computer Information Systems",
+    "req": "<em>Prerequisite: 60 hours; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Technical or professional problems growing from particular needs which may require additional depth or breadth of study. Outline of study must be approved prior to enrolling. May be repeated to a total of 3 hours. May be taught concurrently with <span data-link='CIS696'>CIS 696</span>. Cannot receive credit for both <span data-link='CIS696'>CIS 696</span> and <span data-link='CIS596'>CIS 596</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS600": {
+    "course_id": "CIS600",
+    "title": "CIS 600 Information Systems in Business Organizations",
+    "req": "<em>Prerequisite: permission of a director of a College of Business graduate program.</em>",
+    "desc": "Comprehensive study of the fundamentals of business information systems. Designed for graduate students who have not had undergraduate information systems courses. Will not be counted in the hours required for a College of Business graduate degree. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS610": {
+    "course_id": "CIS610",
+    "title": "CIS 610 e-Business Technology Concepts",
+    "req": "<em>Prerequisite: <span data-link='BUS510'>BUS 510</span> or <span data-link='BUS610'>BUS 610</span> or permission of a director of a College of Business graduate program.</em>",
+    "desc": "An introduction to e-Business and Internet concepts and technology. The course emphasizes content driven web development using database concepts. May be taught concurrently with <span data-link='CIS510'>CIS 510</span>. Cannot receive credit for both <span data-link='CIS510'>CIS 510</span> and <span data-link='CIS610'>CIS 610</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS615": {
+    "course_id": "CIS615",
+    "title": "CIS 615 Fourth-Generation Languages",
+    "req": "<em>Prerequisite: permission of a director of a College of Business graduate program.</em>",
+    "desc": "An introduction to fourth-generation languages (4GL). A study of the versatility and integrated functions of popular fourth generation languages including general application development, report generation, database query, screen development and graphics. May be taught concurrently with <span data-link='CIS515'>CIS 515</span>. Cannot receive credit for both <span data-link='CIS515'>CIS 515</span> and <span data-link='CIS615'>CIS 615</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CIS622": {
+    "course_id": "CIS622",
+    "title": "CIS 622 Decision Support Systems Development",
+    "req": "<em>Prerequisite: permission of a director of a College of Business graduate program.</em>",
+    "desc": "A study of Decision Support Systems (DSS), a review of current DSS literature, and the design and development of a DSS with emphasis on the user interface. May be taught concurrently with <span data-link='CIS522'>CIS 522</span>. Cannot receive credit for both <span data-link='CIS522'>CIS 522</span> and <span data-link='CIS622'>CIS 622</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS626": {
+    "course_id": "CIS626",
+    "title": "CIS 626 Fundamentals of Cybersecurity",
+    "req": "<em>Prerequisite: <span data-link='MGT340'>MGT 340</span> or permission of Cybersecurity program director.</em>",
+    "desc": "The course is an introduction to the basic issues in computer security. While technical by nature, this course is introductory in its approach in that the student is not required to have an extensive background in programming or technical support. May be taught concurrently with <span data-link='CIS525'>CIS 525</span>. Cannot receive credit for both <span data-link='CIS525'>CIS 525</span> and <span data-link='CIS626'>CIS 626</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS628": {
+    "course_id": "CIS628",
+    "title": "CIS 628 Database Management Systems Implementation",
+    "req": "<em>Prerequisite: <span data-link='CIS326'>CIS 326</span> or permission of a director of a College of Business graduate program.</em>",
+    "desc": "Application of database management principles in the implementation of a business information system. Emphasis will be on the design, construction, testing, and installation of a comprehensive database system using SQL, fourth generation languages or other data access tools. May be taught concurrently with <span data-link='CIS528'>CIS 528</span>. Cannot receive credit for both <span data-link='CIS528'>CIS 528</span> and <span data-link='CIS628'>CIS 628</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS630": {
+    "course_id": "CIS630",
+    "title": "CIS 630 Training for End User Computing",
+    "desc": "An analysis of the training function and its application to end user computing. Emphasis on selecting appropriate methods and media. May be taught concurrently with <span data-link='CIS530'>CIS 530</span>. Cannot receive credit for both <span data-link='CIS530'>CIS 530</span> and <span data-link='CIS630'>CIS 630</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CIS641": {
+    "course_id": "CIS641",
+    "title": "CIS 641 Advanced Network Administration",
+    "req": "<em>Prerequisite: <span data-link='CIS330'>CIS 330</span> or <span data-link='CSC465'>CSC 465</span> or permission of a director of a College of Business graduate program.</em>",
+    "desc": "Application of basic networking concepts to create working network systems for organizations and to solve business problems. Installing and configuring network operating systems and Internet web servers. Planning and implementing network security schemes. Planning and implementing enterprise networking. Server-based roll-outs and maintenance of applications on multiple workstations. May be taught concurrently with <span data-link='CIS540'>CIS 540</span>. Cannot receive credit for both <span data-link='CIS540'>CIS 540</span> and <span data-link='CIS641'>CIS 641</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS651": {
+    "course_id": "CIS651",
+    "title": "CIS 651 Advanced Object-Oriented Systems",
+    "req": "<em>Prerequisite: <span data-link='CIS326'>CIS 326</span> and <span data-link='CIS350'>CIS 350</span>; or permission of a director of a College of Business graduate program.</em>",
+    "desc": "Application of the concepts of object-oriented systems. Case study approach provides the framework for developing working prototypes of business applications using one or more graphical user interface object-oriented languages. May be taught concurrently with <span data-link='CIS550'>CIS 550</span>. Cannot receive credit for both <span data-link='CIS550'>CIS 550</span> and <span data-link='CIS651'>CIS 651</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS681": {
+    "course_id": "CIS681",
+    "title": "CIS 681 Foundations of Information Technology Service Management (ITSM)",
+    "desc": "Essential concepts of Information Technology (IT) Service Management. IT Service Management provides for the effective and efficient delivery of IT services in support of changing business needs. May be taught concurrently with <span data-link='CIS581'>CIS 581</span>. Cannot receive credit for both <span data-link='CIS681'>CIS 681</span> and <span data-link='CIS581'>CIS 581</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS682": {
+    "course_id": "CIS682",
+    "title": "CIS 682 Lean IT",
+    "desc": "Lean principles to manage IT with an emphasis on the reduction of waste and providing value to customers. Additional principles from Lean Six Sigma, continual improvement, IT Service Management, and other relevant areas will be covered. Course requires students to complete a project analyzing one or more of the existing IT processes of an organization. May be taught concurrently with <span data-link='CIS582'>CIS 582</span>. Cannot receive credit for both <span data-link='CIS682'>CIS 682</span> and <span data-link='CIS582'>CIS 582</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS683": {
+    "course_id": "CIS683",
+    "title": "CIS 683 Cloud Computing",
+    "desc": "A study of the concepts and applications of cloud computing. Cloud computing is a model for enabling ubiquitous, convenient, on-demand network access to a shared pool of configurable computing resources (e.g. networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction. May be taught concurrently with <span data-link='CIS583'>CIS 583</span>. Cannot receive credit for both <span data-link='CIS683'>CIS 683</span> and <span data-link='CIS583'>CIS 583</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CIS691": {
+    "course_id": "CIS691",
+    "title": "CIS 691 Information Systems Development",
+    "req": "<em>Prerequisite: <span data-link='CIS323'>CIS 323</span> or <span data-link='CIS334'>CIS 334</span> or <span data-link='CIS350'>CIS 350</span> or <span data-link='CIS375'>CIS 375</span>; and <span data-link='CIS431'>CIS 431</span> or <span data-link='CIS528'>CIS 528</span> or <span data-link='CIS628'>CIS 628</span>; or permission of a director of a College of Business graduate program.</em>",
+    "desc": "Independent analysis, design and development of an information system in a field of the student&apos;s choice. With the instructor&apos;s approval, the system can be developed in a language and on a machine of the student&apos;s choice. These systems can be individual or group projects. May be taught concurrently with <span data-link='CIS591'>CIS 591</span>. Cannot receive credit for both <span data-link='CIS591'>CIS 591</span> and <span data-link='CIS691'>CIS 691</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS696": {
+    "course_id": "CIS696",
+    "title": "CIS 696 Problems in Business: Computer Information Systems",
+    "req": "<em>Prerequisite: permission of a director of a College of Business graduate program.</em>",
+    "desc": "Technical or professional problems growing from particular needs which may require additional depth or breadth of study. Outline of study must be approved prior to enrolling. May be repeated to a total of 3 hours. May be taught concurrently with <span data-link='CIS596'>CIS 596</span>. Cannot receive credit for both <span data-link='CIS596'>CIS 596</span> and <span data-link='CIS696'>CIS 696</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS707": {
+    "course_id": "CIS707",
+    "title": "CIS 707 Practicum in Computer Information Systems",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Work-study program with cooperating employers. Class and/or conference discussion of successes achieved and problems encountered by the student. On-the-job application of techniques, methods, procedures, and principles dealt with in other courses. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS720": {
+    "course_id": "CIS720",
+    "title": "CIS 720 Project Management in Information Systems",
+    "desc": "A study of the concepts, practices, processes, tools, techniques and resources used by information system (IS) project managers. The entire project life cycle will be covered from inception to close-out. The course will closely follow the framework of the Project Management Body of Knowledge (PMBoK). The course will focus on how to manage the scope, schedule, budget and risk of projects, with emphasis on information systems and information technology projects. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS725": {
+    "course_id": "CIS725",
+    "title": "CIS 725 Neural Networks",
+    "desc": "An introduction to the subject to solve business problems using neural network software. In addition, the student will study the theory and framework for the appropriate use of neural networks in regard to solution and data analysis. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS732": {
+    "course_id": "CIS732",
+    "title": "CIS 732 Strategic IT Planning",
+    "req": "<em>Prerequisite: admission to the MS in Computer Information Systems program.</em>",
+    "desc": "Introduction to fundamental issues of information system (IS) planning. Current theory and specific IS planning practices are studied. Emphasis on strategic implications of information technology, IS planning vis-a-vis strategic planning, development and maintenance of IS plans, analysis of organization information requirements, and prioritizing IS projects. Implications for business and technology trends and application of planning concepts to IS planning projects are examined. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS734": {
+    "course_id": "CIS734",
+    "title": "CIS 734 Staffing the Information Systems Function",
+    "req": "<em>Prerequisite: admission to the MS in Computer Information Systems program.</em>",
+    "desc": "Focus on current and emerging issues of recruitment, selection, training, motivation, retention and evaluation of IS staff. Issues include developing job descriptions, shifting demands for staffing, performance criteria, alternative approaches to training, alternative career tracks, and the role of personality types on performance. Influence of recent trends including downsizing, outsourcing, centralization and decentralization, and end-user computing will be examined. Current theory and specific practices are studied. Practical applications will be stressed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS736": {
+    "course_id": "CIS736",
+    "title": "CIS 736 Data Communications and Information",
+    "req": "<em>Prerequisite: admission to the MS in Computer Information Systems program.</em>",
+    "desc": "Computer network planning, including physical layout, resource requirements, and budgeting. Administration of computer networks, including managing user accounts; selecting and loading applications software; managing upgrades and enhancements; monitoring and optimizing system performance; ensuring physical and logical system security. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS738": {
+    "course_id": "CIS738",
+    "title": "CIS 738 Information System Project Management",
+    "req": "<em>Prerequisite: admission to the MS in Computer Information Systems program.</em>",
+    "desc": "Objectives and techniques of planning, organizing, and managing complex information systems development projects. The course will include a study of resources and tools available for scheduling, tracking, and measuring system development productivity. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS740": {
+    "course_id": "CIS740",
+    "title": "CIS 740 Comparative Systems Development Methodology",
+    "req": "<em>Prerequisite: admission to the MS in Computer Information Systems program.</em>",
+    "desc": "Study of various systems development methodologies used to analyze, design, and implement information systems; selection criteria for a specific methodology, and how to introduce a new methodology within an existing environment. Specific tools and techniques for systems development and for business process reengineering will be explored and applied. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS742": {
+    "course_id": "CIS742",
+    "title": "CIS 742 Management of End User Computing",
+    "req": "<em>Prerequisite: admission to the MS in Computer Information Systems program.</em>",
+    "desc": "Planning, organizing, staffing, control, and support of end user computing. Various organizational structures used to support end user computing will be investigated. Methodology for development of end user computing systems will be identified for several forms and types of projects. A case project will involve development of an end user system using an appropriate methodology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS744": {
+    "course_id": "CIS744",
+    "title": "CIS 744 Information Systems Management",
+    "req": "<em>Prerequisite: admission to the MS in Computer Information Systems program.</em>",
+    "desc": "Overview of managerial applications of information technology (IT) to increase effectiveness. Use of IT to support decision making, cooperative work, organizational competitive advantage, and inter-organizational communication. Various planning approaches will illustrate the use of IT in organizations. Case method will be used. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS746": {
+    "course_id": "CIS746",
+    "title": "CIS 746 Data Management",
+    "req": "<em>Prerequisite: admission to the MS in Computer Information Systems program.</em>",
+    "desc": "Study of data modeling using tools such as Entity-Relationship and Semantic Object Models. Examination of the Database Administrator&apos;s responsibilities including monitoring and tuning of the database, establishment of database reliability, and security. A case project will include the development of a data model and a database administration plan for a client/server database system. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS747": {
+    "course_id": "CIS747",
+    "title": "CIS 747 IT Legal Issues",
+    "req": "<em>Prerequisite: admission to the MS in Computer Information Systems program.</em>",
+    "desc": "Focus on the legal and ethical environment relevant to advances in technology. Issues include intellectual property, jurisdiction, defamation, invasion of privacy, electronic contracts, computer crime, censorship, unsolicited E-mail, antitrust issues, and encryption. Recent developments, court decisions, federal and state statutes, treaties and international agreements, administrative rulings, and legal literature regarding Internet law, will be explored and explained. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS748": {
+    "course_id": "CIS748",
+    "title": "CIS 748 Principles of Information Security",
+    "req": "<em>Prerequisite: admission to the MS in Computer Information Systems program.</em>",
+    "desc": "This course provides the foundation for understanding the key issues associated with protecting information assets, determining the levels of protection and response to security incidents, and designing a consistent, reasonable information security system, with appropriate intrusion detection and reporting features. The students will learn a balance introduction to both security management and technical components of information security; they will be exposed to the spectrum of security activities, methods, methodologies, and procedures. This spectrum includes inspection and protection of information assets, detection of and reaction to threats to information assets, and examination of pre- and post-incident procedures, technical and managerial responses and an overview of the information security planning functions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS750": {
+    "course_id": "CIS750",
+    "title": "CIS 750 Sourcing and Procurement",
+    "req": "<em>Prerequisite: admission to the MS in Computer Information Systems program.</em>",
+    "desc": "In-depth study of key factors and issues associated with hardware/software selection, acquisition and implementation. Emphasis on problem definition and analysis, comparative methodologies for evaluation and selection, identifying and qualifying vendors, and developing/evaluating request for proposals (RFP&apos;s). Management implications of enterprise-wide software solutions including software distribution, version and release management, and software standards and practices are discussed. Completion of an acquisition project will be included. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS752": {
+    "course_id": "CIS752",
+    "title": "CIS 752 Behavior and Leadership in IT",
+    "req": "<em>Prerequisite: admission to the MS in Computer Information Systems program.</em>",
+    "desc": "This course is designed to provide an understanding and appreciation of organizational behavior issues facing senior and mid-level IT managers. Topics to be examined include: organizational behavior from an individual, group and structural perspective, organizational culture, leadership, perception and decision-making values and attitudes, and emotional intelligence. The material should be of interest and benefit to IT professionals, irrespective of technical specialty, who are currently in or aspire to IT management. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS754": {
+    "course_id": "CIS754",
+    "title": "CIS 754 Organizational Transformation",
+    "req": "<em>Prerequisite: admission to the MS in Computer Information Systems program.</em>",
+    "desc": "Study of interrelated economic, social, political, and technological forces requiring organizations to transform their systems and processes to survive and succeed. Students will examine a variety of typical transformations from the perspective of a work unit member and a manager of the change process. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS756": {
+    "course_id": "CIS756",
+    "title": "CIS 756 Special Topics in Information Systems",
+    "req": "<em>Prerequisite: admission to the MS in Computer Information Systems program.</em>",
+    "desc": "Variable content with topics that can change from semester to semester. Topics are identified by title in the schedule of classes. Practical applications will be stressed. The course may be repeated for a total of six hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS761": {
+    "course_id": "CIS761",
+    "title": "CIS 761 Management Information Systems",
+    "req": "<em>Prerequisite: admission to the MBA program or permission from the MBA Program Director; and <span data-link='CIS429'>CIS 429</span> or <span data-link='CIS600'>CIS 600</span> or equivalent.</em>",
+    "desc": "A macro application to the concept, design and implementation of management information systems. This course is designed to be useful to MBA students interested in management information systems development as well as those who plan to be involved in managing MIS projects. Cannot receive credit for both <span data-link='CIS461'>CIS 461</span> and <span data-link='CIS761'>CIS 761</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CIS762": {
+    "course_id": "CIS762",
+    "title": "CIS 762 Legal Issues in Cybersecurity",
+    "req": "<em>Prerequisite: <span data-link='CIS626'>CIS 626</span> or concurrent enrollment; and admission to the Cybersecurity program or permission.</em>",
+    "desc": "This course provides an overview of the laws and legal processes involved in e-commerce, privacy, and intellectual property rights and cyberspace law. Risk analysis, incident response, and network forensic investigations. Objectives include recognizing the legal aspects of the security triad: confidentiality, integrity, and availability, examining the concepts of privacy and its legal protections, and being able to explain the importance of forensics examination in legal proceedings. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS763": {
+    "course_id": "CIS763",
+    "title": "CIS 763 Telecommunications and Network Security",
+    "req": "<em>Prerequisite: <span data-link='CIS626'>CIS 626</span> and admission to the Cybersecurity program or permission.</em>",
+    "desc": "This hands-on course provides an introduction to tools and techniques used by security professionals to secure corporate networks. Topics include virtual private networks (VPNs), firewalls, and intrusion detection and prevention systems (IDS/IPS). Defense in depth will be taught through the installation and configuration of firewalls, VPNs, and IDS/IPS. Students will be able to recognize and prevent malicious attacks on corporate networks. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS764": {
+    "course_id": "CIS764",
+    "title": "CIS 764 Hacker Techniques and Incident Response",
+    "req": "<em>Prerequisite: <span data-link='CIS626'>CIS 626</span> or concurrent enrollment; and admission to the Cybersecurity program or permission.</em>",
+    "desc": "This hands-on course provides an introduction to tools and techniques used by hackers to penetrate corporate networks. Topics include vulnerabilities of operating systems, incident-handling methods, and an overview of the process and methodologies used in penetration testing including ethical and legal implications. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS766": {
+    "course_id": "CIS766",
+    "title": "CIS 766 Web Application Security",
+    "req": "<em>Prerequisite: <span data-link='CIS626'>CIS 626</span> or concurrent enrollment; and admission to the Cybersecurity program or permission.</em>",
+    "desc": "This hands-on course provides an introduction to tools and techniques used to hack web applications. Security strategies will be presented that can help to mitigate risk associated with web applications and social networking. Course objectives include analyzing the impact of the Internet and web applications on the business world, the evolution of social media and social networking, analyzing common website attacks, weaknesses, and security best practices. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS770": {
+    "course_id": "CIS770",
+    "title": "CIS 770 Seminar in Cybersecurity",
+    "req": "<em>Prerequisite: 15 hours of graduate Cybersecurity courses and permission from the Cybersecurity Program Director.</em>",
+    "desc": "Critical evaluation and interpretation of research and literature in Cybersecurity. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS790": {
+    "course_id": "CIS790",
+    "title": "CIS 790 Seminar in Management Information Systems",
+    "req": "<em>Prerequisite: 15 hours of graduate business administration courses and permission from the MBA Program Director.</em>",
+    "desc": "Critical evaluation and interpretation of research and literature in information systems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS794": {
+    "course_id": "CIS794",
+    "title": "CIS 794 Internship: Computer Information Systems",
+    "req": "<em>Prerequisite: permission of the director of the appropriate graduate program and department head.</em>",
+    "desc": "In consultation with the coordinating professor, the student is engaged in first-hand experience with a business, organization, or other professional entity. A portfolio of assigned work shall be collected, examined and evaluated during the semester. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS796": {
+    "course_id": "CIS796",
+    "title": "CIS 796 Independent Study-Computer Information Systems",
+    "req": "<em>Prerequisite: permission of advisor.</em>",
+    "desc": "In consultation with the advisor, student selects, for intensive study, a specific area of concern related to the student&apos;s program, with emphasis on research. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CIS797": {
+    "course_id": "CIS797",
+    "title": "CIS 797 Special Topics",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Study of topics in Computer Information Systems/Business Education. May be repeated to a total of 6 hours when topic varies. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CIS799": {
+    "course_id": "CIS799",
+    "title": "CIS 799 Thesis",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Independent research and study connected with the preparation of a thesis. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

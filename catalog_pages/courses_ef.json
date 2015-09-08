@@ -1,0 +1,1821 @@
+{
+  "CFD110": {
+    "course_id": "CFD110",
+    "title": "CFD 110 Health, Safety and Nutrition",
+    "desc": "Introduces curriculum, regulations, standards, policies, procedures and current trends related to health, safety and nutrition of children and families. Recognize and create safe environments for children, universal precautions and menu planning to meet the nutritional needs of children. Emphasis placed on integrating and maintaining optimal health, safety, and nutritional concepts in every day planning and program development for all children. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CFD150": {
+    "course_id": "CFD150",
+    "title": "CFD 150 Introduction to Child and Family Development",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "The scope of this course is a study of the field of child and family development. Professional opportunities and analysis of personal proficiencies will be the focus. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CFD155": {
+    "course_id": "CFD155",
+    "title": "CFD 155 Principles of Human Development",
+    "req": "<em>General Education Course (Focus on Social and Behavioral Sciences).</em>",
+    "desc": "Basic principles that govern human development from the prenatal period to death; developmental tasks and interrelations of family members through the life span. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CFD160": {
+    "course_id": "CFD160",
+    "title": "CFD 160 Principles of Development in Early Childhood",
+    "desc": "Development of the child from conception through 8 years of age including weekly laboratory experience with preschool children. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CFD163": {
+    "course_id": "CFD163",
+    "title": "CFD 163 Relationships in Today's Families",
+    "req": "<em>General Education Course (Focus on Social and Behavioral Sciences).</em>",
+    "desc": "Personal and family living in the early stages of family life cycle. Concepts and methods used in initiating, building, maintaining and enriching relationships. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CFD197": {
+    "course_id": "CFD197",
+    "title": "CFD 197 Introductory Topics in Child and Family Development",
+    "desc": "Variable content course for introductory concepts in Child and Family Development. May be repeated to a total of 6 hours when topics change. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD250": {
+    "course_id": "CFD250",
+    "title": "CFD 250 Parenting in Contemporary Society",
+    "desc": "Explores parenting and child rearing in today&apos;s society. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CFD255": {
+    "course_id": "CFD255",
+    "title": "CFD 255 Principles of Development in Infancy",
+    "req": "<em>Prerequisite: <span data-link='CFD160'>CFD 160</span>.</em>",
+    "desc": "Child from conception through two years, including prenatal environment. Two hours laboratory experience weekly in infant-toddler child development laboratory. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD256": {
+    "course_id": "CFD256",
+    "title": "CFD 256 Supervised Experience in the Infant Toddler Center",
+    "desc": "Experience in applying effective techniques that optimize infant toddler development with 2-hours per week of participation in the infant toddler laboratory. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD257": {
+    "course_id": "CFD257",
+    "title": "CFD 257 Principles of Development in Middle Childhood",
+    "desc": "Development of the child from six through twelve years in cognitive, physical, social, emotional aspects. Contact with groups of children in this age range is arranged. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CFD260": {
+    "course_id": "CFD260",
+    "title": "CFD 260 Observing, Assessing, and Creating Activities for Young Children",
+    "req": "<em>Prerequisite: <span data-link='CFD160'>CFD 160</span>.</em>",
+    "desc": "Experience in applying the most effective techniques for maximum growth in the physical, social, emotional and mental development of the whole child. Influences of a safe and healthful environment upon the child&apos;s development. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CFD300": {
+    "course_id": "CFD300",
+    "title": "CFD 300 Special Topics in Child and Family Development",
+    "req": "<em>Prerequisite: permission of department.</em>",
+    "desc": "Selected topics of contemporary interest in Child and Family Development, offered when resources and demand allow. May be repeated to a total of 6 hours when topics change. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD301": {
+    "course_id": "CFD301",
+    "title": "CFD 301 Play as Development",
+    "desc": "A study of play and its relationship to typical and atypical development in the physical, cognitive, language, moral, social, and emotional domains. Factors that influence play such as environment, adults, children, attitudes, and beliefs are discussed. The role of play for all people throughout the lifespan is examined. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CFD303": {
+    "course_id": "CFD303",
+    "title": "CFD 303 Service Learning Child and Family Development",
+    "req": "<em>Prerequisite: 30 hours and concurrent enrollment in a designated service learning offering within one of the major areas of study in Child and Family Development.</em>",
+    "desc": "A service learning course incorporates a community service experience with classroom instruction to provide an integrative learning experience which addresses the practice of citizenship and promotes awareness of and participation in public affairs/service. Requires 40 hours of service to a community organization, agency, or public service provider. The community service placement and assignment will vary, depending on the specialization area and learning objectives. A list of approved placements will be available from the instructor and the Citizenship and Service Learning Office. Students are required to participate in a service learning training session(s) prior to beginning their service placement. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD304": {
+    "course_id": "CFD304",
+    "title": "CFD 304 Outdoor Play",
+    "desc": "Provides information on the importance of outdoor play, how to choose materials and equipment, adult roles and current research on outdoor play. Students will learn how to evaluate outdoor play environments. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD305": {
+    "course_id": "CFD305",
+    "title": "CFD 305 Multicultural Studies in Child and Family Development",
+    "desc": "A study of multicultural education for young children and their families. Emphasizes communication processes, recognizes cognitive and affective development, presents effective techniques and strategies that meet the needs of young children and families with diverse backgrounds. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD306": {
+    "course_id": "CFD306",
+    "title": "CFD 306 Separation and Loss",
+    "desc": "This online course will provide a broad overview of the psychological aspects of separation and loss in our society. Topics include attitudes toward and preparation for death; the understanding of and care for terminally ill patients, burial, mourning, and grief practices, grief counseling, suicide and euthanasia. This course covers how to assist children with loss, great or small, from divorce, moving, hospitalization, trauma or death. Readings and classroom activities will be supplemented by students&apos; self-exploration and writing on feelings, attitudes, and beliefs about separation and loss. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CFD350": {
+    "course_id": "CFD350",
+    "title": "CFD 350 Seminar in Child and Family Development",
+    "desc": "Readings, discussion and analysis of trends and issues in child and family development. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD353": {
+    "course_id": "CFD353",
+    "title": "CFD 353 Childhood Illnesses, Injuries, Diseases and Disorders",
+    "desc": "This online course will provide an overview of the common childhood illnesses, injuries, diseases and disorders for non-medical professionals who work in the health care field. Topics will assist the person in developing the skills and knowledge for working with ill and hospitalized children. This course is an introduction to pediatric care in heath care settings. It is designed to educate non-medical professionals (Child Life Specialists, Social Workers, Chaplains, Patient Advocates, etc.) who will work in the health care field on medical issues. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Summer": true
+    }
+  },
+  "CFD354": {
+    "course_id": "CFD354",
+    "title": "CFD 354 Working with the Hospitalized Child",
+    "req": "<em>Prerequisite: <span data-link='CFD160'>CFD 160</span>.</em>",
+    "desc": "Students will learn principles, concepts, techniques, and skills in the provision of programs and services to hospitalized children. Areas of emphasis include: reactions of children to hospitalization, importance of play, planning a play program and preparing children for medical encounters. This course will include a weekly laboratory experience within a Child Life Program of a local hospital. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CFD360": {
+    "course_id": "CFD360",
+    "title": "CFD 360 Planning and Implementing Curriculum for Child Development Centers",
+    "req": "<em>Prerequisite: <span data-link='CFD260'>CFD 260</span>.</em>",
+    "desc": "Planning and implementing curriculum to meet the cognitive, emotional, physical, creative and social development needs for young children. Using literacy techniques learned and practiced in class and at the Child Development Center, the students will also share information within the community at libraries and in low-income child care facilities. Supporting young children, their families and teachers/caregivers in their environment is the focus of this course. This enhances our mission to encourage literacy in all parts of children&apos;s lives. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 2,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CFD361": {
+    "course_id": "CFD361",
+    "title": "CFD 361 Principles of Family Development",
+    "desc": "Development trends occurring in family units from premarital interactions to death and/or divorce. Lectures and discussions will apply developmental principles to today&apos;s family life styles. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CFD365": {
+    "course_id": "CFD365",
+    "title": "CFD 365 Families in Later Life",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>; and <span data-link='CFD155'>CFD 155</span> or <span data-link='CFD163'>CFD 163</span> or 30 hours.</em>",
+    "desc": "Examination of the structure and function of families in later life. Topics of interest include demographic trends impacting the structure of the family, marriage, sibling relations, parent-adult child relations, grandparenthood, widowhood, and retirement. The application of family theories and their relevance to later life families will be discussed. Identical with <span data-link='GER365'>GER 365</span>, <span data-link='PSY366'>PSY 366</span> and <span data-link='SWK365'>SWK 365</span>. Can only receive credit for one of following: <span data-link='CFD365'>CFD 365</span>, <span data-link='GER365'>GER 365</span>, <span data-link='PSY366'>PSY 366</span> or <span data-link='SWK365'>SWK 365</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CFD366": {
+    "course_id": "CFD366",
+    "title": "CFD 366 Preparation for the Professional Internship",
+    "desc": "Prepares the Child and Family Development student for an internship and professional practice, including discussion of professional/ethical issues and behavior, choosing professional development sites, setting goals, writing resumes, and interviewing skills and certification. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CFD400": {
+    "course_id": "CFD400",
+    "title": "CFD 400 Problems in Child and Family Development",
+    "req": "<em>Prerequisite: 90 hours and permission.</em>",
+    "desc": "Independent study for those who wish additional work in specific subject areas. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD454": {
+    "course_id": "CFD454",
+    "title": "CFD 454 Therapeutic Play Activities for Hospitalized Children",
+    "req": "<em>Prerequisite: <span data-link='CFD354'>CFD 354</span>.</em>",
+    "desc": "The focus is to develop skills needed for working with ill and hospitalized children in developmental activity programs. This course explores ways in which Child Life Specialists serve children in different developmental stages and from diverse cultural environments including weekly hospital laboratory experience of playroom and bedside activities with hospitalized children and their families. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CFD455": {
+    "course_id": "CFD455",
+    "title": "CFD 455 Infants and Toddlers: Development and Program Planning",
+    "req": "<em>Prerequisite: <span data-link='CFD260'>CFD 260</span> and 60 hours.</em>",
+    "desc": "A study of the infant from conception through two years with a 3-hour weekly laboratory in an infant toddler center. Application of developmentally appropriate practice through laboratory participation, portfolios, and curriculum planning. Negative tuberculin test and completion of the Family Care Safety Registry required. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CFD466": {
+    "course_id": "CFD466",
+    "title": "CFD 466 Internship in Programs for Children, Youth, Adults, and Families",
+    "req": "<em>Prerequisite: <span data-link='CFD366'>CFD 366</span>.</em>",
+    "desc": "Supervised active learning experiences with children, youth, or families in human service agencies; observation, discussion, and evaluation of the student&apos;s experiences. Advance registration with course instructor required. May be repeated for up to 12 hours credit. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 6,
+      "lab": 12
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CFD499": {
+    "course_id": "CFD499",
+    "title": "CFD 499 Practicum in Child and Family Development",
+    "req": "<em>Prerequisite: permission of subject matter professor.</em>",
+    "desc": "Off-campus, supervised experience in a cooperative program with business, government, community, or related establishments within any of the specialized areas of child and family development. In addition to the outline agency involvement, the student is (1) required to attend a beginning orientation and a follow-up seminar, and (2) complete assignments appropriate to subject matter specialization. May be repeated up to 12 hours credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD500": {
+    "course_id": "CFD500",
+    "title": "CFD 500 Issues in Child and Family Development",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Advanced inquiry into specialized areas of study in Child and Family Development. May be repeated to a total of 6 hours when topics change. Variable content course. May be taught concurrently with <span data-link='CFD600'>CFD 600</span>. Cannot receive credit for both <span data-link='CFD600'>CFD 600</span> and <span data-link='CFD500'>CFD 500</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD505": {
+    "course_id": "CFD505",
+    "title": "CFD 505 Trends and Issues in Youth Development",
+    "desc": "Advanced inquiry into historical and contemporary foundations of youth development primarily from ten to eighteen years in cognitive-, physical-, social-, emotional-, moral-, spiritual-, and creative aspects. The course involves student engagement in community-based observations, interactions, and applications related to youth developmental models. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CFD510": {
+    "course_id": "CFD510",
+    "title": "CFD 510 Child Life Theory and Practice",
+    "desc": "Examines concepts and principles of the child life profession. Students will strengthen their theoretical knowledge and clinical skills to prepare themselves for supporting children and their families in the healthcare setting in ways that promote optimal coping and development. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CFD532": {
+    "course_id": "CFD532",
+    "title": "CFD 532 Family Advocacy",
+    "desc": "A study of the advocacy process in both the public and private sectors for directing change to benefit families and children. The course involves field trips to locations where decisions are being made that impact families and children. May be taught concurrently with <span data-link='CFD632'>CFD 632</span>. Cannot receive credit for both <span data-link='CFD632'>CFD 632</span> and <span data-link='CFD532'>CFD 532</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD533": {
+    "course_id": "CFD533",
+    "title": "CFD 533 Principles of Family Life Education",
+    "req": "<em>Prerequisite: junior standing.</em>",
+    "desc": "A study of the philosophical and methodological considerations in facilitating family life education programs. Field experiences are a part of this course. May be taught concurrently with <span data-link='CFD633'>CFD 633</span>. Cannot receive credit for both <span data-link='CFD633'>CFD 633</span> and <span data-link='CFD533'>CFD 533</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD534": {
+    "course_id": "CFD534",
+    "title": "CFD 534 Applied Interpersonal Communication Skills",
+    "desc": "This course utilizes an interactive format to teach basic communication skills. The course will cover talking and listening skills and a process for addressing relationship issues. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CFD560": {
+    "course_id": "CFD560",
+    "title": "CFD 560 Family Engagement",
+    "req": "<em>Prerequisite: <span data-link='CFD260'>CFD 260</span>.</em>",
+    "desc": "A study of family engagement programs including family education, volunteerism, leadership development, and advocacy. Students are involved in practicums working with families in a variety of community settings. Family Care Safety Registry required. May be taught concurrently with <span data-link='CFD660'>CFD 660</span>. Cannot receive credit for both <span data-link='CFD660'>CFD 660</span> and <span data-link='CFD560'>CFD 560</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CFD562": {
+    "course_id": "CFD562",
+    "title": "CFD 562 Prevention of Child Abuse and Neglect",
+    "desc": "The primary and secondary prevention of physical, emotional, and sexual abuse and neglect of children. Designed for professionals who work with children and families and are required by law to report suspected incidences of child abuse and neglect. May be taught concurrently with <span data-link='CFD662'>CFD 662</span>. Cannot receive credit for both <span data-link='CFD662'>CFD 662</span> and <span data-link='CFD562'>CFD 562</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CFD563": {
+    "course_id": "CFD563",
+    "title": "CFD 563 Administration of Programs for Children and Families",
+    "desc": "Types, purposes, and administration of programs for children, youth, and families. Development of leadership and management skills. Includes an overview of office policy and procedure, staff and volunteer management, public relations, budgeting, and quality assurance. May be taught concurrently with <span data-link='CFD663'>CFD 663</span>. Cannot receive credit for both <span data-link='CFD563'>CFD 563</span> and <span data-link='CFD663'>CFD 663</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CFD600": {
+    "course_id": "CFD600",
+    "title": "CFD 600 Issues in Child and Family Development",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Advanced inquiry into specialized areas of study in Child and Family Development. May be repeated to a total of 6 hours when topics change. Variable content course. May be taught concurrently with <span data-link='CFD500'>CFD 500</span>. Cannot receive credit for both <span data-link='CFD500'>CFD 500</span> and <span data-link='CFD600'>CFD 600</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD632": {
+    "course_id": "CFD632",
+    "title": "CFD 632 Family Advocacy",
+    "desc": "A study of the advocacy process in both the public and private sectors for directing change to benefit families and children. The course involves field trips to locations where decisions are being made that impact families and children. May be taught concurrently with <span data-link='CFD532'>CFD 532</span>. Cannot receive credit for both <span data-link='CFD532'>CFD 532</span> and <span data-link='CFD632'>CFD 632</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD633": {
+    "course_id": "CFD633",
+    "title": "CFD 633 Principles of Family Life Education",
+    "desc": "A study of the philosophical and methodological considerations in facilitating family life education programs. Field experiences are a part of this course. May be taught concurrently with <span data-link='CFD533'>CFD 533</span>. Cannot receive credit for both <span data-link='CFD533'>CFD 533</span> and <span data-link='CFD633'>CFD 633</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD660": {
+    "course_id": "CFD660",
+    "title": "CFD 660 Family Engagement",
+    "desc": "A study of family engagement programs including family education, volunteerism, leadership development, and advocacy. Students are involved in practicums working with families in a variety of community settings. Family Care Safety Registry required. May be taught concurrently with <span data-link='CFD560'>CFD 560</span>. Cannot receive credit for both <span data-link='CFD560'>CFD 560</span> and <span data-link='CFD660'>CFD 660</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CFD662": {
+    "course_id": "CFD662",
+    "title": "CFD 662 Prevention of Child Abuse and Neglect",
+    "desc": "The primary and secondary prevention of physical, emotional, and sexual abuse and neglect of children. Designed for professionals who work with children and families and are required by law to report suspected incidences of child abuse and neglect. May be taught concurrently with <span data-link='CFD562'>CFD 562</span>. Cannot receive credit for both <span data-link='CFD562'>CFD 562</span> and <span data-link='CFD662'>CFD 662</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CFD663": {
+    "course_id": "CFD663",
+    "title": "CFD 663 Administration of Programs for Children and Families",
+    "desc": "Types, purposes, and administration of programs for children, youth, and families. Development of leadership and management skills. Includes an overview of office policy and procedure, staff and volunteer management, public relations, budgeting, and quality assurance. May be taught concurrently with <span data-link='CFD563'>CFD 563</span>. Cannot receive credit for both <span data-link='CFD663'>CFD 663</span> and <span data-link='CFD563'>CFD 563</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CFD701": {
+    "course_id": "CFD701",
+    "title": "CFD 701 Orientation to Early Childhood and Family Development",
+    "req": "<em>Prerequisite: admission to the Early Childhood and Family Development graduate program.</em>",
+    "desc": "Orientation to the program and examination of seminal reading in the field. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CFD702": {
+    "course_id": "CFD702",
+    "title": "CFD 702 Community Engagement",
+    "desc": "Analysis of service-learning/community engagement. The main tenets of community engagement/service learning are analyzed, the community need, the academic enhancement, and reflection. The roles of all involved in community engagement/service learning, the teachers, the students, and the community partners are studied. Ethical, moral, and civic implications of community engagement/service-learning are also explored. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD750": {
+    "course_id": "CFD750",
+    "title": "CFD 750 Advanced Human Development Studies",
+    "desc": "Analysis of theories and trends in human development. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CFD761": {
+    "course_id": "CFD761",
+    "title": "CFD 761 Advanced Family Studies",
+    "desc": "Provides students with an understanding of theories used in the study of families; awareness of current demographics and trends of today&apos;s families; examines characteristics of various family structures and social influences impacting family functioning. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD775": {
+    "course_id": "CFD775",
+    "title": "CFD 775 Parent and Child Relations",
+    "desc": "This course examines relevant theories and current research in parent-child relationships across the life span. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CFD776": {
+    "course_id": "CFD776",
+    "title": "CFD 776 Advanced Studies in Infant Development",
+    "desc": "Current research on infant development, prenatal through two years of age. The roles of families and culture in early development. Applications of research findings to practice in infant and toddler care. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECE301": {
+    "course_id": "ECE301",
+    "title": "ECE 301 Emerging Literacy and Communication Arts",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "This course will focus on the broad areas of emerging literacy and communication arts with particular attention to the early childhood years. The development of listening, oral language, and written comprehension skills as well as an understanding of the contribution of appropriate children&apos;s literature to literacy development will be the essential components of this course. Activities, materials, and lessons in these areas will be developed with particular attention to developmentally appropriate methodology. Monthly workshops jointly taught by College of Arts and Letters and College of Education faculty covering content of creative arts will occur. Field experiences including creative arts are a part of the course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ECE302": {
+    "course_id": "ECE302",
+    "title": "ECE 302 Social Studies and Sociomoral Development",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "This course will combine the concepts found in the sociomoral domain of Project Construct as well as concepts taught in an elementary social studies curriculum. Students will develop activities, materials, and lessons that focus on the building of relationships with adults and peers, negotiating and applying rules, demonstrating confidence and creativity. Additionally, the curriculum sequences for grades Kindergarten through third, including self, home, school community, school and family, neighborhoods, and communities will be part of this course. Monthly workshops jointly taught by College of Arts and Letters and College of Education faculty covering content of creative arts will occur. Field experiences including creative arts are a part of the course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ECE303": {
+    "course_id": "ECE303",
+    "title": "ECE 303 Mathematics and Science for Young Children",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "This course will teach the student methods for the active involvement of young children in the areas of mathematics and science. Students will develop problem solving experiences and hands-on activities of these two areas. The areas of beginning mathematics concepts such as classification, seriation, and counting, as well as problem solving, applications, communication and reasoning will be part of the course. Additionally, the development of concepts in both physical, biological, and earth/space sciences and active student involvement and discovery will be included. Developmentally appropriate methodology will be presented. Monthly workshops jointly taught by College of Arts and Letters and College of Education faculty covering content of creative arts will occur. Field experiences including creative arts are a part of the course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ECE304": {
+    "course_id": "ECE304",
+    "title": "ECE 304 The Early Childhood Education Professional",
+    "req": "<em>Prerequisite: admission to the Teacher Education Program; and admission to the Early Childhood Education Program.</em>",
+    "desc": "Professionalism in the early childhood education field; being a reflective practitioner, formatting and beginning professional materials such as their teaching portfolio, developing their philosophy, and lesson plans; exploring the early childhood professional code of ethics. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ECE401": {
+    "course_id": "ECE401",
+    "title": "ECE 401 Curriculum For Early Childhood Education",
+    "req": "<em>Prerequisite: <span data-link='ELE302'>ELE 302</span> and <span data-link='ECE301'>ECE 301</span> and <span data-link='ECE302'>ECE 302</span> and <span data-link='ECE303'>ECE 303</span>; concurrent enrollment in <span data-link='ECE402'>ECE 402</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "Curriculum for early childhood education; underlying principles and applications; relationship to the skills of reading, writing, numbers, spelling, the creative arts, social studies, science. Field experiences are a part of the course. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ECE402": {
+    "course_id": "ECE402",
+    "title": "ECE 402 Assessing Young Children",
+    "req": "<em>Prerequisite: <span data-link='ELE302'>ELE 302</span> and <span data-link='ECE301'>ECE 301</span> and <span data-link='ECE302'>ECE 302</span> and <span data-link='ECE303'>ECE 303</span>; concurrent enrollment in <span data-link='ECE401'>ECE 401</span>; and admitted to Teacher Education Program required.</em>",
+    "desc": "An overview and analysis of screening and diagnostic techniques and procedures for use by general classroom teachers in determining instructional programs for children from birth-grade three. Procedures for helping teachers develop programs for children from different cultural backgrounds and exceptional students integrated in general classrooms are included. Field experiences are a part of the course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ECE490": {
+    "course_id": "ECE490",
+    "title": "ECE 490 Supervised Teaching (Infant/Toddler Settings)",
+    "req": "<em>Prerequisite: all program courses except <span data-link='CFD560'>CFD 560</span> and <span data-link='CFD563'>CFD 563</span> which may be taken with or at the completion of supervised teaching; a grade of &quot;C&quot; or better in all professional education courses; current pre-professional liability insurance; and approval for supervised teaching.</em>",
+    "desc": "Students will observe and then teach under the supervision of cooperating teacher and university supervisor. Participation in extra-curricular activities and other duties as assigned by the cooperating teacher and supervisor will be expected. Students will be involved in the development of lessons, materials, and units for infants and toddlers. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ECE491": {
+    "course_id": "ECE491",
+    "title": "ECE 491 Supervised Teaching (Preschool/Kindergarten Settings)",
+    "req": "<em>Prerequisite: all program courses except <span data-link='CFD560'>CFD 560</span> and <span data-link='CFD563'>CFD 563</span> which may be taken with or at the completion of supervised teaching; a grade of &quot;C&quot; or better in all professional education courses; current pre-professional liability insurance; and approval for supervised teaching.</em>",
+    "desc": "Students will observe then teach under the supervision of the cooperating teacher and university supervisor. Participation in extra-curricular activities and other duties as assigned by the cooperating teacher and university supervisor. Students will be involved in the development of lessons, materials, and units appropriate for preschool and Kindergarten children. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ECE492": {
+    "course_id": "ECE492",
+    "title": "ECE 492 Supervised Teaching (Primary Settings)",
+    "req": "<em>Prerequisite: all program courses except <span data-link='CFD560'>CFD 560</span> and <span data-link='CFD563'>CFD 563</span> which may be taken with or at the completion of supervised teaching; a grade of &quot;C&quot; or better in all professional education courses; current pre-professional liability insurance; and approval for supervised teaching.</em>",
+    "desc": "Students will observe then teach under the supervision of the cooperating teacher and university supervisor. Participation in extra-curricular activities and other duties as assigned by the cooperating teacher and university supervisor. Students will be involved in the development of lessons, materials, and units appropriate for children in primary settings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ECE499": {
+    "course_id": "ECE499",
+    "title": "ECE 499 Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate masters-level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ECE501": {
+    "course_id": "ECE501",
+    "title": "ECE 501 Home/School/Community Relationships with Young Children and Their Families",
+    "req": "<em>Prerequisite: Elementary Education undergraduate students must take <span data-link='ELE500'>ELE 500</span> concurrently.</em>",
+    "desc": "This course offers a transdisciplinary approach designed to enhance the student&apos;s understanding of the transactional relationship between the school, child and family. Particular emphasis is placed on family development and dynamics within a pluralistic society including the role that family functioning has on the child&apos;s total educational experience. May be taught concurrently with <span data-link='ECE601'>ECE 601</span>. Cannot receive credit for both <span data-link='ECE601'>ECE 601</span> and <span data-link='ECE501'>ECE 501</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECE601": {
+    "course_id": "ECE601",
+    "title": "ECE 601 Home/School/Community Relationships with Young Children and Their Families",
+    "desc": "This course offers a transdisciplinary approach designed to enhance the student&apos;s understanding of the transactional relationship between the school, child and family. Particular emphasis is placed on family development and dynamics within a pluralistic society including the role that family functioning has on the child&apos;s total educational experience. May be taught concurrently with <span data-link='ECE501'>ECE 501</span>. Cannot receive credit for both <span data-link='ECE501'>ECE 501</span> and <span data-link='ECE601'>ECE 601</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECE705": {
+    "course_id": "ECE705",
+    "title": "ECE 705 Field Experiences in Early Childhood Education",
+    "desc": "Students participate in field experiences in area schools and other educational settings. This course will provide field experiences with three different age groups (birth-3; 3-5; 5-8). Course is designated for graduate students needing field experiences to meet certification requirements in Early Childhood Education. Students will attend weekly scheduled class discussion sessions on campus in addition to the required field work of 15 clock hours for every credit hour. May be repeated for a maximum of three hours of credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECE724": {
+    "course_id": "ECE724",
+    "title": "ECE 724 Foundations of Early Childhood Education",
+    "desc": "Course will focus on the historical, psychological, philosophical, and social foundations of early childhood education. Theories and research are integrated with practical knowledge. Students will examine philosophy, curriculum, methodology, service delivery systems, and family involvement issues. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECE725": {
+    "course_id": "ECE725",
+    "title": "ECE 725 Inquiry in Early Childhood and Family Development",
+    "desc": "Inquiry in early childhood and family development. Introduction to the techniques used by education and social scientists to answer empirical questions. Includes in-depth analysis of current program-relevant theoretical and empirical studies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ECE726": {
+    "course_id": "ECE726",
+    "title": "ECE 726 Programming and Policy Issues for Early Childhood Settings",
+    "desc": "Analysis of programs, policies and theories appropriate for young children and their families in a variety of early childhood settings. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ECE727": {
+    "course_id": "ECE727",
+    "title": "ECE 727 Children and Families in a Diverse Society",
+    "desc": "Examination of diverse cultures in American society. An analysis of racism, sexism, and other diversity issues within the school and community. Discussion of child development within different cultures and identifying changing family and community structures. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECE728": {
+    "course_id": "ECE728",
+    "title": "ECE 728 The Educational Role of Play",
+    "desc": "A study of the social, emotional, cognitive, and language development of young children through play. Attention is given to the use of play in the organization and development of the early childhood classroom and curriculum. Current models of early childhood curriculum and their relationship to support of play will be explored. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECE729": {
+    "course_id": "ECE729",
+    "title": "ECE 729 Literacy in Early Childhood",
+    "desc": "Develops awareness of and support for children&apos;s literacy knowledge as it grown and changes in the years from birth through early elementary school. This course emphasizes the supportive nature of the adult&apos;s role in young children&apos;s literacy learning. Descriptions of relevant, meaningful literacy events and suggestions for classroom or home support will be presented. Current research that has a bearing on methodology will be explored. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECE730": {
+    "course_id": "ECE730",
+    "title": "ECE 730 Family Literacy",
+    "desc": "Introduction to the philosophy and theory behind family literacy, as well as discussion on the development and implementation of a family literacy program. The four-component model of adult education, early childhood education, parent and child together (PACT), and parenting will be covered, both in theory and practical application. Explores the rationale for and characteristics of comprehensive family literacy, focusing upon the families being served, services being provided, outcomes being achieved, and the role and responsibilities of individuals, organizations, and communities involved. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECE762": {
+    "course_id": "ECE762",
+    "title": "ECE 762 Seminar in Early Childhood and Family Development",
+    "req": "<em>Prerequisite: <span data-link='ECE771'>ECE 771</span>.</em>",
+    "desc": "Guided development of research paper focused on field of Early Childhood and Family Development. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ECE771": {
+    "course_id": "ECE771",
+    "title": "ECE 771 Proposal Development",
+    "req": "<em>Prerequisite: <span data-link='ECE725'>ECE 725</span> and <span data-link='SFR780'>SFR 780</span>.</em>",
+    "desc": "Development of proposal for seminar paper. Proposal must be approved prior to data collection. Human subjects review will also be completed. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "EEM305": {
+    "course_id": "EEM305",
+    "title": "EEM 305 Field Experiences in Education",
+    "req": "<em>Prerequisite: admitted to Teacher Education Program.</em>",
+    "desc": "Student attends scheduled discussion sessions on campus and participates in field experiences at Greenwood Laboratory School and/or area schools. Designed for transfer students who have partially completed the field experiences requirement and students working on a certification which requires a second field experience. 1(0-2) or ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "EEM399": {
+    "course_id": "EEM399",
+    "title": "EEM 399 Problems in Education",
+    "req": "<em>Prerequisite: admitted to Teacher Education Program and permission of department head.</em>",
+    "desc": "Independent research conducted on topics relevant to the field of education. The student and instructor mutually agree upon the direction and extent of the project. Credited only on the BSEd degrees. May be repeated to a maximum of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "EEM501": {
+    "course_id": "EEM501",
+    "title": "EEM 501 Introduction to Technology-Based Inquiry Instruction",
+    "req": "<em>Prerequisite: admitted to Teacher Education Program.</em>",
+    "desc": "Introduction to eMINTS philosophy and instructional model for teachers, emphasis on constructivist-based pedagogies, questioning strategies and critical thinking; use of educational software, Internet resources and classroom website design and development. Eight clock hours field experience embedded. May be taught concurrently with <span data-link='EEM601'>EEM 601</span>. Cannot receive credit for both <span data-link='EEM501'>EEM 501</span> and <span data-link='EEM601'>EEM 601</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "EEM502": {
+    "course_id": "EEM502",
+    "title": "EEM 502 Applications of Technology-Based Inquiry Instruction",
+    "req": "<em>Prerequisite: admitted to Teacher Education Program; and <span data-link='EEM501'>EEM 501</span> with grade of C or better.</em>",
+    "desc": "Application of eMINTS philosophy, instructional model and teaching strategies; emphasis on cooperative learning, instructional use of interactive whiteboards, information literacy and modes of classroom communication, digital file management, Webquest development and multimedia project design and development. Eight clock hours field experience embedded. May be taught concurrently with <span data-link='EEM602'>EEM 602</span>. Cannot receive credit for both <span data-link='EEM502'>EEM 502</span> and <span data-link='EEM602'>EEM 602</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "EEM503": {
+    "course_id": "EEM503",
+    "title": "EEM 503 Implementing Technology-Based Inquiry Instruction",
+    "req": "<em>Prerequisite: admitted to Teacher Education Program; and <span data-link='EEM501'>EEM 501</span> and <span data-link='EEM502'>EEM 502</span> with grades of C or better.</em>",
+    "desc": "Third course in eMINTS 3-course sequence. Emphasis on building a learning community, classroom management, instructional planning and implementation in a technology enriched classroom, interdisciplinary teaching methods, technology-assisted assessment, collaborative reflection to improve student performance. Eight clock hours field experience embedded. May be taught concurrently with <span data-link='EEM603'>EEM 603</span>. Cannot receive credit for both <span data-link='EEM503'>EEM 503</span> and <span data-link='EEM603'>EEM 603</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "EEM516": {
+    "course_id": "EEM516",
+    "title": "EEM 516 Nature Unfolds",
+    "req": "<em>Prerequisite: one college level science course, <span data-link='BIO100'>BIO 100</span> recommended; GPA of at least 2.75.</em>",
+    "desc": "Students will increase their awareness, knowledge, and appreciation of Missouri habitats and wildlife resources and learn fundamental life and earth science related concepts by experiencing ways to use inquiry-based instructional methods in primary grades. This is one of four courses required to satisfy the conservation education area of emphasis. May be taught concurrently with <span data-link='EEM616'>EEM 616</span>. Cannot receive credit for both <span data-link='EEM516'>EEM 516</span> and <span data-link='EEM616'>EEM 616</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "EEM517": {
+    "course_id": "EEM517",
+    "title": "EEM 517 Nature Unleased",
+    "req": "<em>Prerequisite: one college level science course, <span data-link='BIO100'>BIO 100</span> recommended; GPA of at least 2.75.</em>",
+    "desc": "Students will increase their awareness, knowledge, and appreciation of Missouri habitats and wildlife resources and learn fundamental life and earth science related concepts by experiencing ways to use inquiry-based instructional methods in intermediate grades. This is one of four courses required to satisfy the conservation education area of emphasis. May be taught concurrently with <span data-link='EEM617'>EEM 617</span>. Cannot receive credit for both <span data-link='EEM517'>EEM 517</span> and <span data-link='EEM617'>EEM 617</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "EEM518": {
+    "course_id": "EEM518",
+    "title": "EEM 518 Project Wet, WILD, and Learning Tree",
+    "req": "<em>Prerequisite: one college level science course, <span data-link='BIO100'>BIO 100</span> recommended; GPA of at least 2.75.</em>",
+    "desc": "Students will develop skills and knowledge of conservation education using the Project Wet, WILD, and Learning Tree curriculums, which requires handling specific materials, using technology in science learning, and learning from investigations. This is one of four courses required to satisfy the conservation education area of emphasis. May be taught concurrently with <span data-link='EEM618'>EEM 618</span>. Cannot receive credit for both <span data-link='EEM518'>EEM 518</span> and <span data-link='EEM618'>EEM 618</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "EEM519": {
+    "course_id": "EEM519",
+    "title": "EEM 519 Nature Unhooked: Conserving Missouri's Aquatic Ecosystems",
+    "req": "<em>Prerequisite: one college level science course, <span data-link='BIO100'>BIO 100</span> recommended; GPA of at least 2.75.</em>",
+    "desc": "Students will develop foundational field biology skills related to Missouri&apos;s aquatic ecosystems in order to teach in a structured educational mode, via an outdoor setting. This is one of four courses required to satisfy the conservation education area of emphasis. May be taught concurrently with <span data-link='EEM619'>EEM 619</span>. Cannot receive credit for both <span data-link='EEM519'>EEM 519</span> and <span data-link='EEM619'>EEM 619</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "EEM576": {
+    "course_id": "EEM576",
+    "title": "EEM 576 Topical Issues in Education",
+    "req": "<em>Prerequisite: permission may be required, see schedule.</em>",
+    "desc": "To develop further understanding and skills in the improvement of teaching procedures, curriculum, supervision, or administration. Each course is concerned with a single topic. Number of class hours determined by semester hours of credit. A maximum of 3 hours may be used on a degree program. Variable content course. May be taught concurrently with <span data-link='EEM676'>EEM 676</span>. Cannot receive credit for both <span data-link='EEM676'>EEM 676</span> and <span data-link='EEM576'>EEM 576</span>. 1-5 D. Approved recurring course topic: B.E.A.R.S. Seminars. A series of seven (7) seminars with different topics designed to enhance and develop further understanding and skills in the improvement of teaching procedures for beginning educators. Seminars are offered monthly, with the exception of December, beginning in September and ending in April. Participation in at least six (6) of these seminars is required for credit. Participants will receive an &quot;I&quot; grade for the course due to the course extending through the spring semester. Grades will be changed at the end of the spring semester as requirements are met. This course is available to both beginning and veteran educators and satisfies the initial certification requirement of attending a beginning teacher assistance program with a college or university. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "EEM596": {
+    "course_id": "EEM596",
+    "title": "EEM 596 Orientation for Intensive Language and Cultural Experience for Educators",
+    "req": "<em>Prerequisite: previous foreign language experience, participation in Hispanic Educational Access Initiative, and permission of instructor; students selected by application and interview process.</em>",
+    "desc": "Prepare for international travel and exposure to the people, cultures and primary language of the host country. Students develop an introspective case study proposal to be carried out during and/or after the experience abroad. Field trips outside class are required. May be taught concurrently with <span data-link='EEM606'>EEM 606</span>. Cannot receive credit for both <span data-link='EEM606'>EEM 606</span> and <span data-link='EEM596'>EEM 596</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "EEM597": {
+    "course_id": "EEM597",
+    "title": "EEM 597 Intensive Language and Cultural Experience for Educators",
+    "req": "<em>Prerequisite: <span data-link='EEM596'>EEM 596</span> and permission of instructor.</em>",
+    "desc": "Experience three weeks of exposure to the educational system, culture and language of the host country while reflecting on their own learning. Students will conducted an introspective case study, keep a journal, and create a portfolio. May be taught concurrently with <span data-link='EEM607'>EEM 607</span>. Cannot receive credit for both <span data-link='EEM607'>EEM 607</span> and <span data-link='EEM597'>EEM 597</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "EEM598": {
+    "course_id": "EEM598",
+    "title": "EEM 598 Post-Travel Seminar for Intensive Language and Cultural Experience for Educators",
+    "req": "<em>Prerequisite: <span data-link='EEM596'>EEM 596</span> and <span data-link='EEM597'>EEM 597</span> and permission of instructor.</em>",
+    "desc": "Post-travel seminar deconstructs experience abroad. Students discuss strategies used as a learner and analyze effective teaching techniques. Participants compare cultural and language differences that teachers need to consider in teaching students in a new language. Introspective case study research and portfolios will be shared. May be taught concurrently with <span data-link='EEM608'>EEM 608</span>. Cannot receive credit for both <span data-link='EEM608'>EEM 608</span> and <span data-link='EEM598'>EEM 598</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "EEM601": {
+    "course_id": "EEM601",
+    "title": "EEM 601 Introduction to Technology-Based Inquiry Instruction",
+    "desc": "Introduction to eMINTS philosophy and instructional model for teachers, emphasis on constructivist-based pedagogies, questioning strategies and critical thinking; use of educational software, Internet resources and classroom website design and development. Eight clock hours field experience embedded. May be taught concurrently with <span data-link='EEM501'>EEM 501</span>. Cannot receive credit for both <span data-link='EEM601'>EEM 601</span> and <span data-link='EEM501'>EEM 501</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "EEM602": {
+    "course_id": "EEM602",
+    "title": "EEM 602 Applications of Technology-Based Inquiry Instruction",
+    "req": "<em>Prerequisite: <span data-link='EEM601'>EEM 601</span> with grade of C or better.</em>",
+    "desc": "Application of eMINTS philosophy, instructional model and teaching strategies; emphasis on cooperative learning, instructional use of interactive whiteboards, information literacy and modes of classroom communication, digital file management, webquest development and multimedia project design and development. Eight clock hours field experience embedded. May be taught concurrently with <span data-link='EEM502'>EEM 502</span>. Cannot receive credit for both <span data-link='EEM602'>EEM 602</span> and <span data-link='EEM502'>EEM 502</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "EEM603": {
+    "course_id": "EEM603",
+    "title": "EEM 603 Implementing Technology-Based Inquiry Instruction",
+    "req": "<em>Prerequisite: <span data-link='EEM601'>EEM 601</span> and <span data-link='EEM602'>EEM 602</span> with grades of C or better.</em>",
+    "desc": "Third course in eMINTS 3-course sequence. Emphasis on building a learning community, classroom management, instructional planning and implementation in a technology enriched classroom, interdisciplinary teaching methods, technology-assisted assessment, collaborative reflection to improve student performance. Eight clock hours field experience embedded. May be taught concurrently with <span data-link='EEM503'>EEM 503</span>. Cannot receive credit for both <span data-link='EEM603'>EEM 603</span> and <span data-link='EEM503'>EEM 503</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "EEM606": {
+    "course_id": "EEM606",
+    "title": "EEM 606 Orientation for Intensive Language and Cultural Experience for Educators",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Students selected by application and interview process. Prepare for international travel and exposure to the people, cultures and primary language of the host country. Students develop an introspective case study proposal to be carried out during and/or after the experience abroad. Field trips outside class are required. May be taught concurrently with <span data-link='EEM596'>EEM 596</span>. Cannot receive credit for both <span data-link='EEM596'>EEM 596</span> and <span data-link='EEM606'>EEM 606</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "EEM607": {
+    "course_id": "EEM607",
+    "title": "EEM 607 Intensive Language and Cultural Experience for Educators",
+    "req": "<em>Prerequisite: <span data-link='EEM606'>EEM 606</span> and permission.</em>",
+    "desc": "Experience three weeks of exposure to the educational system, culture and language of the host country while reflecting on their own learning. Students will conducted an introspective case study, keep a journal, and create a portfolio. May be taught concurrently with <span data-link='EEM597'>EEM 597</span>. Cannot receive credit for both <span data-link='EEM597'>EEM 597</span> and <span data-link='EEM607'>EEM 607</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "EEM608": {
+    "course_id": "EEM608",
+    "title": "EEM 608 Post-Travel Seminar for Intensive Language and Cultural Experience for Educators",
+    "req": "<em>Prerequisite: <span data-link='EEM606'>EEM 606</span> and <span data-link='EEM607'>EEM 607</span> and permission.</em>",
+    "desc": "Post-travel seminar deconstructs experience abroad. Students discuss strategies used as a learner and analyze effective teaching techniques. Participants compare cultural and language differences that teachers need to consider in teaching students in a new language. Introspective case study research and portfolios will be shared. May be taught concurrently with <span data-link='EEM598'>EEM 598</span>. Cannot receive credit for both <span data-link='EEM598'>EEM 598</span> and <span data-link='EEM608'>EEM 608</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "EEM616": {
+    "course_id": "EEM616",
+    "title": "EEM 616 Nature Unfolds",
+    "desc": "Students will increase their awareness, knowledge, and appreciation of Missouri habitats and wildlife resources and learn fundamental life and earth science related concepts by experiencing ways to use inquiry-based instructional methods in primary grades. This is one of four courses required to satisfy the conservation education area of emphasis. May be taught concurrently with <span data-link='EEM516'>EEM 516</span>. Cannot receive credit for both <span data-link='EEM616'>EEM 616</span> and <span data-link='EEM516'>EEM 516</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "EEM617": {
+    "course_id": "EEM617",
+    "title": "EEM 617 Nature Unleashed",
+    "desc": "Students will increase their awareness, knowledge, and appreciation of Missouri habitats and wildlife resources and learn fundamental life and earth science related concepts by experiencing ways to use inquiry-based instructional methods in intermediate grades. This is one of four courses required to satisfy the conservation education area of emphasis. May be taught concurrently with <span data-link='EEM517'>EEM 517</span>. Cannot receive credit for both <span data-link='EEM617'>EEM 617</span> and <span data-link='EEM517'>EEM 517</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "EEM618": {
+    "course_id": "EEM618",
+    "title": "EEM 618 Project Wet, WILD, and Learning Tree",
+    "desc": "Students will develop skills and knowledge of conservation education using the Projects Wet, WILD, and Learning Tree curriculums, which requires handling specific materials, using technology in science learning, and learning from investigations. This is one of four courses required to satisfy the conservation education area of emphasis. May be taught concurrently with <span data-link='EEM518'>EEM 518</span>. Cannot receive credit for both <span data-link='EEM618'>EEM 618</span> and <span data-link='EEM518'>EEM 518</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "EEM619": {
+    "course_id": "EEM619",
+    "title": "EEM 619 Nature Unhooked: Conserving Missouri's Aquatic Ecosystems",
+    "desc": "Students will develop foundational field biology skills related to Missouri&apos;s aquatic ecosystems in order to teach in a structured educational mode, via an outdoor setting. This is one of four courses required to satisfy the conservation education area of emphasis. May be taught concurrently with <span data-link='EEM519'>EEM 519</span>. Cannot receive credit for both <span data-link='EEM619'>EEM 619</span> and <span data-link='EEM519'>EEM 519</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "EEM676": {
+    "course_id": "EEM676",
+    "title": "EEM 676 Topical Issues in Education",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "To develop further understanding and skills in the improvement of teaching procedures, curriculum, supervision, or administration. Each course is concerned with a single topic. Number of class hours determined by semester hours of credit. A maximum of 3 hours may be used on a degree program. Variable Content Course. Approved recurring course topic: B.E.A.R.S. Seminars. 1(1-0) F. A series of seven (7) seminars with different topics designed to enhance and develop further understanding and skills in the improvement of teaching procedures for beginning educators. Seminars are offered monthly, with the exception of December, beginning in September and ending in April. Participation in at least six (6) of these seminars is required for credit. Participants will receive an &quot;I&quot; grade for the course due to the course extending through the spring semester. Grades will be changed at the end of the spring semester as requirements are met. This course is available to both beginning and veteran educators and satisfies the initial certification requirement of attending a beginning teacher assistance program with a college or university. Variable Content Course. May be taught concurrently with <span data-link='EEM576'>EEM 576</span>. Cannot receive credit for both <span data-link='EEM576'>EEM 576</span> and <span data-link='EEM676'>EEM 676</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EEM796": {
+    "course_id": "EEM796",
+    "title": "EEM 796 Problems in Education",
+    "desc": "Specific problems in education related to needs and interests of the student. May be repeated to a total of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EEM799": {
+    "course_id": "EEM799",
+    "title": "EEM 799 Thesis",
+    "req": "<em>Prerequisite: <span data-link='ELE711'>ELE 711</span> and <span data-link='SFR780'>SFR 780</span> and permission.</em>",
+    "desc": "May be repeated to a maximum of 6 hours credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ELE300": {
+    "course_id": "ELE300",
+    "title": "ELE 300 Service Learning in Elementary Education",
+    "req": "<em>Prerequisite: <span data-link='EDC150'>EDC 150</span> and completion of 30 hours; and concurrent registration in an ELE course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in Elementary Education to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of an participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ELE302": {
+    "course_id": "ELE302",
+    "title": "ELE 302 Introduction to Elementary Education and Clinical/Field Experience",
+    "req": "<em>Prerequisite: attempted Missouri State Board of Education entry examination.</em>",
+    "desc": "An overview of elementary school organization, management techniques, and personalized teaching styles for use with children including those from various cultural backgrounds and exceptional children who are mainstreamed in regular classrooms. Students will participate in a 30 clock hour field experience at Greenwood Laboratory School and/or area elementary schools. A grade of &quot;C&quot; or better is required in this course to enroll in supervised teaching. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE400": {
+    "course_id": "ELE400",
+    "title": "ELE 400 Elementary Integrated Methods and Practicum",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='KIN400'>KIN 400</span> required when enrolling in <span data-link='ELE400'>ELE 400</span> for 2 hours; and <span data-link='SPE310'>SPE 310</span>; and concurrent enrollment in <span data-link='ELE429'>ELE 429</span> and/or <span data-link='ELE434'>ELE 434</span> and/or <span data-link='ELE438'>ELE 438</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "Comprehensive practicum application of techniques and materials for promoting learning in the arts and physical education with language arts, mathematics, science, social studies, in area school classrooms where students will plan, teach, and assess integrated learning opportunities in the elementary core and integrated arts curriculum. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ELE410": {
+    "course_id": "ELE410",
+    "title": "ELE 410 Teaching and Learning in the Elementary Classroom",
+    "req": "<em>Prerequisite: admitted to Teacher Education Program.</em>",
+    "desc": "This course introduces approaches to instruction and assessment and supporting learning and motivation theories; physical, social, emotional, and cognitive characteristics of children; methods of designing instruction to meet diverse learner needs; and educator&apos;s professional code of ethical conduct. Required first portfolio checkpoint will occur in this course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE425": {
+    "course_id": "ELE425",
+    "title": "ELE 425 Methods of Teaching Communication Arts in Elementary Schools",
+    "req": "<em>Prerequisite: 6 hours of English; <span data-link='ELE410'>ELE 410</span> and <span data-link='RDG420'>RDG 420</span> and <span data-link='RDG421'>RDG 421</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "Emphasis on instruction and assessment in the teaching of basic English Language Arts skills (writing, speaking and listening) and individualized instruction in English Language Arts for elementary and middle school programs. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE429": {
+    "course_id": "ELE429",
+    "title": "ELE 429 Methods of Teaching of Mathematics in Elementary Schools",
+    "req": "<em>Prerequisite: a grade of &quot;B&quot; or better in <span data-link='ELE410'>ELE 410</span> and <span data-link='RDG420'>RDG 420</span> and <span data-link='RDG421'>RDG 421</span>; and a grade of &quot;C&quot; or better in <span data-link='MTH320'>MTH 320</span> and <span data-link='MTH360'>MTH 360</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "Emphasis upon diagnosis of skill level development, teaching basic mathematical skills, and individualizing instruction in mathematics for elementary and middle school programs. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE434": {
+    "course_id": "ELE434",
+    "title": "ELE 434 Methods of Teaching Science in Elementary Schools",
+    "req": "<em>Prerequisite: a grade of &quot;B&quot; or better in <span data-link='ELE410'>ELE 410</span> and <span data-link='RDG420'>RDG 420</span> and <span data-link='RDG421'>RDG 421</span>; and a grade of &quot;C&quot; or better in 8 hours of science (one biology and one physical science); and admitted to Teacher Education Program.</em>",
+    "desc": "Recommended Prerequisite: concurrent enrollment in <span data-link='GRY240'>GRY 240</span>. Current issues and approaches in teaching elementary school science to children, including exceptional children who are mainstreamed in regular classrooms. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE438": {
+    "course_id": "ELE438",
+    "title": "ELE 438 Methods of Teaching Social Studies in Elementary Schools",
+    "req": "<em>Prerequisite: a grade of &quot;B&quot; or better in <span data-link='ELE410'>ELE 410</span> and <span data-link='RDG420'>RDG 420</span> and <span data-link='RDG421'>RDG 421</span>; and a grade of &quot;C&quot; or better in <span data-link='HST121'>HST 121</span> or <span data-link='HST122'>HST 122</span> and <span data-link='PLS101'>PLS 101</span> and <span data-link='GRY100'>GRY 100</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "Emphasis upon teaching social studies, skills generalizations, attitudes, and values and the development and use of appropriate learning materials and evaluation instruments for elementary and middle school programs. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE440": {
+    "course_id": "ELE440",
+    "title": "ELE 440 Classroom Management and Assessment in the Elementary Classroom",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='ELE429'>ELE 429</span> and/or <span data-link='ELE434'>ELE 434</span> and/or <span data-link='ELE438'>ELE 438</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "Planning, constructing, using, and analyzing a variety of assessment practices to support reflective decision making in the elementary classroom. Theoretical foundations of current approaches and application of best practices in classroom management including management of time, space, transactions and activities effectively with an emphasis on approaches to prevent and/or manage disruptive behavior. A 30 hour field experience in area school classrooms is required as a part of this course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ELE458": {
+    "course_id": "ELE458",
+    "title": "ELE 458 Theory Into Practice",
+    "req": "<em>Prerequisite: concurrent enrollment with <span data-link='ELE495'>ELE 495</span>.</em>",
+    "desc": "Experiences to integrate knowledge of methodology in practical teaching situations. Individual experiences designed to supplement previous coursework will be provided. Professional development plans, placement activities and sources of professional assistance will be examined. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE495": {
+    "course_id": "ELE495",
+    "title": "ELE 495 Supervised Teaching (Elementary)",
+    "req": "<em>Prerequisite: a grade of &quot;B&quot; or better in all professional education courses; current pre-professional liability insurance; and approval for supervised teaching.</em>",
+    "desc": "Student observes then teaches under the direction of the cooperating teacher and university supervisor. Students participate in extra-curricular activities and attend both individual and group conferences. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE496": {
+    "course_id": "ELE496",
+    "title": "ELE 496 Supervised Teaching (Elementary)",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='ELE495'>ELE 495</span>.</em>",
+    "desc": "Student observes then teaches under the direction of the cooperating teacher and university supervisor. Student participates in school-related activities and attends both individual and group conferences. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE499": {
+    "course_id": "ELE499",
+    "title": "ELE 499 Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: a grade of &quot;B&quot; or better in <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and a grade of &quot;B&quot; or better in all professional education courses; and a grade of &quot;B&quot; or better in <span data-link='ELE429'>ELE 429</span> or <span data-link='ELE603'>ELE 603</span> and <span data-link='ELE434'>ELE 434</span> or <span data-link='ELE604'>ELE 604</span> and <span data-link='ELE438'>ELE 438</span> or <span data-link='ELE602'>ELE 602</span> and <span data-link='ELE500'>ELE 500</span> or <span data-link='ELE600'>ELE 600</span> and <span data-link='ELE510'>ELE 510</span> or <span data-link='ELE605'>ELE 605</span> and <span data-link='RDG420'>RDG 420</span> or <span data-link='RDG656'>RDG 656</span> and <span data-link='RDG421'>RDG 421</span> or <span data-link='RDG656'>RDG 656</span>; and a grade of &quot;C&quot; or better in <span data-link='MTH320'>MTH 320</span> and <span data-link='MTH360'>MTH 360</span> and <span data-link='HST121'>HST 121</span> or <span data-link='HST122'>HST 122</span> and <span data-link='PLS101'>PLS 101</span> and <span data-link='GRY100'>GRY 100</span> and <span data-link='GRY240'>GRY 240</span> and 8 hours of science (one biology and one physical science); and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate masters-level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE500": {
+    "course_id": "ELE500",
+    "title": "ELE 500 Current Issues and Applications in Elementary Education",
+    "req": "<em>Prerequisite: grade of &quot;B&quot; or better in <span data-link='ELE429'>ELE 429</span> and <span data-link='ELE434'>ELE 434</span> and <span data-link='ELE438'>ELE 438</span> and <span data-link='RDG420'>RDG 420</span> and <span data-link='RDG421'>RDG 421</span>; and grade of &quot;C&quot; or better in <span data-link='GRY240'>GRY 240</span>; and concurrent enrollment in <span data-link='ELE510'>ELE 510</span>.</em>",
+    "desc": "Application of current innovations and examination of contemporary issues facing elementary teachers including classroom management, inclusion, English language learners, integrated planning and instruction with art, music, health and physical education. A comprehensive field experience in area school classrooms is required. May be taught concurrently with <span data-link='ELE600'>ELE 600</span>. Cannot receive credit for both <span data-link='ELE600'>ELE 600</span> and <span data-link='ELE500'>ELE 500</span>. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE501": {
+    "course_id": "ELE501",
+    "title": "ELE 501 Home/School/Community Relationships with Elementary Children and their Families",
+    "req": "<em>Prerequisite: grade of &quot;B&quot; or better in <span data-link='ELE429'>ELE 429</span> and <span data-link='ELE434'>ELE 434</span> and <span data-link='ELE438'>ELE 438</span> and <span data-link='RDG420'>RDG 420</span> and <span data-link='RDG421'>RDG 421</span>; and concurrent enrollment in <span data-link='ELE500'>ELE 500</span>.</em>",
+    "desc": "This course is designed to enhance the teacher candidate&apos;s collaboration skills and understanding of the relationships between school, colleagues, community, child and family. Emphasis is placed on diverse family dynamics within a pluralistic society including the role family functioning has on the child&apos;s total educational experience and children as individual learners. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE502": {
+    "course_id": "ELE502",
+    "title": "ELE 502 Integrated Arts in Elementary Education Curriculum",
+    "req": "<em>Prerequisite: grade of &quot;B&quot; or better in <span data-link='ELE429'>ELE 429</span> and <span data-link='ELE434'>ELE 434</span> and <span data-link='ELE438'>ELE 438</span> and <span data-link='RDG420'>RDG 420</span> and <span data-link='RDG421'>RDG 421</span>; and concurrent enrollment in <span data-link='ELE500'>ELE 500</span>.</em>",
+    "desc": "Methods and strategies for using the arts as tools for learning in the contemporary regular elementary school classroom which includes children of diverse cultures and abilities. Provides culturally responsive instructional models and materials that meaningfully integrate visual and theatre arts and music as primary modes of communication and insight to enhance teaching and learning. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE510": {
+    "course_id": "ELE510",
+    "title": "ELE 510 The Reflective Practitioner",
+    "req": "<em>Prerequisite: grade of &quot;B&quot; or better in <span data-link='ELE429'>ELE 429</span> and <span data-link='ELE434'>ELE 434</span> and <span data-link='ELE438'>ELE 438</span> and <span data-link='RDG420'>RDG 420</span> and <span data-link='RDG421'>RDG 421</span>; and concurrent enrollment in <span data-link='ELE500'>ELE 500</span>.</em>",
+    "desc": "Introduces students to action research as reflection on their own teaching and learning, and their students&apos; learning and achievement. Requires an intensive field experience in area elementary school. May be taught concurrently with <span data-link='ELE605'>ELE 605</span>. Cannot receive credit for both <span data-link='ELE605'>ELE 605</span> and <span data-link='ELE510'>ELE 510</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE530": {
+    "course_id": "ELE530",
+    "title": "ELE 530 Teaching English Language Learners in the Elementary Classroom",
+    "req": "<em>Prerequisite: grade of &quot;B&quot; or better in <span data-link='ELE429'>ELE 429</span> and <span data-link='ELE434'>ELE 434</span> and <span data-link='ELE438'>ELE 438</span> and <span data-link='RDG420'>RDG 420</span> and <span data-link='RDG421'>RDG 421</span>.</em>",
+    "desc": "Focuses on state and federal mandates for educating English language learners in U.S. public schools. Introduces the fundamentals of second language acquisition and instructed academic language learning. Emphasis on current, standards-based approaches to teaching English language learners in the regular elementary classroom through differentiation and sheltered instruction of grade-level content. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE600": {
+    "course_id": "ELE600",
+    "title": "ELE 600 Current Issues and Applications in Elementary Education",
+    "req": "<em>Prerequisite: grade of &quot;B&quot; or better in <span data-link='ELE429'>ELE 429</span> or <span data-link='ELE603'>ELE 603</span>, and <span data-link='ELE434'>ELE 434</span> or <span data-link='ELE604'>ELE 604</span>, and <span data-link='ELE438'>ELE 438</span> or <span data-link='ELE602'>ELE 602</span>, and <span data-link='RDG420'>RDG 420</span> or <span data-link='RDG656'>RDG 656</span>, and <span data-link='RDG421'>RDG 421</span> or <span data-link='RDG656'>RDG 656</span>; and grade of &quot;C&quot; or better in <span data-link='GRY240'>GRY 240</span>; and concurrent enrollment in <span data-link='ELE605'>ELE 605</span>.</em>",
+    "desc": "Application of current innovations and examination of contemporary issues facing elementary teachers including classroom management, inclusion, English language learners, integrated planning and instruction with art, music, health and physical education. A comprehensive field experience in area school classrooms is required. May be taught concurrently with <span data-link='ELE500'>ELE 500</span>. Cannot receive credit for both <span data-link='ELE500'>ELE 500</span> and <span data-link='ELE600'>ELE 600</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE601": {
+    "course_id": "ELE601",
+    "title": "ELE 601 Communication Arts Instruction in the Elementary School",
+    "req": "<em>Prerequisite: <span data-link='ELE302'>ELE 302</span> and permission of Director of Graduate Program in consultation with the Teacher Certification and Compliance Office.</em>",
+    "desc": "Study of the development of language and communication abilities, procedures and instruments for assessing language development, and techniques and materials for promoting development in communication skills for elementary and middle school programs. Critical review of current research-based practices will be required as well as application of those strategies in lesson planning. Course limited to certification students only. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE602": {
+    "course_id": "ELE602",
+    "title": "ELE 602 Social Studies Instruction in the Elementary School",
+    "req": "<em>Prerequisite: grade of &quot;B&quot; or better in <span data-link='ELE410'>ELE 410</span>, and <span data-link='RDG420'>RDG 420</span> or <span data-link='RDG656'>RDG 656</span>, and <span data-link='RDG421'>RDG 421</span> or <span data-link='RDG656'>RDG 656</span>; and grade of &quot;C&quot; or better in <span data-link='HST121'>HST 121</span> or 122, and <span data-link='PLS101'>PLS 101</span> and <span data-link='GRY100'>GRY 100</span>; and admission to graduate Elementary Education program.</em>",
+    "desc": "Current issues and approaches in teaching elementary school social studies to children including exceptional children who are mainstreamed in the regular classroom. Critical review of current research-based practices will be required as well as application of those strategies in lesson planning and teaching. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE603": {
+    "course_id": "ELE603",
+    "title": "ELE 603 Mathematics Instruction in Elementary Schools",
+    "req": "<em>Prerequisite: grade of &quot;B&quot; or better in <span data-link='ELE410'>ELE 410</span>, and <span data-link='RDG420'>RDG 420</span> or <span data-link='RDG656'>RDG 656</span>, and <span data-link='RDG421'>RDG 421</span> or <span data-link='RDG656'>RDG 656</span>; and grade of &quot;C&quot; or better in <span data-link='MTH320'>MTH 320</span> and <span data-link='MTH360'>MTH 360</span>; and admission to graduate Elementary Education program.</em>",
+    "desc": "Emphasis upon diagnosis of skill level development, teaching basic mathematical skills, and individualizing instruction in mathematics for elementary and middle school programs. Critical review of current research-based practices will be required as well as application of those strategies in lesson planning. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE604": {
+    "course_id": "ELE604",
+    "title": "ELE 604 Science Instruction in the Elementary School",
+    "req": "<em>Prerequisite: grade of &quot;B&quot; or better in <span data-link='ELE410'>ELE 410</span>, and <span data-link='RDG420'>RDG 420</span> or <span data-link='RDG656'>RDG 656</span>, and <span data-link='RDG421'>RDG 421</span> or <span data-link='RDG656'>RDG 656</span>; and grade of &quot;C&quot; or better in 8 hours of science (one biology and one physical science); and admission to graduate Elementary Education program.</em>",
+    "desc": "Current issues and approaches in teaching elementary school science to children including exceptional children who are mainstreamed in the regular classroom. Critical review of current research-based practices will be required as well as application of those strategies in lesson planning and teaching. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE605": {
+    "course_id": "ELE605",
+    "title": "ELE 605 The Reflective Practitioner",
+    "req": "<em>Prerequisite: grade of &quot;B&quot; or better in <span data-link='ELE429'>ELE 429</span> and <span data-link='ELE434'>ELE 434</span> and <span data-link='ELE438'>ELE 438</span>, and <span data-link='RDG420'>RDG 420</span> or <span data-link='RDG656'>RDG 656</span>, and <span data-link='RDG421'>RDG 421</span> or <span data-link='RDG656'>RDG 656</span>; and concurrent enrollment in <span data-link='ELE600'>ELE 600</span>.</em>",
+    "desc": "Introduces students to action research as reflection on their own teaching and learning, and their students&apos; learning and achievement. Requires an intensive field experience in area elementary school. May be taught concurrently with <span data-link='ELE510'>ELE 510</span>. Cannot receive credit for both <span data-link='ELE510'>ELE 510</span> and <span data-link='ELE605'>ELE 605</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ELE710": {
+    "course_id": "ELE710",
+    "title": "ELE 710 Elementary School Curriculum",
+    "desc": "The purpose of this course is to analyze the philosophical and theoretical frameworks that guide elementary curriculum for the assumptions that each makes with regard to teaching and learning. Students will be introduced to the development of curriculum and curriculum materials for use in elementary educational settings. Students will examine the social, political and institutional contexts in which curriculum is developed and used, curriculum development methods and process, and various methods for the implementation, evaluation and distribution of curriculum materials. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ELE711": {
+    "course_id": "ELE711",
+    "title": "ELE 711 Contemporary Issues in Elementary Curriculum",
+    "desc": "Contemporary issues confronting the modern elementary school; current problems, innovations and proposed changes which affect the total elementary school program. Trends and issues that are developing at the national level. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "ELE713": {
+    "course_id": "ELE713",
+    "title": "ELE 713 Advanced Theory and Practice in the Teaching of Communication Arts",
+    "desc": "Materials, methods and procedures for effective classroom presentation of communication arts. Selection, organization and development of content materials; current issues and trends in the field. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ELE714": {
+    "course_id": "ELE714",
+    "title": "ELE 714 Advanced Theory and Practice in the Teaching of Social Studies",
+    "desc": "Materials, methods and procedures for effective classroom presentation of social studies. Selection, organization and development of content materials; current issues and trends in the field. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ELE715": {
+    "course_id": "ELE715",
+    "title": "ELE 715 Advanced Theory and Practice in the Teaching of Mathematics",
+    "desc": "Materials, methods and procedures for effective classroom presentation of elementary mathematics. Selection, organization and development of content materials; current trends and issues in the field. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ELE716": {
+    "course_id": "ELE716",
+    "title": "ELE 716 Advanced Theory and Practice in the Teaching of Science",
+    "desc": "Materials, methods and procedures for effective classroom presentation of elementary science. Emphasis is placed on teaching science as inquiry and experimentation. Selection, organization and development of content materials; current trends and issues in science education. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ELE717": {
+    "course_id": "ELE717",
+    "title": "ELE 717 Advanced Theory and Practice in the Teaching of Economic Education",
+    "desc": "Materials, methods, and procedures for effective classroom presentation of economic education. Selection, organization, and development of curriculum materials, current issues and trends in the field of economics. Presents students with a framework for proper scope and sequencing of economics concepts to develop an awareness of appropriate benchmarks for economic education instruction. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ELE720": {
+    "course_id": "ELE720",
+    "title": "ELE 720 Advanced Theory and Practice in Student Assessment and Evaluation",
+    "desc": "Materials, methods, and procedures for effective assessment and evaluation of students. Planning, selection, construction, use, and analysis of a variety of assessment practices including formal and informal approaches. Application of knowledge learned throughout course will help students make judicious and reflective decisions while teaching. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ELE721": {
+    "course_id": "ELE721",
+    "title": "ELE 721 Standards-Based Integrated Curriculum, Learning, and Teaching",
+    "desc": "Analysis and application of current theories and research on integrated curriculum and learning, performance assessment, and standards-based education. Develop classroom, school-wide and/or district-wide curricula based on state standards. Focus is on deciding what is essential to teach and on improving learners&apos; math and literacy skills across the curriculum. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ELE722": {
+    "course_id": "ELE722",
+    "title": "ELE 722 Differentiated Instruction for Early Childhood, Elementary, and Middle School",
+    "desc": "Materials, methods, and procedures for effective differentiation of instruction and evaluation of students. Planning, selection, construction, use and analysis of a variety of differentiate instructional practices across grade levels and disciplines, paying close attention to elementary and middle school learners. Application of knowledge learned throughout course will help students made judicious and reflective decisions while teaching. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ELE730": {
+    "course_id": "ELE730",
+    "title": "ELE 730 Internship in Number and Operations",
+    "req": "<em>Prerequisite: admission to the Elementary Mathematics Specialist program; and two years of elementary or middle school teaching; and concurrent enrollment in <span data-link='MTH750'>MTH 750</span>.</em>",
+    "desc": "A supervised mathematics teaching practicum with online seminars in which the candidate acquires experience working with a range of students and adult learners (teachers and parents) on concepts related to numbers and operations in base ten appropriate in K-5 students. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ELE732": {
+    "course_id": "ELE732",
+    "title": "ELE 732 Internship in Rational Numbers and Proportional Thinking",
+    "req": "<em>Prerequisite: admission to the Elementary Mathematics Specialist Program; and two years of elementary or middle school teaching; and concurrently enrollment in <span data-link='MTH752'>MTH 752</span>.</em>",
+    "desc": "A supervised mathematics teaching practicum with online seminars in which the candidate acquires experience working with a range of students and adult learners (teachings and parents) on rational number and proportional thinking concepts. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ELE734": {
+    "course_id": "ELE734",
+    "title": "ELE 734 Internship in Algebraic Reasoning",
+    "req": "<em>Prerequisite: admission to the Elementary Mathematics Specialist Program; and two years of elementary or middle school teaching; and concurrently enrollment in <span data-link='MTH754'>MTH 754</span>.</em>",
+    "desc": "A supervised mathematics teaching practicum with online seminars in which the candidate acquires experience working with a range of students and adult learners (teacher and parents) on concepts related to algebraic reasoning appropriate in K-5 students. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ELE736": {
+    "course_id": "ELE736",
+    "title": "ELE 736 Foundations of Mathematical Leadership I for Elementary Mathematics Specialists",
+    "req": "<em>Prerequisite: admission to the Elementary Mathematics Specialist Program; and two years of elementary or middle school teaching.</em>",
+    "desc": "This introductory course provides opportunities for participants to develop knowledge and understanding of leadership principles and the process of continuous improvement as it relates to the roles and responsibilities of elementary mathematics specialists. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ELE737": {
+    "course_id": "ELE737",
+    "title": "ELE 737 Foundations of Mathematical Leadership II for Elementary Mathematics Specialists",
+    "req": "<em>Prerequisite: admission to the Elementary Mathematics Specialist Program; and two years of elementary or middle school teaching.</em>",
+    "desc": "This second leadership course in the Elementary Mathematics Specialists program focuses on research and practice related to teamwork, interaction, communication, conflict resolution, and leadership in K-5 schools. Candidates will also examine effective strategies for influencing and facilitating school/district improvement (e.g., mentoring and observing colleagues, conducting professional development, and making data-informed decisions to improve student learning) collaborating with colleagues and administration. Candidates will focus on mentoring and observing colleagues, conducting professional development, and making data-informed decisions to improve student learning school- and district-wide. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ELE738": {
+    "course_id": "ELE738",
+    "title": "ELE 738 Internship in Geometry and Measurement",
+    "req": "<em>Prerequisite: admission to the Elementary Mathematics Specialist Program; and two years of elementary or middle school teaching; and concurrent enrollment in <span data-link='MTH760'>MTH 760</span>.</em>",
+    "desc": "A supervised mathematics teaching practicum with online seminars in which the candidate acquires experience working with a range of students and adult learners (teachers and parents) on geometry and measurement concepts. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ELE772": {
+    "course_id": "ELE772",
+    "title": "ELE 772 Research Seminar in Elementary Education",
+    "req": "<em>Prerequisite: <span data-link='ELE711'>ELE 711</span> and <span data-link='SFR780'>SFR 780</span>.</em>",
+    "desc": "Guided development of a research paper or a creative project. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  }
+}

@@ -1,0 +1,2386 @@
+{
+  "ARB101": {
+    "course_id": "ARB101",
+    "title": "ARB 101 Elementary Arabic I",
+    "desc": "Develop proficiency in the four communication skills: listening, reading, speaking, and writing. These skills are essential for effective communication in the target language. Credit by examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ARB102": {
+    "course_id": "ARB102",
+    "title": "ARB 102 Elementary Arabic II",
+    "req": "<em>Prerequisite: C or better in <span data-link='ARB101'>ARB 101</span>.</em>",
+    "desc": "Develop additional proficiency in the four communication skills: listening, reading, speaking, and writing. These skills are essential for effective communication in the target language. Credit by examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ARB201": {
+    "course_id": "ARB201",
+    "title": "ARB 201 Intermediate Arabic I",
+    "req": "<em>Prerequisite: C or better in <span data-link='ARB102'>ARB 102</span>.</em>",
+    "desc": "Systematic review, expansion, and synthesis of the four skill areas. This course will enhance communication skills by providing a thorough review of fundamentals of grammar through real-life language use, reading, and composition. Credit by examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ARB202": {
+    "course_id": "ARB202",
+    "title": "ARB 202 Intermediate Arabic II",
+    "req": "<em>Prerequisite: C or better in <span data-link='ARB201'>ARB 201</span>.</em>",
+    "desc": "Continued development of the four skill areas through conversation, composition, and reading as a means to access culture. Credit by examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ARB297": {
+    "course_id": "ARB297",
+    "title": "ARB 297 Special Topics in Arabic",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Topics of selected interest in Arabic studies, including travel courses to Arabic-speaking countries. The specific subject matter and/or international component may vary according to resources and demand. Variable content course. May be repeated, as topics change, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ARB305": {
+    "course_id": "ARB305",
+    "title": "ARB 305 Advanced Arabic Proficiency Skills",
+    "req": "<em>Prerequisite: C or better in <span data-link='ARB202'>ARB 202</span>.</em>",
+    "desc": "Readings and discussions in modern standard Arabic, continuing the method used in teaching <span data-link='ARB201'>ARB 201</span> and 202. Enhances communicative skills by providing intensive practice in reading, writing, listening, speaking and active control of grammar and vocabulary. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHI101": {
+    "course_id": "CHI101",
+    "title": "CHI 101 Elementary Chinese I",
+    "desc": "Essentials of grammar through aural-oral practice, dictation, reading and writing. Course conducted in Mandarin Chinese as far as practicable. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHI102": {
+    "course_id": "CHI102",
+    "title": "CHI 102 Elementary Chinese II",
+    "req": "<em>Prerequisite: C or better in <span data-link='CHI101'>CHI 101</span>.</em>",
+    "desc": "Continuation of <span data-link='CHI101'>CHI 101</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHI201": {
+    "course_id": "CHI201",
+    "title": "CHI 201 Intermediate Chinese I",
+    "req": "<em>Prerequisite: C or better in <span data-link='CHI102'>CHI 102</span>.</em>",
+    "desc": "Continuation of <span data-link='CHI102'>CHI 102</span> with emphasis on reading, conversation, and an introduction to Chinese history and culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHI202": {
+    "course_id": "CHI202",
+    "title": "CHI 202 Intermediate Chinese II",
+    "req": "<em>Prerequisite: C or better in <span data-link='CHI201'>CHI 201</span>.</em>",
+    "desc": "Continuation of <span data-link='CHI201'>CHI 201</span> with emphasis on reading, conversation, history, and culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHI297": {
+    "course_id": "CHI297",
+    "title": "CHI 297 Special Topics in Chinese",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Topics of selected interest in Chinese studies, including travel courses to Chinese-speaking countries. The specific subject matter and/or international component may change from semester to semester according to resources and demand. Variable content course. May be repeated, as topics change, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHI311": {
+    "course_id": "CHI311",
+    "title": "CHI 311 Chinese Reading and Conversation",
+    "req": "<em>Prerequisite: <span data-link='CHI202'>CHI 202</span>.</em>",
+    "desc": "A course designed to develop and refine students&apos; conversational and reading skills through short speeches, group discussion, free conversation and reading. May be repeated, as content changes, to a maximum of 6 hours. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHI312": {
+    "course_id": "CHI312",
+    "title": "CHI 312 Chinese Reading and Composition",
+    "req": "<em>Prerequisite: <span data-link='CHI202'>CHI 202</span>.</em>",
+    "desc": "This course is designed to help students strengthen and expand their reading and writing skills in Chinese through the reading of authentic Chinese articles, grammar review, and writing practice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHI410": {
+    "course_id": "CHI410",
+    "title": "CHI 410 Translation",
+    "req": "<em>Prerequisite: <span data-link='CHI312'>CHI 312</span>.</em>",
+    "desc": "Activities and exercises focused on oral and written translation for career fields. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHI415": {
+    "course_id": "CHI415",
+    "title": "CHI 415 Business and Professional Chinese",
+    "req": "<em>Prerequisite: <span data-link='CHI312'>CHI 312</span> or above.</em>",
+    "desc": "Introduction to Chinese language and culture as used in business and selected professions. Variable content course. May be repeated once with different content. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHI498": {
+    "course_id": "CHI498",
+    "title": "CHI 498 Seminar Course in Chinese",
+    "req": "<em>Prerequisite: C or better in <span data-link='CHI202'>CHI 202</span> or permission of instructor and department head.</em>",
+    "desc": "Supervised independent study in Chinese language, literature, and culture. May be repeated for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FRN101": {
+    "course_id": "FRN101",
+    "title": "FRN 101 Elementary French I",
+    "desc": "Essentials of French language emphasizing the development of speaking, listening, reading, and writing within a culturally relevant context. Credit by Examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FRN102": {
+    "course_id": "FRN102",
+    "title": "FRN 102 Elementary French II",
+    "req": "<em>Prerequisite: C or better in <span data-link='FRN101'>FRN 101</span>.</em>",
+    "desc": "Continuation of <span data-link='FRN101'>FRN 101</span>. Credit by Examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FRN201": {
+    "course_id": "FRN201",
+    "title": "FRN 201 Intermediate French I",
+    "req": "<em>Prerequisite: C or better in <span data-link='FRN102'>FRN 102</span>.</em>",
+    "desc": "Francophone culture through discussion of readings, films and music. Credit by Examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FRN202": {
+    "course_id": "FRN202",
+    "title": "FRN 202 Intermediate French II",
+    "req": "<em>Prerequisite: C or better in <span data-link='FRN201'>FRN 201</span>.</em>",
+    "desc": "A focus on literacy through compositions and readings in francophone culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FRN297": {
+    "course_id": "FRN297",
+    "title": "FRN 297 Special Topics in French",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Topics of selected interest in French studies, including travel-courses to French-speaking countries. The specific subject matter and/or inter-national component may change from semester to semester according to resources and demand. Variable content course. May be repeated, as topics change, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FRN300": {
+    "course_id": "FRN300",
+    "title": "FRN 300 Service Learning in French",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a French course at the 202 level or above.</em>",
+    "desc": "This service learning component for the existing French curriculum incorporates community service with classroom instruction to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service providing instruction or other community service in the Springfield-area schools and other community groups. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FRN302": {
+    "course_id": "FRN302",
+    "title": "FRN 302 Topics in French Culture",
+    "req": "<em>Prerequisite: <span data-link='FRN102'>FRN 102</span>.</em>",
+    "desc": "Topics may cover history or culture of France. Variable content course. May be repeated, as topics change, to a maximum of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FRN311": {
+    "course_id": "FRN311",
+    "title": "FRN 311 French Conversation",
+    "req": "<em>Prerequisite: <span data-link='FRN201'>FRN 201</span>.</em>",
+    "desc": "Oral practice in short speeches, group discussion and free conversation. May be repeated, as content changes, to a maximum of 6 hours. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FRN312": {
+    "course_id": "FRN312",
+    "title": "FRN 312 French Grammar and Composition",
+    "req": "<em>Prerequisite: <span data-link='FRN202'>FRN 202</span>.</em>",
+    "desc": "Review of French grammar with writing practice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FRN324": {
+    "course_id": "FRN324",
+    "title": "FRN 324 Topics in Francophone Linguistics",
+    "req": "<em>Prerequisite: <span data-link='FRN312'>FRN 312</span>.</em>",
+    "desc": "This course develops students&apos; understanding of issues in Francophone linguistics by exploring such topics as phonetics and phonology, morphology and syntax, semantics, history of the language, and regional and social language variation. The emphasis will most often be on the area of phonetics and phonology. May be repeated once with different content. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FRN326": {
+    "course_id": "FRN326",
+    "title": "FRN 326 Culture Populaire",
+    "req": "<em>Prerequisite: <span data-link='FRN202'>FRN 202</span>.</em>",
+    "desc": "History and culture of France and francophone countries; includes geography, philosophy and arts. May be repeated, as content changes, to a maximum of 6 hours. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FRN335": {
+    "course_id": "FRN335",
+    "title": "FRN 335 L'Esprit francais",
+    "req": "<em>Prerequisite: <span data-link='FRN312'>FRN 312</span> or permission of instructor.</em>",
+    "desc": "Through the study of artistic works, including fine arts, cinema, and literature, students will become more familiar with the origins, lives and influences of the most prominent Francophone figures and symbolic icons. Students will learn how to read, analyze, interpret, and discuss a wide selection of works and concepts in French; and to synthesize the material into an accurate and coherent picture of French literary and cultural developments. Variable content course. Repeatable up to 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FRN381": {
+    "course_id": "FRN381",
+    "title": "FRN 381 French Literature from the Middle Ages to the Enlightenment",
+    "req": "<em>Prerequisite: <span data-link='FRN312'>FRN 312</span>.</em>",
+    "desc": "A survey of authors, movements, ideas, and styles, e.g., Villon, Montaigne, Rabelais, Pascal, Rousseau. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FRN382": {
+    "course_id": "FRN382",
+    "title": "FRN 382 French Literature of the 19th and 20th Centuries",
+    "req": "<em>Prerequisite: <span data-link='FRN312'>FRN 312</span>.</em>",
+    "desc": "A survey of representative work, e.g., Hugo, Flaubert, Camus. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FRN410": {
+    "course_id": "FRN410",
+    "title": "FRN 410 Translation",
+    "req": "<em>Prerequisite: <span data-link='FRN312'>FRN 312</span>.</em>",
+    "desc": "Activities and exercises on oral and written translation focusing on career fields. May be repeated as course content changes up to 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FRN412": {
+    "course_id": "FRN412",
+    "title": "FRN 412 Le Cinema francophone",
+    "req": "<em>Prerequisite: <span data-link='FRN312'>FRN 312</span> or permission of instructor.</em>",
+    "desc": "A study of culture, language, and literature through francophone film. Repeatable up to 6 hours. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FRN414": {
+    "course_id": "FRN414",
+    "title": "FRN 414 Le Francais Vivant",
+    "req": "<em>Prerequisite: <span data-link='FRN202'>FRN 202</span>.</em>",
+    "desc": "A course designed to increase French fluency and comprehension, emphasizing modern, useful French as it is spoken today by natives. Students will explore the French language in a broad range of real everyday situations. Topics include idiomatic expressions, slang, spoken contractions, French non-verbal communication, and the language of the Internet. Variable content course. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FRN415": {
+    "course_id": "FRN415",
+    "title": "FRN 415 Vivre et Travailler en francais",
+    "req": "<em>Prerequisite: <span data-link='FRN312'>FRN 312</span> or permission of instructor.</em>",
+    "desc": "Social and business interactions in the francophone world. Variable content course. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FRN495": {
+    "course_id": "FRN495",
+    "title": "FRN 495 Advanced Undergraduate Seminar in French",
+    "req": "<em>Prerequisite: <span data-link='FRN312'>FRN 312</span> and <span data-link='FRN326'>FRN 326</span> or permission of instructor.</em>",
+    "desc": "Study of advanced topics relating to language and proficiency development or literary and cultural themes in French or Francophone cultures. Variable content course. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FRN498": {
+    "course_id": "FRN498",
+    "title": "FRN 498 Seminar Course in French",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Supervised independent study in literature, linguistics or other restricted topics. May be repeated for maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FRN725": {
+    "course_id": "FRN725",
+    "title": "FRN 725 Seminar in Francophone Literature and Culture",
+    "desc": "This course will enhance students&apos; language proficiency and cultural competence through the interpretation and analysis of selected literary, philosophical, and cultural texts from the Francophone tradition. Variable content course. May be repeated once with changed content. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FRN735": {
+    "course_id": "FRN735",
+    "title": "FRN 735 Advanced French Proficiency",
+    "desc": "After an assessment of global language proficiency, students receive personalized guidance and selected periodic assessments to help them to strengthen their interpretive, interpersonal, and presentational skills in the target language. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM101": {
+    "course_id": "GRM101",
+    "title": "GRM 101 Elementary German I",
+    "desc": "Develop proficiency in the four communication skills: listening, reading, speaking and writing. These skills are essential to effective communication in the target language. Credit by Examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GRM102": {
+    "course_id": "GRM102",
+    "title": "GRM 102 Elementary German II",
+    "req": "<em>Prerequisite: C or better in <span data-link='GRM101'>GRM 101</span>.</em>",
+    "desc": "Develop additional proficiency in the four communication skills: listening, reading, speaking, and writing. These skills are essential to effective communication in the target language. Credit by Examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GRM201": {
+    "course_id": "GRM201",
+    "title": "GRM 201 Intermediate German I",
+    "req": "<em>Prerequisite: C or better in <span data-link='GRM102'>GRM 102</span>.</em>",
+    "desc": "Systematic review, expansion, and synthesis of the four skill areas. Communicative skills will be enhanced by providing a thorough review of fundamentals of grammar through real-life language use, reading, and composition. Credit by Examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GRM202": {
+    "course_id": "GRM202",
+    "title": "GRM 202 Intermediate German II",
+    "req": "<em>Prerequisite: C or better in <span data-link='GRM201'>GRM 201</span>.</em>",
+    "desc": "Continuation of the development of the four skills through conversation, composition and readings as a means to access culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GRM297": {
+    "course_id": "GRM297",
+    "title": "GRM 297 Special Topics in German",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Topics of selected interest in German studies, including travel-courses to German-speaking countries. The specific subject matter and/or inter-national component may change from semester to semester according to resources and demand. May be repeated, as topics change, to a maximum of 6 credit hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM300": {
+    "course_id": "GRM300",
+    "title": "GRM 300 Service Learning in German",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a German course at the 202 level or above.</em>",
+    "desc": "This service component for the existing German curriculum incorporates community service with classroom instruction to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service providing instruction or other community service in the Springfield-area schools and other community groups. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRM301": {
+    "course_id": "GRM301",
+    "title": "GRM 301 Intensive Grammar Review",
+    "req": "<em>Prerequisite: <span data-link='GRM102'>GRM 102</span>.</em>",
+    "desc": "Intensive grammar review of selected topics. May be repeated with different topics to a maximum of 3 credit hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM302": {
+    "course_id": "GRM302",
+    "title": "GRM 302 Topics in German(ic) Culture",
+    "req": "<em>Prerequisite: <span data-link='GRM102'>GRM 102</span>.</em>",
+    "desc": "Selected topics in culture and travel. May be repeated with different topics to a maximum of 3 credit hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM303": {
+    "course_id": "GRM303",
+    "title": "GRM 303 Language and Technology",
+    "req": "<em>Prerequisite: <span data-link='GRM102'>GRM 102</span>.</em>",
+    "desc": "Issues concerning German and technology. May be repeated with different topics to a maximum of three credit hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM304": {
+    "course_id": "GRM304",
+    "title": "GRM 304 Conversational Strategies",
+    "req": "<em>Prerequisite: <span data-link='GRM201'>GRM 201</span>.</em>",
+    "desc": "This course will introduce students to strategies for conversing in the target language. Emphasis will be placed on building vocabulary, developing listening comprehension skills, learning how to construct discussions and to use appropriate expressions. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM311": {
+    "course_id": "GRM311",
+    "title": "GRM 311 German Reading and Conversation",
+    "req": "<em>Prerequisite: <span data-link='GRM202'>GRM 202</span>.</em>",
+    "desc": "A structured course designed to develop and refine students reading and conversational skills. May be repeated, as content changes, to a maximum of 6 hours. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM312": {
+    "course_id": "GRM312",
+    "title": "GRM 312 German Composition",
+    "req": "<em>Prerequisite: <span data-link='GRM311'>GRM 311</span>.</em>",
+    "desc": "A writing intensive course designed to introduce students to a variety of text types. Emphasis is placed on recognizing the differences among the texts and student practice in preparing similar original texts. Variable content course. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM320": {
+    "course_id": "GRM320",
+    "title": "GRM 320 German Cinema",
+    "req": "<em>Prerequisite: <span data-link='GRM202'>GRM 202</span>.</em>",
+    "desc": "The survey of major films produced in Germany serves as a basis for the study of German culture, German language, and German literature. Course emphasizes the way that film content and theme development are useful in analyzing German language usage and culture in selected films. Subject will vary from semester to semester. Examples: History and Culture Through Film; From Novel to Film; East German Film; The Image of Women in Film. Repeatable up to 6 hours. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM325": {
+    "course_id": "GRM325",
+    "title": "GRM 325 Kulturkunde der deutschsprachigen Lander",
+    "req": "<em>Prerequisite: <span data-link='GRM202'>GRM 202</span>.</em>",
+    "desc": "An introduction to major historical periods and cultural movements of the German-speaking countries. Study includes geography, history, philosophy and the arts. Variable content course. May be repeated up to 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM400": {
+    "course_id": "GRM400",
+    "title": "GRM 400 Praktikum",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "A focused course that students can combine with other German classes in order to pursue a special interest within the normal course content. May be repeated with a different content to a maximum of 3 credit hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM410": {
+    "course_id": "GRM410",
+    "title": "GRM 410 Translation",
+    "req": "<em>Prerequisite: <span data-link='GRM312'>GRM 312</span>.</em>",
+    "desc": "Activities and exercises focused on oral and written translation on career fields. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM415": {
+    "course_id": "GRM415",
+    "title": "GRM 415 German for Professional and Business Use",
+    "req": "<em>Prerequisite: <span data-link='GRM311'>GRM 311</span> or above.</em>",
+    "desc": "Focus on advanced speaking and reading proficiency for applied use in professional fields such as administration, international relations, global studies and business. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM455": {
+    "course_id": "GRM455",
+    "title": "GRM 455 Masterpieces of 19th Century German Literature",
+    "req": "<em>Prerequisite: <span data-link='GRM311'>GRM 311</span> or above.</em>",
+    "desc": "Selected works or authors from the 19th century. May be repeated once with a different topic. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM465": {
+    "course_id": "GRM465",
+    "title": "GRM 465 Masterpieces of 20th Century German Literature",
+    "req": "<em>Prerequisite: <span data-link='GRM311'>GRM 311</span> or above.</em>",
+    "desc": "Selected works or authors from the 20th century. May be repeated once with a different topic. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM475": {
+    "course_id": "GRM475",
+    "title": "GRM 475 Topics in German(ic) Literature and Culture",
+    "req": "<em>Prerequisite: <span data-link='GRM311'>GRM 311</span> or above.</em>",
+    "desc": "Selected topics in German(ic) literature and culture. May be repeated once with a different topic. Variable content course. May be taught concurrently with <span data-link='GRM375'>GRM 375</span>. Students enrolled in <span data-link='GRM475'>GRM 475</span> will complete more advanced assignments. Cannot receive credit for both <span data-link='GRM375'>GRM 375</span> and <span data-link='GRM475'>GRM 475</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM485": {
+    "course_id": "GRM485",
+    "title": "GRM 485 Thematic Approaches to German Literature",
+    "req": "<em>Prerequisite: <span data-link='GRM311'>GRM 311</span> or above.</em>",
+    "desc": "A survey of German literature across multiple centuries from the perspective of a particular theme. May be repeated once as topics change. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM495": {
+    "course_id": "GRM495",
+    "title": "GRM 495 Advanced Undergraduate Seminar in German",
+    "req": "<em>Prerequisite: <span data-link='GRM312'>GRM 312</span> and <span data-link='GRM325'>GRM 325</span> or permission of instructor.</em>",
+    "desc": "Study of advanced topics relating to language and proficiency development or literary and cultural themes in German-language cultures. Variable content course. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRM498": {
+    "course_id": "GRM498",
+    "title": "GRM 498 Seminar Course in German",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Supervised independent study in literature, linguistics or other restricted topics. May be repeated for no more than 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRK101": {
+    "course_id": "GRK101",
+    "title": "GRK 101 Elementary Ancient Greek I",
+    "desc": "Essentials of grammar and vocabulary building through reading and writing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRK102": {
+    "course_id": "GRK102",
+    "title": "GRK 102 Elementary Ancient Greek II",
+    "req": "<em>Prerequisite: C or better in <span data-link='GRK101'>GRK 101</span>.</em>",
+    "desc": "Continuation of <span data-link='GRK101'>GRK 101</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRK201": {
+    "course_id": "GRK201",
+    "title": "GRK 201 Intermediate Ancient Greek I",
+    "req": "<em>Prerequisite: C or better in <span data-link='GRK102'>GRK 102</span>.</em>",
+    "desc": "Continuation of <span data-link='GRK102'>GRK 102</span> with increased emphasis on reading. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRK202": {
+    "course_id": "GRK202",
+    "title": "GRK 202 Intermediate Ancient Greek II",
+    "req": "<em>Prerequisite: C or better in <span data-link='GRK201'>GRK 201</span>.</em>",
+    "desc": "Introduction to Greek literature; analysis of its subjects, forms, and ideals. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRK297": {
+    "course_id": "GRK297",
+    "title": "GRK 297 Special Topics in Greek",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Topics of selected interest in Greek studies, including travel courses to Greek-speaking countries. The specific subject matter and/or international component may change from semester to semester according to resources and demand. Variable content course. May be repeated, as topics change, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRK301": {
+    "course_id": "GRK301",
+    "title": "GRK 301 Studies in Greek Prose",
+    "req": "<em>Prerequisite: C or better in <span data-link='GRK201'>GRK 201</span>.</em>",
+    "desc": "An introduction to ancient Greek prose: study of the New Testament and/or such writers as Xenophon, Herodotus, Plato, and Lysias. May be repeated once with changed content. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRK302": {
+    "course_id": "GRK302",
+    "title": "GRK 302 Studies in Greek Poetry",
+    "req": "<em>Prerequisite: C or better in <span data-link='GRK201'>GRK 201</span>.</em>",
+    "desc": "An introduction to ancient Greek poetry: study of works by such writers as Homer, Sophocles, and Euripides. May be repeated once with changed content. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRK498": {
+    "course_id": "GRK498",
+    "title": "GRK 498 Seminar Course in Ancient Greek",
+    "req": "<em>Prerequisite: C or better in <span data-link='GRK202'>GRK 202</span> and permission of instructor and department head.</em>",
+    "desc": "Supervised independent study in Greek literature and translation. May be repeated for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRK503": {
+    "course_id": "GRK503",
+    "title": "GRK 503 Advanced Greek Translation",
+    "req": "<em>Prerequisite: <span data-link='GRK202'>GRK 202</span>.</em>",
+    "desc": "Advanced training in the skills of translating and explicating texts in classical and koine Greek. May be repeated to 9 hours if topic varies. Variable content course. May be taught concurrently with <span data-link='GRK603'>GRK 603</span>. Cannot receive credit for both <span data-link='GRK603'>GRK 603</span> and <span data-link='GRK503'>GRK 503</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRK603": {
+    "course_id": "GRK603",
+    "title": "GRK 603 Advanced Greek Translation",
+    "desc": "Advanced training in the skills of translating and explicating texts in classical and koine Greek. May be repeated to 9 hours if topic varies. Variable content course. May be taught concurrently with <span data-link='GRK503'>GRK 503</span>. Cannot receive credit for both <span data-link='GRK503'>GRK 503</span> and <span data-link='GRK603'>GRK 603</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HBW101": {
+    "course_id": "HBW101",
+    "title": "HBW 101 Elementary Biblical Hebrew I",
+    "desc": "The essentials of grammar and vocabulary building of Ancient Hebrew through reading and writing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HBW102": {
+    "course_id": "HBW102",
+    "title": "HBW 102 Elementary Biblical Hebrew II",
+    "req": "<em>Prerequisite: C or better in <span data-link='HBW101'>HBW 101</span>.</em>",
+    "desc": "Continuation of <span data-link='HBW101'>HBW 101</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HBW201": {
+    "course_id": "HBW201",
+    "title": "HBW 201 Intermediate Biblical Hebrew I",
+    "req": "<em>Prerequisite: C or better in <span data-link='HBW102'>HBW 102</span>.</em>",
+    "desc": "Continuation of <span data-link='HBW102'>HBW 102</span>, with increased emphasis on reading. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HBW202": {
+    "course_id": "HBW202",
+    "title": "HBW 202 Intermediate Biblical Hebrew II",
+    "req": "<em>Prerequisite: C or better in <span data-link='HBW201'>HBW 201</span>.</em>",
+    "desc": "Introduction to Ancient Hebrew Literature; analysis of its subject, forms and ideals. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HBW297": {
+    "course_id": "HBW297",
+    "title": "HBW 297 Special Topics in Hebrew",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Topics of selected interest in Hebrew studies, including travel courses to Hebrew-speaking countries. The specific subject matter and/or international component may change from semester to semester according to resources and demand. May be repeated, as topics change, to a maximum of 6 credit hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ITL101": {
+    "course_id": "ITL101",
+    "title": "ITL 101 Elementary Italian I",
+    "desc": "Essentials of Italian Language emphasizing the development of speaking, listening, reading, and writing within a culturally relevant context. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ITL102": {
+    "course_id": "ITL102",
+    "title": "ITL 102 Elementary Italian II",
+    "req": "<em>Prerequisite: C or better in <span data-link='ITL101'>ITL 101</span>.</em>",
+    "desc": "Continuation of <span data-link='ITL101'>ITL 101</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ITL201": {
+    "course_id": "ITL201",
+    "title": "ITL 201 Intermediate Italian I",
+    "req": "<em>Prerequisite: C or better in <span data-link='ITL102'>ITL 102</span>.</em>",
+    "desc": "Systematic review, expansion, and synthesis of the four skill areas. This course will enhance communication skills by providing a thorough review of fundamentals of grammar through real-life language use, reading, and composition. Credit by examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ITL202": {
+    "course_id": "ITL202",
+    "title": "ITL 202 Intermediate Italian II",
+    "req": "<em>Prerequisite: C or better in <span data-link='ITL201'>ITL 201</span>.</em>",
+    "desc": "Develop additional proficiency in the four communication skills: listening, reading, speaking and writing. Credit by examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ITL297": {
+    "course_id": "ITL297",
+    "title": "ITL 297 Special Topics in Italian",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Topics of selected interest in Italian studies, including travel courses to Italian-speaking countries. The specific subject matter and/or international component may change from semester to semester according to resources and demand. May be repeated, as topics change, to a maximum of 6 credit hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "JPN101": {
+    "course_id": "JPN101",
+    "title": "JPN 101 Elementary Japanese I",
+    "desc": "Essentials of grammar through aural-oral practice, dictation, reading and writing. Course conducted in Japanese as far as practicable. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "JPN102": {
+    "course_id": "JPN102",
+    "title": "JPN 102 Elementary Japanese II",
+    "req": "<em>Prerequisite: C or better in <span data-link='JPN101'>JPN 101</span>.</em>",
+    "desc": "Continuation of <span data-link='JPN101'>JPN 101</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "JPN201": {
+    "course_id": "JPN201",
+    "title": "JPN 201 Intermediate Japanese I",
+    "req": "<em>Prerequisite: C or better in <span data-link='JPN102'>JPN 102</span>.</em>",
+    "desc": "Continuation of <span data-link='JPN102'>JPN 102</span> with increased emphasis on reading. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "JPN202": {
+    "course_id": "JPN202",
+    "title": "JPN 202 Intermediate Japanese II",
+    "req": "<em>Prerequisite: C or better in <span data-link='JPN201'>JPN 201</span>.</em>",
+    "desc": "Introduction to Japanese literature; analysis of its subjects, forms and ideals. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "JPN297": {
+    "course_id": "JPN297",
+    "title": "JPN 297 Special Topics in Japanese",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Topics of selected interest in Japanese studies, including travel courses to Japanese-speaking countries. The specific subject matter and/or international component may change from semester to semester according to resources and demand. May be repeated, as topics change, to a maximum of 6 credit hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "JPN311": {
+    "course_id": "JPN311",
+    "title": "JPN 311 Japanese Reading and Conversation",
+    "req": "<em>Prerequisite: <span data-link='JPN202'>JPN 202</span>.</em>",
+    "desc": "This course is designed to further develop and refine students&apos; reading and speaking skills through readings of short texts, group discussions, and free conversation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "JPN312": {
+    "course_id": "JPN312",
+    "title": "JPN 312 Japanese Reading and Composition",
+    "req": "<em>Prerequisite: <span data-link='JPN202'>JPN 202</span>.</em>",
+    "desc": "This course is designed to help students strengthen and expand their reading and writing skills in Japanese through the reading of authentic Japanese articles, grammar review, writing and Kanji practice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KOR101": {
+    "course_id": "KOR101",
+    "title": "KOR 101 Elementary Korean I",
+    "desc": "This course is the first part of the introductory sequence in Korean language and culture. Students acquire novice-level communicative proficiency in the interpersonal, interpretive and presentational modes as well as an understanding of perspectives, products, and practices of Korean culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KOR102": {
+    "course_id": "KOR102",
+    "title": "KOR 102 Elementary Korean II",
+    "req": "<em>Prerequisite: C or better in <span data-link='KOR101'>KOR 101</span>.</em>",
+    "desc": "This course is the second part of the introductory sequence in Korean language and culture. Students reinforce novice-level communicative proficiency and begin to develop intermediate-level skills in the interpersonal, interpretive, and presentational modes while deepening their understanding of Korean culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KOR201": {
+    "course_id": "KOR201",
+    "title": "KOR 201 Intermediate Korean I",
+    "req": "<em>Prerequisite: C or better in <span data-link='KOR102'>KOR 102</span>.</em>",
+    "desc": "This course is the first part of the immediate sequence in Korean language and culture. Students continue to develop intermediate-level communicative proficiency in the interpersonal, interpretive and presentational modes and increase their understanding of peoples, products, and practices related to Korean culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KOR202": {
+    "course_id": "KOR202",
+    "title": "KOR 202 Intermediate Korean II",
+    "req": "<em>Prerequisite: C or better in <span data-link='KOR201'>KOR 201</span>.</em>",
+    "desc": "This course is the second part of the immediate sequence in Korean language and culture. Students reinforce intermediate-level communicative proficiency in the interpersonal, interpretive, and presentational modes while deepening their understanding of Korean culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KOR297": {
+    "course_id": "KOR297",
+    "title": "KOR 297 Special Topics in Korean",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Focus on particular aspects of Korean language and/or culture. May also be used to recognize intermediate-level proficiency or as a transfer equivalent for coursework completed at accredited domestic or international institutions. Variable content course. May be repeated, as topics change, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LLT100": {
+    "course_id": "LLT100",
+    "title": "LLT 100 Elementary Survey of Grammar for Language Students",
+    "desc": "An introduction to the basic terminology and concepts of traditional grammar, including analysis of parts of speech, phrases, clauses, and verb transformation. No foreign language is required. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LLT102": {
+    "course_id": "LLT102",
+    "title": "LLT 102 Scientific and Medical Terminology",
+    "desc": "A study of technical terminology as derived from Greek and Latin elements. Does not fulfill any language requirement. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "LLT121": {
+    "course_id": "LLT121",
+    "title": "LLT 121 Classical Mythology",
+    "req": "<em>General Education Course (Focus on Humanities).</em>",
+    "desc": "A study of Greek and Roman myths and legends as they appear in art, music and literature, especially epic and tragedy. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "LLT180": {
+    "course_id": "LLT180",
+    "title": "LLT 180 The Heroic Quest",
+    "req": "<em>General Education Course (Focus on Cultural Competence).</em>",
+    "desc": "Human societies have long used the theme of the quest for self-knowledge as a vehicle to assess their own cultures and to explore ethical situations arising in civic life. This course examines texts from diverse cultural traditions in which protagonists confront their inherited identity of culture and language, providing a broader perspective on self-discovery in our own society. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "LLT197": {
+    "course_id": "LLT197",
+    "title": "LLT 197 Topics in Language and Literature",
+    "desc": "Topics of general interest in foreign languages and related areas. Variable content course taught in English which may be repeated as topics change. Refer to current schedule of classes for topic and registration information. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LLT215": {
+    "course_id": "LLT215",
+    "title": "LLT 215 Asian Cultural Studies",
+    "desc": "A survey of Asian civilization, touching on history, literature, language, art, religion, philosophy, and culture. Course may focus on either China or Japan. May be repeated once with changed content. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LLT225": {
+    "course_id": "LLT225",
+    "title": "LLT 225 German Cultural Studies",
+    "desc": "This course presents major historical periods and cultural movements as background information necessary to the study of the literature and culture of the German speaking countries. Major movements of art, literature, music, history, and philosophy will be treated. In order to count for any German major or minor, course must be taken concurrently with a GRM course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LLT240": {
+    "course_id": "LLT240",
+    "title": "LLT 240 Epics From Classical Antiquity",
+    "desc": "A comparative study of epic poems in the ancient Mediterranean area. Epics considered will be used to present differing cultural views and how these views have affected and formed the western heroic tradition. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LLT271": {
+    "course_id": "LLT271",
+    "title": "LLT 271 Special Topics in German(ic) Literature in English Translation",
+    "desc": "This is a variable content course. May be repeated once for credit. In order to count for any German major or minor, course must be taken concurrently with a GRM course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LLT296": {
+    "course_id": "LLT296",
+    "title": "LLT 296 Major Authors in Translation",
+    "desc": "A course in comparative literature offered in English translation covering one of the following areas: (a) Asian, (b) Germanic, (c) Latin America, (d) Latin and Greek, (e) Romance, and (f) Slavic. May be taken once under each of the six titles. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LLT321": {
+    "course_id": "LLT321",
+    "title": "LLT 321 Comparative Mythology",
+    "desc": "Comparison of the ancient myths of Greece, Rome, Northern Europe, Mesopotamia, Egypt, the Far East, and the Americas. Readings are taken from ancient sources and modern interpretation. Lectures, discussion and writing assignments will deal with major deities and heroes, the ancient mystery religions and creation epics, with emphasis on cultural background borrowings, common structures of myth, and methods of interpretation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LLT325": {
+    "course_id": "LLT325",
+    "title": "LLT 325 Greek Civilization",
+    "desc": "A survey of Greek civilization. Lectures will be based on art, archaeology, literature, and history of classical Greece and will include private life, personal religion, the professions, and literature&apos;s reflection of culture. Slide lectures. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "LLT326": {
+    "course_id": "LLT326",
+    "title": "LLT 326 Roman Civilization",
+    "desc": "A survey of Roman civilization. Lectures will be based on the art, archaeology, literature, and history of ancient Rome and will include private life, personal religion, the professions, and literature&apos;s reflection of culture. Slide lectures. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "LLT545": {
+    "course_id": "LLT545",
+    "title": "LLT 545 Seminar in Roman Culture",
+    "req": "<em>Prerequisite: 60 hours and permission of instructor or department head.</em>",
+    "desc": "Selected topics in Roman culture or daily life such as Roman law, rhetoric, religion, historiography, family life, politics, etc. May be repeated once with changed content. Variable content course. May be taught concurrently with <span data-link='LLT645'>LLT 645</span>. Cannot receive credit for both <span data-link='LLT645'>LLT 645</span> and <span data-link='LLT545'>LLT 545</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LLT595": {
+    "course_id": "LLT595",
+    "title": "LLT 595 Special Topics in Classics",
+    "req": "<em>Prerequisite: 50 hours and permission of instructor or department head.</em>",
+    "desc": "Selected topics in Classical Studies such as topography of Rome and Athens, Advanced Mythology, genre studies. May be repeated up to 6 hours with changed content. Variable content course. May be taught concurrently with <span data-link='LLT695'>LLT 695</span>. Cannot receive credit for both <span data-link='LLT695'>LLT 695</span> and <span data-link='LLT595'>LLT 595</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LLT596": {
+    "course_id": "LLT596",
+    "title": "LLT 596 Seminar in Hispanic Literature in Translation",
+    "req": "<em>Prerequisite: 60 hours and permission of instructor or department head.</em>",
+    "desc": "Designed to acquaint the student with major authors and works in Hispanic literature offered in English translation. Topics may include special themes, historical and political developments, and cultural aspects of the works. Variable content course. May be repeated once with changed content. May be taught concurrently with <span data-link='LLT696'>LLT 696</span>. Cannot receive credit for both <span data-link='LLT696'>LLT 696</span> and <span data-link='LLT596'>LLT 596</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LLT645": {
+    "course_id": "LLT645",
+    "title": "LLT 645 Seminar in Roman Culture",
+    "desc": "Selected topics in Roman culture or daily life such as Roman law, rhetoric, religion, historiography, family life, politics, etc. May be repeated once with changed content. Variable content course. May be taught concurrently with <span data-link='LLT545'>LLT 545</span>. Cannot receive credit for both <span data-link='LLT545'>LLT 545</span> and <span data-link='LLT645'>LLT 645</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LLT695": {
+    "course_id": "LLT695",
+    "title": "LLT 695 Special Topics in Classics",
+    "desc": "Selected topics in Classical Studies such as topography of Rome and Athens, Advanced Mythology, genre studies. May be repeated up to 6 hours with changed content. Variable content course. May be taught concurrently with <span data-link='LLT595'>LLT 595</span>. Cannot receive credit for both <span data-link='LLT595'>LLT 595</span> and <span data-link='LLT695'>LLT 695</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LLT696": {
+    "course_id": "LLT696",
+    "title": "LLT 696 Seminar in Hispanic Literature in Translation",
+    "desc": "Designed to acquaint the student with major authors and works in Hispanic literature offered in English translation. Topics may include special themes, historical and political developments, and cultural aspects of the works. Variable content course. May be repeated once with changed content. May be taught concurrently with <span data-link='LLT596'>LLT 596</span>. Cannot receive credit for both <span data-link='LLT596'>LLT 596</span> and <span data-link='LLT696'>LLT 696</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LTN101": {
+    "course_id": "LTN101",
+    "title": "LTN 101 Elementary Latin I",
+    "desc": "Grammar and pronunciation; vocabulary study through reading and derivative study. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "LTN102": {
+    "course_id": "LTN102",
+    "title": "LTN 102 Elementary Latin II",
+    "req": "<em>Prerequisite: C or better in <span data-link='LTN101'>LTN 101</span>.</em>",
+    "desc": "Continuation of <span data-link='LTN101'>LTN 101</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "LTN201": {
+    "course_id": "LTN201",
+    "title": "LTN 201 Intermediate Latin I",
+    "req": "<em>Prerequisite: C or better in <span data-link='LTN102'>LTN 102</span>.</em>",
+    "desc": "Continuation of <span data-link='LTN102'>LTN 102</span>, with increased emphasis on reading. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "LTN202": {
+    "course_id": "LTN202",
+    "title": "LTN 202 Intermediate Latin II",
+    "req": "<em>Prerequisite: C or better in <span data-link='LTN201'>LTN 201</span>.</em>",
+    "desc": "Introduction to Latin literature, analysis of its subjects, forms and ideals. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "LTN312": {
+    "course_id": "LTN312",
+    "title": "LTN 312 Latin Composition",
+    "req": "<em>Prerequisite: <span data-link='LTN202'>LTN 202</span>.</em>",
+    "desc": "Review of grammar with practice in writing, giving emphasis to style. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LTN450": {
+    "course_id": "LTN450",
+    "title": "LTN 450 Readings in Roman Public Affairs",
+    "req": "<em>Prerequisite: <span data-link='LTN202'>LTN 202</span>.</em>",
+    "desc": "Readings in authors (Cicero, Seneca, Cato, inter alios) and genres (oratory, philosophy, letters) treating Roman civic life. Variable content course. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LTN451": {
+    "course_id": "LTN451",
+    "title": "LTN 451 Roman Elegy and Lyric",
+    "req": "<em>Prerequisite: <span data-link='LTN202'>LTN 202</span>.</em>",
+    "desc": "Designed to introduce students of classics to prominent Latin lyric poets (Catullus and Horace), and to the major works of the elegiac writers (Ovid, Propertius and Tibullus, inter alios). Variable content course. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LTN460": {
+    "course_id": "LTN460",
+    "title": "LTN 460 Roman History",
+    "req": "<em>Prerequisite: <span data-link='LTN202'>LTN 202</span>.</em>",
+    "desc": "Intensive reading in one or more major historical writers from the time of Caesar to the reign of Trajan: Livy, Nepos, Sallust, Suetonius, or Tacitus. Variable content course. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LTN461": {
+    "course_id": "LTN461",
+    "title": "LTN 461 Roman Epic",
+    "req": "<em>Prerequisite: <span data-link='LTN202'>LTN 202</span>.</em>",
+    "desc": "Designed primarily to provide students of the Classics with a sense of appreciation for Rome&apos;s masterpiece, Vergil&apos;s Aeneid, as well as some of the writing of other epic authors, e.g. Lucan, Statius, Valerius Flaccus, et al. Variable content course. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LTN470": {
+    "course_id": "LTN470",
+    "title": "LTN 470 Roman Letters and Personal Life",
+    "req": "<em>Prerequisite: <span data-link='LTN202'>LTN 202</span>.</em>",
+    "desc": "A study of works reflecting the Roman way of life outside the political arena, including personal letters of Pliny, the Roman novel (Petronius and Apuleius), and the Philosopher&apos;s mediations on friendship, old age, and other aspects of the human condition (Cicero, Seneca). Variable content course. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LTN471": {
+    "course_id": "LTN471",
+    "title": "LTN 471 Roman Satire",
+    "req": "<em>Prerequisite: <span data-link='LTN202'>LTN 202</span>.</em>",
+    "desc": "Works of Roman satire by such authors as Horace, Petronius, Persius, Martial, and Juvenal. Variable content course. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LTN480": {
+    "course_id": "LTN480",
+    "title": "LTN 480 Research in Latin Literature",
+    "req": "<em>Prerequisite: <span data-link='LTN202'>LTN 202</span>.</em>",
+    "desc": "A writing project designed to develop skills necessary for research in original texts of ancient authors. Must be taken in conjunction with <span data-link='LTN450'>LTN 450</span>, 451, 460, 461, 470, 471 or 485. May be repeated once for a maximum of 2 hours. Does not count toward the 12-hour B.A. language requirement. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LTN485": {
+    "course_id": "LTN485",
+    "title": "LTN 485 Patristics and Late Latin Writers",
+    "req": "<em>Prerequisite: <span data-link='LTN202'>LTN 202</span>.</em>",
+    "desc": "Introduction to post-Roman Latin used from Christian period through the Renaissance. Readings from sources such as St. Augustine, Jerome, Carmina Burana, Medieval fables, Erasmus, and Sir Thomas More. Variable content course. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LTN499": {
+    "course_id": "LTN499",
+    "title": "LTN 499 Independent Studies in Latin",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Supervised independent study in literature, linguistics or other restricted topics. May be repeated for maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LTN525": {
+    "course_id": "LTN525",
+    "title": "LTN 525 Seminar in Latin Literature",
+    "req": "<em>Prerequisite: 60 hours and permission of instructor or department head.</em>",
+    "desc": "Selected topics in Latin literature such as genre studies, period studies, or concentration on one or more authors. May be repeated once with changed content. Variable content course. May be taught concurrently with <span data-link='LTN625'>LTN 625</span>. Cannot receive credit for both <span data-link='LTN625'>LTN 625</span> and <span data-link='LTN525'>LTN 525</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LTN625": {
+    "course_id": "LTN625",
+    "title": "LTN 625 Seminar in Latin Literature",
+    "desc": "Selected topics in Latin literature such as genre studies, period studies, or concentration on one or more authors. May be repeated once with changed content. Variable content course. May be taught concurrently with <span data-link='LTN525'>LTN 525</span>. Cannot receive credit for both <span data-link='LTN525'>LTN 525</span> and <span data-link='LTN625'>LTN 625</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL197": {
+    "course_id": "MCL197",
+    "title": "MCL 197 Introduction to a Foreign Language",
+    "desc": "Special elementary studies in a foreign language and culture. May be repeated, as topics change, to a maximum of 6 hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL200": {
+    "course_id": "MCL200",
+    "title": "MCL 200 Global Perspectives on Languages and Cultures in Society",
+    "req": "<em>General Education Course (Focus on Cultural Competence).</em>",
+    "desc": "This course presents a survey of a variety of world languages and the cultures that share them. Class discussions and readings emphasize the connections between languages and geopolitical, historical, and cultural themes, which will also allow students an exploration of academic and professional career opportunities in fields that require language skills and cultural competency. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MCL297": {
+    "course_id": "MCL297",
+    "title": "MCL 297 Intermediate Studies in a Foreign Language",
+    "desc": "Special intermediate studies in a foreign language and culture. May be repeated, as topics change, to a maximum of 6 hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL303": {
+    "course_id": "MCL303",
+    "title": "MCL 303 Coping with Culture",
+    "desc": "This course is designed to introduce students to a discipline-specific (e.g., Hotel and Restaurant Management; Agribusiness; International Finance, Business and Banking; Languages for Vocalists, Scientists, et al.; Travel Industry; Medical Professions, etc.) understanding of cultural differences and to provide them with a limited vocabulary specific to their discipline. It gives students a rudimentary idea of how languages (e.g., French, German, Spanish) work, and helps them achieve a basic level of expression in these languages in situations relative to their profession. In this semester-long course, students rotate every five weeks from one language instructor to another. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MCL310": {
+    "course_id": "MCL310",
+    "title": "MCL 310 Introduction to Translation and Interpreting",
+    "req": "<em>Prerequisite: <span data-link='CHI202'>CHI 202</span> or <span data-link='FRN202'>FRN 202</span> or <span data-link='GRM202'>GRM 202</span> or <span data-link='SPN202'>SPN 202</span> or permission of instructor.</em>",
+    "desc": "This non-language-specific course introduces students to key concepts in translation and interpreting theory and practice, including terminology and concepts from linguistics applicable to translation, the role of translation and interpreting in local and global nonprofit and professional contexts, and information about training and certification programs. This course provides a conceptual foundation for other, language-specific courses. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MCL397": {
+    "course_id": "MCL397",
+    "title": "MCL 397 Advanced Studies in a Foreign Language",
+    "desc": "Special advanced studies in a foreign language and culture. May be repeated, as topics change, to a maximum of 6 hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL400": {
+    "course_id": "MCL400",
+    "title": "MCL 400 Foreign Language Practicum",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "A focused and applied course that students can combine with other language classes in order to pursue a special interest. Variable content course. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL410": {
+    "course_id": "MCL410",
+    "title": "MCL 410 Translation Capstone Project",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Students work closely with a partner or client from the community and a faculty mentor from their language area to complete a substantial, professional-grade translation project that integrates the theoretical concepts and practical skills obtained in previous translation-related coursework. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL413": {
+    "course_id": "MCL413",
+    "title": "MCL 413 Teaching of Foreign Languages",
+    "req": "<em>Prerequisite: equivalent of 12 hours in foreign language, <span data-link='EDC350'>EDC 350</span>, and admitted to Teacher Education Program.</em>",
+    "desc": "Teaching of foreign languages in secondary schools; practical application of techniques and methods. The practical application includes a practicum with teaching and observation components. Credited only on BSEd (Secondary). A grade of C or better is required in this course in order to take <span data-link='MCL493'>MCL 493</span> or <span data-link='MCL496'>MCL 496</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MCL491": {
+    "course_id": "MCL491",
+    "title": "MCL 491 Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate masters-level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MCL493": {
+    "course_id": "MCL493",
+    "title": "MCL 493 Supervised Teaching Seminar",
+    "desc": "Prerequisite; <span data-link='MCL413'>MCL 413</span>; a grade of &quot;C&quot; or better in all professional education courses; current pre-professional liability insurance; approval for supervised teaching; all course work required for the major in Modern Languages-Teacher Education Option completed; minimum combined (Missouri State and transfer) GPA of 2.75; minimum GPA of 3.00 in Modern Language of Certification, with no grade lower than a &quot;C&quot;; minimum GPA of 3.00 in professional education; and concurrent enrollment in <span data-link='MCL496'>MCL 496</span>. A seminar focused on the analysis of diverse aspects of teaching modern languages, to include second-language proficiency and literacy development, student learning and assessment, and field experiences during student teaching. Topics may include: Proficiency, Best Practices, The Job Search, Professional Development, Diversity, Assessment, and Classroom Management. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MCL495": {
+    "course_id": "MCL495",
+    "title": "MCL 495 Languages and Society Capstone",
+    "req": "<em>Prerequisite: permission of instructor or department head.</em>",
+    "desc": "In this capstone course for modern languages majors, students work closely with a faculty mentor from their language area to complete a project or degree paper which relates their previous coursework and other language-intensive experiences (such as study away) to the University&apos;s public affairs mission. The course may also include other kinds of assessments designed to measure the degree to which students have mastered program-specific learning outcomes. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MCL496": {
+    "course_id": "MCL496",
+    "title": "MCL 496 Supervised Teaching",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='MCL493'>MCL 493</span>.</em>",
+    "desc": "Student observes then teaches under the direction of the cooperating teacher and university supervisor. Student participates in school-related activities and attends both individual and group conferences. The course will include regular meetings with the University supervisor. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. The course will also include submission of the required state performance assessment from the supervised teaching. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 10
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MCL497": {
+    "course_id": "MCL497",
+    "title": "MCL 497 Superior Studies in a Foreign Language",
+    "desc": "Special superior studies in a foreign language and culture. May be repeated, as topics change, to a maximum of 6 hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL499": {
+    "course_id": "MCL499",
+    "title": "MCL 499 Program Assessment",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Learning outcomes assessment required of all students graduating with MCL majors, including teacher education candidates. In order to complete the course with a passing grade, students must submit official results for each of the assessments identified for their program(s). Assessments vary by program, are subject to change, and may require the payment of registration fees by the student. Students are encouraged to consult departmental faculty or the department&apos;s web site for current information regarding assessments and fees. Students should only register for this course and schedule the requisite assessments during the semester or term in which they intend to graduate or during their final semester of residency. Graded Pass/Not Pass only. ",
+    "hours": {},
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL500": {
+    "course_id": "MCL500",
+    "title": "MCL 500 Advanced Research in the Discipline",
+    "req": "<em>Prerequisite: 60 hours and permission of instructor or department head.</em>",
+    "desc": "This course will focus on research sources and methods such as the use of bibliographical materials and literary investigation and interpretation in non-English languages. Emphasis will be on resources for teachers in developing individualized professional interests. May be taught concurrently with <span data-link='MCL601'>MCL 601</span>. Cannot receive credit for both <span data-link='MCL601'>MCL 601</span> and <span data-link='MCL500'>MCL 500</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL550": {
+    "course_id": "MCL550",
+    "title": "MCL 550 Advanced Study Abroad",
+    "req": "<em>Prerequisite: <span data-link='FRN311'>FRN 311</span> or <span data-link='GRM311'>GRM 311</span> or <span data-link='SPN205'>SPN 205</span> and permission of instructor and language advisor.</em>",
+    "desc": "Study in an area of the world where the target language is spoken. This may be taken through the Department&apos;s existing program or at any accredited institution. May be taught concurrently with <span data-link='MCL650'>MCL 650</span>. Cannot receive credit for both <span data-link='MCL650'>MCL 650</span> and <span data-link='MCL550'>MCL 550</span>. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL597": {
+    "course_id": "MCL597",
+    "title": "MCL 597 Topics for Teachers of Foreign Languages",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Topics of discipline-specific interest to foreign language teachers, e.g., specialized technological resources or contemporary cultural materials. Sections may be specific to a particular language or concern general pedagogical issues. May be repeated up to 6 hours. Variable content course. May be taught concurrently with <span data-link='MCL697'>MCL 697</span>. Cannot receive credit for both <span data-link='MCL697'>MCL 697</span> and <span data-link='MCL597'>MCL 597</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL650": {
+    "course_id": "MCL650",
+    "title": "MCL 650 Advanced Study Abroad",
+    "desc": "Study in an area of the world where the target language is spoken. This may be taken through the Department&apos;s existing program or at any accredited institution. May be taught concurrently with <span data-link='MCL550'>MCL 550</span>. Cannot receive credit for both <span data-link='MCL550'>MCL 550</span> and <span data-link='MCL650'>MCL 650</span>. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL696": {
+    "course_id": "MCL696",
+    "title": "MCL 696 Materials and Assessment in Foreign Language Teaching",
+    "desc": "Practical and theoretical perspectives in specific areas in foreign language teaching and learning, including speaking, grammar, composition, and critical reading. Consideration of materials design and student assessment with an emphasis on literacy and proficiency development. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL697": {
+    "course_id": "MCL697",
+    "title": "MCL 697 Topics for Teachers of Foreign Languages",
+    "desc": "Topics of discipline-specific interest to foreign language teachers, e.g., specialized technological resources or contemporary cultural materials. Sections may be specific to a particular language or concern general pedagogical issues. May be repeated up to 6 hours. Variable Content Course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL700": {
+    "course_id": "MCL700",
+    "title": "MCL 700 Advanced Language Teaching Methods and Technology",
+    "desc": "This course will acquaint language teachers with current second language research and teaching practice, with emphasis on the uses of technology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL701": {
+    "course_id": "MCL701",
+    "title": "MCL 701 Applied Foreign Language Practicum",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "An independent studies option designed to allow students to work closely with a graduate faculty mentor to develop and implement a project that integrates principles and/or practices pertinent to second language acquisition or applied linguistics. Variable content course. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL710": {
+    "course_id": "MCL710",
+    "title": "MCL 710 Advanced Research in the Discipline",
+    "desc": "This course focuses on methods of conducting research in the area of second-language acquisition. Students will learn how to read, interpret, synthesize, and apply SLA research and how to design and conduct studies and disseminate results. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL724": {
+    "course_id": "MCL724",
+    "title": "MCL 724 Seminar in Linguistics for Foreign Languages",
+    "desc": "Focused exploration of topics in linguistics, phonetics and phonology, semantics, grammar and syntax, language history, language variation and change, and language acquisition as they pertain to French and/or Spanish. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL798": {
+    "course_id": "MCL798",
+    "title": "MCL 798 Degree Papers",
+    "req": "<em>Prerequisite: permission of Department Head or Program Coordinator.</em>",
+    "desc": "Independent research and writing toward completion of degree papers. Consultation with a designated MCL/ENG graduate faculty member and topic approval from the Program Coordinator or the Department Head are required. Not open to students writing theses to satisfy the master&apos;s research requirement. May not be repeated. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MCL799": {
+    "course_id": "MCL799",
+    "title": "MCL 799 Thesis",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "In consultation with MCL and Education advisors, a student may elect to write a thesis on a topic within the discipline. May be repeated up to 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PTG101": {
+    "course_id": "PTG101",
+    "title": "PTG 101 Elementary Portuguese I",
+    "desc": "Develop proficiency in the four communication skills: listening, reading, speaking, and writing. These skills are essential to effective communication in the target language. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PTG102": {
+    "course_id": "PTG102",
+    "title": "PTG 102 Elementary Portuguese II",
+    "req": "<em>Prerequisite: C or better in <span data-link='PTG101'>PTG 101</span>.</em>",
+    "desc": "Develop additional proficiency in the four communication skills: listening, reading, speaking, and writing. These skills are essential to effective communication in the target language. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PTG201": {
+    "course_id": "PTG201",
+    "title": "PTG 201 Intermediate Portuguese I",
+    "req": "<em>Prerequisite: C or better in <span data-link='PTG102'>PTG 102</span>.</em>",
+    "desc": "Systematic review, expansion, and synthesis of the four skill areas. This course will enhance communication skills by providing a thorough review of fundamentals of grammar through real-life language use, reading, and composition. Credit by examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PTG202": {
+    "course_id": "PTG202",
+    "title": "PTG 202 Intermediate Portuguese II",
+    "req": "<em>Prerequisite: C or better in <span data-link='PTG201'>PTG 201</span>.</em>",
+    "desc": "Continued development of the four skills areas through conversation, composition, and reading as a means to access culture. Credit by examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PTG297": {
+    "course_id": "PTG297",
+    "title": "PTG 297 Special Topics in Portuguese",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Topics of selected interest in Portuguese studies, including travel courses to Portuguese-speaking countries. The specific subject matter and/or international component may change from semester to semester according to resources and demand. May be repeated, as topics change, to a maximum of 6 credit hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RUS101": {
+    "course_id": "RUS101",
+    "title": "RUS 101 Elementary Russian I",
+    "desc": "Essentials of grammar through aural-oral practice, dictation, reading, and writing. Course conducted in Russian as far as practicable. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RUS102": {
+    "course_id": "RUS102",
+    "title": "RUS 102 Elementary Russian II",
+    "req": "<em>Prerequisite: C or better in <span data-link='RUS101'>RUS 101</span>.</em>",
+    "desc": "Continuation of <span data-link='RUS101'>RUS 101</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RUS201": {
+    "course_id": "RUS201",
+    "title": "RUS 201 Intermediate Russian I",
+    "req": "<em>Prerequisite: C or better in <span data-link='RUS102'>RUS 102</span>.</em>",
+    "desc": "Continuation of <span data-link='RUS102'>RUS 102</span> with emphasis on reading, conversation, and an introduction to Russian History and culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RUS202": {
+    "course_id": "RUS202",
+    "title": "RUS 202 Intermediate Russian II",
+    "req": "<em>Prerequisite: C or better in <span data-link='RUS201'>RUS 201</span>.</em>",
+    "desc": "Continuation of <span data-link='RUS201'>RUS 201</span> with emphasis on reading, conversation, history, and culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RUS297": {
+    "course_id": "RUS297",
+    "title": "RUS 297 Special Topics in Russian",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Topics of selected interest in Russian studies, including travel-courses to Russian speaking countries. The specific subject matter and/or international component may change from semester to semester according to resources and demand. May be repeated, as topics change, to a maximum of 6 hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RUS498": {
+    "course_id": "RUS498",
+    "title": "RUS 498 Seminar Course in Russian",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Supervised independent study in literature, linguistics or other restricted topics. May be repeated for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPN101": {
+    "course_id": "SPN101",
+    "title": "SPN 101 Elementary Spanish I",
+    "desc": "Develop proficiency in the four communication skills: listening, reading, speaking and writing. These skills are essential to effective communication in the target language. Credit by Examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPN102": {
+    "course_id": "SPN102",
+    "title": "SPN 102 Elementary Spanish II",
+    "req": "<em>Prerequisite: C or better in <span data-link='SPN101'>SPN 101</span>.</em>",
+    "desc": "Develop additional proficiency in the four communication skills: listening, reading, speaking and writing. These skills are essential to effective communication in the target language. Credit by Examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPN201": {
+    "course_id": "SPN201",
+    "title": "SPN 201 Intermediate Spanish I",
+    "req": "<em>Prerequisite: C or better in <span data-link='SPN102'>SPN 102</span>.</em>",
+    "desc": "Systematic review, expansion, and synthesis of the four skill areas. Communicative skills will be enhanced by providing a thorough review of fundamentals of grammar through real-life language use, reading and composition. Credit by Examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPN202": {
+    "course_id": "SPN202",
+    "title": "SPN 202 Intermediate Spanish II",
+    "req": "<em>Prerequisite: C or better in <span data-link='SPN201'>SPN 201</span>.</em>",
+    "desc": "Continuation of the development of the four skills through conversation, composition and reading as a means to access culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPN205": {
+    "course_id": "SPN205",
+    "title": "SPN 205 Spanish Proficiency Skills",
+    "req": "<em>Prerequisite: C or better in <span data-link='SPN201'>SPN 201</span>.</em>",
+    "desc": "This course focuses on the development of formal and informal oral communication skills through oral practice in authentic contexts stressing extensive vocabulary development and cultural information relevant to the Spanish-speaking world. Native and heritage speakers (students who grew up in households where Spanish was frequently spoken) must enroll in the heritage language section of this course. For details, contact a Spanish section faculty member. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPN297": {
+    "course_id": "SPN297",
+    "title": "SPN 297 Special Topics in Spanish",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Topics of selected interest in Spanish studies, including travel-courses to Spanish-speaking countries. The specific subject matter and/or international component may change from semester to semester according to resources and demand. May be repeated, as topics change, to a maximum of 6 credit hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPN300": {
+    "course_id": "SPN300",
+    "title": "SPN 300 Service Learning in Spanish",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a Spanish course at the 202 level or above.</em>",
+    "desc": "This service component for the existing Spanish curriculum incorporates community service with classroom instruction to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service providing instruction or other community service in the Springfield-area schools and other community groups. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPN312": {
+    "course_id": "SPN312",
+    "title": "SPN 312 Spanish Composition",
+    "req": "<em>Prerequisite: <span data-link='SPN202'>SPN 202</span> or <span data-link='SPN205'>SPN 205</span>.</em>",
+    "desc": "This course targets the development of composition skills, focusing on intensive grammar review, vocabulary building, and the discursive and stylistic elements of a variety of written genres. Several essays will be assigned to help students to develop into effective writers in Spanish. Native and heritage speakers (students who grew up in households where Spanish was frequently spoken) must enroll in the heritage language section of this course. For details, contact a Spanish section faculty member. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPN314": {
+    "course_id": "SPN314",
+    "title": "SPN 314 Advanced Spanish Proficiency Skills",
+    "req": "<em>Prerequisite: <span data-link='SPN205'>SPN 205</span> and <span data-link='SPN312'>SPN 312</span>.</em>",
+    "desc": "This course examines recent historical events and current popular trends and movements using multiple media sources (films, the Internet, magazines, songs, music, photographs and television) to better understand contemporary Hispanic/Spanish culture. The focus of the course is on the development of topics for conversational content, analysis, presentations and written essays in Spanish. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPN320": {
+    "course_id": "SPN320",
+    "title": "SPN 320 Hispanic Cinema",
+    "req": "<em>Prerequisite: <span data-link='SPN312'>SPN 312</span>.</em>",
+    "desc": "A survey of major, twentieth-century films produced in Spanish throughout the Spanish-speaking world. Course features a study of directors and works, technique of cinematography, film content and theme development, and analysis of Spanish-language usage and culture in selected films. The relationship between film and Spanish literature and art is also studied. Selected films are also viewed and studied over the course of the semester. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SPN324": {
+    "course_id": "SPN324",
+    "title": "SPN 324 Topics in Spanish Linguistics",
+    "req": "<em>Prerequisite: <span data-link='SPN312'>SPN 312</span>.</em>",
+    "desc": "Develops students&apos; understanding of issues in Spanish linguistics by exploring such topics as phonetics and phonology, morphology and syntax, semantics, history of the language, and regional and social language variation. May be repeated one with different content. Variable content Course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPN325": {
+    "course_id": "SPN325",
+    "title": "SPN 325 Civilization of Spain",
+    "req": "<em>Prerequisite: <span data-link='SPN312'>SPN 312</span>.</em>",
+    "desc": "Origin and development of Iberian culture; includes geography, history, philosophy and arts. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SPN326": {
+    "course_id": "SPN326",
+    "title": "SPN 326 Civilization of Spanish America",
+    "req": "<em>Prerequisite: <span data-link='SPN312'>SPN 312</span>.</em>",
+    "desc": "Origin and development of Spanish American culture; includes geography, history, philosophy, and the arts. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPN410": {
+    "course_id": "SPN410",
+    "title": "SPN 410 Translation",
+    "req": "<em>Prerequisite: <span data-link='SPN312'>SPN 312</span>.</em>",
+    "desc": "Activities and exercises in oral and written translation focusing on career fields. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPN415": {
+    "course_id": "SPN415",
+    "title": "SPN 415 Business and Professional Spanish",
+    "req": "<em>Prerequisite: <span data-link='SPN312'>SPN 312</span> or higher.</em>",
+    "desc": "Specialized and intensive training in Spanish as used in business and selected professions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPN450": {
+    "course_id": "SPN450",
+    "title": "SPN 450 Modern Peninsular Literature",
+    "req": "<em>Prerequisite: <span data-link='SPN312'>SPN 312</span>.</em>",
+    "desc": "Selected works or authors from Modern Peninsular literature. May be repeated once with a different topic. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPN460": {
+    "course_id": "SPN460",
+    "title": "SPN 460 Spanish American Literature",
+    "req": "<em>Prerequisite: <span data-link='SPN312'>SPN 312</span>.</em>",
+    "desc": "Selected works or authors from Spanish American Literature. May be repeated once with a different topic. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SPN480": {
+    "course_id": "SPN480",
+    "title": "SPN 480 Directed Readings",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPN495": {
+    "course_id": "SPN495",
+    "title": "SPN 495 Advanced Undergraduate Seminar in Spanish",
+    "req": "<em>Prerequisite: <span data-link='SPN325'>SPN 325</span> or <span data-link='SPN326'>SPN 326</span>; and <span data-link='SPN450'>SPN 450</span> or <span data-link='SPN460'>SPN 460</span>; or permission of instructor.</em>",
+    "desc": "Study of advanced topics relating to language and proficiency development or literary and cultural themes in Spanish or Hispanic cultures. Variable content course. May be repeated, as content changes, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPN510": {
+    "course_id": "SPN510",
+    "title": "SPN 510 Advanced Translation",
+    "req": "<em>Prerequisite: <span data-link='SPN410'>SPN 410</span>.</em>",
+    "desc": "Builds on the translation and interpreting skills acquired in <span data-link='SPN410'>SPN 410</span>. Students will be exposed to a variety of translation theories and methods and will increase their overall language proficiency as they gain further practical translation experience in a number of genres. May be taught concurrently with <span data-link='SPN610'>SPN 610</span>. Cannot receive credit for both <span data-link='SPN610'>SPN 610</span> and <span data-link='SPN510'>SPN 510</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPN610": {
+    "course_id": "SPN610",
+    "title": "SPN 610 Advanced Translation",
+    "desc": "Builds on the translation and interpreting skills acquired in <span data-link='SPN410'>SPN 410</span>. Students will be exposed to a variety of translation theories and methods and will increase their overall language proficiency as they gain further practical translation experience in a number of genres. May be taught concurrently with <span data-link='SPN510'>SPN 510</span>. Cannot receive credit for both <span data-link='SPN510'>SPN 510</span> and <span data-link='SPN610'>SPN 610</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPN725": {
+    "course_id": "SPN725",
+    "title": "SPN 725 Seminar in Hispanic Literature and Culture",
+    "desc": "This course will enhance students&apos; language proficiency and cultural competence through the interpretation and analysis of selected literary, philosophical, and cultural texts from the Hispanic tradition. Variable content course. May be repeated once with changed content. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPN735": {
+    "course_id": "SPN735",
+    "title": "SPN 735 Advanced Spanish Proficiency",
+    "desc": "After an assessment of global language proficiency, students receive personalized guidance and selected periodic assessments to help them to strengthen their interpretive, interpersonal, and presentational skills in the target language. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

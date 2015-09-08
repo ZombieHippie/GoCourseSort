@@ -1,0 +1,356 @@
+{
+  "PHI105": {
+    "course_id": "PHI105",
+    "title": "PHI 105 Critical Thinking",
+    "req": "<em>Prerequisite: 12 hours. General Education Course (Focus on Public Issues).</em>",
+    "desc": "This course develops intellectual self-awareness by teaching the canons and skills of critical reasoning. Deductive and inductive reasoning, the application of logic to a variety of significant issues, and the relation between language and argumentation will be studied. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHI110": {
+    "course_id": "PHI110",
+    "title": "PHI 110 Introduction to Philosophy",
+    "req": "<em>General Education Course (Focus on Humanities).</em>",
+    "desc": "This course explores various ways of understanding the human self and its relation to the world. Through a consideration of what can be known, what is worth valuing, what reality is, and how human communities should be composed and regulated, the course deals with central themes that arise from the human quest for deeper self-understanding. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHI115": {
+    "course_id": "PHI115",
+    "title": "PHI 115 Ethics and Contemporary Issues",
+    "req": "<em>Prerequisite: 12 hours. General Education Course (Focus on Public Issues).</em>",
+    "desc": "This course examines ethical principles and theories in relation to contemporary moral issues (e.g. euthanasia, capital punishment, economic justice, environmental issues, world hunger). Through a consideration of ideals of justice and human dignity, as well as concepts of rights and responsibilities, it also explores the moral requirements for community and justified political order. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHI197": {
+    "course_id": "PHI197",
+    "title": "PHI 197 Perspectives in Philosophy",
+    "desc": "A variable content course designed to explore the philosophical significance of issues of cultural, social or individual importance. Students should consult the registration schedule to determine the topic to be covered in a given semester. The course may be repeated to a maximum of 6 hours as topics change. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI300": {
+    "course_id": "PHI300",
+    "title": "PHI 300 Philosophical Ideas in Literature",
+    "desc": "Selected works of Western literature in light of their relation to historical trends in philosophy and philosophical speculation in the areas of metaphysics, epistemology, value theory, social and political philosophy. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI301": {
+    "course_id": "PHI301",
+    "title": "PHI 301 Service Learning in Philosophy",
+    "req": "<em>Prerequisite: 30 hours and permission, and concurrent registration in a Philosophy course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in philosophy to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHI302": {
+    "course_id": "PHI302",
+    "title": "PHI 302 Environmental Ethics",
+    "desc": "This course critically examines various philosophical viewpoints that bear upon ethical issues concerning the environment. Among the questions examined are the following: Must concern for the environment revolve around human concerns? Do animals have rights? Does nature have intrinsic value that must be respected regardless of effects upon humans? What is the relative importance of aesthetic or economic values to environmental questions? Do we have obligations to protect resources for future generations? ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI305": {
+    "course_id": "PHI305",
+    "title": "PHI 305 Elements of Symbolic Logic",
+    "desc": "An introduction to the use of symbolic techniques to represent and evaluate arguments from everyday usage. There is an emphasis upon the student&apos;s development of an understanding of the methods and concepts of present day logic. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PHI306": {
+    "course_id": "PHI306",
+    "title": "PHI 306 History of Western Philosophy: Ancient",
+    "desc": "Historical study of ancient philosophy based on the reading of representative writings of major philosophers. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PHI310": {
+    "course_id": "PHI310",
+    "title": "PHI 310 History of Western Philosophy: Modern",
+    "desc": "A survey of the major philosophies of the modern period in the Western World, 1550 to 1850, including the work of philosophers who stand in the traditions of Continental rationalism, British empiricism, and German idealism. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI312": {
+    "course_id": "PHI312",
+    "title": "PHI 312 Contemporary Continental Philosophy",
+    "desc": "An examination of contemporary European philosophical thought including significant writings from important individual philosophers and from major movements of the period, such as Existentialism, Phenomenology, Frankfurt School, Structuralism and/or Deconstruction. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI314": {
+    "course_id": "PHI314",
+    "title": "PHI 314 Asian Philosophy",
+    "desc": "This course compares and evaluates the major philosophies of the Eastern world. It treats selected topics from Indian, Chinese, and Japanese philosophies and examines the basic ideas that underlie the religious and moral viewpoints of these traditions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI315": {
+    "course_id": "PHI315",
+    "title": "PHI 315 Philosophy of Religion",
+    "desc": "Religious experience and the problem of man&apos;s knowledge of God; currently-held views concerning such issues as the relation between religion and other aspects of human culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PHI317": {
+    "course_id": "PHI317",
+    "title": "PHI 317 African American Philosophy",
+    "desc": "This course examines the philosophical contributions of such thinkers as Frederick Douglass, Booker T. Washington, W.E.B. DuBois, Alain Locke, Martin Luther King, Jr., Malcolm X, Sojourner Truth, Angela Y. Davis, and Regina Austin, among others. Ideas are explored from the traditional as well as contemporary perspectives. God, social justice, civil rights, social equality, Ebonics, and rap music--these are some of the themes the course will take up. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI319": {
+    "course_id": "PHI319",
+    "title": "PHI 319 Feminist Philosophy",
+    "desc": "This course examines the major strands of feminist philosophy. It focuses in particular on how issues of gender affect ethical theories and theories of knowledge. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI320": {
+    "course_id": "PHI320",
+    "title": "PHI 320 Aesthetics",
+    "desc": "Representative philosophical theories concerning the nature of aesthetic value; the bases of judgments in the arts and literature. Primarily intended for upper division students concentrating in the fine arts, literature or philosophy. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PHI330": {
+    "course_id": "PHI330",
+    "title": "PHI 330 Introduction to Political Theory",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "An introduction to the study of political theory by examining the central questions that animate our attempt to understand and secure the &quot;good life.&quot; These concerns include: the nature and significance of politics; the origin and character of legitimate authority; and the meaning of freedom, the value of citizenship, and the education in virtue and in rights that are necessary to both individual liberty and civic greatness. Bringing insights from classical and modern texts to bear on these fundamental questions of public life, we aim to articulate and defend our own understanding of the ethical obligations and responsibilities that citizens owe to one another. Identical with <span data-link='PLS330'>PLS 330</span>. Cannot receive credit for both <span data-link='PHI330'>PHI 330</span> and <span data-link='PLS330'>PLS 330</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PHI336": {
+    "course_id": "PHI336",
+    "title": "PHI 336 Knowledge and Reality: Contemporary Approaches",
+    "desc": "This course will investigate questions involving knowledge and reality, focusing on philosophers who wrote at some time from the latter half of the 19th century up to the present day. The questions will typically be from among the following: What is &quot;knowing&quot;? How are claims to be justified to count as knowledge? Do different types of knowledge require a single type of justification, or do they have different types? Does science have a privileged role in knowing what&apos;s real? If so, what is it about science that provides for this? Is reality given or is it constructed/constituted in some way? If the latter, how is this done? Do any of these play a role in that construction/constitution: brain-structure, perception, concepts and conceptual schemes, language, power relations, human activity? What are the basic features of reality? Physical stuff, time, natural kinds, laws of nature, power, events, history, possible worlds? Are common and/or philosophical ways of thinking about the world &quot;metaphysical&quot;, as many have claimed? What exactly is meant by &quot;metaphysical&quot;. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI340": {
+    "course_id": "PHI340",
+    "title": "PHI 340 Philosophy of Law",
+    "desc": "A critical introduction to classical philosophical positions concerning the nature and functions of law, followed by a more detailed study of their contemporary successors. Analysis of rival positions will focus both on questions of theoretical justification and on implications for current legal controversies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI341": {
+    "course_id": "PHI341",
+    "title": "PHI 341 Social Philosophy",
+    "desc": "This course examines foundational social, political and economic issues under the guidance of contemporary ethical and social theories and against the background of evolving constitutionally-governed democratic culture. It addresses both (i) theoretical issues concerning aims, scope and justification for political frameworks and social institutions, and (ii) substantive issues in relation to ideals of equality, liberty and justice raised by competing policy alternatives. Readings will include works from influential contemporary philosophers, and principled arguments from landmark USSC rulings. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI342": {
+    "course_id": "PHI342",
+    "title": "PHI 342 Global Ethics",
+    "desc": "As the planet becomes increasingly interconnected, and increasingly burdened by a burgeoning population, issues of global ethics have taken on a heightened urgency. This course examines competing perspectives on a variety of ethical issues with global dimensions, such as human rights, world hunger and poverty, overpopulation, sweatshops, immigration, nationalism, war, terrorism, genocide, and global warming. Students should emerge better prepared to act as global citizens capable of nuanced moral reasoning. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI345": {
+    "course_id": "PHI345",
+    "title": "PHI 345 Theories of Ethics",
+    "desc": "This course examines the nature of ethics and the principles of moral actions and decisions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI350": {
+    "course_id": "PHI350",
+    "title": "PHI 350 Philosophy and Public Affairs",
+    "desc": "Addresses three elements of MSU&apos;s public affairs mission, with a special focus on the ethical leadership aspect. Dividing the concept, the course will begin with discussion of the &quot;ethical&quot; prong, examining several traditional approaches to character information and ethical decision-making. Moving to the leadership prong, students will look at issues of justice and communication. Synthesizing the two, the course will conclude with examination of how one exhibits ethical leadership in relationships with friends and family, and in the work environment, and in the global sphere. Discussion of these relationships will be connected to the elements of cultural competence and community engagement. Throughout, the focus will be on the role of influence, integrity, and individual responsibility and obligations in the practice of ethical leadership. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI397": {
+    "course_id": "PHI397",
+    "title": "PHI 397 Seminar in Philosophy",
+    "desc": "Research in selected topics in philosophy. May focus on ideas of one or more thinkers, a philosophic issue or a branch of philosophy. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI496": {
+    "course_id": "PHI496",
+    "title": "PHI 496 Philosophy Tutorial",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Individual conference course for students with specialized interests in particular areas of philosophy not covered in regular courses. Includes independent research, progress reports and term papers. Enrollment requires advance agreement on topic. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI513": {
+    "course_id": "PHI513",
+    "title": "PHI 513 Bioethics",
+    "desc": "An introduction to central ethical questions that arise in the area of bioethics, and to the resources various ethical theories offer for resolving those questions. In addition to a brief overview of contemporary moral theory, the course will discuss issues such as euthanasia, informed consent, proxy decision making, experimental research on humans and health care allocation. Specific cases will be discussed and analyzed throughout the semester. May be taught concurrently with <span data-link='PHI613'>PHI 613</span>. Cannot receive credit for both <span data-link='PHI613'>PHI 613</span> and <span data-link='PHI513'>PHI 513</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI596": {
+    "course_id": "PHI596",
+    "title": "PHI 596 Selected Topics in Philosophy",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Individual conference course for graduate students with specialized interests in particular areas of philosophy not covered in regular courses. May include independent research, progress reports and term papers. Enrollment requires advance agreement on topic. May be taught concurrently with <span data-link='PHI696'>PHI 696</span>. Cannot receive credit for both <span data-link='PHI696'>PHI 696</span> and <span data-link='PHI596'>PHI 596</span>. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI613": {
+    "course_id": "PHI613",
+    "title": "PHI 613 Bioethics",
+    "desc": "An introduction to central ethical questions that arise in the area of bioethics, and to the resources various ethical theories offer for resolving those questions. In addition to a brief overview of contemporary moral theory, the course will discuss issues such as euthanasia, informed consent, proxy decision making, experimental research on humans and health care allocation. Specific cases will be discussed and analyzed throughout the semester. May be taught concurrently with <span data-link='PHI513'>PHI 513</span>. Cannot receive credit for both <span data-link='PHI513'>PHI 513</span> and <span data-link='PHI613'>PHI 613</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHI696": {
+    "course_id": "PHI696",
+    "title": "PHI 696 Selected Topics in Philosophy",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Individual conference course for graduate students with specialized interests in particular areas of philosophy not covered in regular courses. May include independent research, progress reports and term papers. Enrollment requires advance agreement on topic. May be taught concurrently with <span data-link='PHI596'>PHI 596</span>. Cannot receive credit for both <span data-link='PHI596'>PHI 596</span> and <span data-link='PHI696'>PHI 696</span>. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

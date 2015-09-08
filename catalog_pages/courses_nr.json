@@ -1,0 +1,1141 @@
+{
+  "NUR199": {
+    "course_id": "NUR199",
+    "title": "NUR 199 Health Topics",
+    "desc": "Topics of general interest in health care system, and the health professions. Topics may vary each semester; the course may be taken to a maximum of 10 hours provided the same topic is not repeated. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR300": {
+    "course_id": "NUR300",
+    "title": "NUR 300 Nursing Transition",
+    "req": "<em>Prerequisite: graduate of a practical nurse program approved by a US state board of nursing.</em>",
+    "desc": "Content relevant to the transition from the practical nurse role to the professional registered nurse role. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "NUR302": {
+    "course_id": "NUR302",
+    "title": "NUR 302 Concepts in Nursing",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing program.</em>",
+    "desc": "Introduction to nursing process, theory, and concepts relevant to professional nursing. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "NUR303": {
+    "course_id": "NUR303",
+    "title": "NUR 303 Art and Science of Nursing I",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing program.</em>",
+    "desc": "Introduction to basic skills and technology used in professional nursing. Includes clinical experience of not less than 48 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "NUR304": {
+    "course_id": "NUR304",
+    "title": "NUR 304 Art and Science of Nursing II",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing Program; and meet program progression requirements.</em>",
+    "desc": "Introduction to complex skills, technology, and nursing care of the adult client in professional nursing. Includes clinical experience of not less than 96 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "NUR306": {
+    "course_id": "NUR306",
+    "title": "NUR 306 Professional Emergence",
+    "req": "<em>Prerequisite: registered nurse or permission of instructor.</em>",
+    "desc": "Enhancement of nurses&apos; ability to function as professionals. Survey of past, current, and developing trends in nursing and health care delivery, including historical, socio-cultural, legal and ethical dimensions in nursing practice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "NUR311": {
+    "course_id": "NUR311",
+    "title": "NUR 311 Introduction to Family Health Nursing",
+    "desc": "The study of the care of the family from a nursing perspective. Provides an introduction to theoretical foundations as it relates to families, genomics, research, and family nursing. Explores family communication, decision making, roles, and values, including beliefs, attitudes, and practices of diverse cultures. Utilizes health care informatics and information technology to assess and analyze data relevant to families. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "NUR312": {
+    "course_id": "NUR312",
+    "title": "NUR 312 Nursing: The Adult Client",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing Program; and meet program progression requirements.</em>",
+    "desc": "Professional nursing care of adult clients experiencing acute and chronic illness. Includes clinical experience of not less than 96 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 6,
+      "lecture": 4,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR322": {
+    "course_id": "NUR322",
+    "title": "NUR 322 Nursing: The Childbearing Family",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing Program; and meet program progression requirements.</em>",
+    "desc": "Professional nursing care of childbearing families in diverse settings. Includes clinical experience of not less than 48 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "NUR323": {
+    "course_id": "NUR323",
+    "title": "NUR 323 Nursing: The Pediatric Client and Family",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing Program; and meet program progression requirements.</em>",
+    "desc": "Professional nursing care of pediatric clients and their families in diverse settings. Includes clinical experience of not less than 96 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "NUR326": {
+    "course_id": "NUR326",
+    "title": "NUR 326 Current Issues in Children's Health and Safety",
+    "desc": "Issues relative to the health and safety of children. Methods to reduce morbidity and mortality rates are included. Content appropriate for non-nursing majors. Variable content course. Cannot be used to meet the nursing elective requirement. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "NUR327": {
+    "course_id": "NUR327",
+    "title": "NUR 327 Issues in Women's Health",
+    "desc": "Issues concerning women&apos;s health. Content is appropriate for non-nursing majors. Variable course content. Cannot be used to meet the nursing elective requirement. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "NUR331": {
+    "course_id": "NUR331",
+    "title": "NUR 331 Nursing: The Mental Health Client",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing Program; and meet program progression requirements.</em>",
+    "desc": "Professional nursing care of mental health clients in diverse settings. Includes clinical experience of not less than 48 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "NUR341": {
+    "course_id": "NUR341",
+    "title": "NUR 341 Nursing: Individuals and Families",
+    "req": "<em>Prerequisite: RN; and admission to the Completion Program for Registered Nurses; and meet program progression requirements.</em>",
+    "desc": "Application of nursing theory and nursing process in the health care of individuals and families. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR342": {
+    "course_id": "NUR342",
+    "title": "NUR 342 Nursing: Health Assessment",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing Program or the Completion Program for Registered Nurses; and meet program progression requirements.</em>",
+    "desc": "Acquisition and utilization of skills in health history interviewing and physical assessment of clients throughout the life span. Supplemental course fee. Only BSN-C students may enroll in the online section. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR360": {
+    "course_id": "NUR360",
+    "title": "NUR 360 Introduction to Pharmacology",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing Program; and meet program progression requirements, or permission of instructor.</em>",
+    "desc": "Introduction to basic pharmacology, pharmacokinetics and pharmacodynamics of major drug classifications. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR416": {
+    "course_id": "NUR416",
+    "title": "NUR 416 Nursing: The Older Adult Client",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing Program; and meet program progression requirements.</em>",
+    "desc": "Professional nursing care of older adults in diverse settings. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "NUR420": {
+    "course_id": "NUR420",
+    "title": "NUR 420 Integrative Healthcare Concepts",
+    "desc": "Exploration of integrative health care concepts and interventions used to promote health and well being of individuals, families and groups from diverse backgrounds. Provides an introduction to theories and research which underlie patient education, family assessment and intervention, and selected noninvasive therapies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "NUR442": {
+    "course_id": "NUR442",
+    "title": "NUR 442 Nursing: Community Health",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing Program or the Completion Program for Registered Nurses; and meet program progression requirements.</em>",
+    "desc": "Theory and clinical experience in nursing practice to aggregates and communities with a focus on vulnerable populations across the global spectrum. Focus on nursing knowledge and skills in community health nursing and nursing research to promote health and prevent disease. Includes clinical experiences of no less than 96 hours. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 6,
+      "lecture": 4,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR472": {
+    "course_id": "NUR472",
+    "title": "NUR 472 Writing II: Nursing Research and Scholarly Writing",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> or equivalent; a statistics course (<span data-link='AGR330'>AGR 330</span>, <span data-link='MTH340'>MTH 340</span>, <span data-link='PSY200'>PSY 200</span>, <span data-link='PSY527'>PSY 527</span>, <span data-link='PSY611'>PSY 611</span>, <span data-link='QBA237'>QBA 237</span>, <span data-link='SOC302'>SOC 302</span> or equivalent) or concurrent enrollment; and 45 hours. General Education Course (Focus on Written Communication and Integrative and Applied Learning).</em>",
+    "desc": "This course will prepare the student to write in a variety of styles, in addition to reading, interpreting, and evaluating nursing research. The student will acquire an understanding of the research process, apply relevant research to health and human service disciplines, and demonstrate the accurate dissemination of research results in verbal and written format. This course will assist students to develop an attitude of inquiry, expand logical thinking, and enhance analytical skills. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "NUR475": {
+    "course_id": "NUR475",
+    "title": "NUR 475 Nursing Internship",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "This clinical course fosters the development of nursing roles, clinical nursing skills, communication, therapeutic nursing interventions, and critical thinking in approved health care agencies in the community. This nursing elective course is for variable credit and may be repeated. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "NUR478": {
+    "course_id": "NUR478",
+    "title": "NUR 478 Nursing: Senior Seminar",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing Program; and meet program progression requirements.</em>",
+    "desc": "Exploration of issues and policies affecting nursing as a profession. Also includes preparation for licensure. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "NUR482": {
+    "course_id": "NUR482",
+    "title": "NUR 482 Nursing: Leadership and Management",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing Program or the Completion Program for Registered Nurses; and meet program progression requirements.</em>",
+    "desc": "Development of the nurse as a leader and manager in diverse settings. Includes clinical experience of not less than 96 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 6,
+      "lecture": 4,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR484": {
+    "course_id": "NUR484",
+    "title": "NUR 484 RN-BSN Capstone",
+    "req": "<em>Prerequisite: admission to the Completion Program for Registered Nurses; and meet program progression requirements.</em>",
+    "desc": "This capstone course emphasizes reflection, integration, and synthesis of concepts from previous courses. Students will demonstrate their knowledge of course and program outcomes, integrate cultural competence, ethical leadership, and identify factors that impact healthcare access for vulnerable populations. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR490": {
+    "course_id": "NUR490",
+    "title": "NUR 490 Emergency Care",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing Program or the Completion Program for Registered Nurses, and meet progression requirements or permission of instructor.</em>",
+    "desc": "An overview of physiological, psychological, social, cultural, legal and ethical factors that influence the health of persons with emergency health care needs. Emphasis will be placed on (a) roles and responsibilities for emergency care providers, (b) principles of emergency and mass casualty care, (c) emergency assessment of persons experiencing medical or traumatic emergencies, (d) prioritizing health care needs and interventions, and (e) evaluating effectiveness of interventions for clients throughout the lifespan. Content appropriate for nurses and other health care providers. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR492": {
+    "course_id": "NUR492",
+    "title": "NUR 492 Basic EKG Interpretation",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing Program or the Completion Program for Registered Nurses; and meet program progression requirements or permission of instructor.</em>",
+    "desc": "This course introduces a systematic method of assessing single lead EKG&apos;s. The course includes analysis and treatment of sinus rhythms, conduction blocks, atrial, junctional and ventricular dysrhythmias. Content appropriate for nurses and other health care professions. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "NUR499": {
+    "course_id": "NUR499",
+    "title": "NUR 499 Special Topics in Nursing",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Independent study in area of special interest. May be taken up to maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "NUR501": {
+    "course_id": "NUR501",
+    "title": "NUR 501 Gerontological Health Care",
+    "req": "<em>Prerequisite: junior standing.</em>",
+    "desc": "This course will address health issues of older adults, including the normal biological and psychosocial aging process, common health problems, and access to and use of health services. It includes international models of aging and geriatric care. The focus is on healthy aging and adaptation to chronic health conditions. This course has a community experience component. May be taught concurrently with <span data-link='NUR631'>NUR 631</span>. Cannot receive credit for both <span data-link='NUR631'>NUR 631</span> and <span data-link='NUR501'>NUR 501</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR502": {
+    "course_id": "NUR502",
+    "title": "NUR 502 Rural Health",
+    "req": "<em>Prerequisite: junior standing.</em>",
+    "desc": "This course offers a study of health care delivery in rural communities. It includes theoretical foundations, cultural considerations, and specific characteristics of rural environments and people. Local and international perspectives will be explored. This course has a community experience component. Identical with <span data-link='SWK502'>SWK 502</span>. Cannot receive credit for both <span data-link='NUR502'>NUR 502</span> and <span data-link='SWK502'>SWK 502</span>. May be taught concurrently with <span data-link='NUR632'>NUR 632</span>. Cannot receive credit for both <span data-link='NUR632'>NUR 632</span> and <span data-link='NUR502'>NUR 502</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR503": {
+    "course_id": "NUR503",
+    "title": "NUR 503 Transcultural Healthcare",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Exploration of health beliefs, values, and practices of other cultures. This is a short-term study away course and counts as an elective toward the Bachelor of Science in Nursing degree. May be taught concurrently with <span data-link='NUR633'>NUR 633</span>. Cannot receive credit for both <span data-link='NUR633'>NUR 633</span> and <span data-link='NUR503'>NUR 503</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "NUR515": {
+    "course_id": "NUR515",
+    "title": "NUR 515 Healthcare Informatics",
+    "desc": "Integration of health, computer and information sciences in managing information to support healthcare and research. Development of skill in managing information and using information systems relevant to health care. Cannot receive credit for both <span data-link='NUR635'>NUR 635</span> and <span data-link='NUR515'>NUR 515</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "NUR530": {
+    "course_id": "NUR530",
+    "title": "NUR 530 Forensic Nursing: A Multidisciplinary Approach",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing Program or the Completion Program for Registered Nurses; and meet program progression requirements or permission of instructor.</em>",
+    "desc": "This course will explore the professional, ethical, and legal aspects of forensic nursing including the multidisciplinary approach to the care of the sexual assault victim and other victims of violent crime, the collection of forensic evidence and documentation of findings, and testifying in court. This course meets the educational component to take the certification exam as a Sexual Assault Nurse Examiner (SANE) nurse. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "NUR565": {
+    "course_id": "NUR565",
+    "title": "NUR 565 Advanced Human Pathophysiology",
+    "req": "<em>Prerequisite: admission to the 4-year Generic Nursing Program or the Completion Program for Registered Nurses; and meet program progression requirements or permission of instructor.</em>",
+    "desc": "Exploration of pathophysiology with focus on health care problems relevant to nursing. Cannot receive credit for both <span data-link='NUR640'>NUR 640</span> and <span data-link='NUR565'>NUR 565</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR596": {
+    "course_id": "NUR596",
+    "title": "NUR 596 Independent Study in Nursing",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Special topics for individual students may be offered as specific topics of interest or as needs arise which are not covered by courses or content in the program. May be repeated for credit for a maximum of 6 credit hours as topics change. May be taught concurrently with <span data-link='NUR695'>NUR 695</span>. Cannot receive credit for both <span data-link='NUR695'>NUR 695</span> and <span data-link='NUR596'>NUR 596</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "NUR597": {
+    "course_id": "NUR597",
+    "title": "NUR 597 Special Topics in Nursing",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Special topics for groups of students may be offered as specific topics of interest or as needs arise which are not covered by courses or content in the program. May be repeated for credit for a maximum of 6 credit hours as topics change. May be taught concurrently with <span data-link='NUR696'>NUR 696</span>. Cannot receive credit for both <span data-link='NUR696'>NUR 696</span> and <span data-link='NUR597'>NUR 597</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "NUR631": {
+    "course_id": "NUR631",
+    "title": "NUR 631 Gerontological Health Care",
+    "desc": "This course will address health issues of older adults, including the normal biological and psychosocial aging process, common health problems, and access to and use of health services. It includes international models of aging and geriatric care. The focus is on healthy aging and adaptation to chronic health conditions. This course has a community experience component. May be taught concurrently with <span data-link='NUR501'>NUR 501</span>. Cannot receive credit for both <span data-link='NUR501'>NUR 501</span> and <span data-link='NUR631'>NUR 631</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR632": {
+    "course_id": "NUR632",
+    "title": "NUR 632 Rural Health",
+    "desc": "This course offers a study of health care delivery in rural communities. It includes theoretical foundations, cultural considerations, and specific characteristics of rural environments and people. Local and international perspectives will be explored. This course has a community experience component. Identical with <span data-link='SWK602'>SWK 602</span>. Cannot receive credit for both <span data-link='NUR632'>NUR 632</span> and <span data-link='SWK602'>SWK 602</span>. May be taught concurrently with <span data-link='NUR502'>NUR 502</span>. Cannot receive credit for both <span data-link='NUR502'>NUR 502</span> and <span data-link='NUS632'>NUS 632</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR633": {
+    "course_id": "NUR633",
+    "title": "NUR 633 Transcultural Healthcare",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Exploration of health beliefs, values, and practices of other cultures. This is a short-term study away course. May be taught concurrently with <span data-link='NUR503'>NUR 503</span>. Cannot receive credit for both <span data-link='NUR503'>NUR 503</span> and <span data-link='NUR633'>NUR 633</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "NUR635": {
+    "course_id": "NUR635",
+    "title": "NUR 635 Healthcare Informatics",
+    "desc": "Integration of health, computer and information sciences in managing information to support healthcare and research. Development of skill in managing information and using information systems relevant to health care. Cannot receive credit for both <span data-link='NUR515'>NUR 515</span> and <span data-link='NUR635'>NUR 635</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "NUR640": {
+    "course_id": "NUR640",
+    "title": "NUR 640 Advanced Human Pathophysiology",
+    "req": "<em>Prerequisite: admission to the Family Nurse Practitioner or Nurse Educator specialization or instructor permission.</em>",
+    "desc": "Exploration of pathophysiology with focus on health care problems relevant to nursing. Cannot receive credit for both <span data-link='NUR565'>NUR 565</span> and <span data-link='NUR640'>NUR 640</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR695": {
+    "course_id": "NUR695",
+    "title": "NUR 695 Independent Study in Nursing",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Special topics for individual students may be offered as specific topics of interest or as needs arise which are not covered by courses or content in the program. May be repeated for credit for a maximum of 6 credit hours as topics change. May be taught concurrently with <span data-link='NUR596'>NUR 596</span>. Cannot receive credit for both <span data-link='NUR596'>NUR 596</span> and <span data-link='NUR695'>NUR 695</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "NUR696": {
+    "course_id": "NUR696",
+    "title": "NUR 696 Special Topics in Nursing",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Special topics for groups of students may be offered as specific topics of interest or as needs arise which are not covered by courses or content in the program. May be repeated for credit for a maximum of 6 credit hours as topics change. May be taught concurrently with <span data-link='NUR597'>NUR 597</span>. Cannot receive credit for both <span data-link='NUR597'>NUR 597</span> and <span data-link='NUR696'>NUR 696</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "NUR700": {
+    "course_id": "NUR700",
+    "title": "NUR 700 Epidemiology",
+    "req": "<em>Prerequisite: admission to the graduate programs in Nursing.</em>",
+    "desc": "This course is an introduction to the epidemiological methods and procedures utilized in the study of the origin, distribution, and control of disease. It will include the study of infectious and non-infectious disease etiology, including vector control, host defenses and resistance, and investigation of disease outbreaks. Students will learn to use basic epidemiological concepts and methods for program planning, evaluation, and research. Basic statistical measures used in the analysis of clinical and epidemiological evaluations, including measures of disease frequency and measures of absolute and relative effects, will be covered. Identical with <span data-link='PBH720'>PBH 720</span>. Cannot receive credit for both <span data-link='NUR700'>NUR 700</span> and <span data-link='PBH720'>PBH 720</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR701": {
+    "course_id": "NUR701",
+    "title": "NUR 701 Nursing Science",
+    "req": "<em>Prerequisite: admission to the graduate programs in nursing or permission of instructor.</em>",
+    "desc": "This course is designed to address how nursing science has evolved and the state of the art of nursing science. Emphasis will be placed on analysis and critique of existing nursing models and theories. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "NUR703": {
+    "course_id": "NUR703",
+    "title": "NUR 703 Population Health: A Local to Global Perspective",
+    "req": "<em>Prerequisite: admission to the graduate programs in nursing or permission of instructor.</em>",
+    "desc": "Fosters development of advanced knowledge of health concepts from a local, state, national, and global perspective. The phenomena of cultural competence, health disparities, and vulnerable/underserved populations will be explored. The course is a pre/corequisite for <span data-link='NUR704'>NUR 704</span>, a cultural immersion course required for family nurse practitioner students. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "NUR704": {
+    "course_id": "NUR704",
+    "title": "NUR 704 Population Health Practicum",
+    "req": "<em>Prerequisite: admission to the graduate programs in nursing or permission of instructor.</em>",
+    "desc": "This course is a clinical component of <span data-link='NUR703'>NUR 703</span>. The clinical experience will include 48 hours of immersion into a vulnerable, undeserved or culturally diverse population. ",
+    "hours": {
+      "credit": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "NUR707": {
+    "course_id": "NUR707",
+    "title": "NUR 707 Advanced Health Assessment and Health Promotion Throughout the Lifespan",
+    "req": "<em>Prerequisite: admission to a graduate program in Nursing.</em>",
+    "desc": "Exploration of advanced health assessment and health promotion strategies for individuals, families, and communities. Includes consideration of diverse populations, cultural competence for providers, exploration of the meanings of health and illness, the use of complementary and alternative therapies, and the impact of spirituality. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "NUR711": {
+    "course_id": "NUR711",
+    "title": "NUR 711 Advanced Roles and Leadership in Nursing",
+    "req": "<em>Prerequisite: admission to a graduate program in Nursing.</em>",
+    "desc": "Examination of advanced nursing roles with emphasis on role theory, leadership, and advanced competencies. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "NUR715": {
+    "course_id": "NUR715",
+    "title": "NUR 715 Primary Care of the Adult",
+    "req": "<em>Prerequisite: admission to the Family Nurse Practitioner specialization.</em>",
+    "desc": "Emphasis on primary, secondary and tertiary prevention as well as on diagnosis and management of health problems. Includes clinical experiences of not less than 96 hours. ",
+    "hours": {
+      "credit": 6,
+      "lecture": 4,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "NUR725": {
+    "course_id": "NUR725",
+    "title": "NUR 725 Primary Care of Women",
+    "req": "<em>Prerequisite: admission to the Family Nurse Practitioner specialization.</em>",
+    "desc": "Development of the family nurse practitioner&apos;s knowledge and skills with emphasis on women&apos;s health. Includes clinical experiences of not less than 96 hours. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "NUR728": {
+    "course_id": "NUR728",
+    "title": "NUR 728 Primary Care of Children and Adolescents",
+    "req": "<em>Prerequisite: admission to the Family Nurse Practitioner specialization.</em>",
+    "desc": "Content and practicum in primary care of children and adolescents. Includes clinical experiences of not less than 96 hours. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 6
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "NUR730": {
+    "course_id": "NUR730",
+    "title": "NUR 730 Family Practice I",
+    "req": "<em>Prerequisite: admission to the BSN-DNP Program.</em>",
+    "desc": "Emphasis on evidence-based clinical practice to promote health and prevent chronic disease. Didactic and clinical experiences include assessment, diagnosis and management of acute health problems in the geriatric, adult and pediatric population. Includes clinical experiences of not less than 96 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 6,
+      "lecture": 4,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "NUR734": {
+    "course_id": "NUR734",
+    "title": "NUR 734 Advanced Physical Assessment and Clinical Reasoning",
+    "req": "<em>Prerequisite: admission to the graduate programs in nursing or permission of instructor.</em>",
+    "desc": "Advanced critical thinking, communication and diagnostic skills needed to obtain comprehensive and focused history and physical exams, analyze assessment data, generate differential diagnoses, evaluate and utilize screening and diagnostic modalities appropriately. An evidence-based practice framework will be utilized. Supplemental course fee. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "NUR750": {
+    "course_id": "NUR750",
+    "title": "NUR 750 Family Practice II",
+    "req": "<em>Prerequisite: admission to the BSN-DNP Program.</em>",
+    "desc": "Emphasis on evidence-based clinical practice to promote health and prevent chronic disease. Didactic and clinical experiences include assessment, diagnosis and management of chronic health problems in the geriatric, adult and pediatric population. Includes clinical experiences of not less than 96 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 6,
+      "lecture": 4,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "NUR761": {
+    "course_id": "NUR761",
+    "title": "NUR 761 Advanced Pharmacotherapeutics",
+    "req": "<em>Prerequisite: admission to the graduate programs in nursing or permission of instructor.</em>",
+    "desc": "An in-depth analysis of pharmacotherapeutics and clinical pharmacotherapeutics for nurses in advanced practice including regulatory consideration in drug management. Identical to <span data-link='PAS781'>PAS 781</span>. Cannot receive credit for both <span data-link='NUR761'>NUR 761</span> and <span data-link='PAS781'>PAS 781</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "NUR765": {
+    "course_id": "NUR765",
+    "title": "NUR 765 Applications of Advanced Pathophysiology",
+    "req": "<em>Prerequisite: admission to a graduate program in Nursing.</em>",
+    "desc": "Clinical application of advanced pathophysiology for advanced nursing roles. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "NUR770": {
+    "course_id": "NUR770",
+    "title": "NUR 770 Family Practice III",
+    "req": "<em>Prerequisite: admission to the BSN-DNP Program.</em>",
+    "desc": "This course covers special clinical topics in nurse practitioner practice including, but not exclusive to procedures, emergencies/trauma, wilderness medicine, pain management, and generic disorders. Includes clinical experiences of not less than 96 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 6,
+      "lecture": 4,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "NUR772": {
+    "course_id": "NUR772",
+    "title": "NUR 772 Advanced Research Methods in Nursing",
+    "req": "<em>Prerequisite: admission to the graduate programs in nursing or permission of instructor.</em>",
+    "desc": "Critical analysis of the researcher role, the research process, and research ethics within a nursing framework. Application of learned principles will result in the development of the research proposal. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "NUR780": {
+    "course_id": "NUR780",
+    "title": "NUR 780 Teaching/Learning for Health Care Educators",
+    "req": "<em>Prerequisite: admission to the Nurse Educator specialization.</em>",
+    "desc": "Designed to examine works of major learning theorists and investigate research related to teaching methods and learning. Identification of teaching/learning strategies used in health care education and practice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR781": {
+    "course_id": "NUR781",
+    "title": "NUR 781 Nursing Education Practicum",
+    "req": "<em>Prerequisite: admission to the Nurse Educator specialization.</em>",
+    "desc": "Clinical experience in a nurse educator role in a basic education program. Application of educational theories and principles in a clinical teaching setting. Includes clinical experiences of not less than 96 hours. ",
+    "hours": {
+      "credit": 2,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR782": {
+    "course_id": "NUR782",
+    "title": "NUR 782 Curriculum Design and Program Development",
+    "req": "<em>Prerequisite: admission to the Nurse Educator specialization.</em>",
+    "desc": "Basic components and processes of curriculum development. Various perspectives of curriculum design will be discussed. Curriculums for formal educational programs, staff development, and continuing education will be compared. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR783": {
+    "course_id": "NUR783",
+    "title": "NUR 783 Nursing Education Practicum II",
+    "req": "<em>Prerequisite: admission to the Nurse Educator specialization.</em>",
+    "desc": "Clinical experience in a nurse educator role in a healthcare or community setting with emphasis on application of educational theories and principles. Includes clinical experiences of not less than 96 hours. ",
+    "hours": {
+      "credit": 2,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR784": {
+    "course_id": "NUR784",
+    "title": "NUR 784 Technology in Health Care Education",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "This course explores various technology-based health education resources, such as blogs, wikis, YouTube/SchoolTube, Podcasts, Webinars, and social networking tools utilized to support the teaching and learning process. Strategies to assess learners, to develop learner evaluation plans, and to measure learning outcomes will be discussed. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "NUR786": {
+    "course_id": "NUR786",
+    "title": "NUR 786 Issues in Healthcare Education",
+    "req": "<em>Prerequisite: admission to the Nurse Educator specialization.</em>",
+    "desc": "Exploration of current issues in academic and healthcare education. Issues occurring in the university, community college, acute care, and community education settings will be included. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "NUR788": {
+    "course_id": "NUR788",
+    "title": "NUR 788 Health Policies and Issues",
+    "req": "<em>Prerequisite: admission to the graduate programs in nursing or permission of instructor.</em>",
+    "desc": "Exploration of current issues in health care, such as access to health care, reimbursement, health care reform, case management, and health policy development. Health care trends related to special populations and ethical issues will be emphasized. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR790": {
+    "course_id": "NUR790",
+    "title": "NUR 790 Family Nurse Practitioner Advanced Practicum",
+    "req": "<em>Prerequisite: admission to the graduate programs in nursing or permission of instructor.</em>",
+    "desc": "Development of the role of a family nurse practitioner in a supervised setting. Includes clinical experiences of not less than 240 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 5,
+      "lab": 15
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "NUR797": {
+    "course_id": "NUR797",
+    "title": "NUR 797 Non-thesis Project",
+    "req": "<em>Prerequisite: admission to the Family Nurse Practitioner or Nurse Educator specialization.</em>",
+    "desc": "Active participation in the on-going research and/or nursing evaluation activities of nursing faculty. Culminates in a presentation of an extensive scholarly paper. Must be repeated for a minimum of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "NUR798": {
+    "course_id": "NUR798",
+    "title": "NUR 798 Research",
+    "req": "<em>Prerequisite: permission of research advisor.</em>",
+    "desc": "Application of the research process in the supervised study of a selected problem. May be repeated for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "NUR799": {
+    "course_id": "NUR799",
+    "title": "NUR 799 Thesis",
+    "req": "<em>Prerequisite: admission to the Family Nurse Practitioner or Nurse Educator specialization.</em>",
+    "desc": "Demonstration of the capacity for research and independent thought culminating in a thesis. Must be repeated for a minimum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "NUR800": {
+    "course_id": "NUR800",
+    "title": "NUR 800 DNP Leadership I: Concepts for Evidence-Based Practice",
+    "req": "<em>Prerequisite: admission to the DNP Program and meet program progression requirements.</em>",
+    "desc": "This course explores foundational concepts and theories for the development of the DNP nurse leader and the DNP Change Project. Concepts include transforming healthcare through evidence-based practice, quality improvement, leadership in healthcare systems, project planning, evaluation of evidence, and consideration of disparities in health and healthcare from a population focus. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "NUR802": {
+    "course_id": "NUR802",
+    "title": "NUR 802 Emerging Science of Advanced Practice",
+    "req": "<em>Prerequisite: admission to the DNP Program.</em>",
+    "desc": "In this course, concepts, theories, and philosophical perspectives relevant to nursing science, research, and advanced nursing practice are examined. Emphasis is placed on exploring, analyzing, and applying concepts, theories, philosophies, and research applicable to the discipline of nursing in general, and to the student&apos;s area of advanced practice and research. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "NUR820": {
+    "course_id": "NUR820",
+    "title": "NUR 820 Social Justice and Disparities in Health and Healthcare",
+    "req": "<em>Prerequisite: admission to the DNP Program and meet program progression requirements.</em>",
+    "desc": "This course fosters development of advanced knowledge of cultural competence, health and healthcare disparity, and social justice concepts. The role of the advanced practice nurse in relation to cultural competence, health and healthcare disparity, and population health is analyzed. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "NUR824": {
+    "course_id": "NUR824",
+    "title": "NUR 824 Health Policy to Improve Health Disparities",
+    "req": "<em>Prerequisite: admission to the DNP Program.</em>",
+    "desc": "This course will analyze the development and implementation of health care policy and promote the role of the advanced practice nurse in policy making as an advocate for issues related to social justice, vulnerable populations, and health disparities. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "NUR830": {
+    "course_id": "NUR830",
+    "title": "NUR 830 DNP Leadership II: Impacting Disparities in Health and Healthcare",
+    "req": "<em>Prerequisite: admission to the DNP Program and meet program progression requirements.</em>",
+    "desc": "Building on <span data-link='NUR800'>NUR 800</span>, the focus of this course includes the concepts of leadership, change, problem solving, ethical decision making theories and their application to project planning. The concepts of translational research, quality improvement, and budgeting, within a health and healthcare disparities framework will be addressed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "NUR840": {
+    "course_id": "NUR840",
+    "title": "NUR 840 Technology for Transforming Nursing and Healthcare Systems",
+    "req": "<em>Prerequisite: admission to the DNP Program.</em>",
+    "desc": "This course is designed to provide an overview of nursing and healthcare information technology for the advanced practice nurse. The purpose of this course is to explore information system concepts and leverage technologies that can be used to improve quality, enhance patient safety, and transform the health of individuals, families, communities and populations. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "NUR860": {
+    "course_id": "NUR860",
+    "title": "NUR 860 DNP Leadership III: Transforming Systems",
+    "req": "<em>Prerequisite: admission to the DNP Program and meet program progression requirements.</em>",
+    "desc": "This course builds on previous DNP Leadership courses with an emphasis on advanced leadership roles for transforming health and healthcare disparities at the systems level. Concepts addressed include implementing a strategic plan and evaluating plan outcomes; resource management; leading and managing change and innovation in diverse healthcare environments; healthcare economics; influencing healthcare policy, and organizational culture and behavior; program/impact evaluation. Advanced leadership roles, such as consultant, entrepreneur, grant writer, mentor, advanced advocate, and change agent will be included. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "NUR990": {
+    "course_id": "NUR990",
+    "title": "NUR 990 Introduction to Transforming Practice",
+    "req": "<em>Prerequisite: admission to the DNP program and meet program progression requirements.</em>",
+    "desc": "This course utilizes foundational leadership and evidence-based practice concepts necessary to begin developing a health or healthcare systems change project. Skills applied include identifying research interests, project site, population, key stakeholders, and resources. An initial literature review will be developed to address a health and/or healthcare disparities problem. This course has no less than 48 hours of clinical. ",
+    "hours": {
+      "credit": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "NUR991": {
+    "course_id": "NUR991",
+    "title": "NUR 991 Transforming Practice I",
+    "req": "<em>Prerequisite: admission to the DNP Program and meet program progression requirements.</em>",
+    "desc": "This DNP project course focuses on the application of concepts and skills necessary to plan an improvement change project to address health and/or healthcare disparities. Skills applied include advanced leadership, project planning, budgeting, managing risk, and navigating project barriers. This course has no less than 144 hours of clinical. ",
+    "hours": {
+      "credit": 3,
+      "lab": 9
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "NUR992": {
+    "course_id": "NUR992",
+    "title": "NUR 992 Transforming Practice II",
+    "req": "<em>Prerequisite: admission to the DNP Program and meet program progression requirements.</em>",
+    "desc": "During this course, an evidence-based project to transform practice within a healthcare system will be implemented and evaluated. The project will address disparities in health and/or healthcare, and data will be collected for project evaluation. A minimum of 144 clinical hours is required. ",
+    "hours": {
+      "credit": 3,
+      "lab": 9
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "NUR993": {
+    "course_id": "NUR993",
+    "title": "NUR 993 Transforming Practice III",
+    "req": "<em>Prerequisite: admission to the DNP program and meet program progression requirements.</em>",
+    "desc": "During this course, the DNP student will utilize and synthesize project findings with current evidence to develop scholarly products of publications and presentations for dissemination. A minimum of 192 clinical hours is required. ",
+    "hours": {
+      "credit": 4,
+      "lab": 12
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "HCM301": {
+    "course_id": "HCM301",
+    "title": "HCM 301 Health Care Organization",
+    "desc": "Analysis of organizational structure, the nature of health and health care delivery. Emphasizes the interrelatedness of cultural, economic, political, and social aspects of health care delivery along with its services and management. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HCM303": {
+    "course_id": "HCM303",
+    "title": "HCM 303 Health Care Legal Issues",
+    "desc": "Introduction to the legal system as it relates to health care. Legal responsibilities and issues related to health care institutions, health provider/patient relationships, medical records, malpractice insurance, licensure of health professionals, and ethical problems/questions in health care. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HCM504": {
+    "course_id": "HCM504",
+    "title": "HCM 504 Health Care Economics",
+    "desc": "Recommended Prerequisite: <span data-link='ECO165'>ECO 165</span> or <span data-link='AGB144'>AGB 144</span>. A basic study of the major economic issues facing the health care industry. Emphasis will be placed on the major elements of economic theory from a micro-economic perspective and how these theories are applied in the area of health care. Identical with <span data-link='ECO504'>ECO 504</span>. Cannot receive credit for both <span data-link='HCM504'>HCM 504</span> and <span data-link='ECO504'>ECO 504</span>. May be taught concurrently with <span data-link='HCM604'>HCM 604</span>. Cannot receive credit for both <span data-link='HCM604'>HCM 604</span> and <span data-link='HCM504'>HCM 504</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "HCM604": {
+    "course_id": "HCM604",
+    "title": "HCM 604 Health Care Economics",
+    "desc": "Recommended Prerequisite: <span data-link='ECO165'>ECO 165</span> or <span data-link='AGB144'>AGB 144</span>. A basic study of the major economic issues facing the health care industry. Emphasis will be placed on the major elements of economic theory from a micro-economic perspective and how these theories are applied in the area of health care. Identical with <span data-link='ECO604'>ECO 604</span>. Cannot receive credit for both <span data-link='HCM604'>HCM 604</span> and <span data-link='ECO604'>ECO 604</span>. May be taught concurrently with <span data-link='HCM504'>HCM 504</span>. Cannot receive credit for both <span data-link='HCM504'>HCM 504</span> and <span data-link='HCM604'>HCM 604</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  }
+}

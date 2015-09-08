@@ -1,0 +1,722 @@
+{
+  "CSC101": {
+    "course_id": "CSC101",
+    "title": "CSC 101 Computers for Learning",
+    "desc": "Fundamental computer concepts including word processing spreadsheets, assessing information and the responsible use of information and technology. Course may be waived by proficiency exam. Identical with <span data-link='CIS101'>CIS 101</span>. Cannot receive credit for both <span data-link='CIS101'>CIS 101</span> and <span data-link='CSC101'>CSC 101</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSC111": {
+    "course_id": "CSC111",
+    "title": "CSC 111 Introduction to Computing",
+    "req": "<em>Prerequisite: eligible for <span data-link='MTH261'>MTH 261</span>.</em>",
+    "desc": "An introduction to computer hardware, software, and network resources. Spreadsheets and computer-based mathematical software will be emphasized. Students will write programs and create computational models to analyze data and make written and oral presentations describing conclusions drawn from their analyses. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSC121": {
+    "course_id": "CSC121",
+    "title": "CSC 121 Introduction to BASIC Programming",
+    "desc": "Problem solving with computers, analysis of computational problems and development of algorithms for their solution. Algorithms will be implemented in the BASIC language utilizing personal computers. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSC125": {
+    "course_id": "CSC125",
+    "title": "CSC 125 Introduction to C++ Programming",
+    "desc": "Programming and problem-solving using C++. Language constructs for assignment, flow control, input/output and functions are studied and applied. Techniques of object-oriented programming are introduced. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSC130": {
+    "course_id": "CSC130",
+    "title": "CSC 130 The World of Computer Science",
+    "desc": "A broad overview of computer science, with topics ranging from the basic structure of a computer to artificial intelligence. Students will use a high-level language to investigate and implement solutions to problems in a range of fields. Suitable for non-majors who want to learn more about computer science. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSC131": {
+    "course_id": "CSC131",
+    "title": "CSC 131 Computational Thinking",
+    "req": "<em>Prerequisite: &quot;C&quot; or better in <span data-link='CSC130'>CSC 130</span> and eligible for <span data-link='MTH261'>MTH 261</span>.</em>",
+    "desc": "Solving problems using computation and implementing solutions in a high-level programming language. Introduction to problem analysis, solution design, data structures, and algorithms. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSC197": {
+    "course_id": "CSC197",
+    "title": "CSC 197 Introductory Topics in Computer Science",
+    "desc": "Variable content course with topics that can change from semester to semester. Topics will be identified by title in the schedule of classes. The course may be repeated if a different topic is offered, however, no more than six credits may count toward any degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC210": {
+    "course_id": "CSC210",
+    "title": "CSC 210 Public Affairs Issues in Computing",
+    "req": "<em>Prerequisite: 12 hours. General Education Course (Focus on Public Issues).</em>",
+    "desc": "An introduction to public affairs issues in computing. Topics include civic applications, public sources of data, data and computer system security, opportunities and dangers of artificial intelligence and data mining, social media and computer mediated collaboration, and cultural factors in the internationalization of software. Student will design a civic application or system intended to serve the public good. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSC226": {
+    "course_id": "CSC226",
+    "title": "CSC 226 Special Languages",
+    "desc": "Study of computer languages and their use in particular application domains. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC232": {
+    "course_id": "CSC232",
+    "title": "CSC 232 Data Structures",
+    "req": "<em>Prerequisite: &quot;C&quot; or better in <span data-link='CSC130'>CSC 130</span> and <span data-link='CSC131'>CSC 131</span>; and <span data-link='MTH215'>MTH 215</span> or <span data-link='MTH315'>MTH 315</span> or concurrent enrollment.</em>",
+    "desc": "A continuation of <span data-link='CSC131'>CSC 131</span>. Topics will include: algorithm design; complexity analysis; abstract data types and encapsulation; basic data structures and their application, including stacks, queues, linked lists and binary trees; dynamic memory allocation; recursion; sorting and searching; debugging techniques. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSC300": {
+    "course_id": "CSC300",
+    "title": "CSC 300 Service Learning in Computer Science",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a Computer Science course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in Computer Science to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSC301": {
+    "course_id": "CSC301",
+    "title": "CSC 301 Introduction to Video Game Design",
+    "req": "<em>Prerequisite: 30 hours; and eligible for Writing II; and permission of instructor.</em>",
+    "desc": "An introduction to the main elements of video game design (including setting, story, goals, narrative, mechanics, and level design) and the structure and responsibilities of a game development team. The emphasis will be on game designs that could be implemented by a small team within one year. Students will design a game and create a design document. Does not count towards a Computer Science major. Identical with <span data-link='ART301'>ART 301</span>. Cannot receive credit for both <span data-link='CSC301'>CSC 301</span> and <span data-link='ART301'>ART 301</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC303": {
+    "course_id": "CSC303",
+    "title": "CSC 303 Introductory Video Game Development for Designers and Programmers",
+    "req": "<em>Prerequisite: ART/<span data-link='CSC301'>CSC 301</span>; and either <span data-link='CSC232'>CSC 232</span> or <span data-link='MED290'>MED 290</span>.</em>",
+    "desc": "Hands-on introduction to video game development software, emphasizing level design, placement of art assets, lighting, and scripting. Students may collaborate with <span data-link='ART302'>ART 302</span> students to experience industry-typical workflow between designers, artists and programmers. Does not count towards a Computer Science major. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC320": {
+    "course_id": "CSC320",
+    "title": "CSC 320 Computer Architecture",
+    "req": "<em>Prerequisite: <span data-link='CSC131'>CSC 131</span>.</em>",
+    "desc": "Introduction to the architecture and internal operation of computers, including assembly language. A study of the major components, functional organization, and sequential operation of digital computers during program execution. Several computer architectures will be studied. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSC325": {
+    "course_id": "CSC325",
+    "title": "CSC 325 Algorithms and Advanced Data Structures",
+    "req": "<em>Prerequisite: &quot;C&quot; or better in <span data-link='CSC232'>CSC 232</span>; and either <span data-link='MTH215'>MTH 215</span> or <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "This course should be taken as soon as possible after <span data-link='CSC232'>CSC 232</span>. Algorithms and advanced data structures, including graphs, heaps, self-adjusting data structures, set representations and dynamic programming. Sample applications, including memory management and data compression. Introduction to NP-complete problems. Correctness proofs and efficiency analysis are stressed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSC333": {
+    "course_id": "CSC333",
+    "title": "CSC 333 Languages and Machines",
+    "req": "<em>Prerequisite: &quot;C&quot; or better in <span data-link='CSC232'>CSC 232</span>; and <span data-link='CSC320'>CSC 320</span> or concurrent enrollment; and <span data-link='MTH215'>MTH 215</span> or <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "A study of two classes of languages: formal languages (regular, context-free, and computable) and their associated machines (finite automata, pushdown automata, and Turing machines); and programming languages, including the essential features of imperative, functional, object-oriented, and logic programming languages, together with their design and implementation on modern computers and virtual machines. Includes a substantial number of programming assignments, most of which are language interpreters or machine simulators, to be implemented using a functional programming language that emphasizes recursion and higher-order functions. As a semester project, students must research a new programming language and use it to write a nontrivial application. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSC335": {
+    "course_id": "CSC335",
+    "title": "CSC 335 Database System Concepts",
+    "req": "<em>Prerequisite: &quot;C&quot; or better in <span data-link='CSC121'>CSC 121</span> or <span data-link='CSC125'>CSC 125</span> or <span data-link='CSC131'>CSC 131</span>.</em>",
+    "desc": "A study of modern database systems and their underlying concepts. Core topics include the relational model, SQL, database design theory, query processing, file structures, transactions, and concurrency. Programming projects provide practical experience in developing GUI database applications. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSC365": {
+    "course_id": "CSC365",
+    "title": "CSC 365 Internet Programming",
+    "req": "<em>Prerequisite: &quot;C&quot; or better in <span data-link='CSC121'>CSC 121</span> or <span data-link='CSC125'>CSC 125</span> or <span data-link='CSC131'>CSC 131</span>.</em>",
+    "desc": "An introduction to paradigms and languages used in Internet and World Wide Web programming. These include modern tools for client-side and server-side programming and dynamic Web page generation. Advanced topics, such as security and XML, will be covered as time allows. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSC399": {
+    "course_id": "CSC399",
+    "title": "CSC 399 Cooperative Education in Computer Science",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "The opportunity to earn academic credit in a planned learning process that integrates academic training with a supervised work experience. This is a variable content course that may be repeated to a total of 6 semester hours. Does not count toward any Computer Science minor. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC421": {
+    "course_id": "CSC421",
+    "title": "CSC 421 Numerical Analysis I",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span>.</em>",
+    "desc": "Recommended: <span data-link='CSC125'>CSC 125</span> or <span data-link='CSC131'>CSC 131</span>. Solution of systems of linear and nonlinear equations, interpolation, integration, approximation, matrix computations. Problem solution will include the use of software. Identical with <span data-link='MTH421'>MTH 421</span>. Cannot receive credit for both <span data-link='CSC421'>CSC 421</span> and <span data-link='MTH421'>MTH 421</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC422": {
+    "course_id": "CSC422",
+    "title": "CSC 422 Numerical Analysis II",
+    "req": "<em>Prerequisite: <span data-link='MTH303'>MTH 303</span> and <span data-link='MTH421'>MTH 421</span>.</em>",
+    "desc": "Solution of initial and boundary value problems in ordinary and partial differential equations, simulation, and optimization. Problem solution will include the use of software. Identical with <span data-link='MTH422'>MTH 422</span>. Cannot receive credit for both <span data-link='CSC422'>CSC 422</span> and <span data-link='MTH422'>MTH 422</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC423": {
+    "course_id": "CSC423",
+    "title": "CSC 423 Digital Simulation",
+    "req": "<em>Prerequisite: <span data-link='CSC232'>CSC 232</span> and either <span data-link='MTH345'>MTH 345</span> or <span data-link='MTH540'>MTH 540</span>.</em>",
+    "desc": "The study of simulation techniques. Topics will include: probability distributions, statistical testing, random number generators, design of simulation experiments, language structures for simulation, and study of a simulation language. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC450": {
+    "course_id": "CSC450",
+    "title": "CSC 450 Introduction to Software Engineering",
+    "req": "<em>Prerequisite: <span data-link='CSC325'>CSC 325</span> and <span data-link='CSC335'>CSC 335</span> and <span data-link='CSC365'>CSC 365</span>.</em>",
+    "desc": "Principles, techniques and tools used to effect the orderly production of medium and large scale computer programs will be studied. These techniques will be applied to programming projects with students working in teams and managing all phases of a programming project. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSC460": {
+    "course_id": "CSC460",
+    "title": "CSC 460 Theory of Computer Operating Systems",
+    "req": "<em>Prerequisite: <span data-link='CSC320'>CSC 320</span> and <span data-link='CSC325'>CSC 325</span>.</em>",
+    "desc": "A study of the concepts and implementation techniques used on modern operating systems. Core topics include processes, threads, interprocess communication, deadlocks, memory management, file systems, I/O systems, security and distributed systems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSC482": {
+    "course_id": "CSC482",
+    "title": "CSC 482 Seminar in Computer Science",
+    "req": "<em>Prerequisite: <span data-link='CSC333'>CSC 333</span>; and <span data-link='CSC460'>CSC 460</span> or concurrent enrollment.</em>",
+    "desc": "Current trends and ethics in computer science with consideration given to future opportunities in the field. A written report and successful completion of the computer science assessment test will be required. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSC500": {
+    "course_id": "CSC500",
+    "title": "CSC 500 Hardware, Software, and Troubleshooting Personal Computers",
+    "desc": "An introduction to the installation, maintenance, troubleshooting, upgrading, simple repair, and management of personal computers found in educational settings. This course will provide numerous laboratory experiences providing hands-on experience with the goal of enabling students to support personal computer laboratories found in PK-12 schools. This course cannot be taken for credit toward a computer science major or minor. May be taught concurrently with <span data-link='CSC600'>CSC 600</span>. Cannot receive credit for both <span data-link='CSC600'>CSC 600</span> and <span data-link='CSC500'>CSC 500</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC505": {
+    "course_id": "CSC505",
+    "title": "CSC 505 Web-Based Resources in Educational Settings",
+    "desc": "An introduction to the design, implementation, and management of World Wide Web resources over the Internet and Intranet networks. Topics include Internet overview, web authoring, web programming, server setting and maintenance. The objective of the course is to know tools (HTML, JavaScript, and Java applets, and Internet Server software, and Navigator/Internet Explorer software packages), and their applicability in WWW design and management in PK-12 school settings. This course cannot be taken for credit toward a computer science major or minor. May be taught concurrently with <span data-link='CSC605'>CSC 605</span>. Cannot receive credit for both <span data-link='CSC605'>CSC 605</span> and <span data-link='CSC505'>CSC 505</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC510": {
+    "course_id": "CSC510",
+    "title": "CSC 510 Networking and Telecommunications in Educational Settings",
+    "desc": "An introduction to networking and data communications from an educator&apos;s perspective. The course will examine the necessary computer hardware, software, and personnel resources relevant to networking and data communication requirements in various educational settings. Local Area Networks, Wide Area Networks, Network Interconnections, and the Internet will be addressed. This course cannot be taken for credit toward a computer science major or minor. May be taught concurrently with <span data-link='CSC610'>CSC 610</span>. Cannot receive credit for both <span data-link='CSC610'>CSC 610</span> and <span data-link='CSC510'>CSC 510</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC521": {
+    "course_id": "CSC521",
+    "title": "CSC 521 Compiler Construction",
+    "req": "<em>Prerequisite: <span data-link='CSC333'>CSC 333</span>.</em>",
+    "desc": "Topics include lexical analysis, parsing, symbol tables, type checking, run-time organization, code generation, basic code optimization, and the use of compiler development tools. The student must write a complete compiler for a small imperative programming language. May be taught concurrently with <span data-link='CSC621'>CSC 621</span>. Cannot receive credit for both <span data-link='CSC621'>CSC 621</span> and <span data-link='CSC521'>CSC 521</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC525": {
+    "course_id": "CSC525",
+    "title": "CSC 525 Computer Graphics",
+    "req": "<em>Prerequisite: <span data-link='CSC232'>CSC 232</span> and either <span data-link='MTH215'>MTH 215</span> or <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Introduction to the hardware and software components of graphics systems. Development of algorithms for two-dimensional graphics including windowing, clipping, and transformations; algorithms for three dimensional graphics including viewing, transformations, and removal of hidden lines and surfaces. Data structures for graphics and interactive techniques will be stressed. May be taught concurrently with <span data-link='CSC625'>CSC 625</span>. Cannot receive credit for both <span data-link='CSC525'>CSC 525</span> and <span data-link='CSC625'>CSC 625</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSC526": {
+    "course_id": "CSC526",
+    "title": "CSC 526 Methods of Optimization",
+    "req": "<em>Prerequisite: <span data-link='CSC421'>CSC 421</span> or <span data-link='MTH421'>MTH 421</span>; and <span data-link='MTH533'>MTH 533</span>.</em>",
+    "desc": "Convex sets, classical optimization of functions, constrained optimization, search techniques, linear and nonlinear optimization, applications to applied problems. May be taught concurrently with <span data-link='CSC626'>CSC 626</span>. Cannot receive credit for both <span data-link='CSC626'>CSC 626</span> and <span data-link='CSC526'>CSC 526</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC535": {
+    "course_id": "CSC535",
+    "title": "CSC 535 Data Mining",
+    "req": "<em>Prerequisite: <span data-link='CSC232'>CSC 232</span>.</em>",
+    "desc": "This course studies the emerging technology of data mining--the automated extraction of patterns and information from data. The focus will be on understanding the algorithms underlying data mining and on the practical use of those algorithms. Students will use data mining software to analyze collections of data. May be taught concurrently with <span data-link='CSC635'>CSC 635</span>. Cannot receive credit for both <span data-link='CSC535'>CSC 535</span> and <span data-link='CSC635'>CSC 635</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC540": {
+    "course_id": "CSC540",
+    "title": "CSC 540 Introduction to Artificial Intelligence",
+    "req": "<em>Prerequisite: <span data-link='CSC325'>CSC 325</span>.</em>",
+    "desc": "Modern techniques for the implementation of goal-directed behavior in intelligent systems, including knowledge representation, search, perception, reasoning, and learning. May be taught concurrently with <span data-link='CSC640'>CSC 640</span>. Cannot receive credit for both <span data-link='CSC540'>CSC 540</span> and <span data-link='CSC640'>CSC 640</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSC545": {
+    "course_id": "CSC545",
+    "title": "CSC 545 Computer Speech, Music and Images",
+    "req": "<em>Prerequisite: <span data-link='CSC232'>CSC 232</span>.</em>",
+    "desc": "This is an applied course focusing on the technical aspects of computer-based multimedia-speech, music, audio, and video. In any given semester, the focus may be more on audio or image processing, or it may be equally balanced between the two. Topics include multimedia data capture and representation, methods of data compression, multimedia information retrieval, and multimedia standards. May be taught concurrently with <span data-link='CSC645'>CSC 645</span>. Cannot receive credit for both <span data-link='CSC545'>CSC 545</span> and <span data-link='CSC645'>CSC 645</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC565": {
+    "course_id": "CSC565",
+    "title": "CSC 565 Computer Networks",
+    "req": "<em>Prerequisite: <span data-link='CSC232'>CSC 232</span>.</em>",
+    "desc": "An introduction to the theory, concepts and techniques upon which modern computer networks and telecommunication systems are based. The emphasis will be on layered network architectures, the design frameworks for both local and wide area networks and communication protocols. May be taught concurrently with <span data-link='CSC665'>CSC 665</span>. Cannot receive credit for both <span data-link='CSC565'>CSC 565</span> and <span data-link='CSC665'>CSC 665</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSC567": {
+    "course_id": "CSC567",
+    "title": "CSC 567 Mobile Computing Applications",
+    "req": "<em>Prerequisite: <span data-link='CSC232'>CSC 232</span>.</em>",
+    "desc": "An introduction to the design, development, and publication of software applications for mobile devices. Course topics will include design and creation of basic and advanced applications, use of an integrated development environment, performance and security issues, and application packaging and distribution mechanisms. May be taught concurrently with <span data-link='CSC667'>CSC 667</span>. Cannot receive credit or both <span data-link='CSC567'>CSC 567</span> and <span data-link='CSC667'>CSC 667</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSC587": {
+    "course_id": "CSC587",
+    "title": "CSC 587 Computing for Bioinformatics",
+    "req": "<em>Prerequisite: any one of <span data-link='CSC121'>CSC 121</span>, <span data-link='CSC125'>CSC 125</span>, <span data-link='CSC131'>CSC 131</span>, <span data-link='CSC232'>CSC 232</span>, <span data-link='BMS231'>BMS 231</span>, <span data-link='BIO235'>BIO 235</span>, or <span data-link='CHM350'>CHM 350</span>.</em>",
+    "desc": "This course focuses on computational techniques used in bioinformatics. Topics will include nucleotide and amino acid data representation, sequence alignment, coding sequence prediction, and use of statistical models. Students will learn to use bioinformatics libraries with a script language such as Python or Perl. May be taught concurrently with <span data-link='CSC687'>CSC 687</span>. Cannot receive credit for both <span data-link='CSC587'>CSC 587</span> and <span data-link='CSC687'>CSC 687</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC590": {
+    "course_id": "CSC590",
+    "title": "CSC 590 Advanced Topics in Computer Science",
+    "req": "<em>Prerequisite: <span data-link='CSC232'>CSC 232</span>.</em>",
+    "desc": "Variable content course with advanced topics that can change from semester to semester. Topics may be identified by title in the schedule of classes. May be repeated if a different topic is offered, however, no more than six credits may count toward any degree. May be taught concurrently with <span data-link='CSC690'>CSC 690</span>. Cannot receive credit for both <span data-link='CSC590'>CSC 590</span> and <span data-link='CSC690'>CSC 690</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC596": {
+    "course_id": "CSC596",
+    "title": "CSC 596 Special Readings",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Periodic conferences with an advisor are required. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='CSC696'>CSC 696</span>. Cannot receive credit for both <span data-link='CSC696'>CSC 696</span> and <span data-link='CSC596'>CSC 596</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSC600": {
+    "course_id": "CSC600",
+    "title": "CSC 600 Hardware, Software, and Troubleshooting Personal Computers",
+    "desc": "An introduction to the installation, maintenance, troubleshooting, upgrading, simple repair, and management of personal computers found in educational settings. This course will provide numerous laboratory experiences providing hands-on experience with the goal of enabling students to support personal computer laboratories found in PK-12 schools. May be taught concurrently with <span data-link='CSC500'>CSC 500</span>. Cannot receive credit for both <span data-link='CSC500'>CSC 500</span> and <span data-link='CSC600'>CSC 600</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC605": {
+    "course_id": "CSC605",
+    "title": "CSC 605 Web-Based Resources in Educational Settings",
+    "desc": "An introduction to the design, implementation, and management of World Wide Web resources over the Internet and Intranet networks. Topics include Internet overview, web authoring, web programming, server setting and maintenance. The objective of the course is to know tools (HTML, JavaScript, and Java applets, and Internet Server software, and Navigator/Internet Explorer software packages), and their applicability in WWW design and management in PK-12 school settings. May be taught concurrently with <span data-link='CSC505'>CSC 505</span>. Cannot receive credit for both <span data-link='CSC505'>CSC 505</span> and <span data-link='CSC605'>CSC 605</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC610": {
+    "course_id": "CSC610",
+    "title": "CSC 610 Networking and Telecommunications in Educational Settings",
+    "desc": "An introduction to networking and data communications from an educator&apos;s perspective. The course will examine the necessary computer hardware, software, and personnel resources relevant to networking and data communication requirements in various educational settings. Local Area Networks, Wide Area Networks, Network Interconnections, and the Internet will be addressed. May be taught concurrently with <span data-link='CSC510'>CSC 510</span>. Cannot receive credit for both <span data-link='CSC510'>CSC 510</span> and <span data-link='CSC610'>CSC 610</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC621": {
+    "course_id": "CSC621",
+    "title": "CSC 621 Compiler Construction",
+    "desc": "Topics include lexical analysis, parsing, symbol tables, type checking, run-time organization, code generation, basic code optimization, and the use of compiler development tools. The student must write a complete compiler for a small imperative programming language. May be taught concurrently with <span data-link='CSC521'>CSC 521</span>. Cannot receive credit for both <span data-link='CSC521'>CSC 521</span> and <span data-link='CSC621'>CSC 621</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC625": {
+    "course_id": "CSC625",
+    "title": "CSC 625 Computer Graphics",
+    "desc": "An introduction to computer graphics, with an emphasis on application programming. Algorithms for two dimensional graphics, including windowing, clipping, and transformations; algorithms for three dimensional graphics, including viewing, transformations, and removal of hidden lines and surfaces. Data structures for graphics and interactive techniques will be stressed. May be taught concurrently with <span data-link='CSC525'>CSC 525</span>. Cannot receive credit for both <span data-link='CSC625'>CSC 625</span> and <span data-link='CSC525'>CSC 525</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSC626": {
+    "course_id": "CSC626",
+    "title": "CSC 626 Methods of Optimization",
+    "desc": "Convex sets, classical optimization of functions, constrained optimization, search techniques, linear and nonlinear optimization, applications to applied problems. May be taught concurrently with <span data-link='CSC526'>CSC 526</span>. Cannot receive credit for both <span data-link='CSC526'>CSC 526</span> and <span data-link='CSC626'>CSC 626</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC635": {
+    "course_id": "CSC635",
+    "title": "CSC 635 Data Mining",
+    "desc": "Recommended Prerequisite: equivalent of <span data-link='CSC232'>CSC 232</span>. This course studies the emerging technology of data mining - the automated extraction of patterns and information from data. The focus will be on understanding the algorithms underlying data mining and on the practical use of those algorithms. Students will use data mining software to analyze collections of data. May be taught concurrently with <span data-link='CSC535'>CSC 535</span>. Cannot receive credit for both <span data-link='CSC635'>CSC 635</span> and <span data-link='CSC535'>CSC 535</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC640": {
+    "course_id": "CSC640",
+    "title": "CSC 640 Introduction to Artificial Intelligence",
+    "desc": "Recommended Prerequisite: equivalent of <span data-link='CSC325'>CSC 325</span>. Modern techniques for the implementation of goal-directed behavior in intelligent systems, including knowledge representation, search, perception, reasoning, and learning. May be taught concurrently with <span data-link='CSC540'>CSC 540</span>. Cannot receive credit for both <span data-link='CSC640'>CSC 640</span> and <span data-link='CSC540'>CSC 540</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSC645": {
+    "course_id": "CSC645",
+    "title": "CSC 645 Computer Speech, Music and Images",
+    "desc": "This is an applied course focusing on the technical aspects of computer-based multimedia-speech, music, audio, and video. In any given semester, the focus may be more on audio or image processing, or it may be equally balanced between the two. Topics include multimedia data capture and representation, methods of data compression, multimedia information retrieval, and multimedia standards. May be taught concurrently with <span data-link='CSC545'>CSC 545</span>. Cannot receive credit for both <span data-link='CSC645'>CSC 645</span> and <span data-link='CSC545'>CSC 545</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC665": {
+    "course_id": "CSC665",
+    "title": "CSC 665 Computer Networks",
+    "desc": "An introduction to the theory, concepts and techniques upon which modern computer networks and telecommunication systems are based. The emphasis will be on layered network architectures, the design frameworks for both local and wide area networks and communication protocols. May be taught concurrently with <span data-link='CSC565'>CSC 565</span>. Cannot receive credit for both <span data-link='CSC665'>CSC 665</span> and <span data-link='CSC565'>CSC 565</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSC667": {
+    "course_id": "CSC667",
+    "title": "CSC 667 Mobile Computing Applications",
+    "desc": "An introduction to the design, development, and publication of software applications for mobile devices. Course topics will include design and creation of basic and advanced applications, use of an integrated development environment, performance and security issues, and application packaging and distribution mechanisms. May be taught concurrently with <span data-link='CSC567'>CSC 567</span>. Cannot receive credit or both <span data-link='CSC667'>CSC 667</span> and <span data-link='CSC567'>CSC 567</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSC687": {
+    "course_id": "CSC687",
+    "title": "CSC 687 Computing for Bioinformatics",
+    "desc": "This course focuses on computational techniques used in bioinformatics. Topics will include nucleotide and amino acid data representation, sequence alignment, coding sequence prediction, and use of statistical models. Students will learn to use bioinformatics libraries with a script language such as Python or Perl. May be taught concurrently with <span data-link='CSC587'>CSC 587</span>. Cannot receive credit for both <span data-link='CSC687'>CSC 687</span> and <span data-link='CSC587'>CSC 587</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC690": {
+    "course_id": "CSC690",
+    "title": "CSC 690 Advanced Topics in Computer Science",
+    "desc": "Detailed consideration of advanced topics in the field of Computer Science. Topics will change, and this course may be repeated with differing topics. May be taught concurrently with <span data-link='CSC590'>CSC 590</span>. Cannot receive credit for both <span data-link='CSC690'>CSC 690</span> and <span data-link='CSC590'>CSC 590</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSC696": {
+    "course_id": "CSC696",
+    "title": "CSC 696 Special Readings",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Periodic conferences with an advisor are required. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='CSC596'>CSC 596</span>. Cannot receive credit for both <span data-link='CSC596'>CSC 596</span> and <span data-link='CSC696'>CSC 696</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSC796": {
+    "course_id": "CSC796",
+    "title": "CSC 796 Science Internship",
+    "desc": "Completion of an internship project (480 hours) at a discipline-related business, nonprofit organization, or government agency, approved and supervised by both the departmental and internship advisors. Includes a formal report in the appropriate professional format, and an oral presentation at an approved venue. Graded Pass/Not Pass only. No more than 6 hours may count toward a masters degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CSC798": {
+    "course_id": "CSC798",
+    "title": "CSC 798 Research in Computer Science",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Supervised research in computer science. May be repeated, but no more than 6 hours may count toward the Master of Natural and Applied Science degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSC799": {
+    "course_id": "CSC799",
+    "title": "CSC 799 Thesis",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Independent research and study connected with preparation of thesis. No more than 6 hours may count toward the Master of Natural and Applied Science degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

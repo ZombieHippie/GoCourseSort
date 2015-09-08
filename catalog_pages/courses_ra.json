@@ -1,0 +1,392 @@
+{
+  "HRA210": {
+    "course_id": "HRA210",
+    "title": "HRA 210 Introduction to Hospitality Leadership",
+    "desc": "This course is designed to examine the leadership processes, concepts, and principles and to improve personal competence in decision-making, problem solving, motivation, and communication as they relate to the hospitality industry. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA215": {
+    "course_id": "HRA215",
+    "title": "HRA 215 Introduction to Lodging Management",
+    "req": "<em>Prerequisite: <span data-link='HRA210'>HRA 210</span> or concurrent enrollment.</em>",
+    "desc": "A study of the fundamentals of how lodging operations are managed from a rooms perspective. Practical examples are used to familiarize students with the line management aspects of reservations, registration, occupancy, and checkout and the settlement procedures in various lodging market segments. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA218": {
+    "course_id": "HRA218",
+    "title": "HRA 218 Safety and Sanitation",
+    "req": "<em>Prerequisite: <span data-link='HRA210'>HRA 210</span> or concurrent enrollment or permission.</em>",
+    "desc": "Introduction to food service sanitation and safety practices pertinent to hospitality management. Emphasis on sanitation requirements, safe food handling, storage practices and accident prevention. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA300": {
+    "course_id": "HRA300",
+    "title": "HRA 300 Special Topics in Hospitality and Restaurant Administration",
+    "req": "<em>Prerequisite: permission of Department Head.</em>",
+    "desc": "Selected topics of contemporary interest in hospitality and restaurant administration. Offered when resources and demand allow. May be repeated for a total of 6 hours when topics change. Variable Content Course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HRA302": {
+    "course_id": "HRA302",
+    "title": "HRA 302 Hospitality and Restaurant Administration Study Tour",
+    "req": "<em>Prerequisite: permission of Department Head.</em>",
+    "desc": "Study of and visits to museums, international hospitality tours, historic sites, trade shows, conferences, and conventions related to the hospitality industry. May be taken for a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HRA310": {
+    "course_id": "HRA310",
+    "title": "HRA 310 Analyzing Financial Performance in Hospitality Operations",
+    "req": "<em>Prerequisite: <span data-link='MTH130'>MTH 130</span> or higher; and <span data-link='HRA210'>HRA 210</span>; and <span data-link='HRA215'>HRA 215</span>; and <span data-link='ACC201'>ACC 201</span>.</em>",
+    "desc": "Financial techniques in forecasting, budgeting, and performance measurement, and the application of the hospitality industry uniform system of accounts are covered in this course as they apply to operational and fiscal decision making. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA315": {
+    "course_id": "HRA315",
+    "title": "HRA 315 Advanced Lodging Management",
+    "req": "<em>Prerequisite: <span data-link='HRA210'>HRA 210</span> and <span data-link='HRA215'>HRA 215</span> and <span data-link='ACC201'>ACC 201</span>.</em>",
+    "desc": "Students in this course will analyze the lodging industry in depth. Critical thinking skills are stressed as students are exposed to different viewpoints within a coherent theoretical structure, enabling them to formulate their own ideas and solutions. Current trends and challenges in lodging are also studied in depth. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HRA321": {
+    "course_id": "HRA321",
+    "title": "HRA 321 Principles of Food Preparation",
+    "req": "<em>Prerequisite: <span data-link='HRA218'>HRA 218</span>.</em>",
+    "desc": "Students in this course study the scientific principles and techniques in the selection, preparation and preservation of food including fundamental principles of nutrition and diet. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA325": {
+    "course_id": "HRA325",
+    "title": "HRA 325 Cultural Cuisine",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "A course designed to extensively explore various cultures through a hands-on culinary experience. May be repeated for a total of 6 hours. Supplemental course fee (variable by section.) ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HRA330": {
+    "course_id": "HRA330",
+    "title": "HRA 330 Banquet Operations",
+    "req": "<em>Prerequisite: <span data-link='HRA210'>HRA 210</span> and <span data-link='HRA321'>HRA 321</span>.</em>",
+    "desc": "This course provides students with practical skills and knowledge for effective management of food and beverage practices, from the preparation of quantity foods to its service. Laboratory arranged. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA340": {
+    "course_id": "HRA340",
+    "title": "HRA 340 Destination Development",
+    "req": "<em>Prerequisite: <span data-link='HRA410'>HRA 410</span> or concurrent enrollment; or <span data-link='GRY310'>GRY 310</span>.</em>",
+    "desc": "This course offers a systematic study of hospitality businesses and attractions as they apply to destination development. The role of government agencies, private developers, and investors as they pertain to destination development will be studied. Case studies are used extensively which offer examples of successful and unsuccessful development efforts. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HRA345": {
+    "course_id": "HRA345",
+    "title": "HRA 345 Club Management",
+    "req": "<em>Prerequisite: <span data-link='HRA210'>HRA 210</span> and <span data-link='HRA215'>HRA 215</span> and <span data-link='HRA218'>HRA 218</span>.</em>",
+    "desc": "Students study governance, strategy, marketing membership, human resources, and operations that are specific to the private club segment of the hospitality industry. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "HRA354": {
+    "course_id": "HRA354",
+    "title": "HRA 354 Hospitality Human Resource Development",
+    "req": "<em>Prerequisite: <span data-link='HRA210'>HRA 210</span> and <span data-link='HRA215'>HRA 215</span> and junior standing.</em>",
+    "desc": "Study of concepts and applications of interpersonal skills as it relates to the hospitality industry; communication; leadership styles; product enhancement; labor market shortage; conflict resolution; recruitment, training and retention. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA360": {
+    "course_id": "HRA360",
+    "title": "HRA 360 Hospitality Facilities Management",
+    "req": "<em>Prerequisite: <span data-link='HRA210'>HRA 210</span> and <span data-link='HRA215'>HRA 215</span> and <span data-link='ACC201'>ACC 201</span>.</em>",
+    "desc": "Students in this course study the management of the physical plant of various hospitality enterprises, with a focus on systems, sustainability, design and layout, equipment, development, and renovation. Current facility-related challenges are also addressed ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "HRA400": {
+    "course_id": "HRA400",
+    "title": "HRA 400 Problems in Hospitality and Restaurant Administration",
+    "req": "<em>Prerequisite: permission of Department Head.</em>",
+    "desc": "Independent study for those who wish additional work in specific subject areas. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HRA409": {
+    "course_id": "HRA409",
+    "title": "HRA 409 Beverage Operations",
+    "req": "<em>Prerequisite: senior standing; and Hospitality and Restaurant Administration major.</em>",
+    "desc": "Principles and methods of operating a profitable beverage component in a foodservice business. Topics range from inventory control, accounting, equipment and pricing, to legal responsibilities and liability. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA410": {
+    "course_id": "HRA410",
+    "title": "HRA 410 Hospitality Marketing and Revenue Management",
+    "req": "<em>Prerequisite: <span data-link='HRA310'>HRA 310</span> or concurrent enrollment; and <span data-link='MKT150'>MKT 150</span> or <span data-link='MKT350'>MKT 350</span>.</em>",
+    "desc": "The course is designed to provide students with theory and knowledge which will enable them to develop and interpret strategic marketing plans for hospitality enterprises properties. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA426": {
+    "course_id": "HRA426",
+    "title": "HRA 426 Food and Beverage Management",
+    "req": "<em>Prerequisite: <span data-link='HRA321'>HRA 321</span>; and <span data-link='MTH130'>MTH 130</span> or higher; and junior standing.</em>",
+    "desc": "A continuation of the student&apos;s familiarization with food service components in the hospitality industry. Menu, planning, pricing, food service accounting, wage and labor cost control, purchasing, portion control, advertising, sales and other food service principles, practices and techniques are analyzed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA428": {
+    "course_id": "HRA428",
+    "title": "HRA 428 Hospitality Law",
+    "req": "<em>Prerequisite: junior standing; and Hospitality and Restaurant Administration major.</em>",
+    "desc": "The study of the legal aspect of lodging and food service operations. Problem-solving approach applied to liability and litigation problems confronting hospitality executives. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA430": {
+    "course_id": "HRA430",
+    "title": "HRA 430 Special Event Planning",
+    "req": "<em>Prerequisite: <span data-link='MKT150'>MKT 150</span> or <span data-link='MKT350'>MKT 350</span>; and <span data-link='HRA321'>HRA 321</span>.</em>",
+    "desc": "In-depth analysis of management and operational challenges involved in planning and deploying events as they relate to the hospitality industry. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA435": {
+    "course_id": "HRA435",
+    "title": "HRA 435 Restaurant Management",
+    "req": "<em>Prerequisite: <span data-link='HRA321'>HRA 321</span>.</em>",
+    "desc": "This course is designed to allow students to experience the step-by-step process of operating &quot;Carrie&apos;s&quot; Restaurant in the Professional Building. Students will design the menu, prepare and serve the food and market the restaurant. In addition, students may participate in the planning and execution of various special events in the program. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA436": {
+    "course_id": "HRA436",
+    "title": "HRA 436 Casino Operations",
+    "req": "<em>Prerequisite: <span data-link='HRA354'>HRA 354</span> or concurrent enrollment.</em>",
+    "desc": "This course provides an overview of the gaming industry with an emphasis on casino hotel operations as an integral part of the hospitality industry. Topics include the history of gaming, casino layout and design, surveillance, demographic profiles, psychological profiles, and economic impact. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA480": {
+    "course_id": "HRA480",
+    "title": "HRA 480 Global Strategic Management in the Hospitality Industry",
+    "req": "<em>Prerequisite: senior standing; and <span data-link='HRA310'>HRA 310</span>; and <span data-link='HRA410'>HRA 410</span> or concurrent enrollment.</em>",
+    "desc": "This is an integrative course that focuses on managing the various components of the hospitality industry at both the business and the corporate level. Students use case studies as well as current events in the industry to understand the nature of strategic issues and their management in the hospitality industry. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA490": {
+    "course_id": "HRA490",
+    "title": "HRA 490 Advanced Hospitality Leadership",
+    "req": "<em>Prerequisite: senior standing; and <span data-link='MTH130'>MTH 130</span> or higher; and <span data-link='HRA354'>HRA 354</span> or concurrent enrollment; and Hospitality and Restaurant Administration major.</em>",
+    "desc": "An in-depth investigation into leadership principles and practices required of professionals in the hospitality industry. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HRA497": {
+    "course_id": "HRA497",
+    "title": "HRA 497 International Hospitality Field Study",
+    "req": "<em>Prerequisite: <span data-link='HRA210'>HRA 210</span> and <span data-link='HRA215'>HRA 215</span> and <span data-link='HRA218'>HRA 218</span> and permission.</em>",
+    "desc": "Provides students with first-hand exposure to international issues in hospitality administration. This Study Away experience includes a preparation phase, a two to three week visit to an international destination where students are immersed in the local culture, and a debrief following the trip. Because credit and destinations vary, the course may be repeated to a total of 6 hours. Graded Pass/Not Pass only. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HRA499": {
+    "course_id": "HRA499",
+    "title": "HRA 499 Internship in Hospitality",
+    "req": "<em>Prerequisite: senior standing; and Hospitality and Restaurant Administration major; and permission.</em>",
+    "desc": "Supervised experience in a cooperative program in hospitality. Student must gain experience/exposure in at least three positions during the internship. The student must be paid for the internship and must work a minimum of 750 hours. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 6,
+      "lab": 6
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HRA710": {
+    "course_id": "HRA710",
+    "title": "HRA 710 Risk Management and Legal Compliance in the Hospitality Industry",
+    "req": "<em>Prerequisite: <span data-link='LAW600'>LAW 600</span> or equivalent.</em>",
+    "desc": "In-depth studies of legal issues pertinent to hospitality and tourism firms are the focus of this course. Topical areas include contracts, negligence, and employment, labor, and real estate law. Treaties and international law affecting global trade policy as well as international tourism development receive heavy emphasis. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HRA720": {
+    "course_id": "HRA720",
+    "title": "HRA 720 Hospitality Change Management and Leadership",
+    "req": "<em>Prerequisite: <span data-link='MGT600'>MGT 600</span> or equivalent.</em>",
+    "desc": "An in-depth investigation of the principles and theories of leading change in hospitality organizations. The processes, skills, and abilities needed to manage change in the industry are stressed. Attention is given to areas hospitality leaders need to address when initiating change such as vision development, team development and motivation, power and influence, performance standards, productivity, and organizational culture. Case studies will be used extensively to address course content. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HRA730": {
+    "course_id": "HRA730",
+    "title": "HRA 730 Seminar in Hospitality and Tourism",
+    "req": "<em>Prerequisite: 18 graduate hours in business administration and economics.</em>",
+    "desc": "An evaluation and analysis of the theory, research, and practice involved in hospitality and tourism fields. The course involves an integrative learning experience where students will have the opportunity to engage in an applied research project. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

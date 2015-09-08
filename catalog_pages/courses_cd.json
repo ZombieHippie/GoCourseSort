@@ -1,0 +1,1522 @@
+{
+  "CSD201": {
+    "course_id": "CSD201",
+    "title": "CSD 201 Introduction to Communication Disorders",
+    "desc": "Provides a general understanding of normal and deviant speech, language and hearing in adults and children. Considers the normal development of communication behavior, and the nature of communication disorders. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSD209": {
+    "course_id": "CSD209",
+    "title": "CSD 209 Basics of Linguistics for the Communication Sciences",
+    "desc": "General coverage of linguistic theories, relationships between cognitive and linguistic abilities, and cultural influences upon language. Also definition of the specific components of language (phonology, syntax-morphology, semantics, and pragmatics), with emphasis on procedures for description and analysis commonly used in the communication sciences. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSD210": {
+    "course_id": "CSD210",
+    "title": "CSD 210 Phonetics",
+    "desc": "Instructional and laboratory application of international phonetic alphabet in transcribing normal/disordered American English. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSD216": {
+    "course_id": "CSD216",
+    "title": "CSD 216 Anatomy and Physiology of Speech",
+    "desc": "Particular structure and functions of human anatomy related to the processes of speech. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD260": {
+    "course_id": "CSD260",
+    "title": "CSD 260 Survey of Interests in Deaf and Hard of Hearing",
+    "desc": "A survey course on the effects of hearing impairments as they relate to development, learning, education, and social interaction across the lifespan. Resources and agencies that assist persons who are deaf and hard of hearing at the local, state, and national levels will be discussed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD312": {
+    "course_id": "CSD312",
+    "title": "CSD 312 Normal Language Acquisition",
+    "desc": "Theories and sequence of normal language development, emphasizing phonological, morphological, syntactic, semantic, and pragmatic abilities. Emphasis on first six years. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CSD315": {
+    "course_id": "CSD315",
+    "title": "CSD 315 Language Disorders in Children",
+    "req": "<em>Prerequisite: grade of C or better in <span data-link='CSD312'>CSD 312</span>.</em>",
+    "desc": "Nature, evaluation and treatment of language disorders in children. The goal of the course is to introduce students to the populations of children who experience language disorders including children with developmental language disorders, autism spectrum disorders, and intellectual disabilities. The course will examine tools and strategies used to assess language disorders as well as evidenced-based intervention strategies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD316": {
+    "course_id": "CSD316",
+    "title": "CSD 316 Introduction to Language and Cognitive-Linguistic Disorders in Adults",
+    "req": "<em>Prerequisite: grade of C or better in <span data-link='CSD312'>CSD 312</span>.</em>",
+    "desc": "Nature, evaluation and treatment of acquired language and cognitive-linguistic disorders in adults caused by stroke, brain injury and neurological disease. Study of current clinical approaches and evidenced-based practice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD318": {
+    "course_id": "CSD318",
+    "title": "CSD 318 Introduction to Phonological (Sound System) Disorders in Children",
+    "req": "<em>Prerequisite: grade of C or better in <span data-link='CSD210'>CSD 210</span>.</em>",
+    "desc": "Introduction to the nature, evaluation, and treatment of sound system disorders in children ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSD321": {
+    "course_id": "CSD321",
+    "title": "CSD 321 Conceptually Accurate Signed English I",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Gain beginner level skill in sign language and fingerspelling through Manually Coded English. Development of a general knowledge base including the history of sign language and the spectrum of sign options available. May be taught concurrently with <span data-link='CSD721'>CSD 721</span>. Cannot receive credit for both <span data-link='CSD321'>CSD 321</span> and <span data-link='CSD721'>CSD 721</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD322": {
+    "course_id": "CSD322",
+    "title": "CSD 322 Conceptually Accurate Signed English II",
+    "req": "<em>Prerequisite: <span data-link='CSD321'>CSD 321</span> and permission.</em>",
+    "desc": "Emphasis on the expansion of Manually Coded English sign language skills through the use of conversation and the increased development of vocabulary. May be taught concurrently with <span data-link='CSD922'>CSD 922</span>. Cannot receive credit for both <span data-link='CSD322'>CSD 322</span> and <span data-link='CSD922'>CSD 922</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD330": {
+    "course_id": "CSD330",
+    "title": "CSD 330 Introduction to American Sign Language (ASL)",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "A beginning level course in American Sign Language. Students will gain information about the history and structure of this unique visual/gestural system of communication, its vocabulary and syntax, and practical experience in its use, both expressively and receptively. May be taught concurrently with <span data-link='CSD636'>CSD 636</span> and <span data-link='CSD930'>CSD 930</span>. Cannot receive credit for <span data-link='CSD330'>CSD 330</span> and <span data-link='CSD636'>CSD 636</span> and <span data-link='CSD930'>CSD 930</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD331": {
+    "course_id": "CSD331",
+    "title": "CSD 331 American Sign Language (ASL) II",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "An advanced beginning level course in American Sign Language. Students will gain more complex introductory information about the history and structure of this unique visual/gestural system of communication, its vocabulary and syntax, and practical experience in its use, both expressively and receptively. May be taught concurrently with <span data-link='CSD637'>CSD 637</span>. Cannot receive credit for both <span data-link='CSD331'>CSD 331</span> and <span data-link='CSD637'>CSD 637</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD332": {
+    "course_id": "CSD332",
+    "title": "CSD 332 American Sign Language (ASL) III",
+    "req": "<em>Prerequisite: <span data-link='CSD331'>CSD 331</span> and permission.</em>",
+    "desc": "An intermediate level course in American Sign Language. Students will gain information regarding vocabulary, syntax and cultural factors related to this unique visual/gestural system of communication. Students will gain further practical experience in its use, both expressively and receptively. May be taught concurrently with <span data-link='CSD638'>CSD 638</span>. Cannot receive credit for both <span data-link='CSD332'>CSD 332</span> and <span data-link='CSD638'>CSD 638</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD333": {
+    "course_id": "CSD333",
+    "title": "CSD 333 American Sign Language (ASL) IV",
+    "req": "<em>Prerequisite: <span data-link='CSD332'>CSD 332</span> and permission.</em>",
+    "desc": "An advanced level course in American Sign Language. Students will gain information regarding vocabulary, syntax and cultural factors related to this unique visual/gestural system of communication. Students will gain further practical experience in its use, both expressively and receptively. May be taught concurrently with <span data-link='CSD639'>CSD 639</span>. Cannot receive credit for both <span data-link='CSD333'>CSD 333</span> and <span data-link='CSD639'>CSD 639</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD360": {
+    "course_id": "CSD360",
+    "title": "CSD 360 Hearing Science",
+    "desc": "Elementary acoustical theory and application to the study of speech production, reception and perception; emphasis on anatomy of auditory system, decibel notation and traditional psychophysical methods. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD362": {
+    "course_id": "CSD362",
+    "title": "CSD 362 Speech Science",
+    "req": "<em>Prerequisite: <span data-link='CSD216'>CSD 216</span>.</em>",
+    "desc": "Analysis of research on the acoustic parameters, the perceptual and productive processes of normal speech. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD370": {
+    "course_id": "CSD370",
+    "title": "CSD 370 Audiology",
+    "req": "<em>Prerequisite: grade of C or better in <span data-link='CSD360'>CSD 360</span>.</em>",
+    "desc": "Principles of hearing measurement: test methods, screening methods, test interpretation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD380": {
+    "course_id": "CSD380",
+    "title": "CSD 380 Development, Diversity, and Deafness",
+    "desc": "Includes prevalence, terminology and the effects of hearing loss and its management on child development. Comprehensive scope of communication options will be explored. Exceptionalities, including cultural and linguistic differences among individuals who are deaf or hard of hearing will be considered within the context of family and development, both educationally and socially. May be taught concurrently with <span data-link='CSD780'>CSD 780</span>. Cannot receive credit for both <span data-link='CSD380'>CSD 380</span> and <span data-link='CSD780'>CSD 780</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSD388": {
+    "course_id": "CSD388",
+    "title": "CSD 388 Cultural and Linguistic Diversity",
+    "desc": "The purpose of this course is to introduce students to multicultural issues designed to better prepare them to serve diverse populations while employed in health and education professions. Students enrolled in this course will be given the tools to begin to develop cultural competence as future service providers. Course will examine the role of culture in the development, assessment and management of normal and disordered speech and language. This course will address the cultural and socio-political issues of education and clinical treatment of U.S. groups by race/ethnicity, class, gender, sexual orientation, age, disability and religious practice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD400": {
+    "course_id": "CSD400",
+    "title": "CSD 400 Introduction to Research in Communication Sciences and Disorders",
+    "desc": "An introduction to the principles and methods of statistics used in research, critical reading of the literature, and scientific writing in communication sciences and disorders. Contains prerequisite knowledge needed for the graduate course in research that is required of all majors. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD417": {
+    "course_id": "CSD417",
+    "title": "CSD 417 Clinical Assessment and Intervention of Voice, Speech and Swallowing Disorders",
+    "req": "<em>Prerequisite: <span data-link='CSD216'>CSD 216</span> and <span data-link='CSD362'>CSD 362</span> or permission.</em>",
+    "desc": "Introduction to the assessment and intervention of adult voice, speech and swallowing problems. A strong emphasis will be on how clinical technologies can be used to enhance the effectiveness of common behavioral approaches. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSD482": {
+    "course_id": "CSD482",
+    "title": "CSD 482 Introduction to Clinical Methods",
+    "req": "<em>Prerequisite: grade of C or better in <span data-link='CSD315'>CSD 315</span> and in <span data-link='CSD316'>CSD 316</span>.</em>",
+    "desc": "A study of assessment and treatment principles, methods and procedures relating to speech, language and hearing disorders. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD484": {
+    "course_id": "CSD484",
+    "title": "CSD 484 Introduction to Practice Settings on Communication Sciences and Disorders",
+    "desc": "A course focusing on the varied settings in which audiologists and speech-language pathologists work. Seniors majoring in audiology or speech-language pathology who complete this course may accrue up to 8 hours of the ASHA-required 25 hours of observation in their field of study. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD492": {
+    "course_id": "CSD492",
+    "title": "CSD 492 Issues in Communication Sciences and Disorders",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Supervised independent study exploring in-depth selected areas. Selected readings, controlled by conferences, progress reports and term paper. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSD495": {
+    "course_id": "CSD495",
+    "title": "CSD 495 Observation Clinical Practicum I",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Students will make observations and complete assignments relating to service delivery in their respective disciplines. A minimum of 12 hours will be direct observation. Course content will emphasize assessment practices, professional code of ethics, skills in reflective decision-making, and technical writing. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD496": {
+    "course_id": "CSD496",
+    "title": "CSD 496 Observation Clinical Practicum II",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Students will make observations and complete assignments relating to service delivery in their respective disciplines. A minimum of 13 hours will be direct observation and/or participation. Emphasis will be on professional competencies, technical writing, and implementation of discipline-specific practices. May be repeated to total of 4 hours. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD497": {
+    "course_id": "CSD497",
+    "title": "CSD 497 Observation Clinical Practicum",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Students will make observations and complete assignments relating to service delivery in their respective disciplines. A minimum of 12 hours will be direct observation. Course content will emphasize assessment practices, professional code of ethics, professional competencies, reflective decision-making, technical writing and implementation of discipline-specific practices. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD522": {
+    "course_id": "CSD522",
+    "title": "CSD 522 Neural Bases of Human Communication",
+    "desc": "Study of the nervous system and its role in normal and abnormal speech and language processing. May be taught concurrently with <span data-link='CSD623'>CSD 623</span>. Cannot receive credit for both <span data-link='CSD623'>CSD 623</span> and <span data-link='CSD522'>CSD 522</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD562": {
+    "course_id": "CSD562",
+    "title": "CSD 562 Psycho-Social Implications of Being Deaf and Hard of Hearing",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Characteristics and problems of persons who are D/HH as they affect interaction with general society. Emphasis on interpersonal relationships through the lifespan. Introduction to adolescent development and psychology of learning of the typical child. May be taught concurrently with <span data-link='CSD669'>CSD 669</span>. Cannot receive credit for both <span data-link='CSD669'>CSD 669</span> and <span data-link='CSD562'>CSD 562</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD572": {
+    "course_id": "CSD572",
+    "title": "CSD 572 Aural Rehabilitation",
+    "req": "<em>Prerequisite: grade of C or better in <span data-link='CSD370'>CSD 370</span>; may be taken concurrently with <span data-link='CSD370'>CSD 370</span> by permission only.</em>",
+    "desc": "Principles of habilitation/rehabilitation of communication disorders related to hearing impairment. Types of amplification and assistive listening devices used in classrooms. Issues of classroom acoustics and ways to optimize the classroom listening environment. May be taught concurrently with <span data-link='CSD673'>CSD 673</span>. Cannot receive credit for both <span data-link='CSD673'>CSD 673</span> and <span data-link='CSD572'>CSD 572</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD580": {
+    "course_id": "CSD580",
+    "title": "CSD 580 Technical Solutions in Communication Disorders",
+    "desc": "Review and demonstration of current hard- and software systems for the evaluation, treatment, and research of communication disorders. May be taught concurrently with <span data-link='CSD681'>CSD 681</span>. Cannot receive credit for both <span data-link='CSD681'>CSD 681</span> and <span data-link='CSD580'>CSD 580</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD623": {
+    "course_id": "CSD623",
+    "title": "CSD 623 Neural Bases of Human Communication",
+    "desc": "Study of the nervous system and its role in normal and abnormal speech and language processing. May be taught concurrently with <span data-link='CSD522'>CSD 522</span>. Cannot receive credit for both <span data-link='CSD522'>CSD 522</span> and <span data-link='CSD623'>CSD 623</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD636": {
+    "course_id": "CSD636",
+    "title": "CSD 636 Introduction to American Sign Language (ASL)",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "A beginning level course in American Sign Language. Students will gain information about the history and structure of this unique visual/gestural system of communication, its vocabulary and syntax, and practical experience in its use, both expressively and receptively. May be taught concurrently with <span data-link='CSD330'>CSD 330</span>. Cannot receive credit for both <span data-link='CSD636'>CSD 636</span> and <span data-link='CSD330'>CSD 330</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD637": {
+    "course_id": "CSD637",
+    "title": "CSD 637 Introduction to American Sign Language (ASL) II",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "An advanced beginning level course in American Sign Language. Students will gain more complex introductory information about the history and structure of this unique visual/gestural system of communication, its vocabulary and syntax, and practical experience in its use, both expressively and receptively. May be taught concurrently with <span data-link='CSD331'>CSD 331</span>. Cannot receive credit for both <span data-link='CSD637'>CSD 637</span> and <span data-link='CSD331'>CSD 331</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD638": {
+    "course_id": "CSD638",
+    "title": "CSD 638 Introduction to American Sign Language (ASL) III",
+    "req": "<em>Prerequisite: <span data-link='CSD637'>CSD 637</span> and permission.</em>",
+    "desc": "An intermediate level course in American Sign Language. Students will gain information regarding vocabulary, syntax and cultural factors related to this unique visual/gestural system of communication. Students will gain further practical experience in its use, both expressively and receptively. May be taught concurrently with <span data-link='CSD332'>CSD 332</span>. Cannot receive for both <span data-link='CSD638'>CSD 638</span> and <span data-link='CSD332'>CSD 332</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD639": {
+    "course_id": "CSD639",
+    "title": "CSD 639 Introduction to American Sign Language (ASL) IV",
+    "req": "<em>Prerequisite: <span data-link='CSD638'>CSD 638</span> and permission.</em>",
+    "desc": "An advanced level course in American Sign Language. Students will gain information regarding vocabulary, syntax and cultural factors related to this unique visual/gestural system of communication. Students will gain further practical experience in its use, both expressively and receptively. May be taught concurrently with <span data-link='CSD333'>CSD 333</span>. Cannot receive credit for both <span data-link='CSD639'>CSD 639</span> and <span data-link='CSD333'>CSD 333</span>. 3(-0) S",
+    "hours": {},
+    "offered": {}
+  },
+  "CSD669": {
+    "course_id": "CSD669",
+    "title": "CSD 669 Psycho-Social Implications of Being Deaf and Hard of Hearing",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Characteristics and problems of persons who are D/HH as they affect interaction with general society. Emphasis on interpersonal relationships through the lifespan. Introduction to adolescent development and psychology of learning of the typical child. May be taught concurrently with <span data-link='CSD562'>CSD 562</span>. Cannot receive credit for both <span data-link='CSD562'>CSD 562</span> and <span data-link='CSD669'>CSD 669</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD673": {
+    "course_id": "CSD673",
+    "title": "CSD 673 Aural Rehabilitation",
+    "req": "<em>Prerequisite: <span data-link='CSD360'>CSD 360</span>.</em>",
+    "desc": "Principles of habilitation/rehabilitation of communication disorders related to hearing impairment. Types of amplification and assistive listening devices used in classrooms. Issues of classroom acoustics and ways to optimize the classroom listening environment. May be taught concurrently with <span data-link='CSD572'>CSD 572</span>. Cannot receive credit for both <span data-link='CSD572'>CSD 572</span> and <span data-link='CSD673'>CSD 673</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD681": {
+    "course_id": "CSD681",
+    "title": "CSD 681 Technical Solutions in Communication Disorders",
+    "desc": "Review and demonstration of current hard- and software systems for the evaluation, treatment, and research of communication disorders. May be taught concurrently with <span data-link='CSD580'>CSD 580</span>. Cannot receive credit for both <span data-link='CSD580'>CSD 580</span> and <span data-link='CSD681'>CSD 681</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD701": {
+    "course_id": "CSD701",
+    "title": "CSD 701 Research: Deaf and Hard of Hearing",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Foundation for research study in the education of individuals who are deaf and hard of hearing. Emphasis will be placed on evaluation of research and professional writing as it pertains to education of individuals who are deaf and hard of hearing. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "CSD702": {
+    "course_id": "CSD702",
+    "title": "CSD 702 Research Methods in Communication Disorders",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Nature of qualitative and quantitative research methodology, experimental design, scientific writing, and the exploration of efficacy and effectiveness in evidence-based practice. Examination of research literature through critical reviews of articles. The design of research pertaining to speech, language and hearing functions, and the analysis of data. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSD710": {
+    "course_id": "CSD710",
+    "title": "CSD 710 Developmental Psycholinguistics",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Presentation of current theories associated with psycholinguistic development. Focus will be on auditory perception, individual differences, cognitive hypotheses, and stage transition. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD712": {
+    "course_id": "CSD712",
+    "title": "CSD 712 Child Language I",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Issues related to the area of language development and disorders in children age birth to five will be presented. The course will focus on best practices for the assessment and treatment of children age birth to five with language disorders. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD713": {
+    "course_id": "CSD713",
+    "title": "CSD 713 Child Language II",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Current issues within the area of oral and written language development and disorders in school-age children and adolescents will be discussed. Methods for critically evaluating research and applying this research to clinical practice with children and adolescents with language disorders will be covered. Focus of course is on optimal methods for assessment and treatment of language disorders in children and adolescents. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSD714": {
+    "course_id": "CSD714",
+    "title": "CSD 714 Language Disorders: Rehabilitation",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Diagnostic and therapeutic strategies for language disorders in adults associated with auditory discrimination, perception, short and long-term memory, semantic and syntactical concept formation, and retrieval of auditory information. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD715": {
+    "course_id": "CSD715",
+    "title": "CSD 715 Infants and Toddlers: Communication Assessment and Treatment",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Issues regarding communication assessment and intervention for infants and toddlers will be discussed. Course content will include a study of at-risk factors and established risks for developmental disabilities. Service delivery models for the assessment and treatment of communication disorders for infants and toddlers will be presented. Play-based assessment and intervention strategies will be included in course content. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "CSD716": {
+    "course_id": "CSD716",
+    "title": "CSD 716 Craniofacial Anomalies",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "The study of communication and associated problems related to congenital and acquired craniofacial anomalies. Emphasis on interdisciplinary procedures relative to amelioration of communication deficits manifest in these anomalies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD718": {
+    "course_id": "CSD718",
+    "title": "CSD 718 Fluency Disorders",
+    "desc": "Theoretical, clinical, and experimental approaches to the study and treatment of fluency disorders. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Summer": true
+    }
+  },
+  "CSD720": {
+    "course_id": "CSD720",
+    "title": "CSD 720 Voice Disorders",
+    "desc": "The study of the human voice and its disorders. Emphasis on 1) evaluation and treatment of neurogenic, psychogenic, and idiopathic voice disorders, and 2) respiratory, laryngeal and velopharyngeal dysfunction. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Summer": true
+    }
+  },
+  "CSD723": {
+    "course_id": "CSD723",
+    "title": "CSD 723 Sign Language",
+    "req": "<em>Prerequisite: <span data-link='CSD321'>CSD 321</span> or <span data-link='CSD921'>CSD 921</span>; and permission.</em>",
+    "desc": "Emphasis on the expansion of Manually Coded English sign language skills through the use of conversation and the increased development of vocabulary. Students will be required to complete a project in an area related to their professional course of study. May be taught concurrently with <span data-link='CSD322'>CSD 322</span> or <span data-link='CSD922'>CSD 922</span>. May only receive credit for one of the following: <span data-link='CSD322'>CSD 322</span>, <span data-link='CSD723'>CSD 723</span>, and <span data-link='CSD922'>CSD 922</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD724": {
+    "course_id": "CSD724",
+    "title": "CSD 724 Aphasia",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Emphasis on language impairment as a result of brain dysfunction. A theoretical and clinical analysis of the neurolinguistic basis for describing, diagnosing, remediating, and/or providing means for alternative communication for individuals who suffer from aphasia. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSD725": {
+    "course_id": "CSD725",
+    "title": "CSD 725 Motor Speech Disorders",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Study of neurogenic speech disorders. Emphasis on the evaluation and treatment of (1) the dysarthrias and dyspraxias, and (2) underlying neurologic and vocal tract dysfunction. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD726": {
+    "course_id": "CSD726",
+    "title": "CSD 726 Diagnostics: Speech and Language Assessment",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Principles and procedures for tests of language and speech dysfunctions. Interpretation of diagnostic findings leading to clinical decision-making, rehabilitative planning and reporting. Students obtain clinical experience in diagnostic procedures at the University Speech and Hearing Clinic. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD728": {
+    "course_id": "CSD728",
+    "title": "CSD 728 Advanced Study of Phonological (Sound System) Disorders in Children",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Discussion of processes involved in phonological production and how breakdowns in these processes, including hearing loss or deafness, lead to specific problems. Methods for critically evaluating research and applying this research to the study of phonological disorders will be covered. Focus of course is on optimal methods for assessment and treatment of phonological disorders in children. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD729": {
+    "course_id": "CSD729",
+    "title": "CSD 729 Cognitively-Based Communication Disorders",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Exploration of the pathophysiology, nature, appraisal, prevention, and management of a variety of neurogenic communication disorders, excluding the aphasias, that affect human cognition. These disorders include right hemisphere syndrome, and traumatic brain injury, in both children and adults, and the dementias. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "CSD732": {
+    "course_id": "CSD732",
+    "title": "CSD 732 Speech and Language Assessment and Treatment for Special Populations",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Information on the speech and language disabilities associated with children with special needs. Target populations will include children with cognitive disabilities, dual sensory disabilities, autism spectrum disorders, behavioral disabilities and/or physical disabilities, and children who are deaf and hard of hearing. Communication development and prevention, assessment, and intervention for each of these populations will be addressed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD733": {
+    "course_id": "CSD733",
+    "title": "CSD 733 Introduction to Augmentative and Alternative Communication",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "This course will cover the basic components of AAC as well as assessment and intervention strategies. In addition, the operation, evaluation, and application of the technology associated with AAC will be presented. AAC assessment and intervention will be discussed in regards to the following populations: children and adults with developmental disabilities and individuals with acquired disabilities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD741": {
+    "course_id": "CSD741",
+    "title": "CSD 741 Dysphagia",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Comprehensive study of normal and disordered swallowing. Special emphasis will be placed on the evaluation and treatment of disordered swallowing processes. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD742": {
+    "course_id": "CSD742",
+    "title": "CSD 742 Speech-Language Services in Medical Settings",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "This course is designed to provide a guide to the concepts, policies, and procedures encountered in the medical setting. It is hoped that at the end of this course, students will feel more comfortable entering the medical setting in various practicum settings that are required in our graduate program. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "CSD758": {
+    "course_id": "CSD758",
+    "title": "CSD 758 Early Intervention Assessment: Deaf and Hard of Hearing I",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Methods and techniques for working with families as well as in the educational environment of infants and children who are deaf or hard-of-hearing from birth through the beginning elementary school years. Emphasis on methods and procedures of formal and informal assessment. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "CSD759": {
+    "course_id": "CSD759",
+    "title": "CSD 759 Early Intervention: Deaf and Hard of Hearing II",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Methods and techniques for working with families who have infants, toddlers and/or young children who are deaf or hard of hearing from birth to the beginning elementary school years in both natural and educational environments. Emphasis on methods and procedures for intervention, interpretation of assessment data and prescriptive instruction. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "CSD760": {
+    "course_id": "CSD760",
+    "title": "CSD 760 Language Development: Deaf and Hard of Hearing I",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Theories and research into language development in individuals with hearing and those with losses of hearing are explored with implications for assessment and intervention. Problems and issues related to language development are presented for reflection and discussion. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "CSD761": {
+    "course_id": "CSD761",
+    "title": "CSD 761 Language Development: Deaf and Hard of Hearing II",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Methods, strategies, and techniques of language development that may be applied in assessing and instructing students with hearing losses. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD762": {
+    "course_id": "CSD762",
+    "title": "CSD 762 Speech Development: Deaf and Hard of Hearing I",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Theories of speech development as they apply to persons who are deaf or hard of hearing. Phonetics including transcription. Anatomy and physiology of the speech mechanisms. Techniques for analyzing speech will be stressed. Two semester sequence, <span data-link='CSD763'>CSD 763</span> to follow. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD763": {
+    "course_id": "CSD763",
+    "title": "CSD 763 Speech Development: Deaf and Hard of Hearing II",
+    "req": "<em>Prerequisite: <span data-link='CSD762'>CSD 762</span> and permission.</em>",
+    "desc": "Application of information learned in <span data-link='CSD762'>CSD 762</span>. Utilizing a collaborative model for the development of speech/spoken language is emphasized by maximizing the use of residual hearing and cochlear implant technology across settings. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD764": {
+    "course_id": "CSD764",
+    "title": "CSD 764 Instructional Strategies and Assessment: Deaf and Hard of Hearing",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Formal and informal assessment, the concept of curriculum, instructional placement and programming for students who are deaf or hard of hearing from the upper elementary through the secondary school levels, including career education. Development of instructional strategies with an emphasis on individualized instruction. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD765": {
+    "course_id": "CSD765",
+    "title": "CSD 765 Reading: Deaf and Hard of Hearing",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Theories of reading with an emphasis on adaptations for assessment and intervention for students who are deaf or hard of hearing. Introduction to available resources. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD766": {
+    "course_id": "CSD766",
+    "title": "CSD 766 Counseling: Deaf and Hard of Hearing",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Theoretical bases of counseling and the role of the educator in the counseling process. Emphasis on the counseling process as it affects the educational, personal, social, and familial adjustment of individuals who are deaf or hard of hearing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "CSD767": {
+    "course_id": "CSD767",
+    "title": "CSD 767 Amplification Systems in the Educational Setting",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "The different types of amplification and assistive listening devices used in classrooms will be discussed in detail. Students will be able to discuss issues of acoustics and amplification devices in educational settings. They will learn vocabulary needed for communication with other professionals, and they will obtain hands-on experience with hearing aids and assistive devices found in classrooms. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD780": {
+    "course_id": "CSD780",
+    "title": "CSD 780 Development, Diversity, and Deafness",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Includes prevalence, terminology and the effects of hearing loss and its management on child development. Comprehensive scope of communication options will be explored. Exceptionalities, including cultural and linguistic differences among individuals who are deaf or hard of hearing will be considered within the context of family and development, both educationally and socially. Fifteen hours of integrated service-learning will be a component of the course. May be taught concurrently with <span data-link='CSD380'>CSD 380</span>. Cannot receive credit for both <span data-link='CSD780'>CSD 780</span> and <span data-link='CSD380'>CSD 380</span>. Students in this course will be required to complete additional assignments compared to those students in <span data-link='CSD380'>CSD 380</span> for the purpose of developing skills, knowledge, and dispositions related to teaching and learning in varied settings with diverse learners required for all educators to be effective in a global society. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD782": {
+    "course_id": "CSD782",
+    "title": "CSD 782 Acoustic Phonetics",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Investigation of the acoustic characteristics of normal and pathological speech and voice production. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD783": {
+    "course_id": "CSD783",
+    "title": "CSD 783 Physiological Phonetics",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Analyses of the physiological features underlying voice, speech and language processes; theories of encoding, and encoding control mechanisms. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD784": {
+    "course_id": "CSD784",
+    "title": "CSD 784 Non-Thesis Project",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "In-depth study in an area of communication sciences and disorders, culminating in a presentation of an extensive scholarly paper. Syllabi with specific expectations will be developed for each semester. SLP Emphasis: Students register for 1 credit hour per semester for a minimum of 3 semesters; may be repeated. DHH Emphasis: Students register for 3 credit hour in the first semester of enrollment and then 1 credit hour in the subsequent semester for a minimum total of 4 credit hours, may be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CSD788": {
+    "course_id": "CSD788",
+    "title": "CSD 788 Professional Issues I: Education Settings",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "This class will be taught in conjunction with student&apos;s school practicum experiences and will focus on professional issues in school settings. Topics will include overview of service delivery systems, business aspects of service delivery, scope of practice, quality assurance/assessment, legal and ethical responsibilities, professional organizations, and career development issues. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD789": {
+    "course_id": "CSD789",
+    "title": "CSD 789 Professional Issues",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "This functionally-oriented course is designed to complement students&apos; concurrent clinical externships in educational and healthcare settings. Issues include, but are not limited to, in-depth discussion and analysis of relevant local, state, and national policies and procedures for ethical and effective evidence-based service delivery; models of collaborative team assessment and treatment applications to a variety of speech-language pathology settings; professional organizations; and recognition of potential external influences that may impact treatment objectives and length of intervention. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD790": {
+    "course_id": "CSD790",
+    "title": "CSD 790 Workshop in Communication Disorders",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "A concentration of work to improve the skill and knowledge in specific areas. Each workshop will be concerned with a single topic. Number of class hours determined by length of workshop. Thirty clock hours equal 1 semester hour. May be repeated to a maximum of 6 hours credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD791": {
+    "course_id": "CSD791",
+    "title": "CSD 791 Professional Issues in Speech-Language Pathology",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Functionally-oriented course designed to complement students&apos; concurrent clinical externships in educational and healthcare settings. Issues include, but are not limited to, in-depth discussion and analysis of relevant local, state, and national policies and procedures for ethical and effective evidence-based service delivery; models of collaborative team assessment and treatment applicable to a variety of practice settings; and recognition of potential external influences that may impact treatment objectives and length of intervention. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD792": {
+    "course_id": "CSD792",
+    "title": "CSD 792 Independent Study",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Study may be a reading project or a practical application of theories. May be repeated to a maximum of 4 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD794": {
+    "course_id": "CSD794",
+    "title": "CSD 794 Orientation to Clinic Speech Pathology",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Preparation for practicum work in speech pathology. Clinic procedures, observation guidelines, documentation requirements, shadowing of practicing clinicians, development of integration of knowledge and skills in speech pathology. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CSD795": {
+    "course_id": "CSD795",
+    "title": "CSD 795 Advanced Clinical Practice",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Training in audiology, speech and language disorders, and education of the deaf and hard of hearing in clinical, hospital, school, and/or other settings. May be repeated. Supplemental course fee. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CSD796": {
+    "course_id": "CSD796",
+    "title": "CSD 796 Supervised Teaching",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "The assumption of teaching responsibilities at an approved practicum site under the direction of a University CED certified supervisor and practicum site instructor. Students enrolled in this course may be required to have a physical examination, including a TB test before placement in the practicum setting. ",
+    "hours": {
+      "credit": 8
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD797": {
+    "course_id": "CSD797",
+    "title": "CSD 797 Speech-Language Pathology Externship",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "Professionally supervised practice in speech-language assessment and intervention in clinical, hospital, school, and/or other settings. Students enrolled in this class may be required to have a TB test, immunizations, and malpractice insurance. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CSD799": {
+    "course_id": "CSD799",
+    "title": "CSD 799 Masters Thesis",
+    "req": "<em>Prerequisite: <span data-link='CSD712'>CSD 712</span> or concurrent enrollment.</em>",
+    "desc": "In-depth research culminating in a presentation and defense of the thesis. Syllabi with specific expectations will be developed for each semester. SLP Emphasis: Students register for 2 credit hours per semester for a minimum of 3 semesters; may be repeated. DHH Emphasis: Students register for 3 credit hours per semester for a minimum of 2 semesters; may be repeated. Students must be registered for at least one credit hour until the thesis has been approved. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CSD800": {
+    "course_id": "CSD800",
+    "title": "CSD 800 Research Methods in Audiology",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "This course will outline the research process in audiology beginning from proposing a research question to drawing and disseminating conclusions. Special emphasis will be place on conducting clinical research and evaluating published research findings in audiology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD807": {
+    "course_id": "CSD807",
+    "title": "CSD 807 Auditory System: Physiology/Neurophysiology",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "This course describes in depth aspects of the peripheral and central auditory system as it pertains to anatomy and physiology. Students learn about the functional development of the human auditory system as well as comparative anatomy. The peripheral anatomy will include external (pinna, canal, and tympanic membrane), middle (ossicular mechanism, eustachian tube, facial nerve) and cochlear structures (microanatomy, ultrastructures, sensory epithelium, cochlear fluids, vascular system). The central anatomy will include the cochlear nerve, neural transmission, afferent and efferent pathways (brainstem and midbrain) and cortical function. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD834": {
+    "course_id": "CSD834",
+    "title": "CSD 834 Diagnostic Audiology I",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "A comprehensive study of a variety of site of lesion tests. The course will cover acoustic immittance and reflectance measures including tympanometry and acoustic reflex measures for detection of middle ear disorders and site of lesions in the auditory pathway. Other site of lesion tests include threshold and suprathreshold tone decay, loudness recruitment, loudness balance. Short Increment Sensitivity Index, Bekesy tests and brief tone audiometry. Tests for detection of nonorganic hearing loss will also be discussed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD835": {
+    "course_id": "CSD835",
+    "title": "CSD 835 Diagnostic Audiology II",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "In the first part of the course, the different types of otoacoustic emissions will be discussed in detail. Students will learn to record, analyze and interpret otoacoustic emissions. They will learn screening and diagnostic applications of otoacoustic emissions in a variety of auditory pathologies. In the second part of the course, research methodology will be applied to demonstrate efficacy in clinical service delivery in all areas of audiologic practice. Outcome measures for various diagnostic test will be discussed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD840": {
+    "course_id": "CSD840",
+    "title": "CSD 840 Speech Pathology for the Audiologist",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "In-depth discussion of normal and disordered speech and language development, with emphasis on hearing loss and its effect on speech and language. Central auditory processing disorders, adult communication disorders, and proper evaluation and referral processes for speech and language also discussed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD842": {
+    "course_id": "CSD842",
+    "title": "CSD 842 Vestibular Assessment and Rehabilitation",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "An examination of the physiological aspects of the vestibular system, chemical effects on the vestibular system, medical and chemical treatment methods, balance system assessment, assessment of the efficacy of intervention, and anatomy, neuroanatomy, and physiology of the pertinent sections of the auditory system (peripheral and central) will be covered. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD844": {
+    "course_id": "CSD844",
+    "title": "CSD 844 Electrophysiology",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "A look at various techniques and theories behind electrodiagnostic testing procedures. Advanced study of auditory evoked responses applied in audiology. Anatomy, neuroanatomy, and physiology of the pertinent sections of the auditory system (peripheral and central) will be covered. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD846": {
+    "course_id": "CSD846",
+    "title": "CSD 846 Instrumentation and Calibration",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "Detailed investigation into instrumentation and calibration and its importance in the field of Audiology. Emphasis on bioelectrical hazards, physical characteristics and measurement of acoustic, electric, and other non-acoustic stimuli, determination of calibration in relation to accepted standards, and use of various types of instrumentation according to manufacturer&apos;s specifications and recommendations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD848": {
+    "course_id": "CSD848",
+    "title": "CSD 848 Cochlear Implants and Other Assistive Listening Devices",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "This course provides an investigation into the various types of cochlear implants and an understanding of the anatomical and psychological aspects, including controversies surrounding implantation of children. Emphasis will include intervention and therapy techniques for children and adults with cochlear implants and other alternative listening devices. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD849": {
+    "course_id": "CSD849",
+    "title": "CSD 849 Basic Audiometry",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "This course describes aspects of basic diagnostic testing in clinical audiology. Students learn about basic diagnostic test procedures including air-conduction and bone-conduction threshold testing, speech audiometric test procedures and clinical masking procedures. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD850": {
+    "course_id": "CSD850",
+    "title": "CSD 850 Pediatric Audiology",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "Overview of auditory development. Presentation of auditory disorders, audiological assessment, and treatment needs specific to infants and children. Emphasis on parent-child interactions and family dynamics in habilitating hearing-impaired children. Relevant calibration and instrumentation issues. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "CSD852": {
+    "course_id": "CSD852",
+    "title": "CSD 852 Advanced Hearing Science",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "Acoustics and physical measures involving the properties of sound as well as psychoacoustics and sound perception. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD866": {
+    "course_id": "CSD866",
+    "title": "CSD 866 Counseling in Audiology",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "Various counseling strategies used in clinical audiology practice will be discussed. Counseling needs of adults with hearing loss and families of children with hearing loss will be reviewed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "CSD868": {
+    "course_id": "CSD868",
+    "title": "CSD 868 Amplification Systems I",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "Current concepts in amplification and assistive listening devices. Evaluation, selection, and fitting of prosthetic devices for the hearing impaired. Relevant calibration and instrumentation issues. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD870": {
+    "course_id": "CSD870",
+    "title": "CSD 870 Clinical Audiology II",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "Theory and practice of electrophysiological testing for the auditory and vestibular systems. Relevant calibration and instrumentation issues. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD871": {
+    "course_id": "CSD871",
+    "title": "CSD 871 Amplification Systems II",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "Coverage of recent developments in remediation of communication disorders related to hearing loss in adults and children. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD873": {
+    "course_id": "CSD873",
+    "title": "CSD 873 Educational Audiology",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "This course includes information and strategies students need to work in today&apos;s inclusive school environment, functioning as part of a collaborative team, helping develop IFSPs, IEPs and ITPs, supervising audiological screening and conservation programs. It will prepare students to perform the various roles of the educational audiologist, clinician, community liaison service coordinator, supervisor, and advocate. Issues that affect learners with hearing impairment across the lifespan (infant toddlers, elementary and high school students, and college and adult learners) and various regulations related to the delivery of effective educational services (e.g., ADA, IDEA) will be discussed. This course will also include information on the evaluation of, and referral process for, speech and language disorders related to hearing loss. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD874": {
+    "course_id": "CSD874",
+    "title": "CSD 874 Clinical Audiology III",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "Discussion of recent advances in audiology and hearing science research which have potential clinical application. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD875": {
+    "course_id": "CSD875",
+    "title": "CSD 875 Medical Audiology",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "Detailed analysis of the etiology and assessment of common pathologies of the auditory system. Medical intervention and audiologic test battery interpretation discussed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD876": {
+    "course_id": "CSD876",
+    "title": "CSD 876 Hearing Conservation and Calibration",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "This course will prepare the audiologist to meet industrial needs for sound measurement and hearing conservation. Government standards will be reviewed and applied to industrial settings that fall under OSHA guidelines for hearing conservation. This will include the anatomical and physiological effects of noise on humans; federals standards and damage-risk criteria, the susceptibility and predisposing factors related to industrial noise as well as conducting and reporting a noise survey with a hearing conservation plan. The course will also cover calibration of audiometers and the use of ANSI standards. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD878": {
+    "course_id": "CSD878",
+    "title": "CSD 878 Professional Issues and Practice Management",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "Investigation into the current professional issues and ethics in the field of audiology, as well as legal aspects of audiology practice management. Emphasis is placed on private and clinical practice. Laws, ethics, current issues, regulations, policies, management practices, and record maintenance will also be covered. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD880": {
+    "course_id": "CSD880",
+    "title": "CSD 880 Grand Rounds in Audiology",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "Describes in-depth aspects of audiological evaluation, diagnosis and management of routine and complex cases. The course will review cases in which behavioral, electrophysiologic, central, and vestibular testing are necessary to allow differential diagnosis. Each case study will involve the progression of the disorder and audiological/medical manifestations that occur during this period. Discussion involving strategies for (re)habilitation, remediation and management of each auditory disorder will be examined. The latter may include amplification, central auditory processing, counseling and tinnitus management. Case presentations will be obtained from audiology, otology, and neurology journals, text and personal cases. In addition, with respect to aural (re)habilitation, presentations will be made on current trends in amplification management regarding manufacturers&apos; products and their applicability to specific cases. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CSD884": {
+    "course_id": "CSD884",
+    "title": "CSD 884 Doctoral Project",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "In-depth study in an area of Audiology, culminating in a presentation of an extensive scholarly paper. Must be repeated for a minimum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CSD895": {
+    "course_id": "CSD895",
+    "title": "CSD 895 Advanced Clinical Practice",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "Training in audiology, speech and language disorders, and education of the deaf and hard of hearing in clinical, hospital, school, and/or other settings. May be repeated. Supplemental course fee. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CSD921": {
+    "course_id": "CSD921",
+    "title": "CSD 921 Sign Language I",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Gain beginner level skill in sign language and finger-spelling through Manually coded English. Develop a general knowledge base including the history of sign language and the spectrum of sign options available. May be taught concurrently with <span data-link='CSD321'>CSD 321</span>. Cannot receive credit for both <span data-link='CSD321'>CSD 321</span> and <span data-link='CSD921'>CSD 921</span>. Students will be required to complete a project in an area related to their professional course of study. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD922": {
+    "course_id": "CSD922",
+    "title": "CSD 922 Sign Language II",
+    "req": "<em>Prerequisite: <span data-link='CSD921'>CSD 921</span> and permission.</em>",
+    "desc": "Emphasis on the expansion of Manually Coded English sign language skills through the use of conversation and the increased development of vocabulary. May be taught concurrently with <span data-link='CSD322'>CSD 322</span>. Students cannot receive credit for both <span data-link='CSD322'>CSD 322</span> and <span data-link='CSD922'>CSD 922</span>. Students will be required to complete a project in an area related to their professional course of study. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CSD930": {
+    "course_id": "CSD930",
+    "title": "CSD 930 Introduction to American Sign Language",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "A beginning level course in American Sign Language. Students will gain information about the history and structure of this unique visual/gestural system of communication, its vocabulary and syntax, and practical experience in its use, both expressively and receptively. May be taught concurrently with <span data-link='CSD330'>CSD 330</span>. Students cannot receive credit for both <span data-link='CSD330'>CSD 330</span> and <span data-link='CSD930'>CSD 930</span>. Students in this course will be required to complete additional assignments compared to those students in <span data-link='CSD330'>CSD 330</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD945": {
+    "course_id": "CSD945",
+    "title": "CSD 945 Central Auditory Processing Disorders",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "This course describes various aspects of central auditory processing and disorders. Students learn about the underlying processes of auditory processing in the central nervous system. They are provided with a review of several evaluation and remediation approaches used in the management of individuals with central auditory disorders. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD946": {
+    "course_id": "CSD946",
+    "title": "CSD 946 Genetics and Hearing Loss",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "Provides basic understanding of genetic terminology, cell biology (mitosis and meiosis), DNA structure and function, introduction to genetic aspects of hearing loss, mode of inheritance, pedigree chart, syndromic and nonsyndromic hearing loss, molecular aspects to nonsyndromic hearing loss, epidemiology of hearing loss, and genetic screening and diagnosis. Also, issues related to genetic testing, impact on families, bioethics and cultural issues in deaf community, and genetic counseling will be discussed. Course will also cover the current research about human genome and its relation to diagnosis and treatment of hearing loss. Several case studies and hands-on activities will be presented to incorporate course materials and class discussion. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CSD972": {
+    "course_id": "CSD972",
+    "title": "CSD 972 Advanced Auditory Re/Habilitation",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "Course will include detailed investigation into clinical assessment, treatment techniques, and evaluation of auditory re/habilitation and discussion of the theories and research of language development in individuals with both normal and impaired hearing. Implications for intervention are reviewed and discussed. Various counseling strategies for both adults with hearing loss and families of children with hearing loss will be discussed as they relate to case management. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CSD996": {
+    "course_id": "CSD996",
+    "title": "CSD 996 Audiology Externship",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "Professionally supervised practice in auditory assessment and intervention in clinical, hospital, school, and/or other settings. Students enrolled in this class may be required to have a TB test, immunizations, and malpractice insurance. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CSD999": {
+    "course_id": "CSD999",
+    "title": "CSD 999 Doctoral Thesis",
+    "req": "<em>Prerequisite: <span data-link='CSD807'>CSD 807</span> or concurrent enrollment.</em>",
+    "desc": "In-depth research in an area of Audiology, culminating in a presentation and defense of the thesis. Must be repeated for a minimum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  }
+}

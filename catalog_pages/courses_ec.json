@@ -1,0 +1,670 @@
+{
+  "ECO101": {
+    "course_id": "ECO101",
+    "title": "ECO 101 Economics of Social Issues",
+    "req": "<em>Prerequisite: 12 hours. General Education Course (Focus on Public Issues).</em>",
+    "desc": "This course focuses on understanding and analyzing major contemporary social issues such as globalization, pollution, poverty, income distribution, taxes, social security, the appropriate role of government, etc. Students will be introduced to the basic tools of economics so that they can develop a general framework within which a variety of political, social and economic issues can be analyzed. Issues will be discussed from a national, regional and local perspective. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO155": {
+    "course_id": "ECO155",
+    "title": "ECO 155 Principles of Macroeconomics",
+    "req": "<em>General Education Course (Focus on Social and Behavioral Sciences).</em>",
+    "desc": "This course prepares the student to understand the economic structure of the United States and its place in the world economy, to interpret common economic measures, to understand the processes of governmental fiscal and monetary policies, and to evaluate individual decision-making from an economic perspective. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ECO165": {
+    "course_id": "ECO165",
+    "title": "ECO 165 Principles of Microeconomics",
+    "req": "<em>General Education Course (Focus on Social and Behavioral Sciences).</em>",
+    "desc": "Basic principles of economics with a particular emphasis on the nature and application of those bearing on decision making within a household, firm or industry; including consideration of problems respecting the composition and pricing of the national output, distribution of income, pricing and output of factors of production and foreign trade. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ECO197": {
+    "course_id": "ECO197",
+    "title": "ECO 197 Topics in Economics",
+    "desc": "Course designed to explore one or more current issues in the field of economics. Students should consult the class schedule to determine the topic(s) to be covered in any given semester. Variable content course. May be repeated to a maximum of 6 hours, as course topics change. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO200": {
+    "course_id": "ECO200",
+    "title": "ECO 200 Personal Economics",
+    "desc": "An examination of topics designed to provide the student with skills aimed at promoting personal financial responsibility. Topics include budgeting, purchasing decisions, consumer credit, compound interest, savings and investments, home ownership, insurance, retirement and estate planning. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO300": {
+    "course_id": "ECO300",
+    "title": "ECO 300 Service Learning In Economics",
+    "req": "<em>Prerequisite: 30 hours, concurrent registration in an Economics course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in Economics to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO302": {
+    "course_id": "ECO302",
+    "title": "ECO 302 Economic Analysis for Investors",
+    "req": "<em>Prerequisite: <span data-link='ECO155'>ECO 155</span> or <span data-link='ECO165'>ECO 165</span>, and completion of mathematics general education requirement.</em>",
+    "desc": "This course examines economic principles used by investors and financial reporters. Concepts are drawn from several fields of economics including microeconomics, macroeconomics, money and banking, labor economics, and international economics. Students will participate in a stock market game, make in-class presentations and conduct Internet research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO305": {
+    "course_id": "ECO305",
+    "title": "ECO 305 Money and Banking",
+    "req": "<em>Prerequisite: <span data-link='ECO155'>ECO 155</span>.</em>",
+    "desc": "Nature and functions of money, a survey of the operation and development of the banking system in the U.S.; introduction to monetary theory and policy. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO310": {
+    "course_id": "ECO310",
+    "title": "ECO 310 Labor Economics",
+    "req": "<em>Prerequisite: <span data-link='ECO155'>ECO 155</span> and <span data-link='ECO165'>ECO 165</span>.</em>",
+    "desc": "Factors determining the market for labor; examination of the economic effects of trade unions; recent trends in the labor force and the labor share of national income. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO315": {
+    "course_id": "ECO315",
+    "title": "ECO 315 The Economics of Gender",
+    "req": "<em>Prerequisite: <span data-link='ECO165'>ECO 165</span>.</em>",
+    "desc": "This course teaches students to analyze the economic decisions made by both males and females in two main areas: the labor market and the household. Specific areas of inquiry include the following: the family as an economic unit, gender differences in labor force participation, occupational gender segregation, explanations for gender earnings differentials and efforts to reduce such differentials, gender earnings discrimination, and international gender issues. Identical with <span data-link='GST315'>GST 315</span>. Cannot receive credit for both <span data-link='ECO315'>ECO 315</span> and <span data-link='GST315'>GST 315</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO316": {
+    "course_id": "ECO316",
+    "title": "ECO 316 Sports and Entertainment Economics",
+    "req": "<em>Prerequisite: <span data-link='ECO165'>ECO 165</span>.</em>",
+    "desc": "Microeconomic tools used to examine a wide variety of topics pertaining to the sports and entertainment industry such as monopoly and monopsony market structure, labor market issues including free agency and salary caps, and public policy concerns involving the impacts of sports and entertainment on the economy. Also includes an examination of the economics of various forms of media and entertainment including movies, cable, music, amusement parks, and casinos. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO320": {
+    "course_id": "ECO320",
+    "title": "ECO 320 American Economic History",
+    "req": "<em>Prerequisite: <span data-link='ECO155'>ECO 155</span> or <span data-link='ECO165'>ECO 165</span>; <span data-link='HST121'>HST 121</span> or <span data-link='HST122'>HST 122</span>.</em>",
+    "desc": "An examination of economic conditions and policies in America&apos;s past. Selected events are analyzed using principles drawn from economic theory, including: U.S. economic development, the origins of antitrust policy, and the New Deal. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO345": {
+    "course_id": "ECO345",
+    "title": "ECO 345 Asian Economies",
+    "desc": "This course addresses the rise to significance of the Asia-Pacific region in the world economy. This region of the world is typified by a delicate balance between governments and business interests, which accounts for their diverse development trajectories. This course will study how these countries have transformed themselves from peasant societies into industrial powerhouses and how they have continued to achieve growth rates several times higher than the advanced nations of the West over a period of time. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO346": {
+    "course_id": "ECO346",
+    "title": "ECO 346 International Economic Development",
+    "req": "<em>Prerequisite: <span data-link='ECO155'>ECO 155</span> and <span data-link='ECO165'>ECO 165</span>.</em>",
+    "desc": "Theory of economic growth and development, with emphasis on developing economies and the techniques for understanding and promoting development. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ECO365": {
+    "course_id": "ECO365",
+    "title": "ECO 365 Intermediate Microeconomics",
+    "req": "<em>Prerequisite: <span data-link='ECO165'>ECO 165</span> and completion of mathematics general education requirement.</em>",
+    "desc": "Maximizing behavior of households and firms; theory of price and output determination under various market structures; distribution theory; introduction to general equilibrium analysis. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ECO385": {
+    "course_id": "ECO385",
+    "title": "ECO 385 Intermediate Macroeconomics",
+    "req": "<em>Prerequisite: <span data-link='ECO155'>ECO 155</span> and completion of mathematics general education requirement.</em>",
+    "desc": "The study of macroeconomic theory and policy. Models are developed which provide a framework for the discussion of macroeconomic issues and the policy choices decision makers face. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ECO396": {
+    "course_id": "ECO396",
+    "title": "ECO 396 Directed Readings in Economics",
+    "req": "<em>Prerequisite: <span data-link='QBA237'>QBA 237</span> or equivalent; and <span data-link='ECO365'>ECO 365</span> and <span data-link='ECO385'>ECO 385</span>; and 75 hours.</em>",
+    "desc": "Readings and written reports in the area of particular interest to the student with the consent and guidance of the instructor. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO397": {
+    "course_id": "ECO397",
+    "title": "ECO 397 Studies in Economics",
+    "desc": "Specific subject matter will change from semester to semester, depending on the interests of professors and students. Variable content course. May be repeated to a maximum of 6 hours, as course topics change. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO399": {
+    "course_id": "ECO399",
+    "title": "ECO 399 Cooperative Education in Economics",
+    "req": "<em>Prerequisite: acceptance into the Cooperative Education Program, 12 hours of economics and permission of the department head.</em>",
+    "desc": "To enable qualified students to apply theoretical constructs and analytical techniques in a supervised work environment. This course cannot be credited toward a major in economics if the student has completed a total of three or more credits in either <span data-link='ECO396'>ECO 396</span>, or cooperative education in another discipline. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO409": {
+    "course_id": "ECO409",
+    "title": "ECO 409 Applied Econometrics",
+    "req": "<em>Prerequisite: <span data-link='QBA237'>QBA 237</span> or equivalent.</em>",
+    "desc": "Students will learn simple regression and multiple regression analysis. Additional topics include model building, cross sectional and time series analysis, as well as related topics. May be taught concurrently with <span data-link='ECO609'>ECO 609</span>. Students cannot receive credit for both <span data-link='ECO409'>ECO 409</span> and <span data-link='ECO609'>ECO 609</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ECO425": {
+    "course_id": "ECO425",
+    "title": "ECO 425 Industrial Organization",
+    "req": "<em>Prerequisite: <span data-link='ECO165'>ECO 165</span> and completion of mathematics general education requirement.</em>",
+    "desc": "Theory and public policy concerning the structure, conduct and performance of U.S. industries. Primary emphasis is on oligopolies and monopolies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO435": {
+    "course_id": "ECO435",
+    "title": "ECO 435 The Economic Analysis of Law",
+    "req": "<em>Prerequisite: <span data-link='ECO165'>ECO 165</span>.</em>",
+    "desc": "Microeconomic theory is used to analyze the law and legal procedures. Although one purpose of the law is to resolve disputes between individuals, this course will focus on analyzing the incentives that the law gives rational individuals. Economic models are applied to four basic areas of law: property, contract, tort (accident), and criminal law. In addition, economic models are applied to the formation of the law and to legal institutions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO450": {
+    "course_id": "ECO450",
+    "title": "ECO 450 Urban and Regional Economics",
+    "req": "<em>Prerequisite: <span data-link='ECO155'>ECO 155</span> and <span data-link='ECO165'>ECO 165</span>.</em>",
+    "desc": "Study of economic forces determining the location of businesses and consumers, and the size, shape, and changes in market areas/cities/land use. Also application of techniques of economic impact analysis to location decisions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ECO456": {
+    "course_id": "ECO456",
+    "title": "ECO 456 Comparative Economic Systems",
+    "req": "<em>Prerequisite: <span data-link='ECO155'>ECO 155</span>.</em>",
+    "desc": "Study of the basic principles and institutions of national economies with an emphasis on capitalist, socialist, and mixed economic systems. A comparison of economic systems in various nations and of economies in transition to an increasingly globalized environment. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO473": {
+    "course_id": "ECO473",
+    "title": "ECO 473 Mathematical Methods for Economics I",
+    "req": "<em>Prerequisite: <span data-link='ECO155'>ECO 155</span> and <span data-link='ECO165'>ECO 165</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='ECO365'>ECO 365</span>; and <span data-link='MTH261'>MTH 261</span> or <span data-link='MTH285'>MTH 285</span> or equivalent. Development and application of mathematical techniques to economics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO475": {
+    "course_id": "ECO475",
+    "title": "ECO 475 Managerial Economics",
+    "req": "<em>Prerequisite: <span data-link='ECO155'>ECO 155</span> and <span data-link='ECO165'>ECO 165</span>.</em>",
+    "desc": "Application of economic analysis to decision making in business management. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ECO500": {
+    "course_id": "ECO500",
+    "title": "ECO 500 Fundamentals of Economics",
+    "req": "<em>Prerequisite: College of Business majors and minors must receive permission from a director of a College of Business graduate program.</em>",
+    "desc": "An accelerated course dealing with the fundamentals of micro- and macroeconomic theory, designed for graduate students who have not completed undergraduate principles of economics. This course will not be counted in the hours required for a College of Business undergraduate or graduate degree. This course will not be counted in the hours required for an Economics undergraduate major or minor. May be taught concurrently with <span data-link='ECO600'>ECO 600</span>. Cannot receive credit for both <span data-link='ECO600'>ECO 600</span> and <span data-link='ECO500'>ECO 500</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO504": {
+    "course_id": "ECO504",
+    "title": "ECO 504 Health Care Economics",
+    "req": "<em>Prerequisite: <span data-link='ECO165'>ECO 165</span>.</em>",
+    "desc": "A basic study of the economics of the health care market. Microeconomic theory is applied to the analysis of health care issues. Attention will be given to empirical studies of health care economics. Identical with <span data-link='HCM504'>HCM 504</span>. Cannot receive credit for both <span data-link='ECO504'>ECO 504</span> and <span data-link='HCM504'>HCM 504</span>. May be taught concurrently with <span data-link='ECO604'>ECO 604</span>. Cannot receive credit for both <span data-link='ECO604'>ECO 604</span> and <span data-link='ECO504'>ECO 504</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ECO508": {
+    "course_id": "ECO508",
+    "title": "ECO 508 Intermediate Econometrics",
+    "req": "<em>Prerequisite: <span data-link='ECO409'>ECO 409</span>.</em>",
+    "desc": "Examination of the principles of economic model construction and the econometric techniques used in estimation of behavioral relationships. May be taught concurrently with <span data-link='ECO711'>ECO 711</span>. Cannot receive credit for both <span data-link='ECO711'>ECO 711</span> and <span data-link='ECO508'>ECO 508</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO515": {
+    "course_id": "ECO515",
+    "title": "ECO 515 Public Sector Economics",
+    "req": "<em>Prerequisite: <span data-link='ECO155'>ECO 155</span>, <span data-link='ECO165'>ECO 165</span>, and completion of mathematics general education requirement.</em>",
+    "desc": "Allocation and distribution functions of the public sector of the economy; theories of taxation and public expenditure; shifting and incidences of taxes, local-state federal finance. May be taught concurrently with <span data-link='ECO615'>ECO 615</span>. Cannot receive credit for both <span data-link='ECO615'>ECO 615</span> and <span data-link='ECO515'>ECO 515</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO520": {
+    "course_id": "ECO520",
+    "title": "ECO 520 History of Economic Thought",
+    "req": "<em>Prerequisite: <span data-link='ECO155'>ECO 155</span> and <span data-link='ECO165'>ECO 165</span>.</em>",
+    "desc": "Development of economic theory. May be taught concurrently with <span data-link='ECO620'>ECO 620</span>. Cannot receive credit for both <span data-link='ECO620'>ECO 620</span> and <span data-link='ECO520'>ECO 520</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO540": {
+    "course_id": "ECO540",
+    "title": "ECO 540 Economics of the Environment",
+    "req": "<em>Prerequisite: <span data-link='ECO165'>ECO 165</span>.</em>",
+    "desc": "The course applies economic concepts and analysis to environmental issues such as pollution and natural resource management. Economic concepts and analysis used in the course will include supply and demand, cost benefit analysis, and the role of incentives. May be taught concurrently with <span data-link='ECO640'>ECO 640</span>. Cannot receive credit for both <span data-link='ECO640'>ECO 640</span> and <span data-link='ECO540'>ECO 540</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ECO565": {
+    "course_id": "ECO565",
+    "title": "ECO 565 International Economics",
+    "req": "<em>Prerequisite: <span data-link='ECO155'>ECO 155</span> and <span data-link='ECO165'>ECO 165</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='QBA237'>QBA 237</span> or equivalent. Introduction to the key concepts of international trade and finance with a focus on the fundamental theories of international economics. Topics include the gains from and the patterns of international trade, protectionism, exchange rate determination and government policy intervention. May be taught concurrently with <span data-link='ECO665'>ECO 665</span>. Cannot receive credit for both <span data-link='ECO665'>ECO 665</span> and <span data-link='ECO565'>ECO 565</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ECO585": {
+    "course_id": "ECO585",
+    "title": "ECO 585 Mathematical Methods for Economics II",
+    "req": "<em>Prerequisite: <span data-link='ECO365'>ECO 365</span> and <span data-link='ECO473'>ECO 473</span>; and 60 hours (<span data-link='ECO473'>ECO 473</span> may be waived if familiarity with calculus-based optimization techniques can be established).</em>",
+    "desc": "Unconstrained and constrained optimization; applications of the envelope theorem and duality to standard economic models, including utility maximization, profit maximization and expenditure/cost minimization. May be taught concurrently with <span data-link='ECO685'>ECO 685</span>. Cannot receive credit for both <span data-link='ECO685'>ECO 685</span> and <span data-link='ECO585'>ECO 585</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO586": {
+    "course_id": "ECO586",
+    "title": "ECO 586 Business Cycles and Forecasting",
+    "req": "<em>Prerequisite: <span data-link='ECO385'>ECO 385</span>.</em>",
+    "desc": "Fluctuations in the level of economic activity; an examination of the basic principles and techniques of economic forecasting. May be taught concurrently with <span data-link='ECO686'>ECO 686</span>. Cannot receive credit for both <span data-link='ECO686'>ECO 686</span> and <span data-link='ECO586'>ECO 586</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO590": {
+    "course_id": "ECO590",
+    "title": "ECO 590 Senior Research Seminar",
+    "req": "<em>Prerequisite: <span data-link='ECO365'>ECO 365</span> and <span data-link='ECO385'>ECO 385</span> and <span data-link='ECO409'>ECO 409</span>; and 90 hours.</em>",
+    "desc": "A seminar course requiring the completion of assignments which develop and refine economic research skills. A combination of papers and class presentations will be used to assess student achievement. Primarily for economics students in their final year of study. Graduating seniors are given enrollment priority. May be taught concurrently with <span data-link='ECO790'>ECO 790</span>. Students cannot receive credit for both <span data-link='ECO590'>ECO 590</span> and <span data-link='ECO790'>ECO 790</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ECO599": {
+    "course_id": "ECO599",
+    "title": "ECO 599 Directed Research in Economics",
+    "req": "<em>Prerequisite: <span data-link='ECO365'>ECO 365</span>; and <span data-link='ECO385'>ECO 385</span> or <span data-link='ECO610'>ECO 610</span>; and <span data-link='ECO409'>ECO 409</span>.</em>",
+    "desc": "The student is expected to conduct research in a selected topic in economics and to produce a written report. May be taught concurrently with <span data-link='ECO699'>ECO 699</span>. Cannot receive credit for both <span data-link='ECO699'>ECO 699</span> and <span data-link='ECO599'>ECO 599</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO600": {
+    "course_id": "ECO600",
+    "title": "ECO 600 Fundamentals of Economics",
+    "req": "<em>Prerequisite: College of Business majors must receive permission from a director of a College of Business graduate program.</em>",
+    "desc": "An accelerated course dealing with the fundamentals of micro- and macroeconomic theory, designed for graduate students who have not completed undergraduate principles of economics. This course will not be counted in the hours required for a College of Business graduate degree. May be taught concurrently with <span data-link='ECO500'>ECO 500</span>. Cannot receive credit for both <span data-link='ECO500'>ECO 500</span> and <span data-link='ECO600'>ECO 600</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO604": {
+    "course_id": "ECO604",
+    "title": "ECO 604 Health Care Economics",
+    "desc": "Recommended Prerequisite: <span data-link='ECO165'>ECO 165</span>. A basic study of the economics of the health care market. Microeconomic theory is applied to the analysis of health care issues. Attention will be given to empirical studies of health care economics. Identical with <span data-link='HCM604'>HCM 604</span>. Cannot receive credit for both <span data-link='ECO604'>ECO 604</span> and <span data-link='HCM604'>HCM 604</span>. May be taught concurrently with <span data-link='ECO504'>ECO 504</span>. Cannot receive credit for both <span data-link='ECO504'>ECO 504</span> and <span data-link='ECO604'>ECO 604</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ECO609": {
+    "course_id": "ECO609",
+    "title": "ECO 609 Applied Econometrics",
+    "req": "<em>Prerequisite: <span data-link='QBA600'>QBA 600</span> or equivalent.</em>",
+    "desc": "Students will learn simple regression and multiple regression analysis. Additional topics include model building, cross sectional and time series analysis, as well as related topics. May be taught concurrently with <span data-link='ECO409'>ECO 409</span>. Students cannot receive credit for both <span data-link='ECO609'>ECO 609</span> and <span data-link='ECO409'>ECO 409</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ECO615": {
+    "course_id": "ECO615",
+    "title": "ECO 615 Public Sector Economics",
+    "desc": "Recommended Prerequisite: <span data-link='ECO155'>ECO 155</span> and <span data-link='ECO165'>ECO 165</span>; and completion of mathematics general education requirement. Allocation and distribution functions of the public sector of the economy; theories of taxation and public expenditure; shifting and incidences of taxes, local-state federal finance. May be taught concurrently with <span data-link='ECO515'>ECO 515</span>. Cannot receive credit for both <span data-link='ECO515'>ECO 515</span> and <span data-link='ECO615'>ECO 615</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO620": {
+    "course_id": "ECO620",
+    "title": "ECO 620 History of Economic Thought",
+    "desc": "Recommended Prerequisite: <span data-link='ECO155'>ECO 155</span> and <span data-link='ECO165'>ECO 165</span>. Development of economic theory. May be taught concurrently with <span data-link='ECO520'>ECO 520</span>. Cannot receive credit for both <span data-link='ECO520'>ECO 520</span> and <span data-link='ECO620'>ECO 620</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO640": {
+    "course_id": "ECO640",
+    "title": "ECO 640 Economics of the Environment",
+    "desc": "Recommended Prerequisite: <span data-link='ECO165'>ECO 165</span>. The course applies economic concepts and analysis to environmental issues such as pollution and natural resource management. Economic concepts and analysis used in the course will include supply and demand, cost benefit analysis, and the role of incentives. May be taught concurrently with <span data-link='ECO540'>ECO 540</span>. Cannot receive credit for both <span data-link='ECO540'>ECO 540</span> and <span data-link='ECO640'>ECO 640</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ECO665": {
+    "course_id": "ECO665",
+    "title": "ECO 665 International Economics",
+    "desc": "Recommended Prerequisite: <span data-link='QBA237'>QBA 237</span> or equivalent. Introduction to the key concepts of international trade and finance with a focus on the fundamental theories of international economics. Topics include the gains from and the patterns of international trade, protectionism, exchange rate determination and government policy intervention. May be taught concurrently with <span data-link='ECO565'>ECO 565</span>. Cannot receive credit for both <span data-link='ECO665'>ECO 665</span> and <span data-link='ECO565'>ECO 565</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ECO685": {
+    "course_id": "ECO685",
+    "title": "ECO 685 Mathematical Methods for Economics II",
+    "desc": "Recommended Prerequisite: <span data-link='ECO365'>ECO 365</span>; and <span data-link='ECO473'>ECO 473</span> or familiarity with calculus-based optimization techniques. Unconstrained and constrained optimization; applications of the envelope theorem and duality to standard economic models, including utility maximization, profit maximization and expenditure/cost minimization. May be taught concurrently with <span data-link='ECO585'>ECO 585</span>. Cannot receive credit for both <span data-link='ECO585'>ECO 585</span> and <span data-link='ECO685'>ECO 685</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO686": {
+    "course_id": "ECO686",
+    "title": "ECO 686 Business Cycles and Forecasting",
+    "desc": "Recommended Prerequisite: <span data-link='ECO385'>ECO 385</span>. Fluctuations in the level of economic activity; an examination of the basic principles and techniques of economic forecasting. May be taught concurrently with <span data-link='ECO586'>ECO 586</span>. Cannot receive credit for both <span data-link='ECO586'>ECO 586</span> and <span data-link='ECO686'>ECO 686</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO699": {
+    "course_id": "ECO699",
+    "title": "ECO 699 Directed Research in Economics",
+    "desc": "Recommended Prerequisite: <span data-link='ECO365'>ECO 365</span>; and <span data-link='ECO385'>ECO 385</span> or <span data-link='ECO710'>ECO 710</span>; and <span data-link='ECO409'>ECO 409</span>. The student is expected to conduct research in a selected topic in economics and to produce a written report. May be taught concurrently with <span data-link='ECO599'>ECO 599</span>. Cannot receive credit for both <span data-link='ECO599'>ECO 599</span> and <span data-link='ECO699'>ECO 699</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO705": {
+    "course_id": "ECO705",
+    "title": "ECO 705 Economic Studies",
+    "desc": "Survey course; problems of government finance, fiscal policy, and resource structures; economic pressure groups. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO710": {
+    "course_id": "ECO710",
+    "title": "ECO 710 Micro- and Macroeconomic Analysis",
+    "req": "<em>Prerequisite: <span data-link='ECO600'>ECO 600</span> or equivalent.</em>",
+    "desc": "An intermediate to advanced study of selected topics in microeconomic and macroeconomic analysis. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO711": {
+    "course_id": "ECO711",
+    "title": "ECO 711 Intermediate Econometrics",
+    "desc": "Recommended Prerequisite: <span data-link='ECO409'>ECO 409</span>. Examination of the principles of economic model construction and the econometric techniques used in estimation of behavioral relationships. May be taught concurrently with <span data-link='ECO508'>ECO 508</span>. Cannot receive credit for both <span data-link='ECO508'>ECO 508</span> and <span data-link='ECO711'>ECO 711</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO721": {
+    "course_id": "ECO721",
+    "title": "ECO 721 International Political Economy",
+    "desc": "A general introduction to the politics of international economic relations, with a special emphasis on the extent, causes, and consequences of globalization. Covers such topics as trade, investment, aid, global warming, international institutions, and the political roots of economic development. Identical with <span data-link='PLS721'>PLS 721</span>. Cannot receive credit for both <span data-link='ECO721'>ECO 721</span> and <span data-link='PLS721'>PLS 721</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ECO730": {
+    "course_id": "ECO730",
+    "title": "ECO 730 Money and Credit Markets",
+    "desc": "Recommended Prerequisite: <span data-link='ECO305'>ECO 305</span>. Role performed by the Federal Reserve System, financial intermediaries, non-financial businesses, the public, and the foreign sector in developing and maintaining money and credit flows. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ECO790": {
+    "course_id": "ECO790",
+    "title": "ECO 790 Seminar in Economics",
+    "req": "<em>Prerequisite: <span data-link='ECO609'>ECO 609</span> and <span data-link='ECO710'>ECO 710</span>.</em>",
+    "desc": "A seminar course requiring the completion of assignments which develop and refine economic research skills. A combination of papers and class presentations will be used to assess student achievement. Primarily for graduate students in their final year of study. May be taught concurrently with <span data-link='ECO590'>ECO 590</span>. Students cannot receive credit for both <span data-link='ECO790'>ECO 790</span> and <span data-link='ECO590'>ECO 590</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

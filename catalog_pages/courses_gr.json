@@ -1,0 +1,15 @@
+{
+  "GRD796": {
+    "course_id": "GRD796",
+    "title": "GRD 796 Variable Topics in University Teaching for GAs and TAs",
+    "desc": "In-depth study of scholarly teaching and the scholarship of teaching and learning at the university level. Variable topics course. May be repeated up to 3 hours if topic varies. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  }
+}

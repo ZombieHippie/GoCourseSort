@@ -1,0 +1,3564 @@
+{
+  "MUS100": {
+    "course_id": "MUS100",
+    "title": "MUS 100 Music Fundamentals",
+    "desc": "Rudiments of music (scales, key signatures, rhythms, intervals, notation) with their application within the context of music. Credit by Examination is available. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS101": {
+    "course_id": "MUS101",
+    "title": "MUS 101 Beginning Piano",
+    "desc": "Group instruction for students who wish to explore music through the medium of piano. Classes are taught in an 18-unit Wurlitzer Electronic Piano Laboratory. Course content includes development of keyboard familiarity and technique, introduction to music reading, improvisation, repertory pieces, and rudiments of music theory. No previous piano is required. Does not apply toward a major or minor in music. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS103": {
+    "course_id": "MUS103",
+    "title": "MUS 103 Theory and Musicianship I",
+    "req": "<em>Prerequisite: <span data-link='MUS100'>MUS 100</span> or permission of department.</em>",
+    "desc": "Review and drill of music fundamentals; notation, clefs, intervals, scales, rhythm and meter; music terms; written and oral construction of triads and seventh chords; analysis and writing of four-part harmony; non-harmonic tones, cadences, figured bass. Sight singing and dictation of melodies and rhythms; intervals and chord quality identification; error detection. Credit by Examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS104": {
+    "course_id": "MUS104",
+    "title": "MUS 104 Theory and Musicianship II",
+    "req": "<em>Prerequisite: <span data-link='MUS103'>MUS 103</span>.</em>",
+    "desc": "Four-part harmony incorporated all diatonic chords in all inversions; secondary dominant and secondary leading tone chords. Sight singing and dictation of melodies and rhythms; intervals and chord quality identification; error detection; dictation of four-part harmony. Credit by Examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS107": {
+    "course_id": "MUS107",
+    "title": "MUS 107 Recital Attendance I",
+    "desc": "Attendance of at least six music major convocations, one faculty recital, and eight other recitals or concerts sponsored by the department. The fulfillment of any part of these requirements by non-departmental concerts must be pre-approved by the student&apos;s major applied teacher or the department head. Credit will not be given to students who arrive after the recital/concert begins. Graded Pass/Not Pass only. ",
+    "hours": {},
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS108": {
+    "course_id": "MUS108",
+    "title": "MUS 108 Recital Attendance II",
+    "desc": "Attendance of at least six music major convocations, one faculty recital, and eight other recitals or concerts sponsored by the department. The fulfillment of any part of these requirements by non-departmental concerts must be pre-approved by the student&apos;s major applied teacher or the department head. Credit will not be given to students who arrive after the recital/concert begins. Graded Pass/Not Pass only. ",
+    "hours": {},
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS119": {
+    "course_id": "MUS119",
+    "title": "MUS 119 Jazz Theory/Jazz Keyboard Skills",
+    "req": "<em>Prerequisite: <span data-link='MUS103'>MUS 103</span>.</em>",
+    "desc": "The study of jazz theory and the practical application of functional jazz keyboard skills. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS130": {
+    "course_id": "MUS130",
+    "title": "MUS 130 Multicultural Musical Instrument Techniques",
+    "desc": "Techniques of both the performance and pedagogy of traditional instruments from cultures other than those in the Western/European tradition. Variable content course. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS131": {
+    "course_id": "MUS131",
+    "title": "MUS 131 String Techniques and Skills for the Music Educator",
+    "desc": "Instruction in the basic skills of playing and teaching violin, viola, cello and bass in a class situation. Examination of performance problems, diagnostic techniques, teaching strategies, and other specialized topics related to string instruction will be studied, and materials used in public school teaching will be examined and performed. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS133": {
+    "course_id": "MUS133",
+    "title": "MUS 133 Guitar for the Music Educator I",
+    "desc": "Provides future music teachers with the working knowledge, experience and skills to use the guitar for accompanying music making as well as for teaching fretted instruments in school music classes and ensembles. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS135": {
+    "course_id": "MUS135",
+    "title": "MUS 135 Voice Class I",
+    "desc": "Fundamentals of voice production, breath management, resonance and diction. Voice diagnosis and application of vocal principles are given on an individual basis. Appropriate vocal exercises and song literature are employed for the development of a singing technique. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS136": {
+    "course_id": "MUS136",
+    "title": "MUS 136 Voice Class II",
+    "req": "<em>Prerequisite: <span data-link='MUS135'>MUS 135</span>.</em>",
+    "desc": "Application of vocal principles is given on individual basis with the introduction of interpretation, style, and Italian diction. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS137": {
+    "course_id": "MUS137",
+    "title": "MUS 137 Piano Class I",
+    "req": "<em>Prerequisite: <span data-link='MUS100'>MUS 100</span> or <span data-link='MUS103'>MUS 103</span>.</em>",
+    "desc": "Coordination exercises, major scales, harmonization with I, IV, V7 chords, transposition, reading, elementary repertoire. Credit by Examination is available. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS138": {
+    "course_id": "MUS138",
+    "title": "MUS 138 Piano Class II",
+    "req": "<em>Prerequisite: <span data-link='MUS137'>MUS 137</span>.</em>",
+    "desc": "Minor scales, harmonization of major and minor melodies, transposition, reading, repertoire. Credit by Examination is available. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS139": {
+    "course_id": "MUS139",
+    "title": "MUS 139 Instrument Maintenance",
+    "req": "<em>Prerequisite: <span data-link='MUS133'>MUS 133</span>.</em>",
+    "desc": "Instrument repair, source of difficulty and solution of minor problems. Experience in replacing cork, springs, pads and adjustments of instruments. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS141": {
+    "course_id": "MUS141",
+    "title": "MUS 141 Single Reed Techniques and Skills for the Music Educator",
+    "desc": "Introduction in the basic skills and playing and teaching clarinet and saxophone in a class situation. Examination of performance problems, diagnostic techniques, teaching strategies, and other specialized topics related to woodwind instruction will be studied, and materials used in public school teaching will be examined and performed. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS142": {
+    "course_id": "MUS142",
+    "title": "MUS 142 Flute and Double Reed Techniques and Skills for the Music Educator",
+    "desc": "Introduction in the basic skills of playing and teaching flute and double reeds in a class situation. Examination of performance problems, diagnostic techniques, teaching strategies, and other specialized topics related to woodwind instruction will be studied, and materials used in public school teaching will be examined and performed. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS144": {
+    "course_id": "MUS144",
+    "title": "MUS 144 High Brass Techniques and Skills for the Music Educator",
+    "desc": "Introduction in the basic skills of playing and teaching trumpet and horn in a class situation. Examination of performance problems, diagnostic techniques, teaching strategies, and other specialized topics related to brass instruction will be studied, and materials used in public school teaching will be examined and performed. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS145": {
+    "course_id": "MUS145",
+    "title": "MUS 145 Low Brass Techniques and Skills for the Music Educator",
+    "desc": "Introduction in the basic skills of playing and teaching trombone and euphonium or tuba in a class situation. Examination of performance problems, diagnostic techniques, teaching strategies, and other specialized topics related to brass instruction will be studied, and materials used in public school teaching will be examined and performed. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS146": {
+    "course_id": "MUS146",
+    "title": "MUS 146 Percussion Techniques and Skills for the Music Educator I",
+    "desc": "Introduction in the basic skills of playing and teaching percussion instruments in a class situation. Examination of performance problems, diagnostic techniques, teaching strategies, and other specialized topics related to percussion instruction will be studied, and materials used in public school teaching will be examined and performed. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS148": {
+    "course_id": "MUS148",
+    "title": "MUS 148 Introduction to Music Teaching",
+    "desc": "This course is an orientation to the music education profession and to the teacher education program. Students explore roles and responsibilities of music teachers, complete field observations (minimum of 10 hours), develop a preliminary portfolio, and complete projects designed to examine the skills involved in teaching music. The field observation component requires the student to carry educational liability insurance and register with the Missouri Family Care Safety Registry (FCSR). ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS149": {
+    "course_id": "MUS149",
+    "title": "MUS 149 String (Instrument)",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction available in violin, viola, violoncello, bass viola. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS151": {
+    "course_id": "MUS151",
+    "title": "MUS 151 Piano",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in piano. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS152": {
+    "course_id": "MUS152",
+    "title": "MUS 152 Organ",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in organ. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS153": {
+    "course_id": "MUS153",
+    "title": "MUS 153 Voice",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in voice. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS155": {
+    "course_id": "MUS155",
+    "title": "MUS 155 Woodwind (Instrument)",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction available in flute, oboe, clarinet, bassoon, saxophone. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS156": {
+    "course_id": "MUS156",
+    "title": "MUS 156 Brass (Instrument)",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction available in horn, trumpet, trombone, baritone, and tuba. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS157": {
+    "course_id": "MUS157",
+    "title": "MUS 157 Percussion",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in percussion instruments. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS158": {
+    "course_id": "MUS158",
+    "title": "MUS 158 Guitar",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in classical guitar. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS159": {
+    "course_id": "MUS159",
+    "title": "MUS 159 Harp",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in harp. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS160": {
+    "course_id": "MUS160",
+    "title": "MUS 160 Carillon",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in carillon. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS161": {
+    "course_id": "MUS161",
+    "title": "MUS 161 Men's Chorus",
+    "desc": "A choral ensemble of men&apos;s voices that studies and performs music of various historical periods and genres both on and off campus. The Men&apos;s Chorus collaborates with other vocal and instrumental ensembles in the Music Department. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS162": {
+    "course_id": "MUS162",
+    "title": "MUS 162 Choral Union",
+    "desc": "Chorus Union, a mixed choir of students and community members, rehearses one evening per week and performs concerts throughout the year. Choral Union collaborates with other choral ensembles during the academic year and performs a variety of choral literature. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. Open to all students and community members by audition. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS163": {
+    "course_id": "MUS163",
+    "title": "MUS 163 Women's Chorus",
+    "desc": "A choral ensemble of women&apos;s voices that studies and performs music of various historical periods and genres both on and off campus. The Women&apos;s Chorus collaborates with other vocal and instrumental ensembles in the Music Department. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS168": {
+    "course_id": "MUS168",
+    "title": "MUS 168 Chorale",
+    "desc": "Chorale is a chorus of mixed men&apos;s and women&apos;s voices that studies and performs advanced choral repertoire both on and off campus. The Chorale will collaborate with other vocal and instrumental ensembles during the academic year. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS172": {
+    "course_id": "MUS172",
+    "title": "MUS 172 Small Ensemble",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Ensembles may be arranged each semester in piano, voice, strings, wind instruments and percussion to meet needs of participating students and the department. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS173": {
+    "course_id": "MUS173",
+    "title": "MUS 173 String Orchestra Workshop",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Study, performance of the literature and style of music for string ensembles of all sizes, a conducted group. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS174": {
+    "course_id": "MUS174",
+    "title": "MUS 174 Jazz Ensemble",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Laboratory course in instrumentation, materials, arranging and organization of Jazz Ensemble. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS175": {
+    "course_id": "MUS175",
+    "title": "MUS 175 Band",
+    "desc": "Band performs as marching unit during football season and as indoor ensemble throughout the school year. Analytical study and stylistic performance of literature for conducted wind ensembles of all sizes. Band performs on campus, in area high schools and in the stadia of other colleges. Auditions for placement and additional group work required. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS176": {
+    "course_id": "MUS176",
+    "title": "MUS 176 University Symphony",
+    "desc": "The symphony performs music from the standard symphonic literature and cooperates with other ensembles to perform major choral and operatic works. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS177": {
+    "course_id": "MUS177",
+    "title": "MUS 177 Marching Band",
+    "desc": "Marching band performs as a unit during football season. Band performs on campus, in area high schools, and in the stadia of other colleges. Auditions for placement and additional group work required. Band grants available to qualified students. Fees and assessments apply to course. May be repeated for credit. Only 8 hours of large ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS178": {
+    "course_id": "MUS178",
+    "title": "MUS 178 University/Community Band",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Traditional-style concert band which provides performance opportunities for musicians from the university and the community at large. At least one concert is presented each semester. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS192": {
+    "course_id": "MUS192",
+    "title": "MUS 192 Accompanying",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Development of skills in accompanying for pianist. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS193": {
+    "course_id": "MUS193",
+    "title": "MUS 193 Opera Workshop",
+    "desc": "Preparation and production of opera as it pertains to singing actors and ensembles. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS200": {
+    "course_id": "MUS200",
+    "title": "MUS 200 Principles and General Methods of Music Education",
+    "req": "<em>Prerequisite: <span data-link='MUS148'>MUS 148</span>.</em>",
+    "desc": "This serves as the gateway course to the teacher music education program. An overview of school organization, management techniques, goals, objectives, assessment, technology, curriculum preparation, unit planning, and diversity as a knowledge base for K-12 music teachers is developed through student projects. Students participate in a 30-hour field experience in area schools. The portfolio checkpoint required for admission to teacher education will occur during this course. A grade of &quot;C&quot; or better in this course is required to be admitted to the teacher education program. The field observation component requires the student to carry educational liability insurance, a TB test, and registration with the Missouri Family Care Safety Registry (FCSR). ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS203": {
+    "course_id": "MUS203",
+    "title": "MUS 203 Theory and Musicianship III",
+    "req": "<em>Prerequisite: <span data-link='MUS104'>MUS 104</span>.</em>",
+    "desc": "Chromatic harmony including borrowed chords and augmented sixth chords; elementary and advanced modulation; smaller forms. Sight singing and dictation of melodies and rhythms; error detection; modulation to closely related keys; dictation and identification of chromatic harmony. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS204": {
+    "course_id": "MUS204",
+    "title": "MUS 204 Theory and Musicianship IV",
+    "req": "<em>Prerequisite: <span data-link='MUS203'>MUS 203</span>.</em>",
+    "desc": "Advanced chromatic harmony; twentieth-century and contemporary techniques; larger forms. Sight singing and dictation of melodies and rhythms; error detection; harmonic dictation; diatonic modes and other non-tonal scales; improvisation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS207": {
+    "course_id": "MUS207",
+    "title": "MUS 207 Recital Attendance III",
+    "desc": "Attendance of at least six music major convocations, one faculty recital, and eight other recitals or concerts sponsored by the department. The fulfillment of any part of these requirements by non-departmental concerts must be preapproved by the student&apos;s major applied teacher or the department head. Credit will not be given to students who arrive after the recital/concert begins. Graded Pass/Not Pass only. ",
+    "hours": {},
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS208": {
+    "course_id": "MUS208",
+    "title": "MUS 208 Recital Attendance IV",
+    "desc": "Attendance of at least six music major convocations, one faculty recital, and eight other recitals or concerts sponsored by the department. The fulfillment of any part of these requirements by non-departmental concerts must be preapproved by the student&apos;s major applied teacher or the department head. Credit will not be given to students who arrive after the recital/concert begins. Graded Pass/Not Pass only. ",
+    "hours": {},
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS216": {
+    "course_id": "MUS216",
+    "title": "MUS 216 Introduction to Audio Techniques",
+    "desc": "The study and application of a wide variety of techniques used in the commercial music industry. Topic areas include sound and hearing, waveform theory, acoustics, microphones, multi-track recording, and basic usage of Musical Instrument Digital Interface (MIDI). Credit by Examination is available. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS219": {
+    "course_id": "MUS219",
+    "title": "MUS 219 Jazz Improvisation I",
+    "req": "<em>Prerequisite: <span data-link='MUS104'>MUS 104</span>.</em>",
+    "desc": "The study of beginning improvisation including chord/scale relationship, ii-V-I in all twelve major keys, blues, standards, and solo transcription. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS220": {
+    "course_id": "MUS220",
+    "title": "MUS 220 Jazz Improvisation II",
+    "req": "<em>Prerequisite: <span data-link='MUS219'>MUS 219</span>.</em>",
+    "desc": "The study of improvisation including chord/scale relationship, ii-V-I in all twelve minor keys, all forms of minor scales, modes, standards and solo transcription. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS235": {
+    "course_id": "MUS235",
+    "title": "MUS 235 Voice Class III",
+    "req": "<em>Prerequisite: <span data-link='MUS136'>MUS 136</span>.</em>",
+    "desc": "Application and vocal principles is given on an individual basis with repertoire and diction in Italian, German, and French. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS236": {
+    "course_id": "MUS236",
+    "title": "MUS 236 Voice Class IV",
+    "req": "<em>Prerequisite: <span data-link='MUS235'>MUS 235</span>.</em>",
+    "desc": "Application of vocal principles is given on an individual basis with the repertoire including songs and arias from operas and oratorios in Italian, French, German, and English. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS237": {
+    "course_id": "MUS237",
+    "title": "MUS 237 Piano Class III",
+    "req": "<em>Prerequisite: <span data-link='MUS138'>MUS 138</span>.</em>",
+    "desc": "Chord patterns for harmonization using secondary chords, broken chords, instrumental and vocal scores, ensemble playing, repertoire. Credit by Examination is available. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS238": {
+    "course_id": "MUS238",
+    "title": "MUS 238 Piano Class IV",
+    "req": "<em>Prerequisite: <span data-link='MUS237'>MUS 237</span>.</em>",
+    "desc": "Modern harmonization, diminished and augmented chords, arpeggios, instrumental and vocal scores, ensemble-solo-duo playing. Credit by Examination is available. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS239": {
+    "course_id": "MUS239",
+    "title": "MUS 239 Introduction to World Music",
+    "req": "<em>General Education Course (Focus on the Arts).</em>",
+    "desc": "An exploration of what it means to be human through a comparison of various world musics and the associated recurring patterns of human behavior. Students will also develop a music vocabulary and listening skills through exposure to recordings, lectures and assignments about stylistic elements and analysis. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS241": {
+    "course_id": "MUS241",
+    "title": "MUS 241 The Language of Music",
+    "req": "<em>Prerequisite: Open to all students except music majors. General Education Course (Focus on Humanities).</em>",
+    "desc": "A study of the ways music creatively expresses self-understanding, cultural environment, and aesthetic values from ancient to modern times. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS249": {
+    "course_id": "MUS249",
+    "title": "MUS 249 String Instrument",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction available in violin, viola, violoncello, bass viol. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS251": {
+    "course_id": "MUS251",
+    "title": "MUS 251 Piano",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in piano. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS252": {
+    "course_id": "MUS252",
+    "title": "MUS 252 Organ",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in organ. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS253": {
+    "course_id": "MUS253",
+    "title": "MUS 253 Voice",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in voice. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS255": {
+    "course_id": "MUS255",
+    "title": "MUS 255 Woodwind (Instrument)",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction available in flute, oboe, clarinet, bassoon, saxophone. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS256": {
+    "course_id": "MUS256",
+    "title": "MUS 256 Brass (Instrument)",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction available in horn, trumpet, trombone, baritone, and tuba. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS257": {
+    "course_id": "MUS257",
+    "title": "MUS 257 Percussion",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in percussion instruments. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS258": {
+    "course_id": "MUS258",
+    "title": "MUS 258 Guitar",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in classical guitar. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS259": {
+    "course_id": "MUS259",
+    "title": "MUS 259 Harp",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in harp. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS260": {
+    "course_id": "MUS260",
+    "title": "MUS 260 Carillon",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in carillon. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS261": {
+    "course_id": "MUS261",
+    "title": "MUS 261 Men's Chorus",
+    "desc": "A choral ensemble of men&apos;s voices that studies and performs music of various historical periods and genres both on and off campus. The Men&apos;s Chorus collaborates with other vocal and instrumental ensembles in the Music Department. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS262": {
+    "course_id": "MUS262",
+    "title": "MUS 262 Choral Union",
+    "desc": "Chorus Union, a mixed choir of students and community members, rehearses one evening per week and performs concerts throughout the year. Choral Union collaborates with other choral ensembles during the academic year and performs a variety of choral literature. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. Open to all students and community members by audition. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS263": {
+    "course_id": "MUS263",
+    "title": "MUS 263 Women's Chorus",
+    "desc": "A choral ensemble of women&apos;s voices that studies and performs music of various historical periods and genres both on and off campus. The Women&apos;s Chorus collaborates with other vocal and instrumental ensembles in the Music Department. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS268": {
+    "course_id": "MUS268",
+    "title": "MUS 268 Chorale",
+    "desc": "Chorale is a chorus of mixed men&apos;s and women&apos;s voices that studies and performs advanced choral repertoire both on and off campus. The Chorale will collaborate with other vocal and instrumental ensembles during the academic year. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS272": {
+    "course_id": "MUS272",
+    "title": "MUS 272 Small Ensemble",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Ensembles may be arranged each semester in piano, voice, strings, wind instruments and percussion to meet needs of participating students and the department. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS273": {
+    "course_id": "MUS273",
+    "title": "MUS 273 String Orchestra Workshop",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Study, performance of the literature and style of music for string ensembles of all sizes, a conducted group. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS274": {
+    "course_id": "MUS274",
+    "title": "MUS 274 Jazz Ensemble",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Laboratory course in instrumentation, materials, arranging and organization of Jazz Ensemble. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS275": {
+    "course_id": "MUS275",
+    "title": "MUS 275 Band",
+    "desc": "Band performs as marching unit during football season and as indoor ensemble throughout the school year. Analytical study and stylistic performance of literature for conducted wind ensembles of all sizes. Band performs on campus, in area high schools and in the stadia of other colleges. Auditions for placement and additional group work required. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS276": {
+    "course_id": "MUS276",
+    "title": "MUS 276 University Symphony",
+    "desc": "The symphony performs music from the standard symphonic literature and cooperates with other ensembles to perform major choral and operatic works. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS278": {
+    "course_id": "MUS278",
+    "title": "MUS 278 University/Community Band",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Traditional-style concert band which provides performance opportunities for musicians from the university and the community at large. At least one concert is presented each semester. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS280": {
+    "course_id": "MUS280",
+    "title": "MUS 280 Musical Theatre Workshop",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Performance laboratory for students majoring in Musical Theatre. Preparation and performance of musical numbers from the musical theatre repertoire. Emphasis will be placed on the synthesis of performance techniques related to various musical styles. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS292": {
+    "course_id": "MUS292",
+    "title": "MUS 292 Accompanying",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Development of skills in accompanying for pianist. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS293": {
+    "course_id": "MUS293",
+    "title": "MUS 293 Opera Workshop",
+    "desc": "Preparation and production of opera as it pertains to singing actors and ensembles. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS294": {
+    "course_id": "MUS294",
+    "title": "MUS 294 Singing Diction I",
+    "desc": "Proper pronunciation of English, Italian, and Latin; mastery of the International Phonetic Alphabet. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS295": {
+    "course_id": "MUS295",
+    "title": "MUS 295 Singing Diction II",
+    "req": "<em>Prerequisite: <span data-link='MUS294'>MUS 294</span>.</em>",
+    "desc": "Proper pronunciation of German and French; continued application of the International Phonetic Alphabet. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS298": {
+    "course_id": "MUS298",
+    "title": "MUS 298 Upper Division Applied Status",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Audition required by the end of the sophomore year of all music majors for placement into upper division Applied Music. Specific requirements may vary by Applied Division. Graded Pass/Not Pass only. ",
+    "hours": {},
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS301": {
+    "course_id": "MUS301",
+    "title": "MUS 301 Service Learning in Music",
+    "req": "<em>Prerequisite: 30 hours, concurrent registration in a Music course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in Music to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefit an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS307": {
+    "course_id": "MUS307",
+    "title": "MUS 307 Recital Attendance V",
+    "req": "<em>Prerequisite: piano proficiency.</em>",
+    "desc": "Attendance of at least six music major convocations, one faculty recital, and eight other recitals or concerts sponsored by the department. The fulfillment of any part of these requirements by non-departmental concerts must be pre-approved by the student&apos;s major applied teacher or the department head. Credit will not be given to students who arrive after the recital/concert begins. Graded Pass/Not Pass only. ",
+    "hours": {},
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS308": {
+    "course_id": "MUS308",
+    "title": "MUS 308 Recital Attendance VI",
+    "req": "<em>Prerequisite: piano proficiency.</em>",
+    "desc": "Attendance of at least six music major convocations, one faculty recital, and eight other recitals or concerts sponsored by the department. The fulfillment of any part of these requirements by non departmental concerts must be pre approved by the student&apos;s major applied teacher or the department head. Credit will not be given to students who arrive after the recital/concert begins. Graded Pass/Not Pass only. ",
+    "hours": {},
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS309": {
+    "course_id": "MUS309",
+    "title": "MUS 309 Introduction to Music and Healing",
+    "req": "<em>Prerequisite: ability to read music and permission of the instructor.</em>",
+    "desc": "Introduction to the history and current practices in the field of therapeutic music, as an integrated service-learning (ISL) class. Students will learn to play the portable folk harp, and provide 15 hours of therapeutic music at the bedsides of patients in local hospitals or hospices. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS313": {
+    "course_id": "MUS313",
+    "title": "MUS 313 16th Century Counterpoint",
+    "req": "<em>Prerequisite: <span data-link='MUS203'>MUS 203</span>.</em>",
+    "desc": "Analysis and writing in the style of the vocal music of the late Renaissance as embodied in the sacred vocal works of Palestrina. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS314": {
+    "course_id": "MUS314",
+    "title": "MUS 314 18th Century Counterpoint",
+    "req": "<em>Prerequisite: <span data-link='MUS203'>MUS 203</span>.</em>",
+    "desc": "Analysis and writing in the style of the instrumental music of the late Baroque as embodied in the keyboard works of J.S. Bach. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS315": {
+    "course_id": "MUS315",
+    "title": "MUS 315 Form and Analysis",
+    "req": "<em>Prerequisite: <span data-link='MUS204'>MUS 204</span>.</em>",
+    "desc": "The study of formal aspects of music, ranging from smaller structural units to complete movements. Analysis of forms and styles from selected historical periods. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS316": {
+    "course_id": "MUS316",
+    "title": "MUS 316 Advanced Audio Recording Techniques",
+    "req": "<em>Prerequisite: <span data-link='MUS216'>MUS 216</span>.</em>",
+    "desc": "Digital, advanced audio recording technology for radio, television, and video post production. Emphasis will be placed on the recording, editing, and mixdown of production projects. Topic areas include microphone placement, multi-track recording, digital theory, synchronization concepts, and the art of mixdown. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS319": {
+    "course_id": "MUS319",
+    "title": "MUS 319 Jazz Improvisation III",
+    "req": "<em>Prerequisite: <span data-link='MUS220'>MUS 220</span>.</em>",
+    "desc": "The study of advanced improvisation including chord/scale relationship, continued study of ii-V-I in all twelve major and minor keys, diminished, whole-tone, and altered dominant scales. Standards and solo transcriptions will be analyzed and performed. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS321": {
+    "course_id": "MUS321",
+    "title": "MUS 321 Conducting",
+    "req": "<em>Prerequisite: <span data-link='MUS204'>MUS 204</span>.</em>",
+    "desc": "Fundamentals of conducting, with emphasis upon basic baton techniques, transposition and score reading. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS322": {
+    "course_id": "MUS322",
+    "title": "MUS 322 Conducting-Choral",
+    "req": "<em>Prerequisite: <span data-link='MUS321'>MUS 321</span>.</em>",
+    "desc": "Conducting techniques specifically related to choral music. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS323": {
+    "course_id": "MUS323",
+    "title": "MUS 323 Conducting-Instrumental",
+    "req": "<em>Prerequisite: <span data-link='MUS321'>MUS 321</span>.</em>",
+    "desc": "Conducting techniques specifically related to instrumental music. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS327": {
+    "course_id": "MUS327",
+    "title": "MUS 327 Composition Class",
+    "req": "<em>Prerequisite: <span data-link='MUS103'>MUS 103</span>.</em>",
+    "desc": "Requires composition of short musical pieces using a variety of styles, and the analysis of works by 20th century composers. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS328": {
+    "course_id": "MUS328",
+    "title": "MUS 328 Instrumentation",
+    "req": "<em>Prerequisite: <span data-link='MUS203'>MUS 203</span>.</em>",
+    "desc": "Techniques, arranging, scoring and transcribing for large and small ensembles; with attention given to the practical application in a teaching situation. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS337": {
+    "course_id": "MUS337",
+    "title": "MUS 337 Piano Class V",
+    "req": "<em>Prerequisite: <span data-link='MUS238'>MUS 238</span>.</em>",
+    "desc": "Study of functional piano skills for classroom and studio use. Class members participate in simulated rehearsal situations involving accompanying, transposition, harmonization, and score reading at the piano. Emphasis is also placed on development of sightreading skills. Credit by Examination is available. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS338": {
+    "course_id": "MUS338",
+    "title": "MUS 338 Piano Class VI",
+    "req": "<em>Prerequisite: <span data-link='MUS337'>MUS 337</span>.</em>",
+    "desc": "Study of advanced functional skills for classroom and studio use. Class members participate in simulated rehearsal situations involving accompanying, transposition, harmonization, and score reading at the piano. Emphasis is also placed on development of sightreading skills. Credit by Examination is available. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS340": {
+    "course_id": "MUS340",
+    "title": "MUS 340 Adaptive Music for Special Learners",
+    "req": "<em>Prerequisite: music major and admitted to teacher education program.</em>",
+    "desc": "Introduction to the teaching of music students with disabilities in a school setting. The course will provide an overview of characteristics and identification criteria for both individuals with disabilities and also the gifted. Legislation and process pertaining to special education will be addressed along with a focus on teaching individuals with diversity in the elementary, middle, and secondary educational setting. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS343": {
+    "course_id": "MUS343",
+    "title": "MUS 343 Musical Theatre History I",
+    "desc": "Development of musical theatre in England, continental Europe and America from The Beggar&apos;s Opera, 1728 to Show Boat, 1927. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS344": {
+    "course_id": "MUS344",
+    "title": "MUS 344 Musical Theatre History II",
+    "desc": "Development of musical theatre mainly in America from Show Boat, 1927 to present. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS345": {
+    "course_id": "MUS345",
+    "title": "MUS 345 Music in Western Culture and Society I",
+    "desc": "The historical unfolding of western art music and the ways in which culture and society have played a central role in that development. Music from the Middle Ages to the Baroque will be studied from the perspective of the way in which it has been influenced and in turn influenced religion, politics, economics, and other social issues. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS346": {
+    "course_id": "MUS346",
+    "title": "MUS 346 Music in Western Culture and Society II",
+    "desc": "The historical unfolding of western art music and the ways in which culture and society have played a central role in that development. Music from the Classical era to the Twentieth century will be studied from the perspective of the way in which it has been influenced and in turn influenced religion, politics, economics, and other social issues. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS347": {
+    "course_id": "MUS347",
+    "title": "MUS 347 History of Jazz in American Culture",
+    "desc": "The development of jazz music in America. The historical unfolding of jazz art music and developmental advances from early 20th century to the present. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS349": {
+    "course_id": "MUS349",
+    "title": "MUS 349 String (Instrument)",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction available in violin, viola, violoncello, bass viol. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS351": {
+    "course_id": "MUS351",
+    "title": "MUS 351 Piano",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction in piano. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS352": {
+    "course_id": "MUS352",
+    "title": "MUS 352 Organ",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction in organ. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS353": {
+    "course_id": "MUS353",
+    "title": "MUS 353 Voice",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction in voice. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS355": {
+    "course_id": "MUS355",
+    "title": "MUS 355 Woodwind (Instrument)",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction available in flute, oboe, clarinet, bassoon, saxophone. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS356": {
+    "course_id": "MUS356",
+    "title": "MUS 356 Brass (Instrument)",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction available in French horn, trumpet, trombone, baritone, tuba. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS357": {
+    "course_id": "MUS357",
+    "title": "MUS 357 Percussion",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction in percussion instruments. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS358": {
+    "course_id": "MUS358",
+    "title": "MUS 358 Guitar",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction in classical guitar. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS359": {
+    "course_id": "MUS359",
+    "title": "MUS 359 Harp",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction in harp. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS360": {
+    "course_id": "MUS360",
+    "title": "MUS 360 Carillon",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction in carillon. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS361": {
+    "course_id": "MUS361",
+    "title": "MUS 361 Men's Chorus",
+    "desc": "A choral ensemble of men&apos;s voices that studies and performs music of various historical periods and genres both on and off campus. The Men&apos;s Chorus collaborates with other vocal and instrumental ensembles in the Music Department. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS362": {
+    "course_id": "MUS362",
+    "title": "MUS 362 Choral Union",
+    "desc": "Chorus Union, a mixed choir of students and community members, rehearses one evening per week and performs concerts throughout the year. Choral Union collaborates with other choral ensembles during the academic year and performs a variety of choral literature. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. Open to all students and community members by audition. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS363": {
+    "course_id": "MUS363",
+    "title": "MUS 363 Women's Chorus",
+    "desc": "A choral ensemble of women&apos;s voices that studies and performs music of various historical periods and genres both on and off campus. The Women&apos;s Chorus collaborates with other vocal and instrumental ensembles in the Music Department. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS368": {
+    "course_id": "MUS368",
+    "title": "MUS 368 Chorale",
+    "desc": "Chorale is a chorus of mixed men&apos;s and women&apos;s voices that studies and performs advanced choral repertoire both on and off campus. The Chorale will collaborate with other vocal and instrumental ensembles during the academic year. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS372": {
+    "course_id": "MUS372",
+    "title": "MUS 372 Small Ensemble",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Ensembles may be arranged each semester in piano, voice, strings, wind instruments and percussion to meet needs of participating students and the department. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS373": {
+    "course_id": "MUS373",
+    "title": "MUS 373 String Orchestra Workshop",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Study, performance of the literature and style of music for string ensembles of all sizes, a conducted group. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS374": {
+    "course_id": "MUS374",
+    "title": "MUS 374 Jazz Ensemble",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Laboratory course in instrumentation, materials, arranging and organization of Jazz Ensemble. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS375": {
+    "course_id": "MUS375",
+    "title": "MUS 375 Band",
+    "desc": "Band performs as marching unit during football season and as indoor ensemble throughout the school year. Analytical study and stylistic performance of literature for conducted wind ensembles of all sizes. Band performs on campus, in area high schools and in the stadia of other colleges. Auditions for placement and additional group work required. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS376": {
+    "course_id": "MUS376",
+    "title": "MUS 376 University Symphony",
+    "desc": "The symphony performs music from the standard symphonic literature and cooperates with other ensembles to perform major choral and operatic works. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS377": {
+    "course_id": "MUS377",
+    "title": "MUS 377 Marching Band",
+    "desc": "Marching band performs as a unit during football season. Band performs on campus, in area high schools, and in the stadia of other colleges. Auditions for placement and additional group work required. Band grants available to qualified students. Fees and assessments apply to course. May be repeated for credit. Only 8 hours of large ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS378": {
+    "course_id": "MUS378",
+    "title": "MUS 378 University/Community Band",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Traditional-style concert band which provides performance opportunities for musicians from the university and the community at large. At least one concert is presented each semester. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS380": {
+    "course_id": "MUS380",
+    "title": "MUS 380 Musical Theatre Workshop",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Performance laboratory for students majoring in Musical Theatre. Preparation and performance of musical numbers from the musical theatre repertoire. Emphasis will be placed on the synthesis of performance techniques related to various musical styles. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS392": {
+    "course_id": "MUS392",
+    "title": "MUS 392 Accompanying",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Development of skills in accompanying for pianist. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS393": {
+    "course_id": "MUS393",
+    "title": "MUS 393 Opera Workshop",
+    "desc": "Preparation and production of opera as it pertains to singing actors and ensembles. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS398": {
+    "course_id": "MUS398",
+    "title": "MUS 398 Junior Recital",
+    "req": "<em>Prerequisite: <span data-link='MUS298'>MUS 298</span>.</em>",
+    "desc": "Preparation and public presentation of a solo recital in the student&apos;s major applied area. Required of all music majors on the Bachelor of Music-Performance degree. The student must pass a recital hearing before the performance can occur. Supplemental course fee. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS399": {
+    "course_id": "MUS399",
+    "title": "MUS 399 Special Topics in Music",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Topic of interest determined by student and professor. May be repeated, as topics change, to maximum of 6 credit hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS407": {
+    "course_id": "MUS407",
+    "title": "MUS 407 Recital Attendance VII",
+    "req": "<em>Prerequisite: piano proficiency.</em>",
+    "desc": "Attendance of at least six music major convocations, one faculty recital, and eight other recitals or concerts sponsored by the department. The fulfillment of any part of these requirements by non departmental concerts must be pre approved by the student&apos;s major applied teacher or the department head. Credit will not be given to students who arrive after the recital/concert begins. Graded Pass/Not Pass only. ",
+    "hours": {},
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS410": {
+    "course_id": "MUS410",
+    "title": "MUS 410 Middle Childhood and Preadolescent Vocal Methods and Materials",
+    "req": "<em>Prerequisite: admission to Teacher Education Program, <span data-link='MUS204'>MUS 204</span> and <span data-link='MUS322'>MUS 322</span> and <span data-link='MUS518'>MUS 518</span>.</em>",
+    "desc": "Principles and techniques for working with middle or junior high school voices and teaching music classes at the middle level with special attention paid to vocal development, voice change, and vocal health for pre-adolescents. Pedagogical analysis of choral/vocal music literature, lesson planning, and classroom management specific to this age group. Includes organization and administration of vocal music classes commonly found in programs at this level. Requires a 20-hour practicum at the middle level. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS411": {
+    "course_id": "MUS411",
+    "title": "MUS 411 Secondary Instrumental Methods and Materials",
+    "req": "<em>Prerequisite: admission to Teacher Education Program, <span data-link='MUS204'>MUS 204</span> and <span data-link='MUS328'>MUS 328</span> and <span data-link='MUS323'>MUS 323</span>.</em>",
+    "desc": "Explores effective music methods and teaching strategies utilized in instrumental programs in middle or junior high schools and in high schools. Includes organization and administration of instrumental music classes commonly found in programs at those levels. Survey and analysis of instrumental music for large and small instrumental ensembles of all types and levels (K-12). ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS416": {
+    "course_id": "MUS416",
+    "title": "MUS 416 Recording Arts Practicum",
+    "desc": "Practice in the recording studio environment, creating CD-quality music and soundtracks. Instruction will be provided in session conduct as well as advanced operations in tracking, editing, and mixing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS430": {
+    "course_id": "MUS430",
+    "title": "MUS 430 Music in Early Childhood and the Elementary School",
+    "req": "<em>Prerequisite: admission to Teacher Education Program.</em>",
+    "desc": "Methods of teaching music in early childhood and elementary school classrooms. A 20-hour practicum in elementary music classrooms is required as part of this course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS449": {
+    "course_id": "MUS449",
+    "title": "MUS 449 String (Instrument)",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction available in violin, viola, violoncello, bass viol. May be repeated for credit. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS451": {
+    "course_id": "MUS451",
+    "title": "MUS 451 Piano",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction in piano. May be repeated for credit. May be repeated for credit. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS452": {
+    "course_id": "MUS452",
+    "title": "MUS 452 Organ",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction in organ. May be repeated for credit. May be repeated for credit. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS453": {
+    "course_id": "MUS453",
+    "title": "MUS 453 Voice",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction in voice. May be repeated for credit. May be repeated for credit. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS455": {
+    "course_id": "MUS455",
+    "title": "MUS 455 Woodwind (Instrument)",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction available in flute, oboe, clarinet, bassoon, saxophone. May be repeated for credit. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS456": {
+    "course_id": "MUS456",
+    "title": "MUS 456 Brass (Instrument)",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction available in horn, trumpet, trombone, baritone, and tuba. May be repeated for credit. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS457": {
+    "course_id": "MUS457",
+    "title": "MUS 457 Percussion",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction in percussion instruments. May be repeated for credit. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS458": {
+    "course_id": "MUS458",
+    "title": "MUS 458 Guitar",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction in classical guitar. May be repeated for credit. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS459": {
+    "course_id": "MUS459",
+    "title": "MUS 459 Harp",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction in harp. May be repeated for credit. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS460": {
+    "course_id": "MUS460",
+    "title": "MUS 460 Carillon",
+    "req": "<em>Prerequisite: permission of instructor; and admission to Music degree program.</em>",
+    "desc": "Applied instruction in carillon. May be repeated for credit. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS461": {
+    "course_id": "MUS461",
+    "title": "MUS 461 Men's Chorus",
+    "desc": "A choral ensemble of men&apos;s voices that studies and performs music of various historical periods and genres both on and off campus. The Men&apos;s Chorus collaborates with other vocal and instrumental ensembles in the Music Department. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS462": {
+    "course_id": "MUS462",
+    "title": "MUS 462 Choral Union",
+    "desc": "Chorus Union, a mixed choir of students and community members, rehearses one evening per week and performs concerts throughout the year. Choral Union collaborates with other choral ensembles during the academic year and performs a variety of choral literature. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. Open to all students and community members by audition. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS463": {
+    "course_id": "MUS463",
+    "title": "MUS 463 Women's Chorus",
+    "desc": "A choral ensemble of women&apos;s voices that studies and performs music of various historical periods and genres both on and off campus. The Women&apos;s Chorus collaborates with other vocal and instrumental ensembles in the Music Department. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS468": {
+    "course_id": "MUS468",
+    "title": "MUS 468 Chorale",
+    "desc": "Chorale is a chorus of mixed men&apos;s and women&apos;s voices that studies and performs advanced choral repertoire both on and off campus. The Chorale will collaborate with other vocal and instrumental ensembles during the academic year. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS472": {
+    "course_id": "MUS472",
+    "title": "MUS 472 Small Ensemble",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Ensembles may be arranged each semester in piano, voice, strings, wind instruments and percussion to meet needs of participating students and the department. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS473": {
+    "course_id": "MUS473",
+    "title": "MUS 473 String Orchestra Workshop",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Study, performance of the literature and style of music for string ensembles of all sizes, a conducted group. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS474": {
+    "course_id": "MUS474",
+    "title": "MUS 474 Jazz Ensemble",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Laboratory course in instrumentation, materials, arranging and organization of Jazz Ensemble. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS475": {
+    "course_id": "MUS475",
+    "title": "MUS 475 Band",
+    "desc": "Band performs as marching unit during football season and as indoor ensemble throughout the school year. Analytical study and stylistic performance of literature for conducted wind ensembles of all sizes. Band performs on campus, in area high schools and in the stadia of other colleges. Auditions for placement and additional group work required. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS476": {
+    "course_id": "MUS476",
+    "title": "MUS 476 University Symphony",
+    "desc": "The symphony performs music from the standard symphonic literature and cooperates with other ensembles to perform major choral and operatic works. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS478": {
+    "course_id": "MUS478",
+    "title": "MUS 478 University/Community Band",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Traditional-style concert band which provides performance opportunities for musicians from the university and the community at large. At least one concert is presented each semester. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS480": {
+    "course_id": "MUS480",
+    "title": "MUS 480 Musical Theatre Workshop",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Performance laboratory for students majoring in Musical Theatre. Preparation and performance of musical numbers from the musical theatre repertoire. Emphasis will be placed on the synthesis of performance techniques related to various musical styles. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS488": {
+    "course_id": "MUS488",
+    "title": "MUS 488 Seminar in Student Teaching",
+    "req": "<em>Prerequisite: all course work required for the Bachelor of Music Education completed, including the senior recital and piano proficiency; minimum combined (Missouri State and transfer) GPA of 2.75; minimum GPA in Music of 3.00, with no grade lower than a &quot;C&quot;; minimum GPA of 3.00 in professional education; and concurrent enrollment in <span data-link='MUS494'>MUS 494</span> and <span data-link='MUS496'>MUS 496</span>.</em>",
+    "desc": "A blended seminar focused on the analysis of diverse teaching contexts, student learning, and field experiences during student teaching. Topics will include: Theory into Practice, The Job Search, Diversity, the Teacher Work Sample, Assessment, and Classroom Management. Students attend (in person or on-line) weekly 2-hour seminars. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS492": {
+    "course_id": "MUS492",
+    "title": "MUS 492 Accompanying",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Development of skills in accompanying for pianist. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS493": {
+    "course_id": "MUS493",
+    "title": "MUS 493 Opera Workshop",
+    "desc": "Preparation and production of opera as it pertains to singing actors and ensembles. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS494": {
+    "course_id": "MUS494",
+    "title": "MUS 494 Supervised Teaching (Elementary Music K-6)",
+    "req": "<em>Prerequisite: all course work required for the Bachelor of Music Education completed, including the senior recital and piano proficiency; minimum combined (Missouri State and transfer) GPA of 2.75; minimum GPA of 3.00 in music with no grade lower than a &quot;C&quot;; minimum GPA of 3.00 in professional education; current pre-professional liability insurance; completion of Transition Points 1 and 2; approval for supervised teaching; and concurrent enrollment in <span data-link='MUS496'>MUS 496</span> and <span data-link='MUS488'>MUS 488</span>.</em>",
+    "desc": "Students will observe, assist and teach music classes under the direction of the cooperating teacher and University supervisor. Participation in extra-curricular activities and other duties is expected. An ongoing full-time commitment to student teaching is required to remain enrolled. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS496": {
+    "course_id": "MUS496",
+    "title": "MUS 496 Supervised Teaching (Secondary Music 7-12)",
+    "req": "<em>Prerequisite: all course work required for the Bachelor of Music Education completed, including the senior recital and piano proficiency; minimum combined (Missouri State and transfer) GPA of 2.75; minimum GPA of 3.00 in music with no grade lower than a &quot;C&quot;; minimum GPA of 3.00 in professional education; current pre-professional liability insurance; completion of Transition Points 1 and 2; approval for supervised teaching; and concurrent enrollment in <span data-link='MUS488'>MUS 488</span> and <span data-link='MUS494'>MUS 494</span>.</em>",
+    "desc": "Students will observe, assist and teach music classes under the direction of the cooperating teacher and University supervisor. Participation in extra-curricular activities and other duties is expected. An ongoing full-time commitment to student teaching is required to remain enrolled. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS498": {
+    "course_id": "MUS498",
+    "title": "MUS 498 Senior Recital",
+    "req": "<em>Prerequisite: <span data-link='MUS298'>MUS 298</span> and at least three semesters Applied Music courses numbered 300 or above with grades of &quot;B&quot; or better in the major performance area or in composition.</em>",
+    "desc": "Preparation and public presentation of a solo recital in the student&apos;s major applied area. The student must pass a recital hearing before the performance can occur. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS499": {
+    "course_id": "MUS499",
+    "title": "MUS 499 Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate masters-level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS501": {
+    "course_id": "MUS501",
+    "title": "MUS 501 Music Education Workshop",
+    "desc": "Variable topics related to music education instruction. Number of class hours determined by length of workshop and depth of topic. May be repeated for a maximum of 5 credit hours. May be taught concurrently with <span data-link='MUS611'>MUS 611</span>. Cannot receive credit for both <span data-link='MUS611'>MUS 611</span> and <span data-link='MUS501'>MUS 501</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS503": {
+    "course_id": "MUS503",
+    "title": "MUS 503 Orff in the Classroom",
+    "desc": "A study of music education using the approach developed by Carl Orff. Will include creative techniques including instruments, singing and movement. May be taught concurrently with <span data-link='MUS613'>MUS 613</span>. Cannot receive credit for both <span data-link='MUS613'>MUS 613</span> and <span data-link='MUS503'>MUS 503</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS506": {
+    "course_id": "MUS506",
+    "title": "MUS 506 Band Administration and Materials",
+    "desc": "Practicum and experience in all aspects of the successful band program. Includes organizational strategies and review of large and small ensemble literature for marching band, stage band, jazz band, and concert band. May be taught concurrently with <span data-link='MUS606'>MUS 606</span>. Cannot receive credit for both <span data-link='MUS606'>MUS 606</span> and <span data-link='MUS506'>MUS 506</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS510": {
+    "course_id": "MUS510",
+    "title": "MUS 510 Adolescent and Early Adult Choral/Vocal Literature and Materials for Secondary Levels",
+    "req": "<em>Prerequisite: admission to Teacher Education Program; <span data-link='MUS204'>MUS 204</span> and <span data-link='MUS321'>MUS 321</span> and <span data-link='MUS518'>MUS 518</span>.</em>",
+    "desc": "Explores effective music methods and teaching strategies utilized in vocal programs in high schools. Includes pedagogy of the adolescent voice. Best practices for teaching a wide variety of vocal ensembles including curricular and extra-curricular groups. Rehearsal and lesson planning for achievement of outcomes. Practical administration of organizations commonly found in most choral music programs. Survey and analysis of choral music literature for individuals, large and small ensembles including glee clubs, mixed choruses and choirs of all levels of performance. A 20-hour practicum with an area vocal music program will be part of the course content. May be taught concurrently with <span data-link='MUS609'>MUS 609</span>. Cannot receive credit for both <span data-link='MUS510'>MUS 510</span> and <span data-link='MUS609'>MUS 609</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS512": {
+    "course_id": "MUS512",
+    "title": "MUS 512 Electronic Music",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Exploration of theories and techniques of sound synthesis, sequencing, and digital audio through composition. Variable content course. May be repeated to a total of 6 hours when topic varies. May be taught concurrently with <span data-link='MUS612'>MUS 612</span>. Cannot receive credit for both <span data-link='MUS612'>MUS 612</span> and <span data-link='MUS512'>MUS 512</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS516": {
+    "course_id": "MUS516",
+    "title": "MUS 516 Composition I",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Elementary composition of pieces in a variety of forms. Emphasis on works for piano, solo instruments or voice. Adapted to meet the needs of the individual student. May be repeated. May be taught concurrently with <span data-link='MUS616'>MUS 616</span>. Cannot receive credit for both <span data-link='MUS616'>MUS 616</span> and <span data-link='MUS516'>MUS 516</span>. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS517": {
+    "course_id": "MUS517",
+    "title": "MUS 517 Composition II",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Intermediate level composition. Emphasis on writing for small groups of instrumentalists or vocalists. Adapted to meet the needs of the individual student. May be repeated. May be taught concurrently with <span data-link='MUS617'>MUS 617</span>. Cannot receive credit for both <span data-link='MUS617'>MUS 617</span> and <span data-link='MUS517'>MUS 517</span>. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS518": {
+    "course_id": "MUS518",
+    "title": "MUS 518 Choral Arranging",
+    "req": "<em>Prerequisite: <span data-link='MUS203'>MUS 203</span>.</em>",
+    "desc": "Techniques of arranging for small and large choral ensembles; with attention given to the practical application in a teaching situation. May be taught concurrently with <span data-link='MUS618'>MUS 618</span>. Cannot receive credit for both <span data-link='MUS618'>MUS 618</span> and <span data-link='MUS518'>MUS 518</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS520": {
+    "course_id": "MUS520",
+    "title": "MUS 520 Composition III",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Composing for larger groups of instrumentalists or vocalists. Adapted to meet the needs of the individual student. May be repeated. May be taught concurrently with <span data-link='MUS619'>MUS 619</span>. Cannot receive credit for both <span data-link='MUS619'>MUS 619</span> and <span data-link='MUS520'>MUS 520</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS521": {
+    "course_id": "MUS521",
+    "title": "MUS 521 Composition IV",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Advanced composition. A wide variety of mediums and styles are possible including electronic music of all types. Adapted to meet the needs of the individual student. May be repeated. May be taught concurrently with <span data-link='MUS621'>MUS 621</span>. Cannot receive credit for both <span data-link='MUS621'>MUS 621</span> and <span data-link='MUS521'>MUS 521</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS523": {
+    "course_id": "MUS523",
+    "title": "MUS 523 Keyboard Literature",
+    "desc": "Recommended Prerequisite: <span data-link='MUS345'>MUS 345</span> and <span data-link='MUS346'>MUS 346</span>. Keyboard works from the 17th century to the present. May be taught concurrently with <span data-link='MUS623'>MUS 623</span>. Cannot receive credit for both <span data-link='MUS623'>MUS 623</span> and <span data-link='MUS523'>MUS 523</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS524": {
+    "course_id": "MUS524",
+    "title": "MUS 524 Song and Opera Literature",
+    "desc": "Italian arias, German Lieder; representative songs by French, English, and American composers; standard operatic repertoire in relation to the composer&apos;s style and the period of theater and music history from which they emanate. May be taught concurrently with <span data-link='MUS624'>MUS 624</span>. Cannot receive credit for both <span data-link='MUS624'>MUS 624</span> and <span data-link='MUS524'>MUS 524</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS526": {
+    "course_id": "MUS526",
+    "title": "MUS 526 Advanced Arranging",
+    "req": "<em>Prerequisite: <span data-link='MUS204'>MUS 204</span>.</em>",
+    "desc": "Independent study or three hour seminar per week. Techniques of arranging for various choral or instrumental groups, suited to the need of the individual student. May be repeated to a total of 6 hours when topic varies. Variable content course. May be taught concurrently with <span data-link='MUS626'>MUS 626</span>. Cannot receive credit for both <span data-link='MUS626'>MUS 626</span> and <span data-link='MUS526'>MUS 526</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS529": {
+    "course_id": "MUS529",
+    "title": "MUS 529 Introduction to Commercial Music",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "A comprehensive survey of various aspects of music associated with the entertainment industry. Students will be exposed to a wide variety of topics including song and advertising jingle writing, scoring for film and video, negotiating contracts, and dealing with music publishers. May be taught concurrently with <span data-link='MUS629'>MUS 629</span>. Cannot receive credit for both <span data-link='MUS629'>MUS 629</span> and <span data-link='MUS529'>MUS 529</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS530": {
+    "course_id": "MUS530",
+    "title": "MUS 530 Vocal Pedagogy and Materials",
+    "desc": "Understanding the basic principles of voice production and their application to the training of singers. A comparative study of different pedagogical approaches to voice training. Including a survey of materials needed in successful programs of choral and vocal education in secondary schools for all levels of performance. May be taught concurrently with <span data-link='MUS630'>MUS 630</span>. Cannot receive credit for both <span data-link='MUS630'>MUS 630</span> and <span data-link='MUS530'>MUS 530</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS538": {
+    "course_id": "MUS538",
+    "title": "MUS 538 Survey of Pedagogical Methods",
+    "desc": "A study of methods of teaching applied music. May be taught concurrently with <span data-link='MUS658'>MUS 658</span>. Cannot receive credit for both <span data-link='MUS658'>MUS 658</span> and <span data-link='MUS538'>MUS 538</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS539": {
+    "course_id": "MUS539",
+    "title": "MUS 539 String Pedagogy and Instrumental Literature and Materials for Elementary and Secondary Levels",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Students will explore all aspects of orchestra and string programs for elementary and secondary education. Literature appropriate for beginning and advanced levels in school string programs will be addressed. May be taught concurrently with <span data-link='MUS659'>MUS 659</span>. Cannot receive credit for both <span data-link='MUS659'>MUS 659</span> and <span data-link='MUS539'>MUS 539</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS543": {
+    "course_id": "MUS543",
+    "title": "MUS 543 Music of the Renaissance",
+    "req": "<em>Prerequisite: <span data-link='MUS345'>MUS 345</span>.</em>",
+    "desc": "A comprehensive study of Western music from the Franco-Netherlands composers to Monteverdi (c. 1450 to 1600). May be taught concurrently with <span data-link='MUS683'>MUS 683</span>. Cannot receive credit for both <span data-link='MUS683'>MUS 683</span> and <span data-link='MUS543'>MUS 543</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS544": {
+    "course_id": "MUS544",
+    "title": "MUS 544 Music of the Baroque Era",
+    "req": "<em>Prerequisite: <span data-link='MUS345'>MUS 345</span>.</em>",
+    "desc": "A comprehensive study of Western music from monody to J.S. Bach and Handel (c. 1600 to 1750). May be taught concurrently with <span data-link='MUS684'>MUS 684</span>. Cannot receive credit for both <span data-link='MUS684'>MUS 684</span> and <span data-link='MUS544'>MUS 544</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS545": {
+    "course_id": "MUS545",
+    "title": "MUS 545 Music of the Classical Era",
+    "req": "<em>Prerequisite: <span data-link='MUS346'>MUS 346</span>.</em>",
+    "desc": "A comprehensive study of Western music from pre-classicism to Beethoven (c. 1750 to 1810). May be taught concurrently with <span data-link='MUS685'>MUS 685</span>. Cannot receive credit for both <span data-link='MUS685'>MUS 685</span> and <span data-link='MUS545'>MUS 545</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS546": {
+    "course_id": "MUS546",
+    "title": "MUS 546 Music of the Romantic Era",
+    "req": "<em>Prerequisite: <span data-link='MUS346'>MUS 346</span>.</em>",
+    "desc": "A comprehensive study of Western music from Beethoven to the post-romantic composers (c. 1800 to 1900). May be taught concurrently with <span data-link='MUS686'>MUS 686</span>. Cannot receive credit for both <span data-link='MUS686'>MUS 686</span> and <span data-link='MUS546'>MUS 546</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS547": {
+    "course_id": "MUS547",
+    "title": "MUS 547 Music of the 20th Century",
+    "req": "<em>Prerequisite: <span data-link='MUS346'>MUS 346</span>.</em>",
+    "desc": "A comprehensive study of Western music from 1900 to the present. May be taught concurrently with <span data-link='MUS687'>MUS 687</span>. Cannot receive credit for both <span data-link='MUS687'>MUS 687</span> and <span data-link='MUS547'>MUS 547</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS548": {
+    "course_id": "MUS548",
+    "title": "MUS 548 Choral Literature",
+    "desc": "Choral literature from the Renaissance through the 20th Century. May be taught concurrently with <span data-link='MUS688'>MUS 688</span>. Cannot receive credit for both <span data-link='MUS688'>MUS 688</span> and <span data-link='MUS548'>MUS 548</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS561": {
+    "course_id": "MUS561",
+    "title": "MUS 561 Men's Chorus",
+    "desc": "A choral ensemble of men&apos;s voices that studies and performs music of various historical periods and genres both on and off campus. The Men&apos;s Chorus collaborates with other vocal and instrumental ensembles in the Music Department. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS563": {
+    "course_id": "MUS563",
+    "title": "MUS 563 Women's Chorus",
+    "desc": "A choral ensemble of women&apos;s voices that studies and performs music of various historical periods and genres both on and off campus. The Women&apos;s Chorus collaborates with other vocal and instrumental ensembles in the Music Department. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS580": {
+    "course_id": "MUS580",
+    "title": "MUS 580 Instrumental Conducting",
+    "req": "<em>Prerequisite: <span data-link='MUS323'>MUS 323</span>.</em>",
+    "desc": "A study of conducting techniques and problems in rehearsal and performance. Baton technique and repertoire development. May be taught concurrently with <span data-link='MUS670'>MUS 670</span>. Cannot receive credit for both <span data-link='MUS670'>MUS 670</span> and <span data-link='MUS580'>MUS 580</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Summer": true
+    }
+  },
+  "MUS581": {
+    "course_id": "MUS581",
+    "title": "MUS 581 Choral Conducting",
+    "req": "<em>Prerequisite: <span data-link='MUS322'>MUS 322</span>.</em>",
+    "desc": "A study of conducting techniques and problems in rehearsal and performance. Conducting technique and repertoire development. May be taught concurrently with <span data-link='MUS671'>MUS 671</span>. Cannot receive credit for both <span data-link='MUS671'>MUS 671</span> and <span data-link='MUS581'>MUS 581</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Summer": true
+    }
+  },
+  "MUS599": {
+    "course_id": "MUS599",
+    "title": "MUS 599 Special Topics in Music",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Topic of interest determined by student and professor. May be repeated, as topics change, to a maximum of 6 hours. Variable content course. May be taught concurrently with <span data-link='MUS689'>MUS 689</span>. Cannot receive credit for both <span data-link='MUS689'>MUS 689</span> and <span data-link='MUS599'>MUS 599</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS606": {
+    "course_id": "MUS606",
+    "title": "MUS 606 Band Administration and Materials",
+    "desc": "Practicum and experience in all aspects of the successful band program. Includes organizational strategies and review of large and small ensemble literature for marching band, stage band, jazz band, and concert band. May be taught concurrently with <span data-link='MUS506'>MUS 506</span>. Cannot receive credit for both <span data-link='MUS506'>MUS 506</span> and <span data-link='MUS606'>MUS 606</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS609": {
+    "course_id": "MUS609",
+    "title": "MUS 609 Choral Literature and Materials for Secondary Levels",
+    "desc": "Survey and analysis of choral music for large and small ensembles including glee clubs, mixed choruses, and choirs of all levels of performance (7-12 grade). May be taught concurrently with <span data-link='MUS510'>MUS 510</span>. Cannot receive credit for both <span data-link='MUS510'>MUS 510</span> and <span data-link='MUS609'>MUS 609</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS611": {
+    "course_id": "MUS611",
+    "title": "MUS 611 Music Education Workshop",
+    "desc": "Variable topics related to music education instruction. Number of credit hours determined by length of workshop and depth of topic. May be repeated for a maximum of five hours. May be taught concurrently with <span data-link='MUS501'>MUS 501</span>. Cannot receive credit for both <span data-link='MUS501'>MUS 501</span> and <span data-link='MUS611'>MUS 611</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "MUS612": {
+    "course_id": "MUS612",
+    "title": "MUS 612 Electronic Music",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Exploration of theories and techniques of sound synthesis, sequencing, and digital audio through composition. Variable content course. May be repeated to a total of 6 hours when topic varies. May be taught concurrently with <span data-link='MUS512'>MUS 512</span>. Cannot receive credit for both <span data-link='MUS512'>MUS 512</span> and <span data-link='MUS612'>MUS 612</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS613": {
+    "course_id": "MUS613",
+    "title": "MUS 613 Orff in the Classroom",
+    "desc": "A study of music education using the approach developed by Carl Orff. Will include creative techniques including instruments, singing, and movement. May be taught concurrently with <span data-link='MUS503'>MUS 503</span>. Cannot receive credit for both <span data-link='MUS503'>MUS 503</span> and <span data-link='MUS613'>MUS 613</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS616": {
+    "course_id": "MUS616",
+    "title": "MUS 616 Composition I",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Elementary composition of pieces in a variety of forms. Emphasis on works for piano, solo instruments, or voice. Adapted to meet the needs of the individual student. May be taught concurrently with <span data-link='MUS516'>MUS 516</span>. Cannot receive credit for both <span data-link='MUS516'>MUS 516</span> and <span data-link='MUS616'>MUS 616</span>. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS617": {
+    "course_id": "MUS617",
+    "title": "MUS 617 Composition II",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Intermediate level composition. Emphasis on writing for small groups of instrumentalists or vocalists. Adapted to meet the needs of the individual student. May be taught concurrently with <span data-link='MUS517'>MUS 517</span>. Cannot receive credit for both <span data-link='MUS517'>MUS 517</span> and <span data-link='MUS617'>MUS 617</span>. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS618": {
+    "course_id": "MUS618",
+    "title": "MUS 618 Choral Arranging",
+    "req": "<em>Prerequisite: <span data-link='MUS203'>MUS 203</span>.</em>",
+    "desc": "Techniques of arranging for small and large choral ensembles; with attention given to the practical application in a teaching situation. May be taught concurrently with <span data-link='MUS518'>MUS 518</span>. Cannot receive credit for both <span data-link='MUS518'>MUS 518</span> and <span data-link='MUS618'>MUS 618</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS619": {
+    "course_id": "MUS619",
+    "title": "MUS 619 Composition III",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Composing for larger groups of instrumentalists or vocalists. Adapted to meet the needs of the individual student. May be repeated. May be taught concurrently with <span data-link='MUS520'>MUS 520</span>. Cannot receive credit for both <span data-link='MUS520'>MUS 520</span> and <span data-link='MUS619'>MUS 619</span>. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS621": {
+    "course_id": "MUS621",
+    "title": "MUS 621 Composition IV",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Advanced composition. A wide variety of mediums and styles are possible including electronic music of all types. Adapted to meet the needs of the individual student. May be repeated. May be taught concurrently with <span data-link='MUS521'>MUS 521</span>. Cannot receive credit for both <span data-link='MUS521'>MUS 521</span> and <span data-link='MUS621'>MUS 621</span>. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS623": {
+    "course_id": "MUS623",
+    "title": "MUS 623 Keyboard Literature",
+    "desc": "Keyboard works from the 17th century to the present. May be taught concurrently with <span data-link='MUS523'>MUS 523</span>. Cannot receive credit for both <span data-link='MUS523'>MUS 523</span> and <span data-link='MUS623'>MUS 623</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS624": {
+    "course_id": "MUS624",
+    "title": "MUS 624 Song and Opera Literature",
+    "desc": "Italian arias, German Lieder; representative songs by French, English, and American composers; standard operatic repertoire in relation to the composer&apos;s style and the period of theater and music history from which they emanate. May be taught concurrently with <span data-link='MUS524'>MUS 524</span>. Cannot receive credit for both <span data-link='MUS524'>MUS 524</span> and <span data-link='MUS624'>MUS 624</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS626": {
+    "course_id": "MUS626",
+    "title": "MUS 626 Advanced Arranging",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Independent study or three hour seminar per week. Techniques of arranging for various choral or instrumental groups, suited to the need of the individual student. May be repeated to a total of 6 hours when topic varies. Variable content course. May be taught concurrently with <span data-link='MUS526'>MUS 526</span>. Cannot receive credit for both <span data-link='MUS526'>MUS 526</span> and <span data-link='MUS626'>MUS 626</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS629": {
+    "course_id": "MUS629",
+    "title": "MUS 629 Introduction to Commercial Music",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "A comprehensive survey of various aspects of music associated with the entertainment industry. Students will be exposed to a wide variety of topics including song and advertising jingle writing, scoring for film and video, negotiating contracts, and dealing with music publishers. May be taught concurrently with <span data-link='MUS529'>MUS 529</span>. Cannot receive credit for both <span data-link='MUS529'>MUS 529</span> and <span data-link='MUS629'>MUS 629</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS630": {
+    "course_id": "MUS630",
+    "title": "MUS 630 Vocal Pedagogy and Materials",
+    "desc": "Understanding the basic principles of voice production and their application to the training of singers. A comparative study of different pedagogical approaches to voice training. Including a survey of materials needed in successful programs of choral and vocal education in secondary schools for all levels of performance. May be taught concurrently with <span data-link='MUS530'>MUS 530</span>. Cannot receive credit for both <span data-link='MUS530'>MUS 530</span> and <span data-link='MUS630'>MUS 630</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS649": {
+    "course_id": "MUS649",
+    "title": "MUS 649 String (Instrument)",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction available in violin, viola, violoncello, and bass viol. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS651": {
+    "course_id": "MUS651",
+    "title": "MUS 651 Piano",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in piano. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS652": {
+    "course_id": "MUS652",
+    "title": "MUS 652 Organ",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in organ. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS653": {
+    "course_id": "MUS653",
+    "title": "MUS 653 Voice",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in voice. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS655": {
+    "course_id": "MUS655",
+    "title": "MUS 655 Woodwind",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in flute, oboe, clarinet, bassoon, and saxophone. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS656": {
+    "course_id": "MUS656",
+    "title": "MUS 656 Brass",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in trumpet, horn, trombone, euphonium and tuba. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS657": {
+    "course_id": "MUS657",
+    "title": "MUS 657 Percussion",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction on percussion instruments. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS658": {
+    "course_id": "MUS658",
+    "title": "MUS 658 Survey of Pedagogical Methods",
+    "desc": "A study of methods of teaching applied music. May be taught concurrently with <span data-link='MUS538'>MUS 538</span>. Cannot receive credit for both <span data-link='MUS538'>MUS 538</span> and <span data-link='MUS658'>MUS 658</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS659": {
+    "course_id": "MUS659",
+    "title": "MUS 659 String Pedagogy and Instrumental Literature and Materials for Elementary and Secondary Levels",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Students will explore all aspects of orchestra and string programs for elementary and secondary education. Literature appropriate for beginning and advanced levels in school string programs will be addressed. May be taught concurrently with <span data-link='MUS539'>MUS 539</span>. Cannot receive credit for both <span data-link='MUS539'>MUS 539</span> and <span data-link='MUS659'>MUS 659</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS660": {
+    "course_id": "MUS660",
+    "title": "MUS 660 Carillon",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in carillon. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS661": {
+    "course_id": "MUS661",
+    "title": "MUS 661 Men's Chorus",
+    "desc": "A choral ensemble of men&apos;s voices that studies and performs music of various historical periods and genres both on and off campus. The Men&apos;s Chorus collaborates with other vocal and instrumental ensembles in the Music Department. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS663": {
+    "course_id": "MUS663",
+    "title": "MUS 663 Women's Chorus",
+    "desc": "A choral ensemble of women&apos;s voices that studies and performs music of various historical periods and genres both on and off campus. The Women&apos;s Chorus collaborates with other vocal and instrumental ensembles in the Music Department. Open to all University students by audition. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS670": {
+    "course_id": "MUS670",
+    "title": "MUS 670 Instrumental Conducting",
+    "desc": "A study of conducting techniques and problems in rehearsal and performance. Baton technique and repertoire development. May be taught concurrently with <span data-link='MUS580'>MUS 580</span>. Cannot receive credit for both <span data-link='MUS580'>MUS 580</span> and <span data-link='MUS670'>MUS 670</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Summer": true
+    }
+  },
+  "MUS671": {
+    "course_id": "MUS671",
+    "title": "MUS 671 Choral Conducting",
+    "desc": "A study of conducting techniques and problems in rehearsal and performance. Conducting technique and repertoire development. May be taught concurrently with <span data-link='MUS581'>MUS 581</span>. Cannot receive credit for both <span data-link='MUS581'>MUS 581</span> and <span data-link='MUS671'>MUS 671</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Summer": true
+    }
+  },
+  "MUS674": {
+    "course_id": "MUS674",
+    "title": "MUS 674 Jazz Ensemble",
+    "desc": "A Laboratory course in instrumentation, materials, arranging, and organization of the jazz ensemble. May be repeated for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS675": {
+    "course_id": "MUS675",
+    "title": "MUS 675 Band",
+    "desc": "The band performs as a marching unit during the football season and as an indoor ensemble throughout the school year. Formal concerts and public performances are given by the ensemble each year. Auditions for placement are required. May be repeated for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS678": {
+    "course_id": "MUS678",
+    "title": "MUS 678 University/Community Band",
+    "desc": "Traditional style concert band which provides performance opportunities for musicians from the university and the community at large. At least one concert is presented each semester. May be repeated for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS682": {
+    "course_id": "MUS682",
+    "title": "MUS 682 Piano Ensemble",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "The student will strengthen ensemble and rehearsal techniques through the study and performance of piano four-hand and duo literature. May be repeated for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS683": {
+    "course_id": "MUS683",
+    "title": "MUS 683 Music of the Renaissance",
+    "desc": "A comprehensive study of Western music from the Franco-Netherlands composers to Monteverdi (c. 1450 to 1600). May be taught concurrently with <span data-link='MUS543'>MUS 543</span>. Cannot receive credit for both <span data-link='MUS543'>MUS 543</span> and <span data-link='MUS683'>MUS 683</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS684": {
+    "course_id": "MUS684",
+    "title": "MUS 684 Music of the Baroque Era",
+    "desc": "A comprehensive study of Western music from monody to J.S. Bach and Handel (c. 1600 to 1750). May be taught concurrently with <span data-link='MUS544'>MUS 544</span>. Cannot receive credit for both <span data-link='MUS544'>MUS 544</span> and <span data-link='MUS684'>MUS 684</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS685": {
+    "course_id": "MUS685",
+    "title": "MUS 685 Music of the Classical Era",
+    "desc": "A comprehensive study of Western music from pre-classicism to Beethoven (c. 1750 to 1810). May be taught concurrently with <span data-link='MUS545'>MUS 545</span>. Cannot receive credit for both <span data-link='MUS545'>MUS 545</span> and <span data-link='MUS685'>MUS 685</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS686": {
+    "course_id": "MUS686",
+    "title": "MUS 686 Music of the Romantic Era",
+    "desc": "A comprehensive study of Western music from Beethoven to the post-romantic composers (c. 1800 to 1900). May be taught concurrently with <span data-link='MUS546'>MUS 546</span>. Cannot receive credit for both <span data-link='MUS546'>MUS 546</span> and <span data-link='MUS686'>MUS 686</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS687": {
+    "course_id": "MUS687",
+    "title": "MUS 687 Music of the 20th Century",
+    "desc": "A comprehensive study of Western music from 1900 to the present. May be taught concurrently with <span data-link='MUS547'>MUS 547</span>. Cannot receive credit for both <span data-link='MUS547'>MUS 547</span> and <span data-link='MUS687'>MUS 687</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS688": {
+    "course_id": "MUS688",
+    "title": "MUS 688 Choral Literature",
+    "desc": "Choral literature from the Renaissance through the 20th Century. May be taught concurrently with <span data-link='MUS548'>MUS 548</span>. Cannot receive credit for both <span data-link='MUS548'>MUS 548</span> and <span data-link='MUS688'>MUS 688</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS689": {
+    "course_id": "MUS689",
+    "title": "MUS 689 Special Topics in Music",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Topic of interest determined by student and professor. May be repeated, as topics change, to a maximum of 6 hours. Variable content course. May be taught concurrently with <span data-link='MUS599'>MUS 599</span>. Cannot receive credit for both <span data-link='MUS599'>MUS 599</span> and <span data-link='MUS689'>MUS 689</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS700": {
+    "course_id": "MUS700",
+    "title": "MUS 700 Introduction to Graduate Study in Music",
+    "desc": "General introduction to graduate curriculum; planning the program; formal writing style; sources used in research; study of methods in research. Required of all degree candidates. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS701": {
+    "course_id": "MUS701",
+    "title": "MUS 701 Music Education Curriculum",
+    "desc": "An examination of trends in elementary, middle, and secondary music education; evaluation of selected materials and techniques; and special projects in planning for change in music education curriculum. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS702": {
+    "course_id": "MUS702",
+    "title": "MUS 702 Elementary Music Education",
+    "desc": "Study of problems in planning a music program to encourage children&apos;s aesthetic enjoyment of music; teaching principles and methods for guided learning through creative discovery; use of instructional media for providing such experiences. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "MUS707": {
+    "course_id": "MUS707",
+    "title": "MUS 707 Psychology of Music",
+    "desc": "Adapted to the view of the music educator. Emphasis is placed upon the physics of sound, psychology of performances and teaching, and the principles of listening. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS708": {
+    "course_id": "MUS708",
+    "title": "MUS 708 Contemporary Music Education",
+    "desc": "A study of current trends and contemporary issues relevant to education and/or music education, as identified from various sources, and what impact they may or may not have on music education. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS715": {
+    "course_id": "MUS715",
+    "title": "MUS 715 Advanced Composition",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Private compositional study for graduate students. Variable content course. May be repeated to a total of 9 hours when topic varies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS720": {
+    "course_id": "MUS720",
+    "title": "MUS 720 Directed Study in Music Education",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Individual study and research on projects approved by Music Education faculty; individual conferences with assigned faculty members; oral report, and a document at conclusion of semester. May be repeated to 3 hrs. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS725": {
+    "course_id": "MUS725",
+    "title": "MUS 725 History and Philosophy of Music Education",
+    "desc": "History of educational philosophies and objectives. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS727": {
+    "course_id": "MUS727",
+    "title": "MUS 727 Seminar: Music Theory",
+    "desc": "A study of various aspects of music theory, including analysis and pedagogy, researched from primary and secondary sources from the medieval period through the present. May be repeated to a total of 6 hours when topic varies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS728": {
+    "course_id": "MUS728",
+    "title": "MUS 728 Pedagogy of Music Theory",
+    "desc": "Techniques of teaching harmony and ear training as well as other theoretical aspects of music to high school and college music students. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "MUS738": {
+    "course_id": "MUS738",
+    "title": "MUS 738 Survey of Pre-College Repertoire",
+    "req": "<em>Prerequisite: <span data-link='MUS538'>MUS 538</span> or <span data-link='MUS658'>MUS 658</span>.</em>",
+    "desc": "An examination of appropriate repertoire from the Baroque, Classical, Romantic, and 20th Century style periods for beginner, intermediate, and advanced pre-college students. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "MUS739": {
+    "course_id": "MUS739",
+    "title": "MUS 739 Pedagogy Practicum I",
+    "req": "<em>Prerequisite: <span data-link='MUS738'>MUS 738</span>.</em>",
+    "desc": "A course consisting of three components: class meetings for the discussion of teaching techniques, observation of the teaching of experienced teachers, supervised student teaching. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MUS740": {
+    "course_id": "MUS740",
+    "title": "MUS 740 Pedagogy Practicum II",
+    "req": "<em>Prerequisite: <span data-link='MUS739'>MUS 739</span>.</em>",
+    "desc": "Private teaching of a prescribed number of pre-college students of various levels of advancement under guidance of pedagogy instructor. Pedagogy students must present assigned pre-college students in an end of semester recital. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MUS744": {
+    "course_id": "MUS744",
+    "title": "MUS 744 Directed Study in Music Theory",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Individual study on approved projects; individual conferences with assigned faculty member. May be repeated to a total of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS745": {
+    "course_id": "MUS745",
+    "title": "MUS 745 Directed Study in Music History and Literature",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Advanced study in special topics of music history and literature. May be repeated to a total of 3 hours when topic varies. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS746": {
+    "course_id": "MUS746",
+    "title": "MUS 746 Seminar: Symphonic Literature",
+    "desc": "A survey of the repertoire for orchestras of varying sizes and ability levels. May be repeated for credit for a total of 6 hours when topic varies. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS747": {
+    "course_id": "MUS747",
+    "title": "MUS 747 Seminar: Wind Literature",
+    "desc": "A survey of the repertoire for wind groups of various sizes and ability levels. May be repeated to a total of 6 hours when topic varies. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS748": {
+    "course_id": "MUS748",
+    "title": "MUS 748 Seminar: Choral Literature",
+    "desc": "A survey of the repertoire for choral groups of various sizes and ability levels. Variable content course. May be repeated to a total of 6 hours when topic varies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS749": {
+    "course_id": "MUS749",
+    "title": "MUS 749 String (Instrument)",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction available in violin, viola, violoncello, and bass viola. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS751": {
+    "course_id": "MUS751",
+    "title": "MUS 751 Piano",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in piano. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS752": {
+    "course_id": "MUS752",
+    "title": "MUS 752 Organ",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in organ. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS753": {
+    "course_id": "MUS753",
+    "title": "MUS 753 Voice",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in voice. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS755": {
+    "course_id": "MUS755",
+    "title": "MUS 755 Woodwind (Instrument)",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction available in flute, oboe, clarinet, bassoon, and saxophone. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS756": {
+    "course_id": "MUS756",
+    "title": "MUS 756 Brass",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction available in trumpet, French horn, trombone, euphonium and tuba. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS757": {
+    "course_id": "MUS757",
+    "title": "MUS 757 Percussion",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction on percussion instruments. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS760": {
+    "course_id": "MUS760",
+    "title": "MUS 760 Carillon",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Applied instruction in carillon. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS762": {
+    "course_id": "MUS762",
+    "title": "MUS 762 Choral Union",
+    "desc": "Chorus Union, a mixed choir of students and community members, rehearses one evening per week and performs concerts throughout the year. Choral Union collaborates with other choral ensembles during the academic year and performs a variety of choral literature. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree program in music. Open to all students and community members by audition. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS768": {
+    "course_id": "MUS768",
+    "title": "MUS 768 Concert Chorale",
+    "desc": "The choir is open to all college students by audition. All types of choral literature, accompanied and unaccompanied, are prepared and performed by its members. The choir presents a Christmas concert, a spring concert, and programs in area high schools. May be repeated for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS772": {
+    "course_id": "MUS772",
+    "title": "MUS 772 Small Ensembles",
+    "desc": "Ensembles may be arranged each semester in the fields of piano, voice, strings, wind instruments, and percussion to meet the needs of participating students and the department. May be repeated for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS773": {
+    "course_id": "MUS773",
+    "title": "MUS 773 String Orchestra Workshop",
+    "desc": "Study and performance of the literature and style of music for string ensembles of all sizes, A conducted group. May be repeated for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS774": {
+    "course_id": "MUS774",
+    "title": "MUS 774 Stage Band",
+    "desc": "A laboratory course in instrumentation, materials, arranging, and organization of the stage band. May be repeated for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS775": {
+    "course_id": "MUS775",
+    "title": "MUS 775 Band",
+    "desc": "The band performs as a marching unit during the football season and as an indoor ensemble throughout the school year. Formal concerts and public performances are given by the ensemble each year. Auditions for placement are required. May be repeated for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS776": {
+    "course_id": "MUS776",
+    "title": "MUS 776 University Symphony",
+    "desc": "Symphony performs and reads music from standard orchestral literature and accompanies opera productions. Open to all university orchestral players by audition. May be repeated for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS778": {
+    "course_id": "MUS778",
+    "title": "MUS 778 University/Community Band",
+    "desc": "Traditional-style concert band which provides performance opportunities for musicians from the university and the community at large. At least one concert is presented each semester. May be repeated for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS780": {
+    "course_id": "MUS780",
+    "title": "MUS 780 Practicum in Advanced Conducting",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "A study of techniques needed to project the conductor&apos;s concept in rehearsal and performance. Participation in rehearsals under the supervision of the instructor. May involve conducting in public performance. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS781": {
+    "course_id": "MUS781",
+    "title": "MUS 781 Score Reading and Analysis",
+    "desc": "Analysis of scores and its application to conducting. Development of skills in reading clefs and transpositions. Variable content course. May be repeated to a total of 6 hours when topic varies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS790": {
+    "course_id": "MUS790",
+    "title": "MUS 790 Research Project",
+    "desc": "Research in the student&apos;s major area of concentration, culminating in a written document. Topic to be chosen through consultation with the student&apos;s major advisor. May be repeated for credit. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS792": {
+    "course_id": "MUS792",
+    "title": "MUS 792 Accompanying",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Development of skills in accompanying for pianists. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS793": {
+    "course_id": "MUS793",
+    "title": "MUS 793 Opera Workshop",
+    "desc": "Preparation and production of opera as it pertains to singing actors and ensembles. May be repeated for credit. Only 8 hours of ensembles can be counted toward a degree. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS797": {
+    "course_id": "MUS797",
+    "title": "MUS 797 Directed Study in Pedagogy",
+    "desc": "Advanced study in special topics in pedagogy. Variable content course. May be repeated to a total of 3 hours when topic varies. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MUS798": {
+    "course_id": "MUS798",
+    "title": "MUS 798 Graduate Recital",
+    "desc": "Fulfills half of the final project requirement for concentrations in performance, pedagogy, and conducting. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MUS799": {
+    "course_id": "MUS799",
+    "title": "MUS 799 Thesis",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Selection of thesis topic, research or compositional techniques to be employed, compilation of bibliography, guidance of compilation and interpretation of data; organization and writing of study or writing of composition and description including program notes. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  }
+}

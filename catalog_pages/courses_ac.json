@@ -1,0 +1,824 @@
+{
+  "ACC109": {
+    "course_id": "ACC109",
+    "title": "ACC 109 The Accounting Cycle",
+    "desc": "Introduction to the basic accounting concepts related to the processing of transactions and preparation of an income statement and balance sheet. A student who has received credit for <span data-link='ACC201'>ACC 201</span> at the time of enrollment in <span data-link='ACC109'>ACC 109</span> will not receive credit for <span data-link='ACC109'>ACC 109</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC121": {
+    "course_id": "ACC121",
+    "title": "ACC 121 Individual Tax Return Preparation",
+    "desc": "Principles of income tax with emphasis on the preparation of returns for individual taxpayers. Attention will be given to the proper reporting of income and deduction items. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC201": {
+    "course_id": "ACC201",
+    "title": "ACC 201 Introduction to Financial Accounting",
+    "req": "<em>Prerequisite: completion of 24 hours; and MSU GPA of 2.00; and combined (MSU and transfer) GPA of 2.00; and the math general education requirement with a grade of &quot;C&quot; or better.</em>",
+    "desc": "Methods and procedures employed in financial accounting with emphasis on development and interpretation of financial statements. Credit by examination is available. A grade of &quot;B&quot; or better is required to take <span data-link='ACC301'>ACC 301</span>, 321, or 532. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC206": {
+    "course_id": "ACC206",
+    "title": "ACC 206 Accounting Choices and Methods",
+    "req": "<em>Prerequisite: <span data-link='UHC110'>UHC 110</span>.</em>",
+    "desc": "Comprehensive and accelerated examination of alternative accounting models, including electronic spreadsheet models, and their uses. Replaces <span data-link='ACC201'>ACC 201</span> and 211 for Honors College students. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='ACC311'>ACC 311</span>. A grade of &quot;B&quot; or better is required in this course in order to take <span data-link='ACC301'>ACC 301</span> or <span data-link='ACC321'>ACC 321</span> or <span data-link='ACC532'>ACC 532</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC209": {
+    "course_id": "ACC209",
+    "title": "ACC 209 Accounting Applications for Microcomputers",
+    "desc": "Use of the microcomputer and electronic spreadsheets to master the basic accounting cycle. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC211": {
+    "course_id": "ACC211",
+    "title": "ACC 211 Introduction to Managerial Accounting",
+    "req": "<em>Prerequisite: <span data-link='ACC201'>ACC 201</span>; and <span data-link='CIS201'>CIS 201</span> or concurrent enrollment.</em>",
+    "desc": "Methods and procedures employed in managerial accounting with emphasis on the use of accounting data for decision making. At least one spreadsheet project will be assigned. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='ACC311'>ACC 311</span>. A grade of &quot;B&quot; or better is required in this course in order to take <span data-link='ACC301'>ACC 301</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC297": {
+    "course_id": "ACC297",
+    "title": "ACC 297 Topics in Accounting",
+    "desc": "A variable content course with topics that can change from semester to semester. Topics are identified by title in the schedule of classes. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC300": {
+    "course_id": "ACC300",
+    "title": "ACC 300 Professionalism in Accountancy",
+    "req": "<em>Prerequisite: grade of &quot;B&quot; or better in <span data-link='ACC201'>ACC 201</span> and <span data-link='ACC211'>ACC 211</span>, or grade of &quot;B&quot; or better in <span data-link='ACC206'>ACC 206</span>, or grade of &quot;B&quot; or better in <span data-link='ACC600'>ACC 600</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Cases (including written and oral presentations) will focus on ethical and regulatory issues in accounting. Students will focus on professional behavior appropriate for accounting professionals. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='ACC302'>ACC 302</span> and <span data-link='ACC341'>ACC 341</span>. Research assignments are required. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC301": {
+    "course_id": "ACC301",
+    "title": "ACC 301 Intermediate Accounting I",
+    "req": "<em>Prerequisite: grade of &quot;B&quot; or better in <span data-link='ACC201'>ACC 201</span> and <span data-link='ACC211'>ACC 211</span> or grade of &quot;B&quot; or better in <span data-link='ACC206'>ACC 206</span> or <span data-link='ACC600'>ACC 600</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Financial Accounting Theory applications to the accounting process of corporations. Review of financial statements; accounting for current and long-term assets. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='ACC302'>ACC 302</span>, 341, 553, or 653. Cannot be taken Pass/Not Pass. Research assignments are required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC302": {
+    "course_id": "ACC302",
+    "title": "ACC 302 Intermediate Accounting II",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC300'>ACC 300</span> and <span data-link='ACC301'>ACC 301</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Continuation of intermediate accounting. Accounting for liabilities and equity. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='ACC504'>ACC 504</span>, 604, 506, 606, 553, or 653. Cannot be taken Pass/Not Pass. Research assignments are required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC311": {
+    "course_id": "ACC311",
+    "title": "ACC 311 Managerial Cost Accounting",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in one of <span data-link='ACC211'>ACC 211</span> or <span data-link='ACC206'>ACC 206</span> or <span data-link='ACC600'>ACC 600</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Function of cost accounting; means and methods of its applications in specific accounting situations. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='ACC513'>ACC 513</span>, 613, 553, or 653. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC321": {
+    "course_id": "ACC321",
+    "title": "ACC 321 Tax Accounting I",
+    "req": "<em>Prerequisite: grade of &quot;B&quot; or better in one of <span data-link='ACC201'>ACC 201</span> or <span data-link='ACC206'>ACC 206</span> or <span data-link='ACC600'>ACC 600</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Principles of income tax accounting; current laws and income tax problems of individuals. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='ACC524'>ACC 524</span>, 624, 525, 625, 553 or 653. Cannot be taken Pass/Not Pass. Research assignments are required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC341": {
+    "course_id": "ACC341",
+    "title": "ACC 341 Accounting and Management Information Systems",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC300'>ACC 300</span> and <span data-link='ACC301'>ACC 301</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Accounting system examined as a crucial base for the desired comprehensive management information system of an organization. Impact of the computer on accounting systems controls and the auditing of EDP based accounting systems. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='ACC553'>ACC 553</span> OR 653. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC394": {
+    "course_id": "ACC394",
+    "title": "ACC 394 Cooperative Education in Accounting",
+    "req": "<em>Prerequisite: permission of the School of Accountancy Director; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "The opportunity to earn academic credit in a planned learning process that integrates academic training with a supervised work experience. This is a variable content course that may be repeated to a total of 6 semester hours in Cooperative Education. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC397": {
+    "course_id": "ACC397",
+    "title": "ACC 397 Topics in Accounting",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A variable content course with topics that can change from semester to semester. Topics are identified by title in the schedule of classes. Examples are: inflation accounting, management advisory services, public utility accounting, financial reporting to regulatory agencies. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC421": {
+    "course_id": "ACC421",
+    "title": "ACC 421 Volunteer Income Tax Assistance VITA",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC321'>ACC 321</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Field work in the preparation of individual income tax return (state and federal) covering topics of gross income, deductions and credits. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ACC422": {
+    "course_id": "ACC422",
+    "title": "ACC 422 Advanced Volunteer Income Tax Assistance VITA",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Experience in the planning and scheduling of the VITA program and provides final review of actual income tax returns prepared under field conditions. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ACC494": {
+    "course_id": "ACC494",
+    "title": "ACC 494 Internship in Accounting",
+    "req": "<em>Prerequisite: 20 hours of accounting courses and permission of the School of Accountancy Director; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Internship experience in an organization emphasizing public, managerial or not-for-profit accounting. ",
+    "hours": {
+      "credit": 5,
+      "lab": 10
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC496": {
+    "course_id": "ACC496",
+    "title": "ACC 496 Readings in Business Administration-Accounting",
+    "req": "<em>Prerequisite: permission of the School of Accountancy Director; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Planned readings designed to intensify and supplement the area of accounting. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC504": {
+    "course_id": "ACC504",
+    "title": "ACC 504 Advanced Accounting",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC302'>ACC 302</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Study of accounting for pensions, deferred taxes, business combinations, partnerships, and certain multicurrency accounting issues. May be taught concurrently with <span data-link='ACC604'>ACC 604</span>. Cannot receive credit for both <span data-link='ACC604'>ACC 604</span> and <span data-link='ACC504'>ACC 504</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC506": {
+    "course_id": "ACC506",
+    "title": "ACC 506 International Accounting",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC302'>ACC 302</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Accounting practices in different nations; multi-national corporation and selected accounting problems. May be taught concurrently with <span data-link='ACC606'>ACC 606</span>. Cannot receive credit for both <span data-link='ACC506'>ACC 506</span> and <span data-link='ACC606'>ACC 606</span>. Research assignments are required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC513": {
+    "course_id": "ACC513",
+    "title": "ACC 513 Managerial Cost Accounting II",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC311'>ACC 311</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A continuation of the topics examined in <span data-link='ACC311'>ACC 311</span>. Specific topics covered include activity-based costing, strategic cost management, activity- and strategic-based responsibility accounting, quality costing, measurement and control of productivity, environmental cost management, cost-volume-profit analysis, activity resource usage, relevant costing, pricing and profitability analysis, capital investment decisions, and inventory management topics such as economic order quantity, just-in-time, and the theory of constraints. May be taught concurrently with <span data-link='ACC613'>ACC 613</span>. Cannot receive credit for both <span data-link='ACC513'>ACC 513</span> and <span data-link='ACC613'>ACC 613</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ACC524": {
+    "course_id": "ACC524",
+    "title": "ACC 524 Tax Accounting II",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC321'>ACC 321</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Principles of federal tax accounting; research in income tax problems of partnerships and corporations; estate and gift tax problems of individuals. May be taught concurrently with <span data-link='ACC624'>ACC 624</span>. Cannot receive credit for both <span data-link='ACC524'>ACC 524</span> and <span data-link='ACC624'>ACC 624</span>. Research assignments are required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC525": {
+    "course_id": "ACC525",
+    "title": "ACC 525 Individual Income Tax Assistance",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC321'>ACC 321</span>; and permission of instructor; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "To provide undergraduate/graduate students with an opportunity to integrate intermediate tax accounting skills, critical thinking skills, communication skills, and research skills with community service. This course provides service-learning experience in the preparation and review of actual individual income tax returns (both federal and state) as well as the social and ethical issues inherent in US tax policy. May be taught concurrently with <span data-link='ACC625'>ACC 625</span>. Cannot receive credit for both <span data-link='ACC525'>ACC 525</span> and <span data-link='ACC625'>ACC 625</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ACC532": {
+    "course_id": "ACC532",
+    "title": "ACC 532 Governmental and Not-For-Profit Organizational Accounting",
+    "req": "<em>Prerequisite: 75 hours; and a grade of &quot;C&quot; or better in <span data-link='ACC301'>ACC 301</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Governmental and not-for-profit organizational accounting records and funds, budgeting, budget control, analysis and interpretation of financial statements. May be taught concurrently with <span data-link='ACC632'>ACC 632</span>. Cannot receive credit for both <span data-link='ACC532'>ACC 532</span> and <span data-link='ACC632'>ACC 632</span>. Research assignments are required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC553": {
+    "course_id": "ACC553",
+    "title": "ACC 553 Auditing",
+    "req": "<em>Prerequisite: grades of &quot;C&quot; or better in <span data-link='ACC300'>ACC 300</span> and <span data-link='ACC301'>ACC 301</span> and <span data-link='ACC302'>ACC 302</span> and <span data-link='ACC311'>ACC 311</span> and <span data-link='ACC321'>ACC 321</span> and <span data-link='ACC341'>ACC 341</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Kinds of audits, the duties and obligations of the auditor, principles and procedures to be followed in conducting an audit. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='ACC703'>ACC 703</span>, 750, 751, 752, 754 and 790. This course has a required assessment component. Cannot be taken Pass/Not Pass. May be taught concurrently with <span data-link='ACC653'>ACC 653</span>. Cannot receive credit for both <span data-link='ACC553'>ACC 553</span> and <span data-link='ACC653'>ACC 653</span>. Research assignments are required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC555": {
+    "course_id": "ACC555",
+    "title": "ACC 555 Internal Auditing",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC341'>ACC 341</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Functions of internal audit, financial audit, and operations audit; importance of the changing professional status of the internal auditor. May be taught concurrently with <span data-link='ACC655'>ACC 655</span>. Cannot receive credit for both <span data-link='ACC655'>ACC 655</span> and <span data-link='ACC555'>ACC 555</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC556": {
+    "course_id": "ACC556",
+    "title": "ACC 556 Operational Auditing",
+    "req": "<em>Prerequisite: 60 hours; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Primarily a case study approach covering nonfinancial audits of efficient and effective resource utilization, accomplishment of operational goals, adherence to laws and regulations, fraud prevention and detection, integrity and security of computer systems, and achievement of program goals. May be taught concurrently with <span data-link='ACC656'>ACC 656</span>. Cannot receive credit for both <span data-link='ACC656'>ACC 656</span> and <span data-link='ACC556'>ACC 556</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC596": {
+    "course_id": "ACC596",
+    "title": "ACC 596 Research Issues and Problems: Accounting",
+    "req": "<em>Prerequisite: 60 hours and permission of the School of Accountancy Director; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Research issues and projects growing from particular needs which may require additional depth or breadth of study. Outline of study must be approved prior to enrolling. May be repeated to a total of 3 hours. May be taught concurrently with <span data-link='ACC695'>ACC 695</span>. Cannot receive credit for both <span data-link='ACC695'>ACC 695</span> and <span data-link='ACC596'>ACC 596</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC600": {
+    "course_id": "ACC600",
+    "title": "ACC 600 Accounting Concepts for Managers",
+    "req": "<em>Prerequisite: permission of a director of a College of Business graduate program or the director of the MS in Administrative Studies program.</em>",
+    "desc": "Comprehensive study of the fundamentals of financial and managerial accounting. Designed for graduate students who have not had an undergraduate course in accounting. Will not be counted in the hours required for a College of Business graduate degree. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC604": {
+    "course_id": "ACC604",
+    "title": "ACC 604 Advanced Accounting",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC302'>ACC 302</span>; and admitted to the MAcc Program.</em>",
+    "desc": "Study of accounting for pensions, deferred taxes, business combinations, partnerships, and certain multicurrency accounting issues. May be taught concurrently with <span data-link='ACC504'>ACC 504</span>. Cannot receive credit for both <span data-link='ACC504'>ACC 504</span> and <span data-link='ACC604'>ACC 604</span>. Research assignments are required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC606": {
+    "course_id": "ACC606",
+    "title": "ACC 606 International Accounting",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC302'>ACC 302</span>; and admitted to the MAcc Program.</em>",
+    "desc": "Accounting practices in different nations; multi-national corporation and selected accounting problems. May be taught concurrently with <span data-link='ACC506'>ACC 506</span>. Cannot receive credit for both <span data-link='ACC506'>ACC 506</span> and <span data-link='ACC606'>ACC 606</span>. Research assignments are required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC613": {
+    "course_id": "ACC613",
+    "title": "ACC 613 Managerial Cost Accounting II",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC311'>ACC 311</span> and admitted to the MAcc Program.</em>",
+    "desc": "A continuation of the topics examined in <span data-link='ACC311'>ACC 311</span>. Specific topics covered include activity-based costing, strategic cost management, activity- and strategic-based responsibility accounting, quality costing, measurement and control of productivity, environmental cost management, cost-volume-profit analysis, activity resource usage, relevant costing, pricing and profitability analysis, capital investment decisions, and inventory management topics such as economic order quantity, just-in-time, and the theory of constraints. May be taught concurrently with <span data-link='ACC513'>ACC 513</span>. Cannot receive credit for both <span data-link='ACC513'>ACC 513</span> and <span data-link='ACC613'>ACC 613</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ACC624": {
+    "course_id": "ACC624",
+    "title": "ACC 624 Tax Accounting II",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC321'>ACC 321</span>; and admitted to the MAcc Program.</em>",
+    "desc": "Principles of federal tax accounting; research in income tax problems of partnerships and corporations; estate and gift tax problems of individuals. May be taught concurrently with <span data-link='ACC524'>ACC 524</span>. Cannot receive credit for both <span data-link='ACC524'>ACC 524</span> and <span data-link='ACC624'>ACC 624</span>. Research assignments are required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC625": {
+    "course_id": "ACC625",
+    "title": "ACC 625 Individual Income Tax Assistance",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC321'>ACC 321</span>; and permission of instructor; and admitted to the MAcc Program.</em>",
+    "desc": "To provide students with an opportunity to integrate intermediate tax accounting skills, critical thinking skills, communication skills, and research skills with community service. This course provides service-learning experience in the preparation and review of actual individual income tax returns (both federal and state) as well as the social and ethical issues inherent in US tax policy. May be taught concurrently with <span data-link='ACC525'>ACC 525</span>. Cannot receive credit for both <span data-link='ACC525'>ACC 525</span> and <span data-link='ACC625'>ACC 625</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ACC632": {
+    "course_id": "ACC632",
+    "title": "ACC 632 Governmental and Not-For-Profit Organizational Accounting",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC301'>ACC 301</span>; and admitted to the MAcc Program.</em>",
+    "desc": "Governmental and not-for-profit organizational accounting records and funds, budgeting, budget control, analysis and interpretation of financial statements. May be taught concurrently with <span data-link='ACC532'>ACC 532</span>. Cannot receive credit for both <span data-link='ACC532'>ACC 532</span> and <span data-link='ACC632'>ACC 632</span>. Research assignments are required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC653": {
+    "course_id": "ACC653",
+    "title": "ACC 653 Auditing",
+    "req": "<em>Prerequisite: grades of &quot;C&quot; or better in <span data-link='ACC300'>ACC 300</span> and <span data-link='ACC301'>ACC 301</span> and <span data-link='ACC302'>ACC 302</span> and <span data-link='ACC311'>ACC 311</span> and <span data-link='ACC321'>ACC 321</span> and <span data-link='ACC341'>ACC 341</span>; and admitted to the MAcc Program.</em>",
+    "desc": "Kinds of audits, the duties and obligations of the auditor, principles and procedures to be followed in conducting an audit. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='ACC703'>ACC 703</span>, 750, 751, 752, 754 and 790. This course has a required assessment component. May be taught concurrently with <span data-link='ACC553'>ACC 553</span>. Cannot receive credit for both <span data-link='ACC553'>ACC 553</span> and <span data-link='ACC653'>ACC 653</span>. Research assignments are required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC655": {
+    "course_id": "ACC655",
+    "title": "ACC 655 Internal Auditing",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC341'>ACC 341</span>; and admitted to the MAcc Program.</em>",
+    "desc": "Functions of internal audit, financial audit, and operations audit; importance of the changing professional status of the internal auditor. May be taught concurrently with <span data-link='ACC555'>ACC 555</span>. Cannot receive credit for both <span data-link='ACC555'>ACC 555</span> and <span data-link='ACC655'>ACC 655</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC656": {
+    "course_id": "ACC656",
+    "title": "ACC 656 Operational Auditing",
+    "req": "<em>Prerequisite: admitted to MAcc Program.</em>",
+    "desc": "Primarily a case study approach covering nonfinancial audits of efficient and effective resource utilization, accomplishment of operational goals, adherence to laws and regulations, fraud prevention and detection, integrity and security of computer systems, and achievement of program goals. May be taught concurrently with <span data-link='ACC556'>ACC 556</span>. Cannot receive credit for both <span data-link='ACC556'>ACC 556</span> and <span data-link='ACC656'>ACC 656</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC688": {
+    "course_id": "ACC688",
+    "title": "ACC 688 Healthcare Accounting Concepts",
+    "desc": "The role of accounting in the financial and operational management of healthcare organizations is approached via an introduction to healthcare financial and managerial accounting principles. This course addresses the definition of financial accounting; external reporting; development and use of the income statement, balance sheet and statement of cash flows. The course also addresses the managerial accounting topics of cost behavior and allocation; accounting data for pricing and service decisions; planning and budgeting in healthcare organizations; analysis of financial condition; and selected topics in ethics. The course is a core requirement for Master of Health Administration students and may be of interest to students in other graduate programs. Note that <span data-link='ACC688'>ACC 688</span> cannot be substituted for <span data-link='ACC711'>ACC 711</span> in the MBA program and cannot be counted in the 33 semester hours required for the MAcc degree. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "ACC695": {
+    "course_id": "ACC695",
+    "title": "ACC 695 Research Issues and Problems: Accounting",
+    "req": "<em>Prerequisite: permission of the School of Accountancy Director; and admitted to the MAcc Program.</em>",
+    "desc": "Research issues and projects growing from particular needs which may require additional depth or breadth of study. Outline of study must be approved prior to enrolling. May be repeated to a total of 3 hours. May be taught concurrently with <span data-link='ACC596'>ACC 596</span>. Cannot receive credit for both <span data-link='ACC596'>ACC 596</span> and <span data-link='ACC695'>ACC 695</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC703": {
+    "course_id": "ACC703",
+    "title": "ACC 703 Seminar in Accounting Theory",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC653'>ACC 653</span> or <span data-link='ACC553'>ACC 553</span>; and grade of &quot;C&quot; or better in <span data-link='ACC604'>ACC 604</span> or <span data-link='ACC504'>ACC 504</span>; and admitted to the MAcc Program.</em>",
+    "desc": "Critical evaluation and interpretation of accounting theory. Completion of a significant research project. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC705": {
+    "course_id": "ACC705",
+    "title": "ACC 705 Advanced Financial Accounting Problems",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC302'>ACC 302</span>; and grade of &quot;C&quot; or better in <span data-link='ACC504'>ACC 504</span> or <span data-link='ACC604'>ACC 604</span>; and admitted to MAcc program.</em>",
+    "desc": "An in-depth study of contemporary advanced financial accounting topics for professional accountants. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC711": {
+    "course_id": "ACC711",
+    "title": "ACC 711 Managerial Accounting",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC211'>ACC 211</span> or <span data-link='ACC206'>ACC 206</span> or <span data-link='ACC600'>ACC 600</span>; and admitted to MBA or MHA program.</em>",
+    "desc": "Role of accounting in improving the practice of business management; budgeting, accounting analysis, the behavior of costs, accounting control. This course will not be counted in the 33 semester hours required for the MACC degree. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC712": {
+    "course_id": "ACC712",
+    "title": "ACC 712 Controllership and Communication",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC311'>ACC 311</span> or in <span data-link='ACC711'>ACC 711</span>; and admitted to the MAcc Program.</em>",
+    "desc": "An in-depth examination of the leadership and communication challenges associated with being a controller and/or professional accountant. The written and oral communication skills required for success as a professional accountant will be developed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ACC715": {
+    "course_id": "ACC715",
+    "title": "ACC 715 Advanced Cost Accounting",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC613'>ACC 613</span> or in <span data-link='ACC513'>ACC 513</span>; and admitted to the MAcc Program.</em>",
+    "desc": "An in-depth study of contemporary topics for cost accountants. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ACC721": {
+    "course_id": "ACC721",
+    "title": "ACC 721 Advanced Tax Accounting",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC321'>ACC 321</span>; and grade of &quot;C&quot; or better in <span data-link='ACC624'>ACC 624</span> or in <span data-link='ACC524'>ACC 524</span>; and admitted to MAcc program.</em>",
+    "desc": "Case study approach to develop tax research, analytical, and communication skills. Incorporated into the case studies are ethical and legal constraints within which tax practitioners are obligated to operate. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ACC722": {
+    "course_id": "ACC722",
+    "title": "ACC 722 Public Service Tax Accounting",
+    "req": "<em>Prerequisite: permission of instructor; and admitted to MAcc program.</em>",
+    "desc": "Students will learn theoretical foundations in public service tax accounting topics and develop skills; which will apply to practical situations that will help students be better citizens and employees. Students will assist low-income, elderly, and English as Second Language taxpayers in the community in identifying and meeting their tax rights and responsibilities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ACC723": {
+    "course_id": "ACC723",
+    "title": "ACC 723 Tax Considerations for Decision Makers",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC624'>ACC 624</span> or in <span data-link='ACC524'>ACC 524</span>; and admitted to MAcc program.</em>",
+    "desc": "Tax course with emphasis on recognizing and understanding the importance of tax considerations in the process of making decisions in business and personal matters; developing a tax institution to anticipate and understand the effect of prospective tax law changes; examining U.S. tax policy issues; and motivating students to a lifetime of learning by engaging them in independent study. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ACC726": {
+    "course_id": "ACC726",
+    "title": "ACC 726 Regulation Issues for Accountants",
+    "req": "<em>Prerequisite: <span data-link='ACC624'>ACC 624</span> or <span data-link='ACC524'>ACC 524</span>; and admitted to the MAcc program.</em>",
+    "desc": "The course is designed to provide students with a focused intensive study of regulation issues particularly relevant to professional accountants. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ACC731": {
+    "course_id": "ACC731",
+    "title": "ACC 731 Control of Non-Profit Organizations",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC311'>ACC 311</span> or in <span data-link='ACC711'>ACC 711</span>; and admitted to MAcc program.</em>",
+    "desc": "Case study approach to financial control in non-profit organizations. Special emphasis is on governmental and health care organizations, although other non-profit organizations are also studied. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC741": {
+    "course_id": "ACC741",
+    "title": "ACC 741 Advanced Accounting and Management Information Systems",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC341'>ACC 341</span>; and admitted to MAcc program.</em>",
+    "desc": "Application of the concepts of systems design and implementation. Study of the attributes of accounting information systems and their relationship with management information systems. Functions of accounting information systems including data collection and transmission, internal controls, data organizations and storage, processing data, and information retrieval and display. Characteristics and applications of both manual and automated information systems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ACC750": {
+    "course_id": "ACC750",
+    "title": "ACC 750 Advanced Auditing",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC653'>ACC 653</span> or in <span data-link='ACC553'>ACC 553</span>; and admitted to MAcc program.</em>",
+    "desc": "An in-depth study of contemporary topics for auditing professionals. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC751": {
+    "course_id": "ACC751",
+    "title": "ACC 751 Computer Forensics and IT Auditing",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC653'>ACC 653</span> or in <span data-link='ACC553'>ACC 553</span>; and admitted to MAcc program.</em>",
+    "desc": "A study of information systems controls; auditing around, through, and with the computer; auditing advanced computer systems, spreadsheets and other fourth generation language applications. Hands-on computer auditing projects will be integrated into the course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ACC752": {
+    "course_id": "ACC752",
+    "title": "ACC 752 Fraud Examination",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC653'>ACC 653</span> or in <span data-link='ACC553'>ACC 553</span>; and admitted to MAcc program.</em>",
+    "desc": "An in-depth study of the fraud examination process, including fraud prevention, detection, investigation, and management and employee fraud, and the legal aspects of fraud. Case studies are used extensively throughout the course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC754": {
+    "course_id": "ACC754",
+    "title": "ACC 754 Forensic Accounting: Litigation Support and Expert Witnessing",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC653'>ACC 653</span> or <span data-link='ACC553'>ACC 553</span>; and admitted to MAcc program.</em>",
+    "desc": "This course explores one of the major areas of practice in forensic accounting. The course provides an in-depth investigation into the world of accounting litigation support and financial expert witnessing. The course requires students to actively participate in case analysis, development of expert reports, deposition testimony, and trial testimony. Students are exposed to the legal issues that impact on their role as an expert witness. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC762": {
+    "course_id": "ACC762",
+    "title": "ACC 762 Business and Accounting Concepts for Accountants",
+    "req": "<em>Prerequisite: admitted to the MAcc program.</em>",
+    "desc": "The course is designed to provide students with a focused, intensive study of business and accounting concepts particularly relevant to professional accountants. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ACC790": {
+    "course_id": "ACC790",
+    "title": "ACC 790 Seminar in Accounting",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='ACC653'>ACC 653</span> or <span data-link='ACC553'>ACC 553</span>; and admitted to MAcc program.</em>",
+    "desc": "Critical evaluation and interpretation of the current research and professional literature in accounting. Study of ethical and institutional features of the accounting environment. Completion of a significant research project. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ACC794": {
+    "course_id": "ACC794",
+    "title": "ACC 794 Internship: Accounting",
+    "req": "<em>Prerequisite: 12 graduate hours of accounting courses; and permission of instructor; and admitted to MAcc program.</em>",
+    "desc": "In consultation with the coordinating professor, the student is engaged in first-hand experience with a business, organization, or other professional entity. A portfolio of assigned work shall be collected, examined, and evaluated during the semester. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC796": {
+    "course_id": "ACC796",
+    "title": "ACC 796 Independent Study-Accounting",
+    "req": "<em>Prerequisite: permission of instructor; and admitted to the MAcc program.</em>",
+    "desc": "In consultation with coordinating professor, student selects for intensive study of a specific area of concern related to the student&apos;s program, with emphasis on research. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC797": {
+    "course_id": "ACC797",
+    "title": "ACC 797 Special Topics in Accounting",
+    "req": "<em>Prerequisite: 9 graduate hours of accounting courses; and admitted to the MAcc program.</em>",
+    "desc": "In-depth study of contemporary topics in accounting. Each offering concerns a single topic. May be repeated with departmental permission to a total of 9 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ACC799": {
+    "course_id": "ACC799",
+    "title": "ACC 799 Thesis",
+    "req": "<em>Prerequisite: permission of instructor; and admitted to the MAcc program.</em>",
+    "desc": "Independent research and study connected with preparation of thesis. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

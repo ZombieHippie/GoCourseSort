@@ -1,0 +1,1943 @@
+{
+  "DAN125": {
+    "course_id": "DAN125",
+    "title": "DAN 125 Tap Dance I",
+    "desc": "Basic elements of tap dance, stylized steps and terminology coordinated with the rhythmic structure of tap dance. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DAN130": {
+    "course_id": "DAN130",
+    "title": "DAN 130 Dance Fundamentals I",
+    "desc": "First course in the fundamentals of classical ballet and modern dance techniques, with an emphasis on alignment and basic movement vocabulary. Designed for students with little or no experience. First course in a two-semester module. Variable content course. May be repeated to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DAN131": {
+    "course_id": "DAN131",
+    "title": "DAN 131 Dance Fundamentals II",
+    "desc": "Second course in the fundamentals of classical ballet and modern dance techniques, with an emphasis on alignment and basic movement vocabulary. Designed for students with little or no dance experience. Variable content course. May be repeated for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DAN146": {
+    "course_id": "DAN146",
+    "title": "DAN 146 Jazz Dance I-B",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Continues development of the basic fundamentals of jazz dance technique and vocabulary. Designed for students with at least one year of formal dance training. May be repeated to a total of 4 hours. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DAN180": {
+    "course_id": "DAN180",
+    "title": "DAN 180 Introduction to the Dance",
+    "req": "<em>General Education Course (Focus on the Arts).</em>",
+    "desc": "Survey of dance from a historical retrospective through the creative process. Emphasis will be placed on historical multi-cultural and societal influences on dance. The approach will be from the viewpoint of the audience to help heighten awareness of and increase critical thinking in relationship to the artistic experience. Buying tickets to and attendance at local productions required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DAN216": {
+    "course_id": "DAN216",
+    "title": "DAN 216 Elementary Modern Dance",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Explores elements of modern dance technique. Designed for students with at least one year of formal dance training. Variable content course. May be repeated to a total of 12 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DAN225": {
+    "course_id": "DAN225",
+    "title": "DAN 225 Tap Dance II",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Elementary tap dance technique and vocabulary. Variable content course. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DAN230": {
+    "course_id": "DAN230",
+    "title": "DAN 230 Elementary Ballet",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Elementary classical ballet technique and vocabulary. This course is designed for students with at least one to two years of formal and consistent ballet training. Variable content course. May be repeated to a total of 12 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DAN235": {
+    "course_id": "DAN235",
+    "title": "DAN 235 Mens Dance Technique I",
+    "req": "<em>Prerequisite: <span data-link='DAN216'>DAN 216</span> and <span data-link='DAN230'>DAN 230</span>.</em>",
+    "desc": "Basic techniques for the male dancer. Emphasis will be on strength building and developing the male dancer&apos;s technique and style. Variable content course. May be repeated to a total of 4 hours. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DAN245": {
+    "course_id": "DAN245",
+    "title": "DAN 245 Elementary Jazz Dance",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Continues development of jazz dance technique and vocabulary. Elementary level technique designed for students with at least one year of formal dance training. Variable content course. May be repeated to a total of 12 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DAN316": {
+    "course_id": "DAN316",
+    "title": "DAN 316 Intermediate Modern Dance",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Intermediate level modern dance technique. Variable content course. May be repeated to a total of 12 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DAN319": {
+    "course_id": "DAN319",
+    "title": "DAN 319 Contact Improvisation",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Contemporary dance improvisation that explores sharing weight, rolling, lifting, flying and finding one&apos;s center. Dancers will explore and focus on specific relationships in partnering. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DAN320": {
+    "course_id": "DAN320",
+    "title": "DAN 320 Dance Composition I: Improvisation and Solo Forms",
+    "req": "<em>Prerequisite: <span data-link='DAN216'>DAN 216</span>.</em>",
+    "desc": "Contemporary dance improvisation techniques, and creative approaches to development of basic movement themes and simple and complex manipulations of those themes. The first course in the Dance Composition Series. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DAN323": {
+    "course_id": "DAN323",
+    "title": "DAN 323 Musical Theatre Styles",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Students will continue to refine performance techniques as related to historical trends in choreography and staging for American Musical Theatre. A minimum of three production numbers featuring either original Broadway choreography or choreography devised by the instructor will be taught and performed during the semester. Students will also have the opportunity to sing or act, or both, as is appropriate to the numbers that are mastered. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DAN325": {
+    "course_id": "DAN325",
+    "title": "DAN 325 Tap Dance III",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Continues development of intermediate level tap dance technique and vocabulary. Variable content course. May be repeated to a total of 3 hours. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DAN330": {
+    "course_id": "DAN330",
+    "title": "DAN 330 Intermediate Ballet",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Intermediate level ballet technique. Variable content course. May be repeated to a total of 12 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DAN335": {
+    "course_id": "DAN335",
+    "title": "DAN 335 Mens Dance Technique II",
+    "req": "<em>Prerequisite: <span data-link='DAN235'>DAN 235</span>.</em>",
+    "desc": "Continued techniques for the male dancer. Emphasis will be on strength building and developing the male dancer&apos;s technique and style. Variable content course. May be repeated to a total of 4 hours. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DAN345": {
+    "course_id": "DAN345",
+    "title": "DAN 345 Intermediate Jazz Dance",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Intermediate level jazz dance techniques. Variable content course. May be repeated to a total of 12 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DAN348": {
+    "course_id": "DAN348",
+    "title": "DAN 348 Partnering",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Basic and elementary techniques of classical and contemporary partnering. Variable content course. May be repeated to a total of 4 hours. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DAN364": {
+    "course_id": "DAN364",
+    "title": "DAN 364 Applied Kinesiology for the Dancer",
+    "req": "<em>Prerequisite: <span data-link='KIN250'>KIN 250</span>.</em>",
+    "desc": "The specific study of dance techniques through the principles of motion, muscle action and joint mechanics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DAN390": {
+    "course_id": "DAN390",
+    "title": "DAN 390 Service Learning in Dance",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a DAN course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in Dance to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DAN416": {
+    "course_id": "DAN416",
+    "title": "DAN 416 Advanced Modern Dance",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Advanced level modern dance technique. Variable content course. May be repeated to a total of 12 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DAN420": {
+    "course_id": "DAN420",
+    "title": "DAN 420 Dance Composition II: Small Group Forms",
+    "req": "<em>Prerequisite: <span data-link='DAN320'>DAN 320</span>.</em>",
+    "desc": "Choreographic techniques that explore creative approaches to the development and manipulation of movement themes. Emphasis on small group studies that explore space, time and energy. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DAN430": {
+    "course_id": "DAN430",
+    "title": "DAN 430 Advanced Ballet",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Advanced level ballet technique. Variable content course. May be repeated to a total of 12 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DAN445": {
+    "course_id": "DAN445",
+    "title": "DAN 445 Advanced Jazz Dance",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Advanced level jazz dance techniques. Variable content course. May be repeated to a total of 12 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DAN482": {
+    "course_id": "DAN482",
+    "title": "DAN 482 Senior Project in Dance",
+    "req": "<em>Prerequisite: permission of instructor and 90 hours.</em>",
+    "desc": "Public presentation of performance or paper to demonstrate the student&apos;s mastery of the skills received during the completion of the major. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DAN492": {
+    "course_id": "DAN492",
+    "title": "DAN 492 Senior BFA Review",
+    "req": "<em>Prerequisite: permission of BFA coordinator.</em>",
+    "desc": "Public presentation of portfolio, project, or performance to demonstrate the student&apos;s mastery of the skills developed during the major. Required of all BFA Dance majors. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DAN496": {
+    "course_id": "DAN496",
+    "title": "DAN 496 Readings",
+    "req": "<em>Prerequisite: permission of dance area coordinator.</em>",
+    "desc": "Individual experimental or research studies in dance. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DAN497": {
+    "course_id": "DAN497",
+    "title": "DAN 497 Topics",
+    "req": "<em>Prerequisite: permission of instructor or course supervisor.</em>",
+    "desc": "Group creative or special topics in dance. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DAN499": {
+    "course_id": "DAN499",
+    "title": "DAN 499 Projects",
+    "req": "<em>Prerequisite: permission of dance area coordinator.</em>",
+    "desc": "Supervised individual creative projects in dance. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DAN520": {
+    "course_id": "DAN520",
+    "title": "DAN 520 Choreography and Production",
+    "req": "<em>Prerequisite: <span data-link='DAN420'>DAN 420</span> and <span data-link='THE150'>THE 150</span>.</em>",
+    "desc": "Choreographing and directing a large group composition that will culminate with a performance on stage. Students will explore aspects of staging a complete work that will include the creation of original theme, casting of performers, choices of accompaniment, and lighting and costume design. Management of technical, business and artistic procedures involved in producing and staging dance productions. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DAN530": {
+    "course_id": "DAN530",
+    "title": "DAN 530 Pointe",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Pointe technique that focuses on stability, correct alignment of the feet and use of turn-out. At least one classical variation will be taught. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DAN552": {
+    "course_id": "DAN552",
+    "title": "DAN 552 Dance History Seminar",
+    "req": "<em>Prerequisite: 60 hours and <span data-link='DAN180'>DAN 180</span> and Writing II.</em>",
+    "desc": "Overview of the history of dance from the 20th century to the present. The primary focus will be on the development of modern/contemporary dance. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DAN565": {
+    "course_id": "DAN565",
+    "title": "DAN 565 Dance Pedagogy",
+    "req": "<em>Prerequisite: 45 hours and <span data-link='DAN316'>DAN 316</span> and <span data-link='DAN330'>DAN 330</span> and <span data-link='DAN345'>DAN 345</span>.</em>",
+    "desc": "Overview of general theories and practices of teaching. This course investigates class content and various methodologies used to teach dance techniques and creative movement. Emphasis is placed on methods for teaching the beginning and elementary level student. Opportunities to develop and implement lesson plans, and to develop comprehensive training syllabi. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DAN592": {
+    "course_id": "DAN592",
+    "title": "DAN 592 Performance",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Performance laboratory for students in Dance. Focused study of dance repertory from a variety of genres. Emphasis will be placed on performance techniques as related to various styles. Variable content course. May be repeated to a total of 4 hours. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE101": {
+    "course_id": "THE101",
+    "title": "THE 101 Introduction to Theatre and Drama Arts",
+    "req": "<em>General Education Course (Focus on the Arts).</em>",
+    "desc": "The creative processes of transforming drama to stage, film and television. A study of the collaborations and contributions that the various artists make to the process. Intended to increase the audience&apos;s ability to think critically about the artistic experience. Buying tickets to and attendance at local productions required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE109": {
+    "course_id": "THE109",
+    "title": "THE 109 Performance Studies",
+    "desc": "Exploration of the social, cultural, and aesthetic aspects of performance through an examination of self and society. Course combines lecture, readings, and individual student performances of oral and literary texts. Course enrollment is limited and much one-on-one work takes place. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE121": {
+    "course_id": "THE121",
+    "title": "THE 121 Acting Studio I",
+    "req": "<em>Prerequisite: permission of instructor; and concurrent enrollment in <span data-link='THE122'>THE 122</span>; and open only to BFA Acting and Musical Theatre majors admitted through the audition process.</em>",
+    "desc": "Discovery and development of the actor&apos;s expressive behavior through improvisation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE122": {
+    "course_id": "THE122",
+    "title": "THE 122 The Tools of the Actor",
+    "desc": "An introduction to the fundamental tools of the actor: physical awareness, vocal awareness, and ensemble collaboration. Buying tickets to and attendance at local performances required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE125": {
+    "course_id": "THE125",
+    "title": "THE 125 Voice and Movement for the Stage",
+    "desc": "Exercises in physical and vocal awareness for the actor. Introductory material on anatomy, breathing, and articulation; care and maintenance of body and voice. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE130": {
+    "course_id": "THE130",
+    "title": "THE 130 Introduction to Script Analysis",
+    "desc": "Analysis of the script and its translation from page to performance through an examination of the relationships of directors, designers, performers, and audience in the rehearsal process and theatrical performance. Buying tickets to and attendance at local productions required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE150": {
+    "course_id": "THE150",
+    "title": "THE 150 Introduction to Theatre Technology",
+    "desc": "An introduction to the working relationships of designers and basic principles of costuming, lighting, and stagecraft. Buying tickets to and attendance at local productions required. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE151": {
+    "course_id": "THE151",
+    "title": "THE 151 Introduction to Theatre Technology Lab",
+    "req": "<em>Prerequisite: <span data-link='THE150'>THE 150</span> or concurrent enrollment.</em>",
+    "desc": "Practical application of the principles addressed in <span data-link='THE150'>THE 150</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE195": {
+    "course_id": "THE195",
+    "title": "THE 195 Theatre Laboratory",
+    "desc": "Supervised practical work in the theatre including both on and off stage work. Requires 50 laboratory hours; 25 must be in technical areas. May be repeated to a total of 4 hours. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE205": {
+    "course_id": "THE205",
+    "title": "THE 205 Speech for the Elementary Classroom",
+    "desc": "Speech activities in the elementary grades, correlating storytelling, choral reading, creative dramatics and speech correction. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE210": {
+    "course_id": "THE210",
+    "title": "THE 210 Writing for Theatre",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> or equivalent and 30 hours.</em>",
+    "desc": "Study and practice of the discourse conventions of writing about dramatic literature and performance from the perspective of an educated generalist in the field. Students will hone skills of research, analysis, and argumentation in order to become more skillful theatre patrons, historians, and critics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE221": {
+    "course_id": "THE221",
+    "title": "THE 221 Acting Studio II",
+    "req": "<em>Prerequisite: <span data-link='THE121'>THE 121</span>.</em>",
+    "desc": "Emphasis on finding truth in performance through various acting techniques and physicalization of text. Application of play analysis to character study. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE222": {
+    "course_id": "THE222",
+    "title": "THE 222 Acting Fundamentals",
+    "desc": "Stage techniques, basics of characterization, scene study, and auditioning. Buying tickets to and attendance at local performances required. Cannot be counted toward a BFA in Musical Theatre. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE224": {
+    "course_id": "THE224",
+    "title": "THE 224 Stage Makeup I",
+    "desc": "Laboratory course providing students with fundamentals of the art of two dimensional makeup. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE226": {
+    "course_id": "THE226",
+    "title": "THE 226 Intermediate Voice and Movement",
+    "req": "<em>Prerequisite: <span data-link='THE122'>THE 122</span> and permission of instructor.</em>",
+    "desc": "Development of dynamic physical and vocal expression of text. Exercises in breaking habitual physical and vocal patterns which inhibit emotional expression. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE228": {
+    "course_id": "THE228",
+    "title": "THE 228 Singing for the Actor",
+    "req": "<em>Prerequisite: permission of instructor; BFA Theatre/Acting option majors only; not open to Musical Theatre majors.</em>",
+    "desc": "Basic singing and music-reading techniques for actors, with approaches for building a singing repertoire. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE250": {
+    "course_id": "THE250",
+    "title": "THE 250 Stagecraft and Construction I",
+    "req": "<em>Prerequisite: <span data-link='THE150'>THE 150</span>.</em>",
+    "desc": "Working illustrations, construction, rigging, painting, and shifting of scenic units. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE251": {
+    "course_id": "THE251",
+    "title": "THE 251 Stagecraft and Construction Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='THE250'>THE 250</span>.</em>",
+    "desc": "Practical application of the principles addressed in <span data-link='THE250'>THE 250</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE255": {
+    "course_id": "THE255",
+    "title": "THE 255 Lighting Design I",
+    "req": "<em>Prerequisite: <span data-link='THE150'>THE 150</span>.</em>",
+    "desc": "Introduction to lighting design with an emphasis upon practical application. Includes a study of electrical wiring, lighting instruments, color in light, and technical lighting crew work. Study of design includes script analysis, lighting plots, and support materials. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE256": {
+    "course_id": "THE256",
+    "title": "THE 256 Lighting Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='THE255'>THE 255</span>.</em>",
+    "desc": "Practical application of the principles addressed in <span data-link='THE255'>THE 255</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE260": {
+    "course_id": "THE260",
+    "title": "THE 260 Costume Construction I",
+    "req": "<em>Prerequisite: <span data-link='THE150'>THE 150</span>.</em>",
+    "desc": "Fundamentals of costuming for the stage. A study of fabrics and construction; basic cutting and sewing techniques; costume shop organization and stage management. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE261": {
+    "course_id": "THE261",
+    "title": "THE 261 Costume Construction Lab",
+    "req": "<em>Prerequisite: <span data-link='THE260'>THE 260</span> or concurrent enrollment.</em>",
+    "desc": "Practical application of the principles addressed in <span data-link='THE260'>THE 260</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE270": {
+    "course_id": "THE270",
+    "title": "THE 270 Drawing and Rendering for Theatre I",
+    "desc": "A survey of drawing and the use of various media as applicable to theatrical design. Includes figure and perspective drawing techniques. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE271": {
+    "course_id": "THE271",
+    "title": "THE 271 Drawing and Rendering for Theatre II",
+    "req": "<em>Prerequisite: <span data-link='THE270'>THE 270</span>.</em>",
+    "desc": "A continuation of the study of drawing, including figure and perspective drawing techniques. The use of various color media as applicable to theatrical design. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE275": {
+    "course_id": "THE275",
+    "title": "THE 275 Drafting for the Stage",
+    "req": "<em>Prerequisite: <span data-link='THE150'>THE 150</span>.</em>",
+    "desc": "Basic drafting techniques and practices for theatrical applications. Study of tools, methods, and formulas used in generating designs and drawings. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE280": {
+    "course_id": "THE280",
+    "title": "THE 280 Design Seminar Design Principles",
+    "req": "<em>Prerequisite: <span data-link='THE150'>THE 150</span>.</em>",
+    "desc": "Basic principles of design as these relate to the theatre, intensive laboratory experience in theatrical design. Buying tickets to and attendance at local performances required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE281": {
+    "course_id": "THE281",
+    "title": "THE 281 Design Seminar-Lighting and Scenic Design Principles",
+    "req": "<em>Prerequisite: <span data-link='THE150'>THE 150</span>; and <span data-link='THE270'>THE 270</span> or <span data-link='THE271'>THE 271</span>.</em>",
+    "desc": "Basic principles of lighting and scenic design as these relate to the theatre. Intensive laboratory experience in theatrical design. Buying tickets to and attendance at local performances required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE292": {
+    "course_id": "THE292",
+    "title": "THE 292 BFA Review",
+    "req": "<em>Prerequisite: permission of area coordinator.</em>",
+    "desc": "Public presentation of a portfolio, a project, or a performance demonstrating the student&apos;s mastery of the skills received during the major. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE295": {
+    "course_id": "THE295",
+    "title": "THE 295 Production/Design/Stage Management Project",
+    "req": "<em>Prerequisite: permission of area coordinator.</em>",
+    "desc": "Technical or design or stage management assignment requiring an intermediate level of expertise and responsibility connected with a specific departmental production. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE306": {
+    "course_id": "THE306",
+    "title": "THE 306 Interrelated and Integrated Arts",
+    "req": "<em>Prerequisite: <span data-link='ELE302'>ELE 302</span>.</em>",
+    "desc": "Theory, methodology, and activities for teaching the arts to children, from early childhood through Grade 6. A creative experiential approach, emphasizing how the four primary art forms (drama, movement, music, and art) relate to and enhance one another and facilitate the child&apos;s learning in other content areas. Cannot receive credit for both <span data-link='THE306'>THE 306</span> and <span data-link='MUS306'>MUS 306</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE321": {
+    "course_id": "THE321",
+    "title": "THE 321 Acting Studio III",
+    "req": "<em>Prerequisite: <span data-link='THE221'>THE 221</span>.</em>",
+    "desc": "Projects in advanced characterization. May be repeated up to 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE323": {
+    "course_id": "THE323",
+    "title": "THE 323 Acting-Performance and Literature",
+    "req": "<em>Prerequisite: <span data-link='THE221'>THE 221</span> or <span data-link='THE222'>THE 222</span>.</em>",
+    "desc": "Individual and group performance of plays, prose narrative and poetry. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE324": {
+    "course_id": "THE324",
+    "title": "THE 324 Stage Makeup II",
+    "req": "<em>Prerequisite: <span data-link='THE224'>THE 224</span>.</em>",
+    "desc": "Laboratory course dealing with three-dimensional makeup. Emphasis on prosthetics of latex. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE326": {
+    "course_id": "THE326",
+    "title": "THE 326 Advanced Voice for the Actor",
+    "req": "<em>Prerequisite: <span data-link='THE226'>THE 226</span>.</em>",
+    "desc": "Introduction to scansion and its application to performing classical material. Techniques for vocal stamina. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE327": {
+    "course_id": "THE327",
+    "title": "THE 327 Advanced Movement for the Actor",
+    "req": "<em>Prerequisite: <span data-link='THE226'>THE 226</span>.</em>",
+    "desc": "Connections between characterization and physicalization in the actor&apos;s performance are explored. Designed for the student who wishes to develop bold, strong, and specific characterization-building skills. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE328": {
+    "course_id": "THE328",
+    "title": "THE 328 Stage Combat",
+    "req": "<em>Prerequisite: <span data-link='THE226'>THE 226</span>.</em>",
+    "desc": "An introduction to the techniques and terminology used in the performance of stage choreographed combat. Emphasis is placed on physical safety, proper vocalization, movement and weapon control. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true,
+      "Fall": true
+    }
+  },
+  "THE350": {
+    "course_id": "THE350",
+    "title": "THE 350 Stagecraft and Construction II",
+    "req": "<em>Prerequisite: <span data-link='THE250'>THE 250</span> and <span data-link='THE275'>THE 275</span>.</em>",
+    "desc": "Study of advanced building techniques. Work with &quot;non-conventional&quot; materials. Explore uses of mechanical stage machinery. Plan and budget productions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE354": {
+    "course_id": "THE354",
+    "title": "THE 354 Stage Management",
+    "req": "<em>Prerequisite: <span data-link='THE150'>THE 150</span>.</em>",
+    "desc": "Development of a production book and understanding of all procedures used by a stage manager from the selection of a script to the final production. The role of the stage manager is discussed for both the professional and the non-professional theatre. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE380": {
+    "course_id": "THE380",
+    "title": "THE 380 Design Seminar-Costume and Sound Design Principles",
+    "req": "<em>Prerequisite: <span data-link='THE150'>THE 150</span>.</em>",
+    "desc": "Basic principles of costume and sound design as these relate to the theatre. Intensive laboratory experience in theatrical design. Buying tickets to and attendance at local performances required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE381": {
+    "course_id": "THE381",
+    "title": "THE 381 Design Seminar-Collaborative Design Process",
+    "req": "<em>Prerequisite: <span data-link='THE280'>THE 280</span> and <span data-link='THE281'>THE 281</span> and <span data-link='THE380'>THE 380</span>.</em>",
+    "desc": "Collaboration as it relates to all areas of theatrical design. Intensive laboratory experience in theatrical design. Buying tickets to and attendance at local performances required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE382": {
+    "course_id": "THE382",
+    "title": "THE 382 Research and Concept Development",
+    "desc": "Research and dramaturgy as these apply to previsualization, design, production, and concept development for the theatre and the performing arts. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE390": {
+    "course_id": "THE390",
+    "title": "THE 390 Service Learning in Theatre",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a Theatre course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in Theatre to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE392": {
+    "course_id": "THE392",
+    "title": "THE 392 BFA Review",
+    "req": "<em>Prerequisite: permission of area coordinator.</em>",
+    "desc": "Public presentation of a portfolio, a project, or a performance demonstrating the student&apos;s mastery of the skills received during the major. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE395": {
+    "course_id": "THE395",
+    "title": "THE 395 Production/Design/Stage Management Project",
+    "req": "<em>Prerequisite: permission of area coordinator.</em>",
+    "desc": "Technical or design or stage management assignment requiring an advanced level of expertise and responsibility connected with a specific departmental production. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE412": {
+    "course_id": "THE412",
+    "title": "THE 412 Structures and Styles in Classical Drama",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Study and exploration of dramatic modes in period and stylistic material. Monologue and scenework exploring Greek, Restoration, Romantic, and other non-traditional styles. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE417": {
+    "course_id": "THE417",
+    "title": "THE 417 Teaching of Speech and Theatre",
+    "req": "<em>Prerequisite: <span data-link='EDC350'>EDC 350</span>, <span data-link='SPE340'>SPE 340</span>, <span data-link='EDT365'>EDT 365</span>, 12 hours in communication and 12 hours in theatre, and admitted to Teacher Education Program.</em>",
+    "desc": "Scope and objectives of the speech and theatre program in secondary schools; organization and administration of curricular and co-curricular programs; general instruction methodology. Completion of Checkpoint II for the Professional Portfolio is a component of this course. This course is recommended to be completed the fall semester before student teaching. Credited only on BSEd (Secondary). A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='THE490'>THE 490</span> or <span data-link='THE491'>THE 491</span>. Cannot be taken Pass/Not Pass. Identical with <span data-link='COM417'>COM 417</span>. Cannot receive credit for both <span data-link='THE417'>THE 417</span> and <span data-link='COM417'>COM 417</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE421": {
+    "course_id": "THE421",
+    "title": "THE 421 Acting Studio IV",
+    "req": "<em>Prerequisite: <span data-link='THE321'>THE 321</span>.</em>",
+    "desc": "Advanced techniques and tutorial scene work from classic theatre literature of the late 19th and early 20th centuries. May be repeated up to 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE422": {
+    "course_id": "THE422",
+    "title": "THE 422 Scene Study",
+    "req": "<em>Prerequisite: <span data-link='THE321'>THE 321</span> or <span data-link='THE323'>THE 323</span>.</em>",
+    "desc": "Tutorial scene study focusing on acting tools necessary for the rehearsal process. May be repeated up to 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE424": {
+    "course_id": "THE424",
+    "title": "THE 424 Dialects",
+    "req": "<em>Prerequisite: <span data-link='THE421'>THE 421</span>.</em>",
+    "desc": "An exploration of stage dialects and accents for the actor. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE430": {
+    "course_id": "THE430",
+    "title": "THE 430 Directing I",
+    "req": "<em>Prerequisite: <span data-link='THE130'>THE 130</span> and <span data-link='THE150'>THE 150</span> and; either <span data-link='THE121'>THE 121</span> or <span data-link='THE222'>THE 222</span>.</em>",
+    "desc": "Basic principles, skills and techniques underlying directing. Procedures in selecting, analyzing, casting and producing a play. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE451": {
+    "course_id": "THE451",
+    "title": "THE 451 Auditions",
+    "req": "<em>Prerequisite: <span data-link='THE321'>THE 321</span>.</em>",
+    "desc": "Audition techniques for performers; choice and preparation of audition materials, as well as construction of a resume, obtaining a useable photograph, information on agents, casting directors, casting notices, unions, and the development of a reliable network. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE454": {
+    "course_id": "THE454",
+    "title": "THE 454 Scene Painting",
+    "req": "<em>Prerequisite: <span data-link='THE270'>THE 270</span>.</em>",
+    "desc": "Study of painting equipment tools, brushes, pigments, binders, and vehicles and their relationship to the surfaces to be painted. Instruction in basic painting techniques and texturing for the stage. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE460": {
+    "course_id": "THE460",
+    "title": "THE 460 Costume Construction II",
+    "req": "<em>Prerequisite: <span data-link='THE260'>THE 260</span>.</em>",
+    "desc": "Costume construction techniques with emphasis on patterning, draping, tailoring, and more specialized sewing and fabric manipulation processes. Requires 45 hours of laboratory work. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE482": {
+    "course_id": "THE482",
+    "title": "THE 482 Senior Project in Theatre",
+    "req": "<em>Prerequisite: permission of instructor and 90 hours.</em>",
+    "desc": "Public presentation of portfolio, project, performance, or paper to demonstrate the student&apos;s mastery of the skills received during the completion of the major. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE490": {
+    "course_id": "THE490",
+    "title": "THE 490 Supervised Teaching (Secondary Speech and Theatre)",
+    "req": "<em>Prerequisite: <span data-link='THE417'>THE 417</span>; a grade of &quot;C&quot; or better in all professional education courses; current pre-professional liability insurance; and approval for supervised teaching.</em>",
+    "desc": "Student observes, then teaches speech and theatre classes under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Cannot count toward the major GPA. Cannot receive credit for both <span data-link='THE490'>THE 490</span> and <span data-link='COM490'>COM 490</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE491": {
+    "course_id": "THE491",
+    "title": "THE 491 Supervised Teaching (Secondary Speech and Theatre)",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='THE490'>THE 490</span>.</em>",
+    "desc": "Student observes, then teaches under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Cannot count toward the major GPA. Cannot receive credit for both <span data-link='THE491'>THE 491</span> and <span data-link='COM491'>COM 491</span>. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE492": {
+    "course_id": "THE492",
+    "title": "THE 492 Senior BFA Project",
+    "req": "<em>Prerequisite: permission of area coordinator.</em>",
+    "desc": "Public presentation of portfolio, project, or performance to demonstrate the student&apos;s mastery of the skills received during the major. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE493": {
+    "course_id": "THE493",
+    "title": "THE 493 Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate masters-level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE495": {
+    "course_id": "THE495",
+    "title": "THE 495 Theatre Practicum",
+    "desc": "An administrative, instructional, or supervisory experience not available through class work. Student typically serves as a production aide to a faculty member, or assumes a faculty supervised leadership role. May be repeated to a total of 4 hours. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE496": {
+    "course_id": "THE496",
+    "title": "THE 496 Readings",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Individual, experimental or research studies in theatre and performance studies. May be repeated to a total of 9 hours. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE497": {
+    "course_id": "THE497",
+    "title": "THE 497 Topics",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Group creative or special topics in theatre and performance studies. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE498": {
+    "course_id": "THE498",
+    "title": "THE 498 Advanced Actor Seminar",
+    "req": "<em>Prerequisite: <span data-link='THE421'>THE 421</span> and permission of instructor.</em>",
+    "desc": "Lecture and laboratory experience for the actor about to enter the professional arena. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE499": {
+    "course_id": "THE499",
+    "title": "THE 499 Projects",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Supervised individual creative projects in theatre and performance studies. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE505": {
+    "course_id": "THE505",
+    "title": "THE 505 Theatre for Children and Youth",
+    "desc": "Special training and techniques involved in the preparation and development of productions for, and by, children and youth. Activities include directing, scenic and costume design, scripting, and a study of the history, literature and research of the field. May be taught concurrently with <span data-link='THE605'>THE 605</span>. Cannot receive credit for both <span data-link='THE605'>THE 605</span> and <span data-link='THE505'>THE 505</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE506": {
+    "course_id": "THE506",
+    "title": "THE 506 Creative Dramatics",
+    "desc": "The art of creative drama and how it can be used in the school and community with children, youth, adults, and &quot;special populations.&quot; Students teach their own classes in creative drama during the latter part of the semester. May be taught concurrently with <span data-link='THE606'>THE 606</span>. Cannot receive credit for both <span data-link='THE606'>THE 606</span> and <span data-link='THE506'>THE 506</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE510": {
+    "course_id": "THE510",
+    "title": "THE 510 Scripting and Performing",
+    "req": "<em>Prerequisite: <span data-link='THE323'>THE 323</span>.</em>",
+    "desc": "Theoretical and practical knowledge in developing performance skills for one-person shows, extended literary performances, performance art, stand-up comedy, personal narrative and other performer-composed theatrical texts. May be taught concurrently with <span data-link='THE611'>THE 611</span>. Cannot receive credit for both <span data-link='THE611'>THE 611</span> and <span data-link='THE510'>THE 510</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE511": {
+    "course_id": "THE511",
+    "title": "THE 511 Structures and Styles Shakespeare",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Understanding text, style, and dynamics of action in Shakespeare. Creating roles in Shakespeare&apos;s plays. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE515": {
+    "course_id": "THE515",
+    "title": "THE 515 Theatre for Social Change",
+    "req": "<em>Prerequisite: <span data-link='THE323'>THE 323</span>.</em>",
+    "desc": "Theoretical and practical knowledge for developing performances for, about, and in partnership with community-based nonprofit organizations. Includes volunteer assignment and techniques for journaling, interviewing, scripting, and directing original material. May be taught concurrently with <span data-link='THE616'>THE 616</span>. Cannot receive credit for both <span data-link='THE616'>THE 616</span> and <span data-link='THE515'>THE 515</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE522": {
+    "course_id": "THE522",
+    "title": "THE 522 Auditioning and Acting for the Camera",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "A practical immersion into the on-camera market for the professional actor. Auditioning and acting skills for one and three camera formats including commercials, television comedy, television drama, industrials, film, and emerging digital mediums. Also covers industry and marketing logistics in relation to the on-camera market. Maybe taught concurrently with <span data-link='THE623'>THE 623</span>. Cannot receive credit for both <span data-link='THE522'>THE 522</span> and <span data-link='THE623'>THE 623</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE530": {
+    "course_id": "THE530",
+    "title": "THE 530 Directing II",
+    "req": "<em>Prerequisite: <span data-link='THE430'>THE 430</span>.</em>",
+    "desc": "Advanced directing techniques. Directing of a one-act play. May be taught concurrently with <span data-link='THE640'>THE 640</span>. Cannot receive credit for both <span data-link='THE640'>THE 640</span> and <span data-link='THE530'>THE 530</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE541": {
+    "course_id": "THE541",
+    "title": "THE 541 Theatre History I",
+    "req": "<em>Prerequisite: Writing II.</em>",
+    "desc": "Traces the important periods in the development of theatre from its beginning through the English Restoration. Through analysis of conventions of staging and dramatic literature, examines the aesthetic, cultural, ethical, and social dimensions of theatre in different cultures and time periods. May be taught concurrently with <span data-link='THE631'>THE 631</span>. Cannot receive credit for both <span data-link='THE541'>THE 541</span> and <span data-link='THE631'>THE 631</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE542": {
+    "course_id": "THE542",
+    "title": "THE 542 Theatre History II",
+    "req": "<em>Prerequisite: Writing II.</em>",
+    "desc": "Traces the important periods in the development of theatre from the 18th century to the present. Through analysis of conventions of staging and dramatic literature, examines the aesthetic, cultural, ethical, and social dimensions of theatre in different cultures and time periods. May be taught concurrently with <span data-link='THE632'>THE 632</span>. Cannot receive credit for both <span data-link='THE542'>THE 542</span> and <span data-link='THE632'>THE 632</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE543": {
+    "course_id": "THE543",
+    "title": "THE 543 Development of Modern Theatre",
+    "req": "<em>Prerequisite: Writing II.</em>",
+    "desc": "Examines the aesthetic, cultural, ethical, and social dimensions of modern theatre, from the development of naturalism to Theatre of the Absurd, through analysis of staging practices, theatrical theory, and dramatic literature. May be taught concurrently with <span data-link='THE633'>THE 633</span>. Cannot receive credit for both <span data-link='THE543'>THE 543</span> and <span data-link='THE633'>THE 633</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE545": {
+    "course_id": "THE545",
+    "title": "THE 545 Contemporary Theatre",
+    "req": "<em>Prerequisite: Writing II.</em>",
+    "desc": "Examines the aesthetic, cultural, ethical, and social dimension of theatre and drama since 1960. Emphasis will be on theatre as an art form and a social and cultural institution. May be taught concurrently with <span data-link='THE634'>THE 634</span>. Cannot receive credit for both <span data-link='THE545'>THE 545</span> and <span data-link='THE634'>THE 634</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE547": {
+    "course_id": "THE547",
+    "title": "THE 547 Development of American Theatre",
+    "req": "<em>Prerequisite: Writing II.</em>",
+    "desc": "Study of theatre in the United States from colonial times to the present; with a focus on the cultural and aesthetic variety of American theatrical practice and the theatre as a reflection of various cultural, and political beliefs. May be taught concurrently with <span data-link='THE635'>THE 635</span>. Cannot receive credit for both <span data-link='THE635'>THE 635</span> and <span data-link='THE547'>THE 547</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE552": {
+    "course_id": "THE552",
+    "title": "THE 552 Scene Design II",
+    "req": "<em>Prerequisite: <span data-link='THE275'>THE 275</span> and <span data-link='THE281'>THE 281</span>.</em>",
+    "desc": "Advanced designs of selected plays including floor plans, front elevations, white and finished models and renderings. May be taught concurrently with <span data-link='THE652'>THE 652</span>. Cannot receive credit for both <span data-link='THE652'>THE 652</span> and <span data-link='THE552'>THE 552</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE555": {
+    "course_id": "THE555",
+    "title": "THE 555 Lighting Design II",
+    "req": "<em>Prerequisite: <span data-link='THE275'>THE 275</span> and <span data-link='THE281'>THE 281</span>.</em>",
+    "desc": "Advanced principles and techniques of lighting for theatre, dance, and other performance/presentational events. May be taught concurrently with <span data-link='THE655'>THE 655</span>. Cannot receive credit for both <span data-link='THE655'>THE 655</span> and <span data-link='THE555'>THE 555</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE558": {
+    "course_id": "THE558",
+    "title": "THE 558 Sound Design for the Theatre",
+    "desc": "Principles of sound design with an emphasis on practical application. Includes a study and practice of basic audio production, recording, editing, mixing, reinforcement, and playback techniques used in association with dramatic events. Study of sound design includes aesthetic, dramatic, and practical considerations of script analysis, creative collaboration, research, and problem solving. Practical class application will be in the form of simple projects, exercises, and designs. May be taught concurrently with <span data-link='THE658'>THE 658</span>. Cannot receive credit for both <span data-link='THE658'>THE 658</span> and <span data-link='THE558'>THE 558</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE561": {
+    "course_id": "THE561",
+    "title": "THE 561 History of Costume and Decor I",
+    "desc": "A survey of styles of dress, interior design and decoration, architecture, art, and historical events as they pertain to the design of theatrical productions, from ancient Egypt to circa 1700. Requires sketching. May be taught concurrently with <span data-link='THE671'>THE 671</span>. Cannot receive credit for both <span data-link='THE671'>THE 671</span> and <span data-link='THE561'>THE 561</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE562": {
+    "course_id": "THE562",
+    "title": "THE 562 History of Costume and Decor II",
+    "desc": "Survey of styles of dress, interior design and decoration, architecture, and art as they pertain to the design of theatrical productions, from circa 1700 to the present day. Requires sketching. May be taught concurrently with <span data-link='THE672'>THE 672</span>. Cannot receive credit for both <span data-link='THE672'>THE 672</span> and <span data-link='THE562'>THE 562</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE565": {
+    "course_id": "THE565",
+    "title": "THE 565 Costume Design II",
+    "req": "<em>Prerequisite: <span data-link='THE380'>THE 380</span>.</em>",
+    "desc": "Emphasis on special problems in costume design including applications of concepts to design projects and presentation of completed design projects. May be taught concurrently with <span data-link='THE665'>THE 665</span>. Cannot receive credit for both <span data-link='THE665'>THE 665</span> and <span data-link='THE565'>THE 565</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE595": {
+    "course_id": "THE595",
+    "title": "THE 595 Theatre Practicum",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Acting, stagecraft, costuming and associated work in the Tent Theatre or other specified theatre production. May be taught concurrently with <span data-link='THE694'>THE 694</span>. Cannot receive credit for both <span data-link='THE694'>THE 694</span> and <span data-link='THE595'>THE 595</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE605": {
+    "course_id": "THE605",
+    "title": "THE 605 Theatre for Children and Youth",
+    "desc": "Special training and techniques involved in the preparation and development of productions for, and by, children and youth. Activities include directing, scenic and costume design, scripting, and a study of the history, literature and research of the field. May be taught concurrently with <span data-link='THE505'>THE 505</span>. Cannot receive credit for both <span data-link='THE505'>THE 505</span> and <span data-link='THE605'>THE 605</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE606": {
+    "course_id": "THE606",
+    "title": "THE 606 Creative Dramatics",
+    "desc": "The art of creative drama and how it can be used in the school and community with children, youth, adults, and &quot;special populations.&quot; Students teach their own classes in creative drama during the latter part of the semester. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE611": {
+    "course_id": "THE611",
+    "title": "THE 611 Scripting and Performing",
+    "desc": "Theoretical and practical knowledge in developing performance skills for one-person shows, extended literary performances, performance art, stand-up comedy, personal narrative and other performer-composed theatrical texts. May be taught concurrently with <span data-link='THE510'>THE 510</span>. Cannot receive credit for both <span data-link='THE510'>THE 510</span> and <span data-link='THE611'>THE 611</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE616": {
+    "course_id": "THE616",
+    "title": "THE 616 Theatre for Social Change",
+    "desc": "Theoretical and practical knowledge for developing performances for, about, and in partnership with community-based nonprofit organizations. Includes volunteer assignment and techniques for journaling, interviewing, scripting, and directing original material. May be taught concurrently with <span data-link='THE515'>THE 515</span>. Cannot receive credit for both <span data-link='THE515'>THE 515</span> and <span data-link='THE615'>THE 615</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE623": {
+    "course_id": "THE623",
+    "title": "THE 623 Auditioning and Acting for the Camera",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "A practical immersion into the on-camera market for the professional actor. Auditioning and acting skills for one and three camera formats including commercials, television comedy, television drama, industrials, film, and developing digital mediums. Also covers industry and marketing logistics in relation to the on-camera market. May be taught concurrently with <span data-link='THE522'>THE 522</span>. Cannot receive credit for both <span data-link='THE522'>THE 522</span> and <span data-link='THE623'>THE 623</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE631": {
+    "course_id": "THE631",
+    "title": "THE 631 Theatre History I",
+    "desc": "Traces the important periods in the development of theatre from its beginning through the English Restoration. Through analysis of conventions of staging and dramatic literature, examines the aesthetic, cultural, ethical, and social dimensions of theatre in different cultures and time periods. May be taught concurrently with <span data-link='THE541'>THE 541</span>. Cannot receive credit for both <span data-link='THE541'>THE 541</span> and <span data-link='THE631'>THE 631</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE632": {
+    "course_id": "THE632",
+    "title": "THE 632 Theatre History II",
+    "desc": "Traces the important periods in the development of theatre from the 18th century to the present. Through analysis of conventions of staging and dramatic literature, examines the aesthetic, cultural, ethical, and social dimensions of theatre in different cultures and time periods. May be taught concurrently with <span data-link='THE542'>THE 542</span>. Cannot receive credit for both <span data-link='THE542'>THE 542</span> and <span data-link='THE632'>THE 632</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE633": {
+    "course_id": "THE633",
+    "title": "THE 633 Development of Modern Theatre",
+    "desc": "Examines the aesthetic, cultural, ethical, and social dimension of modern theatre, from the development of naturalism to Theatre of the Absurd, through analysis of staging practices, theatrical theory, and dramatic literature. May be taught concurrently with <span data-link='THE543'>THE 543</span>. Cannot receive credit for both <span data-link='THE543'>THE 543</span> and <span data-link='THE633'>THE 633</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE634": {
+    "course_id": "THE634",
+    "title": "THE 634 Contemporary Theatre",
+    "desc": "Examines the aesthetic, cultural, ethical, and social dimension of theatre and drama since 1960. Emphasis will be on theatre as an art form and a social and cultural institution. May be taught concurrently with <span data-link='THE545'>THE 545</span>. Cannot receive credit for both <span data-link='THE545'>THE 545</span> and <span data-link='THE634'>THE 634</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE635": {
+    "course_id": "THE635",
+    "title": "THE 635 Development of American Theatre",
+    "desc": "Study of theatre in the United States from colonial times to the present with a focus on the cultural and aesthetic variety of American theatrical practice and the theatre as a reflection of various social, cultural, and political beliefs. May be taught concurrently with <span data-link='THE547'>THE 547</span>. Cannot receive credit for both <span data-link='THE547'>THE 547</span> and <span data-link='THE635'>THE 635</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE640": {
+    "course_id": "THE640",
+    "title": "THE 640 Directing II",
+    "desc": "Advanced directing techniques. Directing of a one-act play. May be taught concurrently with <span data-link='THE530'>THE 530</span>. Cannot receive credit for both <span data-link='THE530'>THE 530</span> and <span data-link='THE640'>THE 640</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE652": {
+    "course_id": "THE652",
+    "title": "THE 652 Scene Design II",
+    "desc": "Advanced designs of selected plays including floor plans, front elevations, white and finished models and renderings. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE655": {
+    "course_id": "THE655",
+    "title": "THE 655 Lighting Design II",
+    "desc": "Advanced principles and techniques of lighting for theatre, dance, and other performance/presentational events. May be taught concurrently with <span data-link='THE555'>THE 555</span>. Cannot receive credit for both <span data-link='THE555'>THE 555</span> and <span data-link='THE655'>THE 655</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE658": {
+    "course_id": "THE658",
+    "title": "THE 658 Sound Design for the Theatre",
+    "desc": "Principles of sound design with an emphasis on practical application. Includes a study and practice of basic audio production, recording, editing, mixing, reinforcement, and playback techniques used in association with dramatic events. Study of sound design includes aesthetic, dramatic, and practical considerations of script analysis, creative collaboration, research, and problem solving. Practical class application will be in the form of simple projects, exercises, and designs. May be taught concurrently with <span data-link='THE558'>THE 558</span>. Cannot receive credit for both <span data-link='THE558'>THE 558</span> and <span data-link='THE658'>THE 658</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE665": {
+    "course_id": "THE665",
+    "title": "THE 665 Costume Design II",
+    "desc": "Emphasis on special problems in costume design including applications of concepts to design projects and presentation of completed design projects. May be taught concurrently with <span data-link='THE565'>THE 565</span>. Cannot receive credit for both <span data-link='THE565'>THE 565</span> and <span data-link='THE665'>THE 665</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE671": {
+    "course_id": "THE671",
+    "title": "THE 671 History of Costume and Decor I",
+    "desc": "A survey of styles of dress, interior design and decoration, architecture, art, and historical events as they pertain to the design of theatrical productions, from ancient Egypt to circa 1700. Requires sketching. May be taught concurrently with <span data-link='THE561'>THE 561</span>. Cannot receive credit for both <span data-link='THE561'>THE 561</span> and <span data-link='THE671'>THE 671</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE672": {
+    "course_id": "THE672",
+    "title": "THE 672 History of Costume and Decor II",
+    "desc": "Survey of styles of dress, interior design and decoration, architecture, and art as they pertain to the design of theatrical productions, from circa 1700 to the present day. Requires sketching. May be taught concurrently with <span data-link='THE562'>THE 562</span>. Cannot receive credit for both <span data-link='THE562'>THE 562</span> and <span data-link='THE672'>THE 672</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE700": {
+    "course_id": "THE700",
+    "title": "THE 700 Graduate Research Methods in Theatre and Interpretation",
+    "desc": "Exploration of the current state of theatre studies. Focuses on strategies for research with primary and secondary sources, critical and theoretical methodologies, and various methods of reporting research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE707": {
+    "course_id": "THE707",
+    "title": "THE 707 Theatre Pedagogy: Theories and Practices",
+    "desc": "Designed to acquaint theatre teachers with the field of current theories and practices of theatre and performance pedagogy, and to develop instructional skills with specific application to teaching introductory level theatre courses. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "THE710": {
+    "course_id": "THE710",
+    "title": "THE 710 Seminar: Performance",
+    "desc": "Studies in rhetorical, cultural, social and aesthetic dimensions of performance. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE742": {
+    "course_id": "THE742",
+    "title": "THE 742 Dramatic Theory and Criticism",
+    "desc": "Representative theories of dramatic form and function; works of major critics and philosophers from Aristotle to present. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE790": {
+    "course_id": "THE790",
+    "title": "THE 790 Workshop in Theatre",
+    "desc": "Designed to improve the students&apos; skill and knowledge in specific areas of theatrical production. Each workshop will be concerned with a single topic, either acting, directing, or design. The course will examine the intersections between theory and practice in the creation of theatrical works. May be repeated to a maximum of 9 hours credit. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "THE793": {
+    "course_id": "THE793",
+    "title": "THE 793 Degree Paper",
+    "desc": "Research and writing of an extended paper originating in one of the 700-level courses. Students may choose to present the completed paper for their required research report. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE794": {
+    "course_id": "THE794",
+    "title": "THE 794 Theatre Practicum",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Acting, stagecraft, costuming and associated work in the Tent Theatre or other specified theatre production. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "THE795": {
+    "course_id": "THE795",
+    "title": "THE 795 Applied Research Project",
+    "req": "<em>Prerequisite: permission of research advisor and, if applicable, host institution permission must be obtained the semester prior to enrollment.</em>",
+    "desc": "The applied research project may consist of: 1) a creative project (directing, designing, scripting, performing), or 2) an internship with a host company or agency. For the non-thesis project, students must design specific educational and social as well as artistic objectives and appropriate assessment measures in consultation with the advisor. Students may choose to report on the applied research project for their required research report. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "THE796": {
+    "course_id": "THE796",
+    "title": "THE 796 Readings",
+    "req": "<em>Prerequisite: permission of graduate coordinator.</em>",
+    "desc": "Individual, experimental or research studies in theatre and performance studies. May be repeated to total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE797": {
+    "course_id": "THE797",
+    "title": "THE 797 Topics",
+    "req": "<em>Prerequisite: permission of graduate coordinator.</em>",
+    "desc": "Creative or special topics in theatre and performance studies. May be repeated to total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "THE798": {
+    "course_id": "THE798",
+    "title": "THE 798 Thesis Research",
+    "req": "<em>Prerequisite: permission of the graduate coordinator.</em>",
+    "desc": "Research leading to a masters thesis. Students will present a proseminar on their research during the semester they are enrolled in this course. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "THE799": {
+    "course_id": "THE799",
+    "title": "THE 799 Thesis Writing",
+    "req": "<em>Prerequisite: permission of graduate coordinator.</em>",
+    "desc": "Preparation of thesis. May be repeated, but no more than 3 hours may be counted toward a masters degree. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  }
+}

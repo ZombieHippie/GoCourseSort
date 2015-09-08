@@ -1,0 +1,2276 @@
+{
+  "ANE702": {
+    "course_id": "ANE702",
+    "title": "ANE 702 Clinical Conference I",
+    "desc": "Review of significant cases involving complex anesthesia considerations. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ANE705": {
+    "course_id": "ANE705",
+    "title": "ANE 705 Clinical Conference II",
+    "req": "<em>Prerequisite: <span data-link='ANE702'>ANE 702</span>.</em>",
+    "desc": "A review of significant cases involving complex anesthesia considerations. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ANE708": {
+    "course_id": "ANE708",
+    "title": "ANE 708 Clinical Conference III",
+    "req": "<em>Prerequisite: <span data-link='ANE705'>ANE 705</span>.</em>",
+    "desc": "Continuing review of significant cases involving complex anesthesia considerations. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ANE711": {
+    "course_id": "ANE711",
+    "title": "ANE 711 Clinical Conference IV",
+    "req": "<em>Prerequisite: <span data-link='ANE708'>ANE 708</span>.</em>",
+    "desc": "Continuing review of significant cases involving complex anesthesia considerations. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ANE714": {
+    "course_id": "ANE714",
+    "title": "ANE 714 Orientation to Clinical Anesthesia",
+    "req": "<em>Prerequisite: permission from program director.</em>",
+    "desc": "Introduction to anesthesia equipment, monitoring equipment, positioning, intravenous considerations, records, departmental management, ethics, departmental organization and function, legal and professional aspects. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ANE717": {
+    "course_id": "ANE717",
+    "title": "ANE 717 Physics and Chemistry of Anesthesia",
+    "desc": "A presentation of the principles and laws of physics and chemistry applicable to the field of anesthesia. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ANE720": {
+    "course_id": "ANE720",
+    "title": "ANE 720 Basic Principles of Anesthesia",
+    "desc": "A presentation of the principles of laws of physics and chemistry applicable to the field of anesthesia long with an in-depth analysis of structure and function of the cardiac, respiratory, circulatory, endocrine, hepatic, renal, neurologic, autonomic, and central nervous systems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ANE723": {
+    "course_id": "ANE723",
+    "title": "ANE 723 Application of Anatomy and Physiology to Anesthesia II",
+    "desc": "An in-depth analysis of the special relationships between anesthesiology and the endocrine, hepatatic, renal, neurologic, autonomic, and central nervous systems. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ANE726": {
+    "course_id": "ANE726",
+    "title": "ANE 726 Introduction to Clinical Anesthesia",
+    "desc": "Preoperative evaluation of patients, airway management, inhalation techniques, common complications of induction and emergence. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ANE732": {
+    "course_id": "ANE732",
+    "title": "ANE 732 Advanced Anesthesia Principles I",
+    "req": "<em>Prerequisite: <span data-link='ANE720'>ANE 720</span>.</em>",
+    "desc": "An in-depth review of drugs commonly used to provide the state of anesthesia, review of subjects essential to the practice of anesthesia; emphasis on pediatrics, neonatal, critical care anesthesia, trauma and burns, organ transplants and organ retrieval, obesity and GI disorders, and a study of the requirements for specialized anesthesia care; regional anesthesia, chronic pain, cardiac, and vascular anesthesia. ",
+    "hours": {
+      "credit": 6,
+      "lecture": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ANE735": {
+    "course_id": "ANE735",
+    "title": "ANE 735 Clinical Practicum",
+    "req": "<em>Prerequisite: admission to Doctor of Nursing Anesthesia Practice program.</em>",
+    "desc": "Clinical experience in the anesthesiology department at multiple clinical sites. Specialty content may be included as part of the practicum experience. May be repeated to a total of 44 hours. Hours are based on clinical practicum days in the clinical area. Graded Pass/Not Pass only. Supplemental course fee. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "ANE744": {
+    "course_id": "ANE744",
+    "title": "ANE 744 Pharmacology in Anesthesia",
+    "req": "<em>Prerequisite: <span data-link='ANE720'>ANE 720</span>.</em>",
+    "desc": "A review of the effects of drugs required by patients with preexisting medical conditions and their continuation in the perioperative period. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "ANE745": {
+    "course_id": "ANE745",
+    "title": "ANE 745 Anesthesia Pharmacology I",
+    "req": "<em>Prerequisite: <span data-link='BMS620'>BMS 620</span>.</em>",
+    "desc": "A study of the principles of clinical pharmacology and the pharmacokinetics and pharmacodynamics of commonly used anesthetic agents during the perioperative period. A review of the effects of drugs required by patients during the perioperative period with and without preexisting medical conditions and their continuation in the perioperative period. Detailed study of inhalational agents and stages of anesthesia, opioids, opioid agonists/antagonists, barbiturates and non-barbiturates, and drug interactions. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ANE746": {
+    "course_id": "ANE746",
+    "title": "ANE 746 Anesthesia Pharmacology II",
+    "req": "<em>Prerequisite: <span data-link='ANE744'>ANE 744</span>.</em>",
+    "desc": "A study of the principles of clinical pharmacology and the pharmacokinetics and pharmacodynamics of commonly used anesthetic agents during the perioperative period. A review of the effects of drugs required by patients during the perioperative period with and without preexisting medical conditions and their continuation in the perioperative period. Detailed study of neuromuscular blocking drugs, and local anesthetics. Course includes an introduction to autonomic pharmacology and cardiovascular pharmacology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ANE750": {
+    "course_id": "ANE750",
+    "title": "ANE 750 Advanced Anesthesia Principles II",
+    "req": "<em>Prerequisite: <span data-link='ANE720'>ANE 720</span>.</em>",
+    "desc": "A review of the special anesthetic considerations for: anesthesia delivery systems, pre-operative evaluation, monitoring, professional liability, rare and coexisting diseases, hemotherapy and hemostasis, post-anesthesia recovery, minimally invasive procedures, orthopedic, geriatric, outpatient anesthesia, airway management, respiratory physiology and function, thoracic surgery, neuro surgery, patients with liver and kidney disease, acid-base disturbances, and patients undergoing urologic, ophthalmic, and otolaryngologic surgery. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ANE803": {
+    "course_id": "ANE803",
+    "title": "ANE 803 Human Factors and Patient Safety for Healthcare",
+    "req": "<em>Prerequisite: admission to the DNAP program.</em>",
+    "desc": "Examines healthcare from a safety perspective and how to facilitate change for caregivers at the &quot;sharp end of the stick&quot; according to the Reason theory of errors. Discussion of an environment and philosophy of safety. Explores basis of human error, patient safety and quality assurance by introducing a system approach, including crisis management, simulation and teamwork in healthcare. Course taught online only. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ANE806": {
+    "course_id": "ANE806",
+    "title": "ANE 806 Professional Practice in Anesthesia",
+    "req": "<em>Prerequisite: admission to the DNAP program.</em>",
+    "desc": "Emphasizes learning through advanced clinical experiences in anesthesia practice. Explores concepts of nurse anesthesia practice, competence and expertise, and incorporation of critical thinking skills and reflection as an evaluation method. The focus is on methods of determining best practice through identification of problems, review, and systematic evaluation of current research, interdisciplinary collaboration and consideration of economic and other factors that impact patient outcomes. A professional portfolio will be expected at the conclusion of the program. Course taught online only. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ANE807": {
+    "course_id": "ANE807",
+    "title": "ANE 807 Anesthesia and Healthcare Policy",
+    "req": "<em>Prerequisite: admission to the DNAP program.</em>",
+    "desc": "Examines government and non-government issues that influence nurse anesthesia practice. Focuses on development of skills that contribute to leadership and personal effectiveness in implementing change in nurse anesthesia and healthcare. Emphasizes interdisciplinary relationships between the CRNA, nurse, physician, and administration, policy makers and other key stakeholders that format healthcare policy; equips the student with up-to-date information on various global health topics and perspectives; a basic perspective of health policy issues in different geographical regions, and explains how global health policy is affected by significant world events, including coverage of new infectious diseases with human rights, stigma of diseases and disclosure. Comparison of health and healthcare universally. Course taught online only. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "ANE810": {
+    "course_id": "ANE810",
+    "title": "ANE 810 Health and Wellness in the Healthcare Setting",
+    "req": "<em>Prerequisite: admission to the DNAP program.</em>",
+    "desc": "Health and wellness in the healthcare setting for the healthcare provider in modern day medical settings. Health coping strategies investigated. Pitfalls of stressors in healthcare with evidence-based solutions. Addiction and recovery for healthcare professionals reviewed with AANA wellness modules, and peer assistance as well as University assistance for students reviewed. Health lifestyles including dietary, mental, physical, spiritual wellness for healthcare providers discussed. Course taught online only. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ANE897": {
+    "course_id": "ANE897",
+    "title": "ANE 897 Research for Scholarly Project",
+    "req": "<em>Prerequisite: admission to the DNAP program.</em>",
+    "desc": "The Capstone Project is the culminating experience of the DNAP program, and presents an opportunity for students to investigate a problem relevant to the practice of anesthesia. Because nurse anesthesia practice includes administrative and educational roles as well as clinical practice, the project is open to a wide variety of ideas and interests. Students are encouraged to be creative in identifying problems and suggesting corrective actions;, solutions must be based on sound evidence. <span data-link='ANE897'>ANE 897</span> and <span data-link='ANE898'>ANE 898</span> are consecutive courses to allow the student time to complete the Capstone Project during their anesthesia study periods. The initial class provides direction and approval for the class, while the latter class provides presentation and evaluation of the determined project. Course taught online only. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "ANE898": {
+    "course_id": "ANE898",
+    "title": "ANE 898 Capstone Project Presentation",
+    "req": "<em>Prerequisite: <span data-link='ANE897'>ANE 897</span> and admission to the DNAP program.</em>",
+    "desc": "The Capstone Project is the culminating experience of the DNAP program, and presents an opportunity for students to investigate a problem relevant to the practice of anesthesia. Because nurse anesthesia practice includes administrative and educational roles as well as clinical practice, the project is open to a wide variety of ideas and interests. Students are encouraged to be creative in identifying problems and suggesting corrective actions; solutions must be based on sound evidence. <span data-link='ANE897'>ANE 897</span> and <span data-link='ANE898'>ANE 898</span> are consecutive courses to allow the student time to complete the Capstone Project during their anesthesia study periods. The initial class provides direction and approval for the class, while the latter class provides presentation and evaluation of the determined project. Course taught online only. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS100": {
+    "course_id": "BMS100",
+    "title": "BMS 100 Concepts and Issues in the Life Sciences",
+    "req": "<em>General Education Course (Focus on Life Sciences).</em>",
+    "desc": "A lecture course designed to help non-science majors understand the biological basis of human life by introducing the major concepts and principles of human biology. Topics include cell biology, the chemical basis of life, genetics, and basic anatomy and physiology. Current ethical issues and human disease are emphasized through discussion. Designed for students interested in human biology, but who do not plan on further study of life sciences. Cannot receive credit for both <span data-link='BMS100'>BMS 100</span> and <span data-link='BMS110'>BMS 110</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "BMS101": {
+    "course_id": "BMS101",
+    "title": "BMS 101 Concepts and Laboratory in the Life Sciences",
+    "req": "<em>Prerequisite: <span data-link='BMS100'>BMS 100</span> or concurrent enrollment. General Education course (Focus on Life Sciences).</em>",
+    "desc": "A laboratory course designed to help non-science majors understand the biological basis of human life by introducing the major concepts of human biology. This laboratory course will emphasize scientific observation and investigation in topics including cell biology, the chemical basis of life, genetics, and basic anatomy and physiology. This course is designed for students interested in human biology, but who do not plan further study or laboratory work in the life sciences. Cannot receive credit for both <span data-link='BMS101'>BMS 101</span> and <span data-link='BMS111'>BMS 111</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS110": {
+    "course_id": "BMS110",
+    "title": "BMS 110 Introduction to the Biomedical Sciences",
+    "req": "<em>Prerequisite: eligibility for both <span data-link='ENG110'>ENG 110</span> and <span data-link='MTH135'>MTH 135</span>. General Education Course (Focus on Life Sciences).</em>",
+    "desc": "An introduction to concepts and techniques related to human anatomy, physiology, genetics, cellular and molecular biology. Recommended for students in preprofessional programs and Allied Health careers. Supplemental course fee. Cannot receive credit for both <span data-link='BMS100'>BMS 100</span> and <span data-link='BMS110'>BMS 110</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "BMS111": {
+    "course_id": "BMS111",
+    "title": "BMS 111 Introductory Laboratory in the Biomedical Sciences",
+    "req": "<em>Prerequisite: <span data-link='BMS110'>BMS 110</span> or concurrent enrollment; and eligibility for both <span data-link='ENG110'>ENG 110</span> and <span data-link='MTH135'>MTH 135</span>. General Education Course (Focus on Life Sciences).</em>",
+    "desc": "This course is designed for students who require intensive introductory laboratory experience in human biology and biomedical sciences techniques to prepare for future laboratory work in the biomedical sciences. Cannot receive credit for both <span data-link='BMS101'>BMS 101</span> and <span data-link='BMS111'>BMS 111</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "BMS113": {
+    "course_id": "BMS113",
+    "title": "BMS 113 Introduction to Medical Technology",
+    "desc": "Designed to acquaint students with the field of medical technology through performance of simple procedures and explanation of test principles and diagnostic interpretation of results. Also designed to provide adequate exposure to the medical laboratory so that the student will be able to make a rational decision concerning a career in laboratory medicine. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS130": {
+    "course_id": "BMS130",
+    "title": "BMS 130 Essentials of Nutrition",
+    "desc": "Non-health science major course discussing basic concepts of human nutrition which includes carbohydrates, lipids, proteins, vitamins, minerals, absorption, digestion, and energy utilization as they relate to health and food consumption at different stages of the life cycle. Emphasis is placed on early childhood. Cannot receive credit for both <span data-link='BMS130'>BMS 130</span> and <span data-link='BMS240'>BMS 240</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS195": {
+    "course_id": "BMS195",
+    "title": "BMS 195 Introduction to the Health Professions",
+    "req": "<em>Prerequisite: freshman or sophomore standing only.</em>",
+    "desc": "Designed to familiarize students with a variety of health career opportunities, and to provide guidance in early curriculum planning and alternative career options. Identical with <span data-link='HLH195'>HLH 195</span>. Cannot receive credit for both <span data-link='BMS195'>BMS 195</span> and <span data-link='HLH195'>HLH 195</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS230": {
+    "course_id": "BMS230",
+    "title": "BMS 230 Human Genetics",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='BMS110'>BMS 110</span> or <span data-link='BIO121'>BIO 121</span>.</em>",
+    "desc": "A survey of genetic principles in humans with emphasis on molecular genetics and human genetic abnormalities causing diseases and behavioral changes. A portion of the course requires students to research, report on, and discuss current topics in human genetics. Cannot receive credit for both <span data-link='BMS230'>BMS 230</span> and <span data-link='BMS231'>BMS 231</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS231": {
+    "course_id": "BMS231",
+    "title": "BMS 231 Human Genetics with Laboratory",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='BMS110'>BMS 110</span> or <span data-link='BIO121'>BIO 121</span>; and Cell and Molecular Biology or Clinical Laboratory Science-Medical Technology major or Biomedical Sciences minor.</em>",
+    "desc": "A survey of genetic principles in humans with emphasis on molecular genetics and human genetic abnormalities causing diseases and behavioral changes. A portion of the course requires students to research, report on, and discuss current topics in human genetics. The laboratory emphasis is on techniques and skills that expand the understanding of genetic concepts. Cannot receive credit for both <span data-link='BMS230'>BMS 230</span> and <span data-link='BMS231'>BMS 231</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS232": {
+    "course_id": "BMS232",
+    "title": "BMS 232 Human Genetics Laboratory",
+    "req": "<em>Prerequisite: <span data-link='BMS230'>BMS 230</span>.</em>",
+    "desc": "This course is identical to the laboratory portion of <span data-link='BMS231'>BMS 231</span> and is designed for students who require laboratory experience in genetics to prepare for future laboratory work in the biomedical sciences. Cannot receive credit for both <span data-link='BMS231'>BMS 231</span> and 232. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS240": {
+    "course_id": "BMS240",
+    "title": "BMS 240 Introduction to Nutrition",
+    "req": "<em>Prerequisite: C grade or better in <span data-link='CHM116'>CHM 116</span> or [<span data-link='CHM116'>CHM 116</span> and 117] or <span data-link='CHM160'>CHM 160</span> or [<span data-link='CHM160'>CHM 160</span> and 161] or concurrent enrollment.</em>",
+    "desc": "Study of nutrients with emphasis on their sources and functions in human growth and health. Discussion of current nutrition issues. A grade of &quot;C&quot; or better is required in this course in order to take any nutrition courses numbered 300 and above or <span data-link='BMS567'>BMS 567</span>. Cannot receive credit for both <span data-link='BMS130'>BMS 130</span> and <span data-link='BMS240'>BMS 240</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS260": {
+    "course_id": "BMS260",
+    "title": "BMS 260 Biology of Aging",
+    "req": "<em>Prerequisite: <span data-link='BMS100'>BMS 100</span> and <span data-link='BMS101'>BMS 101</span> or <span data-link='BMS110'>BMS 110</span> or <span data-link='BIO121'>BIO 121</span>; and <span data-link='CHM116'>CHM 116</span> or <span data-link='CHM160'>CHM 160</span>.</em>",
+    "desc": "The physiology and biology of aging in humans. Designed for gerontology majors. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS300": {
+    "course_id": "BMS300",
+    "title": "BMS 300 Service Learning in Biomedical Sciences",
+    "req": "<em>Prerequisite: 30 hours and concurrent enrollment in a Biomedical Sciences course designated as service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in one of the subdisciplines of Biomedical Sciences to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS305": {
+    "course_id": "BMS305",
+    "title": "BMS 305 Introduction to Nutrition and Dietetics",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span> or concurrent enrollment.</em>",
+    "desc": "This course is open only to potential dietetics majors and nutrition majors. Examination of the role of dietetics in the health care system, exploration of the responsibilities of nutrition and dietetics professionals, legal and ethical considerations, educational requirements and career opportunities. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS306": {
+    "course_id": "BMS306",
+    "title": "BMS 306 Computer Applications in Nutrition and Dietetics",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span>.</em>",
+    "desc": "Dietetics majors will be introduced to and learn computer software applications related to food production, nutrition analysis, and computer skills required for the discipline including Nutritionist Pro, Food Processor, PowerPoint, Excel, and Publisher. This course does not count towards a Nutrition minor. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS307": {
+    "course_id": "BMS307",
+    "title": "BMS 307 Human Anatomy",
+    "req": "<em>Prerequisite: C grade or better in <span data-link='BMS110'>BMS 110</span> or <span data-link='BIO121'>BIO 121</span>.</em>",
+    "desc": "A regional-based lecture and laboratory study of selected human cells, tissues, organs and organ systems. Human cadaver and supplemental models of various regions studied in laboratory. Emphasis is on application of problem solving skills to clinical cases and activities. Credit will only be awarded once for <span data-link='BMS267'>BMS 267</span>, 307 or <span data-link='BMS267'>BMS 267</span> (West Plains course). Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS308": {
+    "course_id": "BMS308",
+    "title": "BMS 308 Human Physiology",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='BMS307'>BMS 307</span> or <span data-link='BIO380'>BIO 380</span>; and &quot;C&quot; or better in [<span data-link='CHM116'>CHM 116</span> and 117] or [<span data-link='CHM160'>CHM 160</span> and 161].</em>",
+    "desc": "A study of mechanisms for maintaining homeostasis in the human organism. Topics covered include cellular structure and function, neurophysiology, metabolism, endocrinology, cardiovascular, pulmonary, renal, and gastrointestinal physiology. Emphasis is on cellular and molecular mechanisms of physiology. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='BMS567'>BMS 567</span>. Credit will only be awarded once for <span data-link='BMS268'>BMS 268</span>, 308 or <span data-link='BMW268'>BMW 268</span> (West Plains course). Course cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS310": {
+    "course_id": "BMS310",
+    "title": "BMS 310 Nutrition and Physical Activity in Aging",
+    "req": "<em>Prerequisite: <span data-link='BMS260'>BMS 260</span> or <span data-link='BMS308'>BMS 308</span>.</em>",
+    "desc": "Study of the nutritional requirements and physical activity needs of the elderly with emphasis on cardiorespiratory, musculoskeletal, and metabolic health and disease. Designed for gerontology majors, gerontology minors, and others interested in aging. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS320": {
+    "course_id": "BMS320",
+    "title": "BMS 320 Molecular Biology and Metabolism",
+    "req": "<em>Prerequisite: &quot;C&quot; or better in <span data-link='BMS230'>BMS 230</span> or <span data-link='BMS231'>BMS 231</span>.</em>",
+    "desc": "Recommended Prerequisite: past or concurrent enrollment in <span data-link='CHM201'>CHM 201</span> and 202 or <span data-link='CHM342'>CHM 342</span>. An introduction to the types and consequences of small and large molecular interactions in the living cell with an emphasis on the integrated metabolic exchanges of information, energy, and materials among cellular compartments. Cannot receive credit for both <span data-link='BMS320'>BMS 320</span> and <span data-link='BMS321'>BMS 321</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS321": {
+    "course_id": "BMS321",
+    "title": "BMS 321 Biomolecular Interactions",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='BMS231'>BMS 231</span>.</em>",
+    "desc": "Recommended Prerequisite: concurrent enrollment in <span data-link='CHM342'>CHM 342</span>. Concentration is on the major classes of biomolecules (proteins, nucleic acids, carbohydrates, and lipids) important in cell and molecular biology that signal, control, and regulate cellular function and the coordination of these interactions. Other topics include: biosynthesis and catabolism of biological macromolecules and related topics in biotechnology, biological nanotechnology and molecular medicine. Laboratory emphasizes hands-on experience with current techniques in biomolecular science. Cannot receive credit for both <span data-link='BMS320'>BMS 320</span> and <span data-link='BMS321'>BMS 321</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS322": {
+    "course_id": "BMS322",
+    "title": "BMS 322 Laboratory Methods in the Biomedical Sciences",
+    "req": "<em>Prerequisite: <span data-link='BMS320'>BMS 320</span>.</em>",
+    "desc": "This laboratory course familiarizes students with the instrumentation, proper laboratory techniques, and analytical procedures that are used in the biomedical sciences. Cannot receive credit for both <span data-link='BMS321'>BMS 321</span> and <span data-link='BMS322'>BMS 322</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BMS330": {
+    "course_id": "BMS330",
+    "title": "BMS 330 Food Selection and Preparation for Health",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span> or concurrent enrollment.</em>",
+    "desc": "Selection and preparation of food that supports optimum health. Food and nutrition information on grocery shopping, dining out, preparation of meals, snacks, and special occasion foods. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS331": {
+    "course_id": "BMS331",
+    "title": "BMS 331 Food Science",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span> and <span data-link='BMS330'>BMS 330</span>; and <span data-link='CHM201'>CHM 201</span>.</em>",
+    "desc": "Experimental approach to the study of physical and chemical factors influencing food quality during processing, preparation and storage. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS332": {
+    "course_id": "BMS332",
+    "title": "BMS 332 Food and Culture",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span>.</em>",
+    "desc": "Exploration of ethnic, religious and regional influences on nutrition and health status, including the role of diet in traditional health beliefs. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS333": {
+    "course_id": "BMS333",
+    "title": "BMS 333 Nutrition Throughout the Life Span",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span>.</em>",
+    "desc": "Factors that influence nutrient requirements during pregnancy, lactation, infancy, childhood, adolescence and aging. Recommendations for food intake based upon assessment of case studies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS334": {
+    "course_id": "BMS334",
+    "title": "BMS 334 Introduction to Nutrition Assessment and Sports Nutrition",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span>.</em>",
+    "desc": "This course is designed to help students and practitioners understand how nutrients affect health and athletic performance as well as the role of diet in performance and in disease prevention. Nutrition assessment of anthropometric, biochemical, clinical and dietary factors will be covered as to their application to sport and performance. Basic meal planning for athletes and a general introduction to sports supplements will also be taught. This is a course for non-dietetics majors and does not meet any requirements for the Dietetics major. This course may be used for the Nutrition minor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS335": {
+    "course_id": "BMS335",
+    "title": "BMS 335 Nutritional Assessment",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span>.</em>",
+    "desc": "Methods used to assess the nutritional status of individuals and populations. Interpretation of anthropometric, biochemical, clinical and dietary data as a basis for recommending nutritional care. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS338": {
+    "course_id": "BMS338",
+    "title": "BMS 338 Food Safety Certification",
+    "req": "<em>Prerequisite: <span data-link='BIO210'>BIO 210</span>.</em>",
+    "desc": "Sanitation policies and procedures for dietitians, food service professionals, restaurant owners and foodservice employees. Includes chemical, biological, and physical food hazards, basics of food safety systems including HACCP, methods of safe food handling, equipment cleaning and sanitizing, and controlling pests. A passing score on the National ServSafe Food Safety Certification examination is required for a &quot;C&quot; or better in this course. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS340": {
+    "course_id": "BMS340",
+    "title": "BMS 340 Nutrition Education and Communications",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span>; and <span data-link='BMS330'>BMS 330</span> or concurrent enrollment; and <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Application of educational theories and techniques to nutrition education. Emphasis on subject matter and skills necessary to develop, implement, evaluate and document nutrition education sessions for individuals and groups utilizing a variety of communication methods. Development of nutrition educational materials. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS345": {
+    "course_id": "BMS345",
+    "title": "BMS 345 World Hunger",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span> or <span data-link='AGR100'>AGR 100</span>.</em>",
+    "desc": "Global issues related to hunger and nutrition including sustainability, inequity, food production, malnutrition, biotechnology, ecological destruction, population growth, globalization, and aid. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS380": {
+    "course_id": "BMS380",
+    "title": "BMS 380 Cooperative Education in Biomedical Sciences",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Provides the opportunity to earn academic credit by participation in supervised work experience. A variable content course that may be repeated to a maximum of 6 semester hours. Graded Pass/Not Pass only. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BMS390": {
+    "course_id": "BMS390",
+    "title": "BMS 390 The Exchange System",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span>.</em>",
+    "desc": "This series of classes is designed to assist the dietetics student in understanding the use of the Exchange System and Carbohydrate Counting in the dietetics profession, as well as being able to apply MyPlate and nutrient content of foods to the creation of menus. These courses may be used as a one-hour course that will count towards the Nutrition minor. It is not required for the Dietetics major but may be quite beneficial. Variable content course. With different topics, may be repeated up to 2 hours. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS391": {
+    "course_id": "BMS391",
+    "title": "BMS 391 Home Food Preservation",
+    "desc": "This series of classes is designed to teach students the basics of food science as applied to home food preservation at varying times of the year utilizing what is in season. Students will utilize a variety of home canning equipment and a wide variety of fruits and vegetables in the production of different home food preservation projects. Variable content course. With different topics, may be repeated up to 4 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BMS392": {
+    "course_id": "BMS392",
+    "title": "BMS 392 The Mediterranean Diet",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "This is an Intersession international study away class that requires travel to a Mediterranean country to study the Mediterranean diet. The instructor and students will travel to an identified country and students will complete assignments based on the food and culture of the region and attend experiences related to food and health. Tour is provided by an outside vendor and fees are collected by the vendor and course fees by the Study Away Office. Variable content course. With travel to different countries/regions, may be repeated up to 4 hours. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS395": {
+    "course_id": "BMS395",
+    "title": "BMS 395 Nutrition Intervention in Eating Disorders",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span>.</em>",
+    "desc": "This course is designed to assist the dietetics student in understanding the current guidelines for the different types of eating disorders (EDO) and how the Registered Dietitian (RD) may assist in their treatment. This course may be helpful to the practicing RD if they do not have a background in psychology of eating disorders. Students in related disciplines will be able to understand eating disorders and the role the dietitian would play as a member of the team. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BMS396": {
+    "course_id": "BMS396",
+    "title": "BMS 396 Alcohol, Addiction, and Nutrition",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span>.</em>",
+    "desc": "This course is designed to assist the dietetics student in understanding the use and abuse of alcohol and other substances in the American diet and nutrition interventions that may be needed. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BMS397": {
+    "course_id": "BMS397",
+    "title": "BMS 397 Topics in Heart Healthy Cooking",
+    "desc": "Selected topics on heart healthy cooking techniques. Variable content course. Course may be repeated to a maximum of 6 hours provided topics are different. Supplemental course fee (variable by section). ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS400": {
+    "course_id": "BMS400",
+    "title": "BMS 400 International Service Learning: Malnutrition in Developing Countries",
+    "req": "<em>Prerequisite: 30 hours and permission of instructor.</em>",
+    "desc": "The integrated service learning component for this course incorporates international community service with classroom instruction in nutrition specifically focusing on malnutrition and nutrition education in a developing country. This course provides an integrative learning experience addressing the practice of citizenship and promotes an awareness of and participation in international public affairs. Includes 15 service hours benefiting an international community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the course topic and learning objectives; a list of approved placements and assignments in available from the instructor and the Citizenship and Service Learning Office. May be repeated for a maximum of six hours. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS405": {
+    "course_id": "BMS405",
+    "title": "BMS 405 Clinical Practicum: Preventive and Rehabilitative Exercise",
+    "req": "<em>Prerequisite: <span data-link='BMS567'>BMS 567</span> or <span data-link='KIN369'>KIN 369</span> and permission of department head.</em>",
+    "desc": "Field experience in a comprehensive health enhancement organization under the supervision of a certified preventive and rehabilitative program director. Students are assigned to Hammons Heart Institute. May be repeated for credit to a maximum of 6 hours. Enrollment is limited. Students planning to participate in the clinical practicum must contact the Biomedical Sciences Department Head during the first two weeks of registration. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS430": {
+    "course_id": "BMS430",
+    "title": "BMS 430 Sports Nutrition",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span> and <span data-link='BMS308'>BMS 308</span>.</em>",
+    "desc": "Nutrition as related to athletic performance and other areas of physical activity, including training and competition nutrition, fluids and hydration, weight management, supplements and ergogenic aids, the child athlete, and eating disorders. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS438": {
+    "course_id": "BMS438",
+    "title": "BMS 438 Administrative Dietetics",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span> and <span data-link='BMS330'>BMS 330</span> and <span data-link='ACC109'>ACC 109</span> and <span data-link='MGT340'>MGT 340</span>; and <span data-link='BIO210'>BIO 210</span> or concurrent enrollment.</em>",
+    "desc": "Application of managerial processes to the delivery of food to people in a variety of settings. Menu planning; recipe development; food procurement; receiving and storage; food production; quality assurance; personnel selection, training, supervision and evaluation; management of financial resources; equipment selection and layout; computer-assisted management and distribution. Transportation required. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS442": {
+    "course_id": "BMS442",
+    "title": "BMS 442 Physiology of the Cell",
+    "req": "<em>Prerequisite: C grade or better in <span data-link='BMS307'>BMS 307</span>; and C grade or better in <span data-link='BMS321'>BMS 321</span> or <span data-link='BIO320'>BIO 320</span> or <span data-link='CHM352'>CHM 352</span> or <span data-link='CHM452'>CHM 452</span>.</em>",
+    "desc": "Physiology of the cell will focus on the molecular, chemical, membrane and cellular basis of metabolic homeostatic processes in cells, cytoplasmic compartments and primary organ systems. Cannot receive credit for both <span data-link='BMS308'>BMS 308</span> and <span data-link='BMS442'>BMS 442</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS445": {
+    "course_id": "BMS445",
+    "title": "BMS 445 Community Nutrition",
+    "req": "<em>Prerequisite: <span data-link='BMS335'>BMS 335</span> and <span data-link='BMS536'>BMS 536</span> and <span data-link='PLS101'>PLS 101</span>; and must be taken last spring before expected graduation.</em>",
+    "desc": "Factors affecting the nutritional status of the community; nutritional assessment and surveillance methodologies; governmental nutrition policies and legislation; community resources. The role of the community dietitian in nutrition program planning, implementation and evaluation. Transportation required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS450": {
+    "course_id": "BMS450",
+    "title": "BMS 450 Introduction to Biomedical Biomechanics",
+    "req": "<em>Prerequisite: <span data-link='BMS307'>BMS 307</span>.</em>",
+    "desc": "Biomechanical fundamentals and principles as they apply to the human organism; description of normal motion emphasizing orthopedic biomechanics and neuromuscular control. May be taught concurrently with <span data-link='OTE650'>OTE 650</span>. Cannot receive credit for both <span data-link='BMS450'>BMS 450</span> and <span data-link='OTE650'>OTE 650</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS455": {
+    "course_id": "BMS455",
+    "title": "BMS 455 Astrobiology",
+    "req": "<em>Prerequisite: introductory course in BMS or BIO; and introductory course in AST, PHY, CHM or GLG.</em>",
+    "desc": "Scientific, technological, and philosophical foundations of astrobiology with emphasis on origins of life, life beyond Earth, and searches for extraterrestrial intelligence (SETI). Content stresses scientific evidence and knowledge, not science fiction. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BMS460": {
+    "course_id": "BMS460",
+    "title": "BMS 460 Biology of HIV/AIDS",
+    "req": "<em>Prerequisite: <span data-link='BMS100'>BMS 100</span> or <span data-link='BMS105'>BMS 105</span> or <span data-link='BMS110'>BMS 110</span> or <span data-link='BIO121'>BIO 121</span> or <span data-link='BIO101'>BIO 101</span> and 111, and 60 hours.</em>",
+    "desc": "Biological aspects of infection by HIV (human immunodeficiency virus) the disease syndrome known as AIDS (acquired human immunodeficiency syndrome) and social response to the disease. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS467": {
+    "course_id": "BMS467",
+    "title": "BMS 467 Anatomy and Mechanics of Human Motion",
+    "req": "<em>Prerequisite: <span data-link='BMS307'>BMS 307</span>.</em>",
+    "desc": "Biological analysis of normal articulation and body segment motions, emphasizing neuromuscular control. Biomechanical fundamentals and principles that relate to anatomy of human motion. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS490": {
+    "course_id": "BMS490",
+    "title": "BMS 490 Peer Instruction in Biomedical Sciences",
+    "req": "<em>Prerequisite: acceptance into Cell and Molecular Biology, Clinical Laboratory Sciences-Medical Technology, or Dietetics program; and 60 hours; and permission of course director.</em>",
+    "desc": "A mentored experience in teaching within the Biomedical Sciences. Students will serve as undergraduate learning assistants (ULAs) in a BMS course along with the instructor and teaching assistants. Students will be required to attend an intersession workshop and weekly sessions for reflection and discussion in addition to their weekly BMS course assignment. Intended for students interested in developing classroom leadership skills. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS494": {
+    "course_id": "BMS494",
+    "title": "BMS 494 Senior Seminar in Cell and Molecular Biology",
+    "req": "<em>Prerequisite: Cell and Molecular Biology major and <span data-link='BMS521'>BMS 521</span>; and 90 hours.</em>",
+    "desc": "Discussion of emerging topics and issues in the fields of cell and molecular biology. Opportunity for students to gain skill in oral and written scientific communication, and explore and prepare for employment opportunities, graduate school, and professional programs. Completion of a subject assessment examination and seminar attendance is required. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS497": {
+    "course_id": "BMS497",
+    "title": "BMS 497 Topics in Biomedical Sciences I",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Selected topics which will vary from semester to semester. Course may be repeated to a maximum of 6 hours by a student provided topics are different. Variable content course. Supplemental course fee (variable by section). ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS498": {
+    "course_id": "BMS498",
+    "title": "BMS 498 Undergraduate Research",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Individualized and directed research. May be repeated to a maximum of 8 hours. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS499": {
+    "course_id": "BMS499",
+    "title": "BMS 499 Projects in the Biomedical Sciences",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Supervised experience in an area of the Biomedical Sciences. Course may be taken by students majoring or minoring in an area of the biomedical sciences. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS500": {
+    "course_id": "BMS500",
+    "title": "BMS 500 Special Topics in Biomedical Sciences II",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Selected topics of an advanced nature which will vary from semester to semester. May be repeated by a student for a maximum of 8 hours of credit provided topics are different. May be taught concurrently with <span data-link='BMS602'>BMS 602</span>. Cannot receive credit for both <span data-link='BMS500'>BMS 500</span> and <span data-link='BMS602'>BMS 602</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BMS514": {
+    "course_id": "BMS514",
+    "title": "BMS 514 Scanning Electron Microscopy",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "An introduction to microsurface analysis using scanning electron microscopy and X-ray microanalysis. Theoretical considerations and laboratory procedures involve both techniques but the major emphasis will be on generation of secondary electron images. Some attention is devoted to backscattered electron imaging, X-ray mapping, stereo pair imaging, and related image processing techniques. May be taught concurrently with <span data-link='BMS614'>BMS 614</span>. Cannot receive credit for both <span data-link='BMS514'>BMS 514</span> and <span data-link='BMS614'>BMS 614</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS516": {
+    "course_id": "BMS516",
+    "title": "BMS 516 Transmission Electron Microscopy",
+    "req": "<em>Prerequisite: 20 hours in BMS or BIO.</em>",
+    "desc": "Demonstration of basic transmission electron microscopy techniques and microscope use. Emphasis is on ultrathin sectioning techniques; additional techniques include support film preparation, negative staining, immunogold localization procedures, and digital processing of photographic prints and negatives. May be taught concurrently with <span data-link='BMS616'>BMS 616</span>. Cannot receive credit for both <span data-link='BMS516'>BMS 516</span> and <span data-link='BMS616'>BMS 616</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS520": {
+    "course_id": "BMS520",
+    "title": "BMS 520 Medical Cell Biology",
+    "req": "<em>Prerequisite: C grade or better in <span data-link='BMS320'>BMS 320</span> or <span data-link='BMS321'>BMS 321</span>.</em>",
+    "desc": "Focus on the molecular aspects of cell biology for students in the Nurse Anesthesia program. Content identical to the lecture part of <span data-link='BMS521'>BMS 521</span>. Cannot receive credit for both <span data-link='BMS520'>BMS 520</span> and 521. May be taught concurrently with <span data-link='BMS620'>BMS 620</span> . Cannot receive credit for both <span data-link='BMS520'>BMS 520</span> and <span data-link='BMS620'>BMS 620</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS521": {
+    "course_id": "BMS521",
+    "title": "BMS 521 Molecular Cell Biology",
+    "req": "<em>Prerequisite: C grade or better in <span data-link='BMS321'>BMS 321</span>; and [<span data-link='CHM201'>CHM 201</span> and 202] or <span data-link='CHM342'>CHM 342</span>.</em>",
+    "desc": "Origins, structure and function of cells and basic life processes from a molecular perspective. Major topics focus on the energy, chemical, and information exchanges within and among cells and their environment. Cannot receive credit for both <span data-link='BMS520'>BMS 520</span> and 521. May be taught concurrently with <span data-link='BMS622'>BMS 622</span>. Cannot receive credit for both <span data-link='BMS521'>BMS 521</span> and <span data-link='BMS622'>BMS 622</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS524": {
+    "course_id": "BMS524",
+    "title": "BMS 524 Virology",
+    "req": "<em>Prerequisite: C grade or better in <span data-link='BIO310'>BIO 310</span> or <span data-link='BMS521'>BMS 521</span>.</em>",
+    "desc": "The molecular biology and pathogenicity of animal viruses; basic techniques of tissue culture and virology will be performed in the laboratory. May be taught concurrently with <span data-link='BMS624'>BMS 624</span>. Cannot receive credit for both <span data-link='BMS524'>BMS 524</span> and <span data-link='BMS624'>BMS 624</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS525": {
+    "course_id": "BMS525",
+    "title": "BMS 525 Molecular Biology",
+    "req": "<em>Prerequisite: C grade or better in <span data-link='BMS521'>BMS 521</span>.</em>",
+    "desc": "In-depth examination of nucleic acid structure, function, regulation, repair, and mutagenesis; principles of genetic engineering. Laboratory provides experience in the techniques used to isolate, separate, quantitate, characterize, and modify nucleic acids. The course also includes an introduction to the GenBank and EMBL nucleic acid and protein sequence databases. May be taught concurrently with <span data-link='BMS625'>BMS 625</span> . Cannot receive credit for both <span data-link='BMS525'>BMS 525</span> and <span data-link='BMS625'>BMS 625</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS528": {
+    "course_id": "BMS528",
+    "title": "BMS 528 Molecular Mechanisms of Bacterial Pathogenesis",
+    "req": "<em>Prerequisite: <span data-link='BMS521'>BMS 521</span>.</em>",
+    "desc": "An in-depth study of the methods of genetic control and production of pathogenic factors employed by disease causing bacteria. The course will use both reference material and primary literature to illustrate the topics under discussion. May be taught concurrently with <span data-link='BMS628'>BMS 628</span>. Cannot receive credit for both <span data-link='BMS528'>BMS 528</span> and <span data-link='BMS628'>BMS 628</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS529": {
+    "course_id": "BMS529",
+    "title": "BMS 529 Molecular Genetics",
+    "req": "<em>Prerequisite: C grade or better in <span data-link='BMS525'>BMS 525</span>.</em>",
+    "desc": "Recent advances in the molecular aspects of genetics; mammalian DNA will be characterized and manipulated using modern molecular techniques. May be taught concurrently with <span data-link='BMS629'>BMS 629</span>. Cannot receive credit for both <span data-link='BMS529'>BMS 529</span> and <span data-link='BMS629'>BMS 629</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS530": {
+    "course_id": "BMS530",
+    "title": "BMS 530 Cell Biology of Cancer",
+    "req": "<em>Prerequisite: C grade or better in <span data-link='BMS521'>BMS 521</span> or <span data-link='BIO310'>BIO 310</span> or <span data-link='BIO320'>BIO 320</span>.</em>",
+    "desc": "Discussion of the initiation, cellular and genetic events which lead to cancer as well as its prevention, treatment, and personal consequences. An extensive paper and presentation are required. May be taught concurrently with <span data-link='BMS631'>BMS 631</span>. Cannot receive credit for both <span data-link='BMS530'>BMS 530</span> and <span data-link='BMS631'>BMS 631</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS532": {
+    "course_id": "BMS532",
+    "title": "BMS 532 Human Nutrition and Metabolism",
+    "req": "<em>Prerequisite: <span data-link='BMS240'>BMS 240</span> and <span data-link='BMS308'>BMS 308</span>; and <span data-link='CHM201'>CHM 201</span> or concurrent enrollment.</em>",
+    "desc": "Food nutrients, their digestion, absorption and metabolism. Methods of determining requirements and interrelationships of nutrients. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS535": {
+    "course_id": "BMS535",
+    "title": "BMS 535 Signal Transduction",
+    "req": "<em>Prerequisite: <span data-link='BMS521'>BMS 521</span>.</em>",
+    "desc": "This course will examine the molecular mechanisms of various ligand/receptor interactions. The dynamics involved in ligand/receptor binding will be studied and examples of receptor-mediated signal transduction will be introduced. Signaling pathways within the cell will be discussed. Primary literature and reference materials will be utilized to illustrate specific examples under discourse. May be taught concurrently with <span data-link='BMS635'>BMS 635</span>. Cannot receive credit for both <span data-link='BMS535'>BMS 535</span> and <span data-link='BMS635'>BMS 635</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS536": {
+    "course_id": "BMS536",
+    "title": "BMS 536 Medical Nutrition Therapy I",
+    "req": "<em>Prerequisite: admission to Dietetics Program; and <span data-link='BMS335'>BMS 335</span> and <span data-link='BMS532'>BMS 532</span>; and <span data-link='CHM352'>CHM 352</span> or concurrent enrollment.</em>",
+    "desc": "Principles and application of medical nutrition therapy as related to disease and stress. Transportation required. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS539": {
+    "course_id": "BMS539",
+    "title": "BMS 539 Senior Seminar in Dietetics",
+    "req": "<em>Prerequisite: admission to the Dietetics Program, and must be taken last fall before expected graduation.</em>",
+    "desc": "Procedures and application process for obtaining professional status through dietetic registration and licensure. Professional ethics and legal responsibilities. Strategies for integration of current issues into dietetic practice. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS540": {
+    "course_id": "BMS540",
+    "title": "BMS 540 Biotechnology",
+    "req": "<em>Prerequisite: C grade or better in <span data-link='BMS321'>BMS 321</span> or <span data-link='BIO310'>BIO 310</span> or <span data-link='BIO320'>BIO 320</span> or <span data-link='CHM352'>CHM 352</span>.</em>",
+    "desc": "The applications of the methodologies of cell and molecular biology in the rapidly-evolving biotechnology and biopharmaceutical industries with an emphasis on the major sectors involving human therapeutics, human diagnostics, and genomics. Cell and molecular biology technologies adapted to mass production techniques to produce the products of biotechnology are surveyed. Typical pathways of product development from original basic research, product inception, clinical trials, regulatory approval, and commercialization are covered. Students will examine the current programs of the research and development of selected biotechnology and big pharmaco corporations. May be taught concurrently with <span data-link='BMS640'>BMS 640</span>. Cannot receive credit for both <span data-link='BMS540'>BMS 540</span> and <span data-link='BMS640'>BMS 640</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS542": {
+    "course_id": "BMS542",
+    "title": "BMS 542 Physiology of Organ Systems",
+    "req": "<em>Prerequisite: C grade or better in <span data-link='BMS442'>BMS 442</span>.</em>",
+    "desc": "Course will continue the investigation of human physiology by organ system including the cardiovascular and respiratory systems as well as mechanisms of body defense. Cannot receive credit for both <span data-link='BMS542'>BMS 542</span> and <span data-link='BMS742'>BMS 742</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS546": {
+    "course_id": "BMS546",
+    "title": "BMS 546 Medical Nutrition Therapy II",
+    "req": "<em>Prerequisite: <span data-link='BMS536'>BMS 536</span>.</em>",
+    "desc": "Principles and application of medical nutrition therapy as related to complex disease states. Transportation required. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS550": {
+    "course_id": "BMS550",
+    "title": "BMS 550 Nutrition Counseling",
+    "req": "<em>Prerequisite: <span data-link='BMS340'>BMS 340</span>; and <span data-link='BMS536'>BMS 536</span> or concurrent enrollment.</em>",
+    "desc": "Interviewing techniques, counseling theory and methods applied to nutrition counseling. Emphasis on development of skills necessary to plan, implement, evaluate and document culturally sensitive nutritional care for individuals and groups. Includes simulated techniques and work with clients in selected settings. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS558": {
+    "course_id": "BMS558",
+    "title": "BMS 558 Recombinant DNA Techniques",
+    "req": "<em>Prerequisite: C grade or better in <span data-link='BMS525'>BMS 525</span>.</em>",
+    "desc": "A laboratory intensive course designed to extend the molecular biology principles and current techniques used in gene cloning, site-directed mutagenesis, transformation of eukaryotic cells, designing gene expression vectors, performing molecular hybridization techniques, confirming gene expression through reverse transcriptase PCR, and DNA sequencing. Supplemental course fee. May be taught concurrently with <span data-link='BMS658'>BMS 658</span>. Cannot receive credit for both <span data-link='BMS558'>BMS 558</span> and <span data-link='BMS658'>BMS 658</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS561": {
+    "course_id": "BMS561",
+    "title": "BMS 561 Medical and Pathologic Physiology",
+    "req": "<em>Prerequisite: <span data-link='BMS308'>BMS 308</span>.</em>",
+    "desc": "A study of physiological dysfunction in human disease with consideration of disease etiology, diagnosis, clinical interpretation, and treatment. Designed for students and professionals in the health sciences. May be taught concurrently with <span data-link='BMS661'>BMS 661</span>. Cannot receive credit for both <span data-link='BMS561'>BMS 561</span> and <span data-link='BMS661'>BMS 661</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS562": {
+    "course_id": "BMS562",
+    "title": "BMS 562 Medical and Pathologic Physiology Laboratory",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Experience using laboratory techniques and case studies to enhance knowledge of pathophysiology. May be taught concurrently with <span data-link='BMS660'>BMS 660</span>. Cannot receive credit for both <span data-link='BMS562'>BMS 562</span> and <span data-link='BMS660'>BMS 660</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS563": {
+    "course_id": "BMS563",
+    "title": "BMS 563 Advanced Work Physiology",
+    "req": "<em>Prerequisite: C grade or better in <span data-link='BMS308'>BMS 308</span>; and C grade or better in <span data-link='BMS567'>BMS 567</span> or <span data-link='KIN362'>KIN 362</span>.</em>",
+    "desc": "Review of cellular metabolism, energy transfer, and oxygen transport during work; excitation-contraction coupling in skeletal muscle; physiological mechanisms of fatigue; neuroendocrine regulation of metabolism and other responses to work; environmental factors in work performance. Emphasis on molecular and cellular mechanisms and contemporary research. May be taught concurrently with <span data-link='BMS663'>BMS 663</span>. Cannot receive credit for both <span data-link='BMS563'>BMS 563</span> and <span data-link='BMS663'>BMS 663</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS564": {
+    "course_id": "BMS564",
+    "title": "BMS 564 Molecular Endocrinology and Reproductive Physiology",
+    "req": "<em>Prerequisite: <span data-link='BMS308'>BMS 308</span>; and either <span data-link='BMS321'>BMS 321</span> or <span data-link='CHM352'>CHM 352</span>.</em>",
+    "desc": "A detailed examination of the physiological, cellular and molecular aspects of human reproduction with particular emphasis on the endocrine aspects of reproduction. May be taught concurrently with <span data-link='BMS564'>BMS 564</span>. Cannot receive credit for both <span data-link='BMS564'>BMS 564</span> and <span data-link='BMS664'>BMS 664</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BMS565": {
+    "course_id": "BMS565",
+    "title": "BMS 565 Human Cardiopulmonary Physiology",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='BMS308'>BMS 308</span> or <span data-link='BMS552'>BMS 552</span>; and either <span data-link='BMS321'>BMS 321</span> or <span data-link='CHM352'>CHM 352</span>.</em>",
+    "desc": "A cellular and molecular study of human cardiovascular and respiratory physiology and related human diseases. Emphasis will be on the molecular mechanisms for normal and abnormal functions of the blood, the blood vessels, the heart, the respiratory tract, and the lung. Current research topics and results will be introduced and discussed. May be taught concurrently with <span data-link='BMS665'>BMS 665</span>. Cannot receive credit for both <span data-link='BMS565'>BMS 565</span> and <span data-link='BMS665'>BMS 665</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS567": {
+    "course_id": "BMS567",
+    "title": "BMS 567 Physiology of Exercise Metabolism",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='BMS240'>BMS 240</span> and &quot;C&quot; grade or better in <span data-link='BMS308'>BMS 308</span>.</em>",
+    "desc": "Introduction to the study of human metabolic and work physiology. Digestion, absorption, and metabolism of biologically important nutrients as they affect cellular energy transfer; mechanisms of energy transfer in cells during various forms of work; oxygen transport and utilization at the cellular and system level; factors modifying the efficiency of human work performance. Cannot be taken Pass/Not Pass. May be taught concurrently with <span data-link='BMS667'>BMS 667</span>. Cannot receive credit for both <span data-link='BMS567'>BMS 567</span> and <span data-link='BMS667'>BMS 667</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS568": {
+    "course_id": "BMS568",
+    "title": "BMS 568 Physiology of the Human Gastrointestinal and Urinary Systems",
+    "req": "<em>Prerequisite: <span data-link='BMS308'>BMS 308</span>; and either <span data-link='BMS321'>BMS 321</span> or <span data-link='CHM352'>CHM 352</span>.</em>",
+    "desc": "Structure and function of the gastrointestinal and urinary systems including pathophysiology of common clinical conditions. May be taught concurrently with <span data-link='BMS668'>BMS 668</span>. Cannot receive credit for both <span data-link='BMS568'>BMS 568</span> and <span data-link='BMS668'>BMS 668</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BMS569": {
+    "course_id": "BMS569",
+    "title": "BMS 569 Neurobiology",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='BMS308'>BMS 308</span> or <span data-link='BMS552'>BMS 552</span>.</em>",
+    "desc": "Study of the mammalian nervous system including anatomy and principles of function. May be taught concurrently with <span data-link='BMS669'>BMS 669</span>. Cannot receive credit for both <span data-link='BMS569'>BMS 569</span> and <span data-link='BMS669'>BMS 669</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS570": {
+    "course_id": "BMS570",
+    "title": "BMS 570 Principles of Pharmacology",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='BMS308'>BMS 308</span> or <span data-link='BMS552'>BMS 552</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='BMS521'>BMS 521</span>. Overview of the aspects of pharmacology including: pharmacodynamics, pharmacokinetics, pharmacogenomics, drug selectivity, toxicity, metabolism, drug development, and drug regulation. Additionally, an overview of the major classification of drugs and their mechanisms of action will be presented. May be taught concurrently with <span data-link='BMS670'>BMS 670</span>. Cannot receive credit for both <span data-link='BMS570'>BMS 570</span> and <span data-link='BMS670'>BMS 670</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS582": {
+    "course_id": "BMS582",
+    "title": "BMS 582 Embryology",
+    "req": "<em>Prerequisite: C grade or better in <span data-link='BMS307'>BMS 307</span> or <span data-link='BIO380'>BIO 380</span>.</em>",
+    "desc": "A study of anatomical changes during early animal development with emphasis on vertebrates. Lecture emphasis is on the cellular and subcellular mechanisms that may explain normal development, especially with regard to fertilization and morphogenesis. Laboratory emphasis on the normal development of live and preserved vertebrate embryos. Meets the embryology requirements for students in pre-professional medical, dental, and allied health curricula, as well as any student requiring a background in embryology. May be taught concurrently with <span data-link='BMS682'>BMS 682</span>. Cannot receive credit for both <span data-link='BMS582'>BMS 582</span> and <span data-link='BMS682'>BMS 682</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS584": {
+    "course_id": "BMS584",
+    "title": "BMS 584 Molecular Mechanisms in Animal Development",
+    "req": "<em>Prerequisite: <span data-link='BMS521'>BMS 521</span> or <span data-link='BIO320'>BIO 320</span>.</em>",
+    "desc": "An overview of the relationship between the anatomy of developing embryos and fundamental molecular mechanisms that generate this morphology, with an emphasis on vertebrates. Some invertebrate systems will be presented. Selected topics will include cell signaling during fertilization, gene activity in early development, cytoskeleton dynamics during morphogenesis, cell-cell adhesion, master pattern genes, and regulated cell death. May be taught concurrently with <span data-link='BMS686'>BMS 686</span>. Cannot receive credit for both <span data-link='BMS584'>BMS 584</span> and <span data-link='BMS686'>BMS 686</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS585": {
+    "course_id": "BMS585",
+    "title": "BMS 585 Histology",
+    "req": "<em>Prerequisite: <span data-link='BMS307'>BMS 307</span> or <span data-link='BIO380'>BIO 380</span>.</em>",
+    "desc": "Microscopic structure of cells, tissues, and organ systems, with special emphasis on human tissues. Extensive laboratory experience with interpretation of structures in stained tissues mounted on microslides. Recommended for students in medical, dental, optometric, and other preprofessional curricula, medical technology, cell and molecular biology, and zoology. May be taught concurrently with <span data-link='BMS688'>BMS 688</span>. Cannot receive credit for both <span data-link='BMS585'>BMS 585</span> and <span data-link='BMS688'>BMS 688</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS593": {
+    "course_id": "BMS593",
+    "title": "BMS 593 Bioinformatics and Biomedical Resources",
+    "req": "<em>Prerequisite: C or better in <span data-link='BMS321'>BMS 321</span>.</em>",
+    "desc": "Use of biomedical source materials and methods of data access, selection, organization, and evaluation. May be taught concurrently with <span data-link='BMS693'>BMS 693</span>. Cannot receive credit for both <span data-link='BMS593'>BMS 593</span> and <span data-link='BMS693'>BMS 693</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS595": {
+    "course_id": "BMS595",
+    "title": "BMS 595 Introduction to Research in Dietetics",
+    "req": "<em>Prerequisite: completion of 90 hours of coursework, including <span data-link='BMS335'>BMS 335</span>, <span data-link='BMS532'>BMS 532</span>, and statistics; <span data-link='QBA237'>QBA 237</span> or <span data-link='SOC302'>SOC 302</span> or <span data-link='PSY200'>PSY 200</span> or <span data-link='MTH340'>MTH 340</span> or <span data-link='MTH545'>MTH 545</span>.</em>",
+    "desc": "Fundamentals of research in nutrition including research design, methodology, data collection and analysis, and presentation. Grant writing and funding process for research. Class discussions to include critiques of published research. Class projects to include research proposal/project and presentation. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS599": {
+    "course_id": "BMS599",
+    "title": "BMS 599 Health Literacy in the Human Services",
+    "req": "<em>Prerequisite: junior standing and permission of instructor.</em>",
+    "desc": "This online course offers an interdisciplinary approach to understanding functional health literacy and how the public&apos;s literacy skills affect interactions with health and human services professionals. Includes an examination of the data for national and international literacy levels and populations at risk for low literacy; research on health literacy; assessment tools; and practical techniques for addressing literacy issues in spoken and written communications at the practitioner and organizational levels. Identical with <span data-link='SWK599'>SWK 599</span>. Cannot receive credit for both <span data-link='BMS599'>BMS 599</span> and <span data-link='SWK599'>SWK 599</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS602": {
+    "course_id": "BMS602",
+    "title": "BMS 602 Special Topics in Biomedical Sciences II",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Selected topics of an advanced nature which will vary from semester to semester. May be repeated by a student for a maximum of 8 hours of credit provided topics are different. May be taught concurrently with <span data-link='BMS500'>BMS 500</span>. Cannot receive credit for both <span data-link='BMS500'>BMS 500</span> and <span data-link='BMS602'>BMS 602</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BMS614": {
+    "course_id": "BMS614",
+    "title": "BMS 614 Scanning Electron Microscopy",
+    "desc": "An introduction to microsurface analysis using scanning electron microscopy and X-ray microanalysis. Theoretical considerations and laboratory procedures involve both techniques but the major emphasis will be on generation of secondary electron images. Some attention is devoted to backscattered electron imaging, X-ray mapping, stereo pair imaging, and related image processing techniques. May be taught concurrently with <span data-link='BMS514'>BMS 514</span>. Cannot receive credit for both <span data-link='BMS514'>BMS 514</span> and <span data-link='BMS614'>BMS 614</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS616": {
+    "course_id": "BMS616",
+    "title": "BMS 616 Transmission Electron Microscopy",
+    "desc": "Demonstration of basic transmission electron microscopy techniques and Microscope use. Emphasis is on ultrathin sectioning techniques; additional techniques include support film preparation, negative staining, immunogold localization procedures, and digital processing of photographic prints and negatives. May be taught concurrently with <span data-link='BMS516'>BMS 516</span> . Cannot receive credit for both <span data-link='BMS516'>BMS 516</span> and <span data-link='BMS616'>BMS 616</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS620": {
+    "course_id": "BMS620",
+    "title": "BMS 620 Medical Cell Biology",
+    "req": "<em>Prerequisite: admission to the MS in Nurse Anesthesia program.</em>",
+    "desc": "Focus on the molecular aspects of cell biology for students in the Nurse Anesthesia program. Content identical to the lecture part of <span data-link='BMS622'>BMS 622</span>. Cannot receive credit for both <span data-link='BMS620'>BMS 620</span> and 622. May be taught concurrently with <span data-link='BMS520'>BMS 520</span>. Cannot receive credit for <span data-link='BMS520'>BMS 520</span> and <span data-link='BMS620'>BMS 620</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS622": {
+    "course_id": "BMS622",
+    "title": "BMS 622 Molecular Cell Biology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Origins, structure and function of cells and basic life processes from a molecular perspective. Major topics focus on the energy, chemical, and information exchanges within and among cells and their environment. Cannot receive credit for both <span data-link='BMS620'>BMS 620</span> and 622. May be taught concurrently with <span data-link='BMS521'>BMS 521</span>. Cannot receive credit for <span data-link='BMS521'>BMS 521</span> and <span data-link='BMS622'>BMS 622</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS624": {
+    "course_id": "BMS624",
+    "title": "BMS 624 Virology",
+    "req": "<em>Prerequisite: <span data-link='BMS622'>BMS 622</span>.</em>",
+    "desc": "The molecular biology and pathogenicity of animal viruses; basic techniques of tissue culture and virology will be performed in the laboratory. May be taught concurrently with <span data-link='BMS524'>BMS 524</span>. Cannot receive credit for <span data-link='BMS524'>BMS 524</span> and <span data-link='BMS624'>BMS 624</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS625": {
+    "course_id": "BMS625",
+    "title": "BMS 625 Molecular Biology",
+    "req": "<em>Prerequisite: permission of the instructor.</em>",
+    "desc": "In-depth examination of nucleic acid structure, function, regulation, repair, and mutagenesis; principles of genetic engineering. Laboratory provides experience in the techniques used to isolate, separate, quantitate, characterize, and modify nucleic acids. The course also includes an introduction to the GenBank and EMBL nucleic acid and protein sequence databases. May be taught concurrently with <span data-link='BMS525'>BMS 525</span>. Cannot receive credit for <span data-link='BMS525'>BMS 525</span> and <span data-link='BMS625'>BMS 625</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS628": {
+    "course_id": "BMS628",
+    "title": "BMS 628 Molecular Mechanisms of Bacterial Pathogenesis",
+    "req": "<em>Prerequisite: <span data-link='BMS622'>BMS 622</span>.</em>",
+    "desc": "An in-depth study of the methods of genetic control and production of pathogenic factors employed by disease causing bacteria. The course will use both reference material and primary literature to illustrate the topics under discussion. May be taught concurrently with <span data-link='BMS528'>BMS 528</span>. Cannot receive credit for both <span data-link='BMS528'>BMS 528</span> and <span data-link='BMS628'>BMS 628</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS629": {
+    "course_id": "BMS629",
+    "title": "BMS 629 Molecular Genetics",
+    "req": "<em>Prerequisite: <span data-link='BMS625'>BMS 625</span>.</em>",
+    "desc": "Recent advances in the molecular aspects of genetics; mammalian DNA will be characterized and manipulated using modern molecular techniques. May be taught concurrently with <span data-link='BMS529'>BMS 529</span>. Cannot receive credit for both <span data-link='BMS529'>BMS 529</span> and <span data-link='BMS629'>BMS 629</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS631": {
+    "course_id": "BMS631",
+    "title": "BMS 631 Cell Biology of Cancer",
+    "req": "<em>Prerequisite: <span data-link='BMS622'>BMS 622</span>.</em>",
+    "desc": "Discussion of the initiation, cellular and genetic events which lead to cancer as well as its prevention, treatment, and personal consequences. An extensive paper and presentation are required. May be taught concurrently with <span data-link='BMS530'>BMS 530</span>. Cannot receive credit for both <span data-link='BMS530'>BMS 530</span> and <span data-link='BMS631'>BMS 631</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS635": {
+    "course_id": "BMS635",
+    "title": "BMS 635 Signal Transduction",
+    "req": "<em>Prerequisite: <span data-link='BMS622'>BMS 622</span>.</em>",
+    "desc": "This course will examine the molecular mechanisms of various ligand/receptor interactions. The dynamics involved in ligand/receptor binding will be studied and examples of receptor-mediated signal transduction will be introduced. Signaling pathways within the cell will be discussed. Primary literature and reference materials will be utilized to illustrate specific examples under discourse. May be taught concurrently with <span data-link='BMS535'>BMS 535</span>. Cannot receive credit for both <span data-link='BMS535'>BMS 535</span> and <span data-link='BMS635'>BMS 635</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS640": {
+    "course_id": "BMS640",
+    "title": "BMS 640 Biotechnology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "The applications of the methodologies of cell and molecular biology in the rapidly-evolving biotechnology and biopharmaceutical industries with an emphasis on the major sectors involving human therapeutics, human diagnostics, and genomics. Cell and molecular biology technologies adapted to mass production techniques to produce the products of biotechnology are surveyed. Typical pathways of product development from original basic research, product inception, clinical trials, regulatory approval, and commercialization are covered. Students will examine the current programs of the research and development of selected biotechnology and big pharmaco corporations. May be taught concurrently with <span data-link='BMS540'>BMS 540</span>. Cannot receive credit for both <span data-link='BMS540'>BMS 540</span> and <span data-link='BMS640'>BMS 640</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS645": {
+    "course_id": "BMS645",
+    "title": "BMS 645 Clinical Gross Anatomy",
+    "req": "<em>Prerequisite: admission to Master of Occupational Therapy program.</em>",
+    "desc": "The course offers in-depth coverage of basic, applied and clinical aspects of gross anatomy. An advanced musculoskeletal anatomy course that emphasizes the study of functional relationships between musculature, nervous tissue, vascular and skeletal components for the extremities and axial skeleton: Cadaver dissection laboratory experience is used to enhance understanding of three dimensional anatomical relationships for specific body regions. Students observe, discuss, teach, learn and dissect all body systems in detail. This course incorporate traditional didactic lectures, discussions, laboratory dissection, students teaching students (peer-teaching) in laboratory sessions and assignments that rely on critical thinking. Supplemental course fee. Identical with <span data-link='OTE645'>OTE 645</span>. Cannot receive credit for both <span data-link='BMS645'>BMS 645</span> and <span data-link='OTE645'>OTE 645</span>. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BMS658": {
+    "course_id": "BMS658",
+    "title": "BMS 658 Recombinant DNA Techniques",
+    "req": "<em>Prerequisite: C grade or better in <span data-link='BMS625'>BMS 625</span>.</em>",
+    "desc": "A laboratory intensive course designed to extend the molecular biology principles and current techniques used in gene cloning, site-directed mutagenesis, transformation of eukaryotic cells, designing gene expression vectors, performing molecular hybridization techniques, confirming gene expression through reverse transcriptase PCR, and DNA sequencing. Supplemental course fee. May be taught concurrently with <span data-link='BMS558'>BMS 558</span>. Cannot receive credit for both <span data-link='BMS558'>BMS 558</span> and <span data-link='BMS658'>BMS 658</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS660": {
+    "course_id": "BMS660",
+    "title": "BMS 660 Medical and Pathologic Physiology Laboratory",
+    "req": "<em>Prerequisite: admission to MS in Cell and Molecular Biology or MS in Nurse Anesthesia Program.</em>",
+    "desc": "Experience using laboratory techniques and case studies to enhance knowledge of pathophysiology. May be taught concurrently with <span data-link='BMS562'>BMS 562</span>. Cannot receive credit for both <span data-link='BMS562'>BMS 562</span> and <span data-link='BMS660'>BMS 660</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS661": {
+    "course_id": "BMS661",
+    "title": "BMS 661 Medical and Pathologic Physiology",
+    "req": "<em>Prerequisite: admission to MS in Cell and Molecular Biology or MS in Nurse Anesthesia Program.</em>",
+    "desc": "A study of physiological dysfunction in human disease with consideration of disease etiology, diagnosis, clinical interpretation, and treatment. Designed for students and professionals in the health sciences. May be taught concurrently with <span data-link='BMS561'>BMS 561</span>. Cannot receive credit for both <span data-link='BMS561'>BMS 561</span> and <span data-link='BMS661'>BMS 661</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS663": {
+    "course_id": "BMS663",
+    "title": "BMS 663 Advanced Work Physiology",
+    "desc": "Review of cellular metabolism, energy transfer, and oxygen transport during work; excitation-contraction coupling in skeletal muscle; physiological mechanisms of fatigue; neuroendocrine regulation of metabolism and other responses to work; environmental factors in work performance. Emphasis on molecular and cellular mechanisms and contemporary research. May be taught concurrently with <span data-link='BMS563'>BMS 563</span>. Cannot receive credit for both <span data-link='BMS563'>BMS 563</span> and <span data-link='BMS663'>BMS 663</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS664": {
+    "course_id": "BMS664",
+    "title": "BMS 664 Molecular Endocrinology and Reproductive Physiology",
+    "desc": "A detailed examination of the physiological, cellular and molecular aspects of human reproduction with particular emphasis on the endocrine aspects of reproduction. May be taught concurrently with <span data-link='BMS564'>BMS 564</span>. Cannot receive credit for both <span data-link='BMS564'>BMS 564</span> and <span data-link='BMS664'>BMS 664</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BMS665": {
+    "course_id": "BMS665",
+    "title": "BMS 665 Human Cardiopulmonary Physiology",
+    "req": "<em>Prerequisite: admission to MS in Cell and Molecular Biology or MS in Nurse Anesthesia program.</em>",
+    "desc": "A cellular and molecular study of human cardiovascular and respiratory physiology and related human diseases. Emphasis will be on the molecular mechanisms for normal and abnormal functions of the blood, the blood vessels, the heart, the respiratory tract, and the lung. Current research topics and results will be introduced and discussed. May be taught concurrently with <span data-link='BMS565'>BMS 565</span>. Cannot receive credit for both <span data-link='BMS565'>BMS 565</span> and <span data-link='BMS665'>BMS 665</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS667": {
+    "course_id": "BMS667",
+    "title": "BMS 667 Physiology of Exercise Metabolism",
+    "desc": "Introduction to the study of human metabolic and work physiology. Digestion, absorption, and metabolism of biologically important nutrients as they affect cellular energy transfer; mechanisms of energy transfer in cells during various forms of work; oxygen transport and utilization at the cellular and system level; factors modifying the efficiency of human work performance. May be taught concurrently with <span data-link='BMS567'>BMS 567</span>. Cannot receive credit for both <span data-link='BMS567'>BMS 567</span> and <span data-link='BMS667'>BMS 667</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS668": {
+    "course_id": "BMS668",
+    "title": "BMS 668 Physiology of the Human Gastrointestinal and Urinary Systems",
+    "desc": "Structure and function of the gastrointestinal and urinary systems including pathophysiology of common clinical conditions. May be taught concurrently with <span data-link='BMS568'>BMS 568</span>. Cannot receive credit for both <span data-link='BMS568'>BMS 568</span> and <span data-link='BMS668'>BMS 668</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BMS669": {
+    "course_id": "BMS669",
+    "title": "BMS 669 Neurobiology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Study of the mammalian nervous system including anatomy and principles of function. May be taught concurrently with <span data-link='BMS569'>BMS 569</span>. Cannot receive credit for both <span data-link='BMS569'>BMS 569</span> and <span data-link='BMS669'>BMS 669</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS670": {
+    "course_id": "BMS670",
+    "title": "BMS 670 Principles of Pharmacology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='BMS622'>BMS 622</span>. Overview of the aspects of pharmacology including: pharmacodynamics, pharmacokinetics, pharmacogenomics, drug selectivity, toxicity, metabolism, drug development, and drug regulation. Additionally, an overview of the major classification of drugs and their mechanisms of action will be presented. May be taught concurrently with <span data-link='BMS570'>BMS 570</span>. Cannot receive credit for both <span data-link='BMS670'>BMS 670</span> and <span data-link='BMS570'>BMS 570</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS682": {
+    "course_id": "BMS682",
+    "title": "BMS 682 Embryology",
+    "desc": "Recommended Prerequisite: human anatomy. A study of anatomical changes during early animal development with emphasis on vertebrates. Lecture emphasis is on the cellular and subcellular mechanisms that may explain normal development, especially with regard to fertilization and morphogenesis. Laboratory emphasis on the normal development of live and preserved vertebrate embryos. Meets the embryology requirements for students in pre-professional medical, dental, and allied health curricula, as well as any student requiring a background in embryology. May be taught concurrently with <span data-link='BMS582'>BMS 582</span>. Cannot receive credit for both <span data-link='BMS582'>BMS 582</span> and <span data-link='BMS682'>BMS 682</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS686": {
+    "course_id": "BMS686",
+    "title": "BMS 686 Molecular Mechanisms in Animal Development",
+    "desc": "An overview of the relationship between the anatomy of developing embryos and fundamental molecular mechanisms that generate this morphology, with an emphasis on vertebrates. Some invertebrate systems will be presented. Selected topics will include cell signaling during fertilization, gene activity in early development, cytoskeleton dynamics during morphogenesis, cell-cell adhesion, master pattern genes, and regulated cell death. May be taught concurrently with <span data-link='BMS584'>BMS 584</span>. Cannot receive credit for both <span data-link='BMS584'>BMS 584</span> and <span data-link='BMS686'>BMS 686</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS688": {
+    "course_id": "BMS688",
+    "title": "BMS 688 Histology",
+    "desc": "Microscopic structure of cells, tissues, and organ systems, with special emphasis on human tissues. Extensive laboratory experience with interpretation of structures in stained tissues mounted on microslides. Recommended for students in medical, dental, optometric, and other preprofessional curricula, medical technology, cell and molecular biology, and zoology. May be taught concurrently with <span data-link='BMS585'>BMS 585</span>. Cannot receive credit for both <span data-link='BMS585'>BMS 585</span> and <span data-link='BMS688'>BMS 688</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS693": {
+    "course_id": "BMS693",
+    "title": "BMS 693 Bioinformatics and Biomedical Resources",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Use of biomedical source materials and methods of data access, selection, organization, and evaluation. May be taught concurrently with <span data-link='BMS593'>BMS 593</span>. Cannot receive credit for both <span data-link='BMS593'>BMS 593</span> and <span data-link='BMS693'>BMS 693</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS700": {
+    "course_id": "BMS700",
+    "title": "BMS 700 Introduction to Graduate Studies in the Biomedical Sciences",
+    "req": "<em>Prerequisite: admission to MS in Nurse Anesthesia program.</em>",
+    "desc": "Study of the researcher role, the research process, and research ethics relating to the biomedical sciences. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS701": {
+    "course_id": "BMS701",
+    "title": "BMS 701 Research in the Biomedical Sciences",
+    "req": "<em>Prerequisite: admission to MS in Cell and Molecular Biology program; and statistics: <span data-link='MTH645'>MTH 645</span> or <span data-link='BIO650'>BIO 650</span> or <span data-link='PSY711'>PSY 711</span> or <span data-link='PBH730'>PBH 730</span> or concurrent enrollment in statistics.</em>",
+    "desc": "Focus on research skills, scientific writing, and professional development. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS707": {
+    "course_id": "BMS707",
+    "title": "BMS 707 Medical Human Anatomy",
+    "req": "<em>Prerequisite: admission to Doctor of Physical Therapy program.</em>",
+    "desc": "This course offers an in-depth coverage of basic, applied, and clinical aspects of gross anatomy. Students observe, discuss, teach, learn, and dissect all body systems in detail. This course incorporates traditional didactic lectures, discussions, laboratory dissection, students teaching students in laboratory teaching sessions, and assignments that rely on critical thinking. Students make oral presentations and use the library and other sources of information (such as the Internet and our Computer Laboratory) to learn and teach applied gross anatomy. Identical with <span data-link='PTE707'>PTE 707</span>. Cannot receive credit for both <span data-link='BMS707'>BMS 707</span> and <span data-link='PTE707'>PTE 707</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 6,
+      "lecture": 3,
+      "lab": 10
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS711": {
+    "course_id": "BMS711",
+    "title": "BMS 711 Microbial Genetics",
+    "req": "<em>Prerequisite: <span data-link='BMS622'>BMS 622</span>.</em>",
+    "desc": "Course is designed to investigate various aspects of microbial genetics using advanced laboratory techniques. Experiments may include DNA and plasmid isolation and characterization, mutagenesis, transformation, transduction and conjugation of bacteria. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS717": {
+    "course_id": "BMS717",
+    "title": "BMS 717 Medical Human Anatomy and Radiology",
+    "req": "<em>Prerequisite: admission to the Physician Assistant Studies program.</em>",
+    "desc": "Regional study of the human body. Course will include lecture and laboratory activities including cadaver dissection, study of anatomic models, computer images, x-ray, CAT scan and MRI, and ultrasound imaging. Identical with <span data-link='PAS717'>PAS 717</span>. Cannot receive credit for both <span data-link='BMS717'>BMS 717</span> and <span data-link='PAS717'>PAS 717</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 6,
+      "lecture": 3,
+      "lab": 11
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS726": {
+    "course_id": "BMS726",
+    "title": "BMS 726 Advanced Topics in Cell and Molecular Biology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Focused or detailed consideration of advanced or timely topics in cell and molecular biology. May involve group discussion from another institution or represent individual study. Credit for <span data-link='BMS726'>BMS 726</span> may be given for electronic and distance learning courses available via the Internet with the approval of the cell and molecular biology faculty who will determine the credit hours and topic title. Variable content course. May be repeated up to 6 hours when topic varies. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS727": {
+    "course_id": "BMS727",
+    "title": "BMS 727 Human Gross Anatomy",
+    "req": "<em>Prerequisite: admission to MS in Nurse Anesthesia program.</em>",
+    "desc": "In-depth study of the gross anatomy of the human body in areas of interest relating to administration of anesthesia. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BMS728": {
+    "course_id": "BMS728",
+    "title": "BMS 728 Human Neurophysiology and Anatomy",
+    "req": "<em>Prerequisite: admission to the DNAP program.</em>",
+    "desc": "This is a blended course designed for a study of human neuroanatomy and neurobiology with emphasis on understandings of pain sensation and perception. Lecture is focused on fundamental structure and function of central nerve system and peripheral nerve system with respect to pain followed by understandings of its regulatory mechanisms and pathological pain. The lecture portion incorporated non-traditional online lectures and discussion in classroom. Laboratory offers hands-on learning opportunities with emphasis on pain-related Gross Anatomy and pain management. Students observe, discuss, teach, and learn about the human nervous system in a cooperative learning environment. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BMS730": {
+    "course_id": "BMS730",
+    "title": "BMS 730 Current Literature Topics",
+    "req": "<em>Prerequisite: admission to MS in Cell and Molecular Biology program.</em>",
+    "desc": "A weekly forum of faculty and graduate students to discuss reports in the current literature from cell, molecular, and developmental biology. Participants are assigned to report on developments in their specialty or area of interest and provide background for understanding the basis and significance of the report to others in the group. May be repeated. Required each regular semester for full time students. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS732": {
+    "course_id": "BMS732",
+    "title": "BMS 732 Clinical Preventive Medicine",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "A review of current scientific evidence regarding effective screening tests and interventions to improve health status. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS742": {
+    "course_id": "BMS742",
+    "title": "BMS 742 Organ Physiology",
+    "req": "<em>Prerequisite: <span data-link='BMS620'>BMS 620</span> or <span data-link='BMS622'>BMS 622</span> and admission to the Cell and Molecular Biology graduate program or DNAP program.</em>",
+    "desc": "Course is the study of the human cardiovascular and respiratory physiology and related human diseases. Emphasis is on the normal and abnormal functions of the heart, lungs and vascular systems. Consideration of disease etiology, diagnosis and clinical interpretation of the cardiopulmonary and vascular systems. Current research topics will be introduced and discussed. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS752": {
+    "course_id": "BMS752",
+    "title": "BMS 752 Medical Physiology",
+    "req": "<em>Prerequisite: admission to Physician Assistant Studies program or Doctor of Physical Therapy program or MS in Cell and Molecular Biology program.</em>",
+    "desc": "The study of biological function of the human organism. Emphasis will be placed on mechanisms and regulation using examples focusing on the field of medicine. Topics covered will include general cell function, neural, endocrine, cardiovascular, respiratory, gastrointestinal and renal physiology and regulation of acid-base balance. The course stresses the interrelated functions of the body systems in homeostasis and builds on this knowledge to introduce how disease alters the homeostatic controls. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS784": {
+    "course_id": "BMS784",
+    "title": "BMS 784 Developmental Genetics",
+    "req": "<em>Prerequisite: <span data-link='BMS625'>BMS 625</span>.</em>",
+    "desc": "A study of developmental gene families, their expressions as related to the normal and abnormal development of form and structure, and their intrinsic and extrinsic regulation in various animal model systems, including humans. Specific gene-programmed and gene regulated mechanisms such as those regulating pattern formation, triggering cell differentiation, initiating regeneration (as it applies to specific tissues and organs), controlling apoptosis, and determining rates of cellular and organismal aging are included. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BMS785": {
+    "course_id": "BMS785",
+    "title": "BMS 785 Histology and Tissue Biology",
+    "req": "<em>Prerequisite: admission to MS in Nurse Anesthesia program or MS in Cell and Molecular Biology program.</em>",
+    "desc": "This course emphasizes the structure and basic function of all the major tissues and cell types in the human body. It includes normal cell and tissue morphology and the adaptations that occur as a result of various stimuli both normal and abnormal. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BMS797": {
+    "course_id": "BMS797",
+    "title": "BMS 797 Non-Thesis Project",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "In-depth study in an area of interest, culminating in a presentation of an extensive scholarly paper. Graded Pass/Not Pass Only. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS798": {
+    "course_id": "BMS798",
+    "title": "BMS 798 Research",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Application of the research process in the supervised study of a selected problem. May be repeated for a maximum of 6 hours. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BMS799": {
+    "course_id": "BMS799",
+    "title": "BMS 799 Thesis",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Demonstration of the capacity for research and independent thought culminating in a thesis. May be repeated for a maximum of 6 hours. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DTN740": {
+    "course_id": "DTN740",
+    "title": "DTN 740 Medical Nutrition Therapy I Practicum",
+    "req": "<em>Prerequisite: admission to the graduate Dietetic Internship Certificate Program.</em>",
+    "desc": "This is the first of a two-semester course sequence providing field experience in patient/client nutritional management at various sites under professional supervision (37 hours per week). Emphasis will be on utilizing the nutrition care process in providing basic medical nutrition therapy to include at least diabetes, heart disease, lung disease and basic health promotion in an acute or clinical setting. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DTN741": {
+    "course_id": "DTN741",
+    "title": "DTN 741 Medical Nutrition Therapy II Practicum",
+    "req": "<em>Prerequisite: admission to the graduate Dietetic Internship Certificate Program.</em>",
+    "desc": "This is the second of a two-semester course sequence providing eight weeks of field experience in patient/client nutritional management at various sites under professional supervision (40 hours per week). Emphasis will be on utilizing the nutrition care process in providing medical nutrition therapy to include at least tube feeding, TPN, pre/post surgery patients in an acute or clinical setting with a research component required as part of the practicum. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DTN742": {
+    "course_id": "DTN742",
+    "title": "DTN 742 Public Health Nutrition Practicum",
+    "req": "<em>Prerequisite: admission to the graduate Dietetic Internship Certificate Program.</em>",
+    "desc": "This course provides a six week field experience in the delivery of public health and community nutrition programs at local, state, national levels at various sites under professional supervision (37 hours per week). Current issues relating to the promotion of good nutrition and preventive health care will be examined. Students will evaluate nutrition components of various community health agencies and participate in the delivery of services. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DTN743": {
+    "course_id": "DTN743",
+    "title": "DTN 743 Food Service Management Practicum",
+    "req": "<em>Prerequisite: admission to the graduate Dietetic Internship Certificate Program.</em>",
+    "desc": "This course provides a six week field experience (37 hours per week) practicing a systems approach to nutrition services management, including the human dimensions of management, management tools and techniques for assessing accountability, cost containment, productivity and marketing plans. Projects include development of a personnel and operational budget for nutrition services. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DTN744": {
+    "course_id": "DTN744",
+    "title": "DTN 744 Practicum in Area of Concentration",
+    "req": "<em>Prerequisite: admission to the graduate Dietetic Internship Certificate Program.</em>",
+    "desc": "This course provides a six week field experience (40 hours per week) in either Public Affairs or Rural Health. Field placements and experiences will be developed with each student and the program director. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DTN745": {
+    "course_id": "DTN745",
+    "title": "DTN 745 Topics and Issues in Dietetics",
+    "req": "<em>Prerequisite: admission to the graduate Dietetic Internship Certificate Program.</em>",
+    "desc": "This course provides a six week forum (3 hours per week) for topics pertinent to the practice setting and transition to professional practice. Topics of interest will cover areas such as managed health care, ethical decision-making, registration examination, charting, etc. May be repeated to 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "IPE375": {
+    "course_id": "IPE375",
+    "title": "IPE 375 Introduction to Interprofessional Health Care",
+    "desc": "This course provides an introduction to interprofessional health care education and collaborative practice for students in health professions programs. Topics include the history of interprofessional health care education in the U.S. and internationally, philosophical and theoretical foundations, and competencies required for effective collaboration to improve health care outcomes. Students explore the roles of various health professions in collaborative patient/client, family, and community health care. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "IPE376": {
+    "course_id": "IPE376",
+    "title": "IPE 376 Cultural Competence in Health Care",
+    "req": "<em>Prerequisite: Health Services major or permission.</em>",
+    "desc": "This course is designed to assist the Health Services major explore, understand, and appreciate issues and challenges that can be encountered in the healthcare setting working with cultural and ethnically diverse patient populations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "IPE377": {
+    "course_id": "IPE377",
+    "title": "IPE 377 Global Issues in Health Services",
+    "req": "<em>Prerequisite: Health Services major, <span data-link='PLS101'>PLS 101</span> or Missouri Constitution Study requirement met or permission.</em>",
+    "desc": "This course is designed to introduce students in the Health Services major to the principal health systems of the world&apos;s populations, and major challenges to improving health globally. Students will explore interdisciplinary factors accounting for health patterns that impact global health, health care delivery systems worldwide, and the governmental, economic, social and political forces that influence them. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "IPE470": {
+    "course_id": "IPE470",
+    "title": "IPE 470 Foundations of Patient Safety for Health Professionals",
+    "req": "<em>Prerequisite: <span data-link='IPE375'>IPE 375</span> or concurrent enrollment.</em>",
+    "desc": "This course provides a foundation for patient safety and health care quality improvement for students in the health professions with an emphasis on the roles of both individuals and systems. Topics include: the scope of the problem, terminology and basic concepts of safety systems, patient safety interventions, measuring and reporting safety, incident investigations, institutional responses to adverse events, communication and teamwork, and models to improve patient safety. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "IPE475": {
+    "course_id": "IPE475",
+    "title": "IPE 475 Evidence-Based Health Care Practice",
+    "req": "<em>Prerequisite: <span data-link='IPE375'>IPE 375</span>.</em>",
+    "desc": "This course will enable students to develop the analytical and critical thinking skills necessary to assess the scientific literature, clinical guidelines, and other information resources needed to integrate evidence into practice to improve health care outcomes. Working in interprofessional teams, students will formulate interprofessional health care questions, identify articles and other evidence-based resources, critically appraise the evidence to assess validity, and communicate the evidence to others. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "IPE575": {
+    "course_id": "IPE575",
+    "title": "IPE 575 Collaborative Health Care Leadership",
+    "req": "<em>Prerequisite: senior standing; and <span data-link='IPE375'>IPE 375</span>.</em>",
+    "desc": "This course explores theories, models and responsibilities of leadership within an interprofessional health care context. Students apply leadership practices that support collaborative practice and synthesize prior learning to plan, implement, and evaluate a health project designed to improve patient/client health outcomes. Students document and communicate results in written report and oral presentation. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTC401": {
+    "course_id": "MTC401",
+    "title": "MTC 401 Clinical Chemistry",
+    "desc": "Analytical and theoretical aspects of the clinical biochemistry of body fluid constituents, utilizing both manual and instrumental techniques including automation and special procedures. ",
+    "hours": {
+      "credit": 9
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTC402": {
+    "course_id": "MTC402",
+    "title": "MTC 402 Clinical Microscopy-Urinalysis",
+    "desc": "Principles and techniques of the physical, chemical and microscopic examination of urine and other excreta as related to disease processes. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTC403": {
+    "course_id": "MTC403",
+    "title": "MTC 403 Hematology-Coagulation",
+    "desc": "A study of the cellular element of blood and bone marrow; theory of cell production, release and survival; morphological characteristics of normal and abnormal cells; quantitative and qualitative abnormalities. Principles and techniques involved in the study of hemostasis, blood coagulation and hemorrhagic disorders. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTC404": {
+    "course_id": "MTC404",
+    "title": "MTC 404 Serology-Immunology",
+    "desc": "The science of immunity including antibody development, principles of antigen-antibody interactions, and techniques of serological testing for various disease states. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTC405": {
+    "course_id": "MTC405",
+    "title": "MTC 405 Clinical Microbiology",
+    "desc": "Sterile technique, methods of handling and inoculating specimens containing pathogenic microorganisms, isolation and identification of pathogenic microorganisms, laboratory test in chemotherapy, and diagnostic bacteriology, mycology, and parasitology. ",
+    "hours": {
+      "credit": 7
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTC406": {
+    "course_id": "MTC406",
+    "title": "MTC 406 Blood Bank-Immunohematology",
+    "desc": "A study of blood group systems and the immune response. Methods of cross-matching, antibody screening, and phenotyping. Administrative safeguards and legal aspects of blood banking. Proper clinical utilization of blood components. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTC407": {
+    "course_id": "MTC407",
+    "title": "MTC 407 Special Topics in Medical Technology-Education and Management",
+    "desc": "Instruction will include lecture and/or clinical practice in the areas of In-Service Education, Management and Supervision, Research and Development, and Principles and Techniques of the Instructional Process. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

@@ -1,0 +1,1156 @@
+{
+  "PLS101": {
+    "course_id": "PLS101",
+    "title": "PLS 101 American Democracy and Citizenship",
+    "req": "<em>General Education Course (Focus on Constitutions of US and Missouri and American History and Institutions).</em>",
+    "desc": "This course familiarizes students with the institutions and constitutional framework of the United States and Missouri. The course emphasis is on the values, rights, and responsibilities that shape the public decision making of active and informed citizens and influence contemporary public affairs in a democratic society. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS102": {
+    "course_id": "PLS102",
+    "title": "PLS 102 Introduction to American Public Policy",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "This course deals with the process of policy formulation and with the historical development of specific public policies in such fields as economics, foreign affairs, education, business and labor, social welfare, criminal justice, health and environment. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS103": {
+    "course_id": "PLS103",
+    "title": "PLS 103 Missouri Government and Politics",
+    "desc": "The course familiarizes students with the institutions and constitutional framework in Missouri. This course will partially fulfill Senate Bill 4 requirements with respect to the Missouri Constitution and institutions. Students who have met the Missouri Constitution Study Requirement (Senate Bill # 4) either through completion of <span data-link='PLS101'>PLS 101</span> at Missouri State or completion of a transfer course that fulfills the requirement, are precluded from taking <span data-link='PLS103'>PLS 103</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS169": {
+    "course_id": "PLS169",
+    "title": "PLS 169 Introduction to Political Science",
+    "desc": "An introduction to the contemporary concerns and historical development of political science as a social science and as a mode of critical thinking about politics and society. Emphasis is upon acquainting students with the scope of intellectual inquiry and the specialized sub-fields of study of modern political science rather than with the particular characteristics of American government and politics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS205": {
+    "course_id": "PLS205",
+    "title": "PLS 205 Introduction to Comparative Government",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "An introductory comparative study of the principles, techniques, and policy issues of government in constitutional democracies and authoritarian regimes. The course focuses on selected West European (Britain, France, Germany) and non-West European (Japan, Mexico, Russia) countries, and the evolution of the European Community. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS232": {
+    "course_id": "PLS232",
+    "title": "PLS 232 International Relations",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Conflict and cooperation in the nation-state system. Theories on international organization, power politics, regional integration, nationalism, war. Problems of developing areas such as Africa, Latin America and Southeast Asia. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS255": {
+    "course_id": "PLS255",
+    "title": "PLS 255 Public Administration",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "American administrative organization and activities; centralization, decentralization and relations between the administration and other branches of government. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS300": {
+    "course_id": "PLS300",
+    "title": "PLS 300 Service Learning in Political Science",
+    "req": "<em>Prerequisite: 30 hours; and concurrent registration in a Political Science course designated as a service learning offering; and permission.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in Political Science to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS301": {
+    "course_id": "PLS301",
+    "title": "PLS 301 U.S. National Security",
+    "desc": "This class examines American national security from the cultural, institutional and policy perspectives. It will pay close attention to those enduring factors that shape American defense policies as well as exploring developments that have modified America&apos;s approach to security. Moreover, in addition to studying the structure and operation of today&apos;s policymaking process, the course will investigate the way the process has evolved in the past fifty years and will analyze the way key policies are produced and implemented by the U.S. government. Finally, reflecting changes in the world and in the field of national security studies, the course will cover not only the traditional concerns of national security (e.g., creation and use of military force for physical security of the territorial-state), but also the definition and achievement of individual and global security in the face of non-military problems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS315": {
+    "course_id": "PLS315",
+    "title": "PLS 315 Federalism and Intergovernmental Relations",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Nature of American Federalism and the dynamics of intergovernmental relationships; the course examines the role of the national and the state governments in intergovernmental relations as well as the state, local, interstate and interlocal relations. Issues of federal grants, fiscal outlook of cities, problems of inner cities, and metropolitan governments are also discussed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS316": {
+    "course_id": "PLS316",
+    "title": "PLS 316 Political Parties, Elections and Interest Groups",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "A survey of the nature, evolution and functions of parties, elections and interest groups in the United States. An emphasis will be placed on the role played by these institutions in linking citizens to the public policy process. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS317": {
+    "course_id": "PLS317",
+    "title": "PLS 317 American Political Behavior",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "An examination of various approaches to analyzing mass and elite political behavior in the United States. An emphasis will be placed on survey research, public opinion, political socialization, political psychology and voting behavior. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS319": {
+    "course_id": "PLS319",
+    "title": "PLS 319 Women in Politics",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "A survey of various aspects of the role of women in politics. The course will include an examination of the place of women in political history, women as political leaders, the ways in which women impact government, and public policies relating to women and families. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS330": {
+    "course_id": "PLS330",
+    "title": "PLS 330 Introduction to Political Theory",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "An introduction to the study of political theory by examining the central questions that animate our attempt to understand and secure the &quot;good life.&quot; These concerns include: the nature and significance of politics; the origin and character of legitimate authority; and the meaning of freedom, the value of citizenship, and the education in virtue and in rights that are necessary to both individual liberty and civic greatness. Bringing insights from classical and modern texts to bear on these fundamental questions of public life, we aim to articulate and defend our own understanding of the ethical obligations and responsibilities that citizens owe to one another. Identical with <span data-link='PHI330'>PHI 330</span>. Cannot receive credit for both <span data-link='PLS330'>PLS 330</span> and <span data-link='PHI330'>PHI 330</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS333": {
+    "course_id": "PLS333",
+    "title": "PLS 333 Model United Nations",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "This course is designed to provide an opportunity for in-depth role playing that leads to a better understanding of the United Nations and other regional and international organizations. Course work includes the study of current events, important international disagreements, key international conventions, and the protocol and procedures of UN diplomacy. Students will prepare for participation in the American Model United Nations conference and other international organization simulations as representatives of Missouri State University. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS338": {
+    "course_id": "PLS338",
+    "title": "PLS 338 Politics of Less Developed Countries",
+    "desc": "This course offers a road introduction to the politics of poorer, or &quot;less developed&quot; countries, a category that includes about three-quarters of the world&apos;s sovereign states and the vast majority of the global population. It will focus on two major themes: the quest for rapid economic development and the challenge of establishing a democratic political system. Students will also learn about the politics of a number of individual countries in Africa, Asia and Latin America. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS343": {
+    "course_id": "PLS343",
+    "title": "PLS 343 Post-Soviet Politics",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "The politics and governments of the former Soviet Union, its Marxist-Leninist ideology, and the dominant role of the Communist Party will be used to illustrate the dramatic changes having taken place since 1991. Political and economic reforms introduced by Gorbachev will be highlighted, and reasons for the Soviet Union&apos;s subsequent collapse and the establishment of Russia and other Independent States of the former Soviet Union will be discussed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS351": {
+    "course_id": "PLS351",
+    "title": "PLS 351 Municipal Government and Administration",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "A study of the structures and functions of city governments with emphasis on their relations to the state, their legal positions as municipal corporations and the management of municipal services. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS355": {
+    "course_id": "PLS355",
+    "title": "PLS 355 Emergencies, Disasters and Catastrophes",
+    "desc": "This survey course is designed to examine the wide range of public safety-related incidents from the daily emergencies handled by local government through disasters on the state levels to catastrophes on the national and international levels. The students will examine how these terms are defined, the role of public safety agencies (governmental, NPA and private) and how these incidents occurred and are managed. Students will be familiarized with various public safety services provided by municipal, state, and federal agencies. They will explore, via lectures, discussions, videos and readings, the provision of services, the role of public safety managers, municipal managers and elected officials. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS397": {
+    "course_id": "PLS397",
+    "title": "PLS 397 Mini Course in Political Issues",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "A course upon a single topic of current interest; subject will vary from semester to semester and from section to section depending upon student interest and faculty availability. May be repeated for credit to a maximum of 3 hours. Variable content course. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS399": {
+    "course_id": "PLS399",
+    "title": "PLS 399 Cooperative Education in Jefferson City",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Recommended Prerequisite: 2.50 GPA and junior or senior standing. To enable qualified students to apply theoretical constructs and analytical techniques in a supervised work environment. Restricted to Political Science majors and minors. Graded Pass/Not Pass only. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS413": {
+    "course_id": "PLS413",
+    "title": "PLS 413 The American Executive",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Changing powers and functions of the executive branches of the national and state governments of the United States in the 20th Century; constitutional, administrative and political problems involved. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS414": {
+    "course_id": "PLS414",
+    "title": "PLS 414 The Legislative Process",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Theory, principles, procedures and problems of the legislative process in democratic societies; operation of American state and national legislatures. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS419": {
+    "course_id": "PLS419",
+    "title": "PLS 419 The Judicial Process",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Sources and nature of law; historical, sociological and philosophical approaches to legal theory. Role of the judiciary as an aspect of the study of political behavior; policy significance and consequences of what judges do and how they do it. Illustrated by case study in selected areas of American constitutional law. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS437": {
+    "course_id": "PLS437",
+    "title": "PLS 437 International Organizations and Law",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "A study of the role of international organizations, both governmental and non-governmental, in regional and global international politics. A comparison of international organizations and other political institutions. A casebook and lecture examination of the principal elements of international law. A topical approach to governing principle will introduce current problems and define probable trends. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS492": {
+    "course_id": "PLS492",
+    "title": "PLS 492 Program Assessment",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Recommended Prerequisite: senior standing. Required assessment of undergraduate political science programs in the department. All students majoring in political science are required to enroll in this course during their senior year and pass a Major Field Achievement Test (MFAT). The focus is on program assessment and development rather than on individual student evaluation. Graded Pass/Not Pass only. ",
+    "hours": {},
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS493": {
+    "course_id": "PLS493",
+    "title": "PLS 493 Practicum in Political Science",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Recommended Prerequisite: junior or senior standing. Supervised and departmentally approved part-time work experience related to Political Science in public or private sector. May be repeated to a total of 12 hours, but only 6 hours will be counted toward the major and 3 hours toward the minor. Approximately 5 on-the-job hours per week required for 1 hour credit, in addition to fulfillment of academic requirements. Restricted to Political Science majors and minors. Graded Pass/Not Pass only. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS494": {
+    "course_id": "PLS494",
+    "title": "PLS 494 Professional Internship",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Recommended Prerequisite: junior or senior standing. Supervised and departmentally approved full-time work experience related to Political Science in public or private sector. May be repeated to a total of 12 hours, but only 6 hours will be counted toward the major. Approximately eight weeks of 40 on-the-job hours per week required for 3 hours credit, in addition to fulfillment of academic requirements. Restricted to Political Science majors. Graded Pass/Not Pass only. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS495": {
+    "course_id": "PLS495",
+    "title": "PLS 495 Senior Honors Project in Political Science",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "An individualized research project in a selected field of political science or public administration. The project will involve the preparation of a project proposal in cooperation with an appropriate faculty member serving as project advisor who will approve it along with the Head of the Political Science Department and Director of the Honors College. Variable Content Course. May be repeated to maximum of 6 hours total credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS496": {
+    "course_id": "PLS496",
+    "title": "PLS 496 Independent Study in Political Science",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Recommended Prerequisite: 2.50 GPA; and junior or senior standing. Students should consult with a professor of the department who specializes in the subject and with the professor&apos;s consent present a written proposal to the department head for final approval. Proposals should be presented for approval before final registration for the term in which the independent study is to be done. Only one approved independent study program may be taken in any semester. A maximum of 6 semester hours of credit in <span data-link='PLS496'>PLS 496</span> may be counted on a major in Political Science and 3 semester hours of credit on a minor in Political Science or Public Administration. Written work will be required in <span data-link='PLS496'>PLS 496</span> in addition to reading assignments and/or research activities. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS497": {
+    "course_id": "PLS497",
+    "title": "PLS 497 Special Topics",
+    "desc": "A course designed to provide a means of study for topics not addressed elsewhere in the curriculum. May be repeated up to a maximum of 9 hours. Variable content course. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS498": {
+    "course_id": "PLS498",
+    "title": "PLS 498 In-Service Training in Public Administration",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Recommended Prerequisite: junior or senior standing. Supervised field work in an approved local, state, or national government agency including preparation of an acceptable formal report. Restricted to Political Science majors, Political Science minors, and Public Administration minors. Graded Pass/Not Pass only. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS515": {
+    "course_id": "PLS515",
+    "title": "PLS 515 Constitutional Law I: Powers and Constraints",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. This course examines the powers and limitations of the United States government, including: the institutional authority of the legislative, executive, and judicial departments; separation of powers; federalism; the commerce power, taxing and spending authority, and economic liberties. A careful study of U.S. Supreme court decisions is emphasized, with particular focus on the political, moral, and social impact these decisions have had on life in America. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS517": {
+    "course_id": "PLS517",
+    "title": "PLS 517 Constitutional Law II: Liberties and Rights",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. This course examines the civil liberties and civil rights of individuals, including: religious liberty, freedom of speech, the right to privacy, protections against discrimination based on race, gender, and sexual-orientation, and voting and representation rights. A careful study of U.S. Supreme Court decisions is emphasized, with particular focus on the political, moral, and social impact these decisions have had on life in America. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS518": {
+    "course_id": "PLS518",
+    "title": "PLS 518 Constitutional Politics",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. The course examines the design and historical development of the U.S. Constitution. Emphasis is given to exploring the political and philosophical currents that have influenced the development of American constitutional law, with particular focus on: 1) the founding era; 2) Civil War era conflicts over the nation&apos;s founding principles; 3) the Progressive critique of the constitution; and 4) recent conservative and libertarian critiques of progressive constitutionalism. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS535": {
+    "course_id": "PLS535",
+    "title": "PLS 535 American Foreign Policy",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. An analysis of American foreign policy. The course explores the various governmental institutions and societal forces which shape American foreign policy. The major emphasis is on American foreign policy since World War Two. Current issues in American foreign policy are discussed in light of contemporary theoretical and methodological approaches. May be taught concurrently with <span data-link='PLS635'>PLS 635</span>. Cannot receive credit for both <span data-link='PLS635'>PLS 635</span> and <span data-link='PLS535'>PLS 535</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS544": {
+    "course_id": "PLS544",
+    "title": "PLS 544 Government and Politics of the Middle East",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. Political systems, processes and problems of the Middle East, considered both regionally and in the perspective of separate nation-states, from the beginning of the modern period about 1800 to the present. May be taught concurrently with <span data-link='PLS644'>PLS 644</span>. Cannot receive credit for both <span data-link='PLS644'>PLS 644</span> and <span data-link='PLS544'>PLS 544</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS545": {
+    "course_id": "PLS545",
+    "title": "PLS 545 Asian Politics",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. A comparative study of the political and economic systems of contemporary Asia with emphasis on Japan, Korea, mainland China and Taiwan. Ideologies and strategies pursued by selected Asian governments are covered. Includes an assessment of contemporary economic, political and security issues in the region. America&apos;s economic, political and strategic ties with the region are also explored. May be taught concurrently with <span data-link='PLS645'>PLS 645</span>. Cannot receive credit for both <span data-link='PLS645'>PLS 645</span> and <span data-link='PLS545'>PLS 545</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS546": {
+    "course_id": "PLS546",
+    "title": "PLS 546 Political Violence and Terrorism",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. The systematic study of political violence in its different forms. The course content is structured along a continuum, ranging from small scale violence to mass violence-assassinations, terrorism by sub-national and transnational organizations, state terror and genocide. May be taught concurrently with <span data-link='PLS646'>PLS 646</span>. Cannot receive credit for both <span data-link='PLS646'>PLS 646</span> and <span data-link='PLS546'>PLS 546</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS547": {
+    "course_id": "PLS547",
+    "title": "PLS 547 Politics of the European Union and Its Members",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. This course will focus on the historical evolution of the European Union (EU) since the 1950s, the ongoing integration process within the organization (vertical integration), and its enlargement beyond the present members (horizontal integration). It will also address the EU&apos;s position in global and regional politics, its links to the United States, and the development of international governmental organizations. May be taught concurrently with <span data-link='PLS647'>PLS 647</span>. Cannot receive credit for both <span data-link='PLS647'>PLS 647</span> and <span data-link='PLS547'>PLS 547</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS548": {
+    "course_id": "PLS548",
+    "title": "PLS 548 Latin American Politics",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. Broad introduction to the politics of Latin America. Although it will offer substantial historical background, the emphasis of the course will be on recent decades. To familiarize the student with some of the major general issues facing Latin America while also giving them a taste of its tremendous diversity. The course is structured around four basic topics: economic development, democratization, guerrilla movements and revolution, and drug trafficking. In the process of discussing these topics, various countries will be explored such as Brazil, Chile, Colombia, Cuba, Guatemala, and Mexico. A recurring theme will be the relationship between the United States and Latin America. May be taught concurrently with <span data-link='PLS648'>PLS 648</span>. Cannot receive credit for both <span data-link='PLS648'>PLS 648</span> and <span data-link='PLS548'>PLS 548</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS550": {
+    "course_id": "PLS550",
+    "title": "PLS 550 Modern African Politics",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. A comparative study of the political and economic systems of contemporary Africa with emphasis on sub-Saharan Africa. Ideologies and strategies pursued by selected African governments are covered, including an assessment of contemporary economic, political, and strategic ties within the region and internationally. The class will emphasize such areas as Mauritania, Senegal, Kenya, Somalia, Nigeria, and South Africa. May be taught concurrently with <span data-link='PLS650'>PLS 650</span>. Cannot receive credit for both <span data-link='PLS650'>PLS 650</span> and <span data-link='PLS550'>PLS 550</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS555": {
+    "course_id": "PLS555",
+    "title": "PLS 555 Public Policy for a Global Environment",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. Course examines how environmental policy is made in the United States and the international community. The course covers the institutions and groups that participate in making environmental policy and the process by which it is made. Domestic and international issues and problems explored include clean air, clean water, pesticides, risk assessment and management, toxic and hazardous substances, public lands, the greenhouse effect, and stratospheric ozone depletion. May be taught concurrently with <span data-link='PLS685'>PLS 685</span>. Cannot receive credit for both <span data-link='PLS685'>PLS 685</span> and <span data-link='PLS555'>PLS 555</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS561": {
+    "course_id": "PLS561",
+    "title": "PLS 561 Ancient Political Thought",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. An introduction to the study of political theory by examining the contributions of classical political theorists and their successors up to the age of the Renaissance. Includes Socrates, Thucydides, Plato, Aristotle, the Epicureans, Cynics and Stoics, Cicero and the Roman Lawyers, early Hebrew and Christian political thought, Augustine and Aquinas. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS563": {
+    "course_id": "PLS563",
+    "title": "PLS 563 Modern Political Theory",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. The revolution in ideals brought by the nation-state, modern science, and the industrial revolution. Includes Machiavelli, More, Luther, Calvin, Hobbes, Locke, Rousseau, Bentham, J.S. Mill, Weber, Kant and Hegel. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS565": {
+    "course_id": "PLS565",
+    "title": "PLS 565 Contemporary Political Ideologies",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. A systematic study of the major competing ideologies of the 19th and 20th Centuries, including conservatism, liberalism, nationalism, Marxism, democratic socialism, fascism and national socialism, and others. Special emphasis is placed on the historical sources philosophical foundations and argumentative structure of these influential ideologies. May be taught concurrently with <span data-link='PLS642'>PLS 642</span>. Cannot receive credit for both <span data-link='PLS642'>PLS 642</span> and <span data-link='PLS565'>PLS 565</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS567": {
+    "course_id": "PLS567",
+    "title": "PLS 567 American Political Thought",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. Political ideas in American institutional and historical development. An examination of the relations between American thought and political structures and processes. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS569": {
+    "course_id": "PLS569",
+    "title": "PLS 569 Foreign Policies of the Middle Eastern States",
+    "desc": "This course focuses on the foreign policies of selected Middle Eastern states and non-state actors. The course will refer to various paradigms of international relations, so a previous course in international relations (especially an introductory or theory course) is highly recommended. Concerns of this course will include to what extent we can view the states of the Middle East of rational actors, the role of individual decision makers, unintended policy results, and the need to balance domestic and external policy imperatives. The central pedagogic concern revolves around understanding how and why various Middle Eastern state choose the policies they do. May be taught concurrently with <span data-link='PLS669'>PLS 669</span>. Cannot receive credit for both <span data-link='PLS569'>PLS 569</span> and <span data-link='PLS669'>PLS 669</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS573": {
+    "course_id": "PLS573",
+    "title": "PLS 573 Policy Analysis",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. A study of the major qualitative and quantitative techniques in public policy analysis. The course will examine diverse processes of public policy formulation, and analyze various public policy alternatives. Each student will complete an empirical research project. May be taught concurrently with <span data-link='PLS673'>PLS 673</span>. Cannot receive credit for both <span data-link='PLS673'>PLS 673</span> and <span data-link='PLS573'>PLS 573</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS576": {
+    "course_id": "PLS576",
+    "title": "PLS 576 Quantitative Methods of Political Science and Public Policy",
+    "req": "<em>Prerequisite: <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "Recommended Prerequisite: 50 hours. Introduction to the use of standard computer programs (especially SPSS) for the analysis and interpretation of political and social data. Covers analysis of nominal and ordinal data, descriptive and inferential statistics, hypothesis testing, correlation, linear and multiple regression. There will be a critical review of the applications of these techniques to the analysis of political science and public policy research questions, including ethical issues associated with quantitative research. May be taught concurrently with <span data-link='PLS676'>PLS 676</span>. Cannot receive credit for both <span data-link='PLS676'>PLS 676</span> and <span data-link='PLS576'>PLS 576</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS635": {
+    "course_id": "PLS635",
+    "title": "PLS 635 American Foreign Policy",
+    "desc": "The course explores the various governmental institutions and societal forces which shape American foreign policy. The major emphasis is on American foreign policy since World War Two. Current issues in American foreign policy are discussed in light of contemporary theoretical and methodological approaches. May be taught concurrently with <span data-link='PLS535'>PLS 535</span>. Cannot receive credit for both <span data-link='PLS535'>PLS 535</span> and <span data-link='PLS635'>PLS 635</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS642": {
+    "course_id": "PLS642",
+    "title": "PLS 642 Contemporary Political Ideologies",
+    "desc": "A systematic study of the major competing ideologies of the 19th and 20th Centuries, including conservatism, liberalism, nationalism, Marxism, democratic socialism, fascism and national socialism, and others. Special emphasis is placed on the historical sources philosophical foundations and argumentative structure of these influential ideologies. May be taught concurrently with <span data-link='PLS565'>PLS 565</span>. Cannot receive credit for both <span data-link='PLS565'>PLS 565</span> and <span data-link='PLS642'>PLS 642</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS644": {
+    "course_id": "PLS644",
+    "title": "PLS 644 Government and Politics of the Middle East",
+    "desc": "Political systems, processes and problems of the Middle East, considered both regionally and in the perspective of separate nation-states, from the beginning of the modern period about 1800 to the present. May be taught concurrently with <span data-link='PLS544'>PLS 544</span>. Cannot receive credit for both <span data-link='PLS544'>PLS 544</span> and <span data-link='PLS644'>PLS 644</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS645": {
+    "course_id": "PLS645",
+    "title": "PLS 645 Asian Politics",
+    "desc": "A comparative study of the political and economic systems of contemporary Asia with emphasis on Japan, Korea, mainland China and Taiwan. Ideologies and strategies pursued by selected Asian governments are covered. Includes an assessment of contemporary economic, political and security issues in the region. America&apos;s economic, political and strategic ties with the region are also explored. May be taught concurrently with <span data-link='PLS545'>PLS 545</span>. Cannot receive credit for both <span data-link='PLS545'>PLS 545</span> and <span data-link='PLS645'>PLS 645</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS646": {
+    "course_id": "PLS646",
+    "title": "PLS 646 Political Violence and Terrorism",
+    "desc": "The systematic study of political violence in its different forms. The course content is structured along a continuum, ranging from small scale violence to mass violence-assassinations, terrorism by sub-national and transnational organizations, state terror and genocide. May be taught concurrently with <span data-link='PLS546'>PLS 546</span>. Cannot receive credit for both <span data-link='PLS546'>PLS 546</span> and <span data-link='PLS646'>PLS 646</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS647": {
+    "course_id": "PLS647",
+    "title": "PLS 647 Politics of the European Union and Its Members",
+    "desc": "This course will focus on the historical evolution of the European Union (EU) since the 1950s, the ongoing integration process within the organization (vertical integration), and its enlargement beyond the present members (horizontal integration). It will also address the EU&apos;s position in global and regional politics, its links to the United States, and the development of international governmental organizations. May be taught concurrently with <span data-link='PLS547'>PLS 547</span>. Cannot receive credit for both <span data-link='PLS547'>PLS 547</span> and <span data-link='PLS647'>PLS 647</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS648": {
+    "course_id": "PLS648",
+    "title": "PLS 648 Latin American Politics",
+    "desc": "Broad introduction to the politics of Latin America. Although it will offer substantial historical background, the emphasis of the course will be on recent decades. To familiarize the student with some of the major general issues facing Latin America while also giving them a taste of its tremendous diversity. The course is structured around four basic topics: economic development, democratization, guerrilla movements and revolution, and drug trafficking. In the process of discussing these topics, various countries will be explored such as Brazil, Chile, Colombia, Cuba, Guatemala, and Mexico. A recurring theme will be the relationship between the United States and Latin America. May be taught concurrently with <span data-link='PLS548'>PLS 548</span>. Cannot receive credit for both <span data-link='PLS548'>PLS 548</span> and <span data-link='PLS648'>PLS 648</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS650": {
+    "course_id": "PLS650",
+    "title": "PLS 650 Modern African Politics",
+    "desc": "A comparative study of the political and economic systems of contemporary Africa with emphasis on sub-Saharan Africa. Ideologies and strategies pursued by selected African governments are covered, including an assessment of contemporary economic, political, and strategic ties within the region and internationally. The class will emphasize such areas as Mauritania, Senegal, Kenya, Somalia, Nigeria, and South Africa. May be taught concurrently with <span data-link='PLS550'>PLS 550</span>. Cannot receive credit for both <span data-link='PLS550'>PLS 550</span> and <span data-link='PLS650'>PLS 650</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS651": {
+    "course_id": "PLS651",
+    "title": "PLS 651 Administrative Law",
+    "desc": "A study of administrative agencies in their rule making and adjudicatory functions; administrative procedures including hearings and the judicial review thereof; legislative committee operations and their relation to the agencies. After several lecture type presentations by the instructor on the above topics, each student will be expected to present an oral and written review of some area of administrative law which requires further development through agency regulation and/or judicial review. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS669": {
+    "course_id": "PLS669",
+    "title": "PLS 669 Foreign Policies of the Middle Eastern States",
+    "desc": "This course focuses on the foreign policies of selected Middle Eastern states and non-state actors. The course will refer to various paradigms of international relations, so a previous course in international relations (especially an introductory or theory course) is highly recommended. Concerns of this course will include to what extent we can view the states of the Middle East of rational actors, the role of individual decision makers, unintended policy results, and the need to balance domestic and external policy imperatives. The central pedagogic concern revolves around understanding how and why various Middle Eastern state choose the policies they do. May be taught concurrently with <span data-link='PLS569'>PLS 569</span>. Cannot receive credit for both <span data-link='PLS569'>PLS 569</span> and <span data-link='PLS669'>PLS 669</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS673": {
+    "course_id": "PLS673",
+    "title": "PLS 673 Policy Analysis",
+    "desc": "A study of the major qualitative and quantitative techniques in public policy analysis. The course will examine diverse processes of public policy formulation, and analyze various public policy alternatives. Each student will complete an empirical research project. May be taught concurrently with <span data-link='PLS573'>PLS 573</span>. Cannot receive credit for both <span data-link='PLS573'>PLS 573</span> and <span data-link='PLS673'>PLS 673</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS676": {
+    "course_id": "PLS676",
+    "title": "PLS 676 Quantitative Methods of Political Science and Public Policy",
+    "desc": "Introduction to the use of standard computer programs (especially SPSS) for the analysis and interpretation of political and social data. Covers analysis of nominal and ordinal data, descriptive and inferential statistics, hypothesis testing, correlation, linear and multiple regression. There will be a critical review of the applications of these techniques to the analysis of political science and public policy research questions, including ethical issues associated with quantitative research. May be taught concurrently with <span data-link='PLS576'>PLS 576</span>. Cannot receive credit for both <span data-link='PLS576'>PLS 576</span> and <span data-link='PLS676'>PLS 676</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS685": {
+    "course_id": "PLS685",
+    "title": "PLS 685 Public Policy for a Global Environment",
+    "desc": "Course examines how environmental policy is made in the United States and the international community. The course covers the institutions and groups that participate in making environmental policy and the process by which it is made. Domestic and international issues and problems explored include clean air, clean water, pesticides, risk assessment and management, toxic and hazardous substances, public lands, the greenhouse effect, and stratospheric ozone depletion. May be taught concurrently with <span data-link='PLS555'>PLS 555</span>. Cannot receive credit for both <span data-link='PLS555'>PLS 555</span> and <span data-link='PLS685'>PLS 685</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS705": {
+    "course_id": "PLS705",
+    "title": "PLS 705 Seminar in Comparative Politics",
+    "desc": "An examination of the principal approaches to comparative politics including the comparative study of political systems, types of government, elites, legislatures, political cultures and political parties. Students in the MGS program will be required to write an extensive bibliographic or substantive research paper on one of these principal elements in the study of comparative politics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS713": {
+    "course_id": "PLS713",
+    "title": "PLS 713 Seminar in Foreign Policy Decisionmaking",
+    "desc": "An examination of the factors that shape foreign policy decisionmaking, especially as they have evolved in the 20th century in the United States. In addition to an examination of the governmental institutions and societal forces that influence policy, students will critically analyze decisionmaking models that have been developed to explain how and why foreign policy decisions are made. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS715": {
+    "course_id": "PLS715",
+    "title": "PLS 715 Comparative Public Administration",
+    "desc": "The course will review the literature on the study of comparative public administration. The body of the course will focus on substantive public management issues in a variety of countries. Students will be expected to understand the rationale for the subfield, its development, and develop the skills needed to conduct scientific analysis. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS717": {
+    "course_id": "PLS717",
+    "title": "PLS 717 Multidisciplinary Approaches to Homeland Security",
+    "desc": "Examines the full spectrum of both homeland security and defense activities, the diverse responsibilities of the primary stakeholders, and current policies and practical efforts to develop and integrate homeland security and defense efforts nationwide. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS719": {
+    "course_id": "PLS719",
+    "title": "PLS 719 Strategic Planning and Organizational Imperatives in Homeland Security",
+    "desc": "The attainment of homeland security goals is dependent on comprehensive planning and organization to integrate and mobilize all levels of government and private sector responses. This course critically analyzes these efforts. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS721": {
+    "course_id": "PLS721",
+    "title": "PLS 721 International Political Economy",
+    "desc": "A general introduction to the politics of international economic relations, with a special emphasis on the extent, causes, and consequences of globalization. Covers such topics as trade, investment, aid, global warming, international institutions, and the political roots of economic development. Identical with <span data-link='ECO721'>ECO 721</span>. Cannot receive credit for both <span data-link='PLS721'>PLS 721</span> and <span data-link='ECO721'>ECO 721</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS732": {
+    "course_id": "PLS732",
+    "title": "PLS 732 International Relations in Theory and Practice",
+    "desc": "An examination of the principal paradigms and approaches in the study of international relations as they have evolved, particularly in the 20th century, and their usefulness for understanding the practice of global affairs. Students will familiarize themselves with both theoretical and substantive aspects of international relations and global affairs. Completion of a major research project focusing on an issue or region and analyzing it from a theoretical perspective is required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS737": {
+    "course_id": "PLS737",
+    "title": "PLS 737 Seminar in International Organizations",
+    "desc": "A study of the historical development and theoretical foundations of international organizations. Readings and research will emphasize recent issues and developments in both regional and global aspects in the organization of the international system. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS752": {
+    "course_id": "PLS752",
+    "title": "PLS 752 Public Personnel Management",
+    "desc": "Intensive examination of the management of personnel focused directly on the public sector at the federal, state, and local levels. The course will explore the development, structure, and procedures of the public service. Issues of public personnel management to be examined include: perspectives on the public service, merit and patronage systems, labor relations, civil service reform, anti-discriminatory policies, and productivity and accountability. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS753": {
+    "course_id": "PLS753",
+    "title": "PLS 753 Management Techniques and Organizational Behavior",
+    "desc": "A core lecture course designed to familiarize the student with the development of managerial skills through MBO, decision making theory, strategy implementation, change theory and development administration, problem solving, coordination within the organization, communication techniques and effecting productivity. Emphasis will be placed upon the applicability of management and organizational theory to the public sector. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS754": {
+    "course_id": "PLS754",
+    "title": "PLS 754 Seminar in Health Policy",
+    "desc": "Politics of health policy formulation and planning. A study of participants in policy formulation, role of the different levels of government, issues and problems in health care planning, interrelationship of agencies involved, Medicare, Medicaid, national health insurance. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS756": {
+    "course_id": "PLS756",
+    "title": "PLS 756 Financial Management for State and Local Government",
+    "desc": "A course dealing with intergovernmental financial relations, revenue sources, tax strategies, bond requirements, and issuance procedures, sinking funds, budget techniques and basic categories of state and local expenditures. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS757": {
+    "course_id": "PLS757",
+    "title": "PLS 757 Topics Seminar in Public Policy and Administration",
+    "desc": "Topics course. The specific topics will change from semester to semester. May be repeated as topics change. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS759": {
+    "course_id": "PLS759",
+    "title": "PLS 759 Seminar in Administrative Management and Organizational Theory",
+    "desc": "A topics seminar in which each student will be responsible for an individual research project. Research will include both a review of applicable literature and a case study of an actual management or organizational problem-situation within a government office. This project will be preceded by a concise review of basic management principles and organizational theory. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS760": {
+    "course_id": "PLS760",
+    "title": "PLS 760 Management of Intergovernmental Relations",
+    "desc": "The course is designed to familiarize students with the nature and scope of intergovernmental relations and how they impact issues such as fiscal management, grantsmanship, public policy formulation, public program monitoring and administration. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS761": {
+    "course_id": "PLS761",
+    "title": "PLS 761 Management of Nonprofit Organizations",
+    "desc": "This course provides a general survey of nonprofit organizations. It will examine the historical, legal, ethical, and social environments in which nonprofit organizations operate. It will also discuss various aspects of nonprofit organization management, ranging from managing people and money to managing public relations and trust. The course will integrate theoretical and practical aspects of nonprofit management. The theoretical aspects will be achieved through readings and literature reviews. The practical side will come from guest speakers, field interviews, and hands-on assignments. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS762": {
+    "course_id": "PLS762",
+    "title": "PLS 762 Public Policy and Program Evaluation",
+    "desc": "The course is designed to familiarize students with the nature and role of evaluation in the policy process. Topics will include but not be limited to: the various types of evaluation, evaluation methods, evaluability assessment, program monitoring, impact assessment, process assessment, utilization of evaluation findings, and the politics of evaluation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS763": {
+    "course_id": "PLS763",
+    "title": "PLS 763 The Policy Process",
+    "desc": "This course is designed to explore how public policy is made at all levels of government in the United States. Approximately two-thirds of the course will focus on the policy process; the remainder will concentrate on two or three major policy issues. Students will do an extended paper on a policy issue applying the concepts from the first part of the course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS771": {
+    "course_id": "PLS771",
+    "title": "PLS 771 Seminar in Public Administration",
+    "desc": "This course is designed as the foundation course for the Master of Public Administration program. Topics covered include the development of public administration, political, social, economic, and legal processes and institutions, the policy process, and values and ethics. All students will complete a major research paper related to one of these topics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS772": {
+    "course_id": "PLS772",
+    "title": "PLS 772 Introduction to Public Safety Services",
+    "desc": "This course introduces students to the current principles and practices of public safety services from the theoretical and practitioner&apos;s perspective. Course will cover how services are provided, management challenges, the levels of emergencies and disaster operations, preparedness, recovery and mitigation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLS773": {
+    "course_id": "PLS773",
+    "title": "PLS 773 Hazard Analysis, Mitigation, and Preparedness",
+    "desc": "This course focuses on crucial actions taken in preparing the emergencies. All public safety agency work begins with a thorough analysis of the hazards faced whether they are from natural causes or manmade. The course will introduce students to various methods for conducting the hazard analysis regardless of whether for law enforcement, fire service, emergency medical services or 9-1-1. The class examines various methods to mitigate the occurrences of those incidents and how public safety agencies can prepare themselves and the public for when they occur. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS776": {
+    "course_id": "PLS776",
+    "title": "PLS 776 Local Public Service Delivery",
+    "desc": "This course prepares students to provide management and guidance to various local government services such as public works, police, fire, parks, utilities, and human services. It covers issues of governance which enable various government and non-for-profit groups to cooperate in the delivery of these services. The focus is on management in medium and small-sized municipalities in both rural and urban settings. Extensive use of guest lectures and site visits are essential components of this course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS777": {
+    "course_id": "PLS777",
+    "title": "PLS 777 Local Government and Politics and Administration",
+    "desc": "This course familiarizes students with a broad array of local government issues, structures, management concerns, and politics. Interwoven throughout the course is a discussion of the roles that professional administration and local politics play in everyday local government operations. The major focus will be on the decision making process of professional administrators as they attempt to bring both efficiency and effectiveness to local government. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS778": {
+    "course_id": "PLS778",
+    "title": "PLS 778 Ethics and Leadership in the Public Sector",
+    "desc": "This course examines the role and impact of leadership in public organizations, with particular focus on the ethical dimensions of leadership behavior. The course provides an overview of the knowledge, theory, and skills regarding leadership and professional ethics. Topics include charismatic and transformational leadership, leadership styles, the role of the leader in creating ethical climates and building effective ethical cultures, organizational change strategies, power and politics, and motivation strategies. Also covered are the ethical codes, standards, and practices promulgated by the American Society for Public Administration (ASPA) and the International City Management Association (ICMA). ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLS780": {
+    "course_id": "PLS780",
+    "title": "PLS 780  Independent Study in Political Science",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Carefully planned independent study designed on an individual basis for the advanced student who wishes to investigate a well defined problem not dealt with adequately by standard courses. Normally, a student may take <span data-link='PLS780'>PLS 780</span> only once to fulfill the requirements of the non-thesis option or as part of the cognate field if pursuing the thesis option. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS781": {
+    "course_id": "PLS781",
+    "title": "PLS 781 In-Service Training in Public Administration",
+    "req": "<em>Prerequisite: permission of Master of Public Administration Program Director.</em>",
+    "desc": "Supervised field work in an approved local, state, or national governmental agency including preparation of an acceptable formal report. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS782": {
+    "course_id": "PLS782",
+    "title": "PLS 782 Internship/Practicum in International Field",
+    "req": "<em>Prerequisite: permission of program director.</em>",
+    "desc": "Supervised field work in a federal government agency, international governmental/non-governmental organization, multinational corporation, or equivalent. The course requirements include a formal report on the internship/practicum and evaluation by the supervisor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLS797": {
+    "course_id": "PLS797",
+    "title": "PLS 797 Special Topics in Global Affairs",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "The specific topics will change from semester to semester, and will include subjects such as international humanitarian law, comparative foreign policy, global Islamic movements, and globalization. Variable content course. May be repeated as topics change. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLS799": {
+    "course_id": "PLS799",
+    "title": "PLS 799 Thesis",
+    "req": "<em>Prerequisite: permission of Master of Global Studies or Master of Public Administration Program Director and department head.</em>",
+    "desc": "Independent research and study connected with preparation of thesis. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

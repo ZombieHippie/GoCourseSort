@@ -1,0 +1,119 @@
+{
+  "UHC110": {
+    "course_id": "UHC110",
+    "title": "UHC 110 Freshman Honors Seminar",
+    "req": "<em>General Education Course (First-year Seminar).</em>",
+    "desc": "This seminar will be on a topic of intellectual significance. The student will be required to use the library, research, and faculty resources available in the University. Satisfies the First-Year Foundations requirement in the Basic Required Courses of General Education. Open to Honors College members only. Variable content course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "UHC300": {
+    "course_id": "UHC300",
+    "title": "UHC 300 Honors Service Learning",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a course designated as a service learning offering; open to Honors College members only.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; students should investigate possible placements through the Center for Citizenship and Service Learning prior to registration. Graded Pass/Not Pass only. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "UHC350": {
+    "course_id": "UHC350",
+    "title": "UHC 350 Honors Study Abroad",
+    "req": "<em>Prerequisite: permission; open to Honors College members only.</em>",
+    "desc": "A variable content course with topics involving the interdisciplinary study of other cultures while living and studying in an international venue. Through history, language, literature, sociology and other disciplines the student will acquire a deeper understanding of another culture and of the American culture. When appropriate, this course may be cross-listed with other study abroad and international travel courses. May be repeated once with content change. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "UHC396": {
+    "course_id": "UHC396",
+    "title": "UHC 396 Honors Independent Study",
+    "req": "<em>Prerequisite: permission; open to Honors College members only.</em>",
+    "desc": "Students should consult with a faculty member of the department who specializes in the subject and with the faculty member&apos;s consent present a written proposal to the department head and the Honors College for final approval. Proposals should be presented for approval before final registration for the semester in which the independent study is to be done. Only one approved independent study program may be taken in any semester. When appropriate, this course may be cross-listed with independent study courses in other academic departments. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "UHC397": {
+    "course_id": "UHC397",
+    "title": "UHC 397 Honors Colloquia",
+    "req": "<em>Prerequisite: 50 hours or permission; open to Honors College members only.</em>",
+    "desc": "This course will explore in depth an interdisciplinary topic of intellectual significance related to the University&apos;s Public Affairs Mission. Emphasis is placed upon discussion and individual research projects. When appropriate, this course may be cross-listed with special topics courses in other academic departments. May be repeated once with content change. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "UHC398": {
+    "course_id": "UHC398",
+    "title": "UHC 398 Honors Undergraduate Research",
+    "req": "<em>Prerequisite: permission; open to Honors College members only.</em>",
+    "desc": "Allows students to gain research experience by working with an individual faculty member either as a research assistant or as a primary researcher working under faculty supervision. Students should consult with a faculty member of the department who specializes in the subject and with the faculty member&apos;s consent present a written proposal to the department head and the Honors College for final approval. Proposals should be presented for approval before final registration for the semester in which the research is to be done. Only one approved undergraduate research project may be taken in any semester. When appropriate, this course may be cross-listed with undergraduate research courses in other academic departments. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "UHC399": {
+    "course_id": "UHC399",
+    "title": "UHC 399 Honors Internship/Apprenticeship",
+    "req": "<em>Prerequisite: permission of supervising instructor, the Honors College and the host institution; open to Honors College members only.</em>",
+    "desc": "This course provides students with the opportunity to obtain practical and theoretical knowledge in a variety of career fields through the completion of a supervised internship experience. Students are expected to complete 45 hours of work with an approved organization and to complete corresponding academic reflection projects under the supervision of a departmental faculty member. Students should consult with a faculty member of the department who specializes in the subject and with the faculty member&apos;s consent present a written proposal to the department head and the Honors College for final approval. Proposals should be presented for approval before final registration for the semester in which the internship is to be done. Only one approved internship may be taken in any semester. When appropriate, this course may be cross-listed with undergraduate internship courses in other academic departments. May be repeated. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "UHC410": {
+    "course_id": "UHC410",
+    "title": "UHC 410 Senior Honors Seminar",
+    "desc": "This seminar will explore in depth a topic of intellectual significance that lends itself to exploration from a number of different disciplines. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "UHC499": {
+    "course_id": "UHC499",
+    "title": "UHC 499 Honors Distinction Project",
+    "req": "<em>Prerequisite: permission; open to Honors College members only.</em>",
+    "desc": "The Honors Distinction Project is a creative capstone project prepared in accordance with the requirements for the Honors Distinction the Major program. Student will complete a significant intellectual project in the major under the supervision of a departmental faculty member. Students should consult with a faculty member of the department who specializes in the subject and with the faculty member&apos;s consent present a written proposal to the department head and the Honors College for final approval. Proposals should be presented for approval before final registration for the semester in which the Distinction Project is to be done. When appropriate, this course may be cross-listed with senior research project courses in other academic departments. May be repeated for a maximum of 8 hours. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

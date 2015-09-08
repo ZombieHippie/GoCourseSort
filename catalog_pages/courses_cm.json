@@ -1,0 +1,1097 @@
+{
+  "COM100": {
+    "course_id": "COM100",
+    "title": "COM 100 Introduction to Majors in Communication",
+    "desc": "This course is intended for new or prospective Communication majors and minors. The course informs students about programs of study in Communication and assists students in making decisions regarding degree programs and career plans. This is an elective course that will not count towards major or minor requirements. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM115": {
+    "course_id": "COM115",
+    "title": "COM 115 Fundamentals of Public Speaking",
+    "req": "<em>General Education Course (Focus on Oral Communication).</em>",
+    "desc": "Instruction and practice in researching, composing, and delivering formal and informal speeches in a variety of public contexts. Representative topics include: ethics in public speaking; listening; library research; outlining; delivery; writing in an oral style; evaluation of public address; and analyzing and adapting to audiences. The course emphasizes informative and persuasive speaking. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM120": {
+    "course_id": "COM120",
+    "title": "COM 120 Fundamentals of Debate",
+    "desc": "A survey of fundamental principles of debate, including research techniques, argument invention and construction, refutation, and strategy. This course is taught in relationship to current debate topics, and is not limited to participants on the debate team. May be repeated to a total of 12 hours. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM205": {
+    "course_id": "COM205",
+    "title": "COM 205 Interpersonal Communication Theory and Skills",
+    "desc": "Theory and practice in the principles and skills of interpersonal communication within a variety of contexts. Representative topics include: perception; self-concept development; verbal and nonverbal communication; effective listening techniques; conflict resolution; and sensitivity to cultural and gender differences. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM206": {
+    "course_id": "COM206",
+    "title": "COM 206 Introduction to Health Communication",
+    "desc": "An introductory survey of contemporary health communication issues, including patient-provider communication, health ethics, health organizations, health campaigns, and health and the media. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM209": {
+    "course_id": "COM209",
+    "title": "COM 209 Survey of Communication Theory",
+    "desc": "A survey of selected theoretical approaches to understanding mediated and non-mediated human communication. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM210": {
+    "course_id": "COM210",
+    "title": "COM 210 Communication Research Methods",
+    "desc": "Recommended Prerequisite: <span data-link='COM209'>COM 209</span>. A survey of the quantitative and qualitative methods most commonly used for research in communication. Topics include the nature of the research process; research ethics; academic vs. applied research; evaluating research; and a discussion of specific research methods such as experimental design, statistical interpretation, survey research, individual and group interviewing, sampling and polling, content analysis, ethnography, and qualitative analysis techniques. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM300": {
+    "course_id": "COM300",
+    "title": "COM 300 Careers in Communication",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span> and <span data-link='COM209'>COM 209</span>.</em>",
+    "desc": "This course assists Communication students to assess their abilities and qualifications, to research professional opportunities, and to prepare for job searching and career planning. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM305": {
+    "course_id": "COM305",
+    "title": "COM 305 Service Learning in Communication",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a communication course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in communication to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM307": {
+    "course_id": "COM307",
+    "title": "COM 307 Gender and Communication",
+    "desc": "This course examines theory and research on gender and communication. Its purpose is to help students explore how gender and communication are interrelated, how these concepts intertwine with other aspects of our identities, and how these factors play out in their own lives. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM309": {
+    "course_id": "COM309",
+    "title": "COM 309 Principles of Public Relations",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span> and <span data-link='COM209'>COM 209</span> and <span data-link='MED120'>MED 120</span>.</em>",
+    "desc": "Study of the development, planning, and implementation of communication programs and campaigns. Emphasis on the professional practices and ethical standards important to effective communication within organizations, and between organizations and their publics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM315": {
+    "course_id": "COM315",
+    "title": "COM 315 Public Speaking II",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span>.</em>",
+    "desc": "Study and practice in speech research, composition and presentation. Emphasis is placed on speeches for business and the professions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM320": {
+    "course_id": "COM320",
+    "title": "COM 320 Principles of Advanced Debate",
+    "desc": "A survey of principles of debate, including counterplans, criticism, deep refutation, and other advanced strategies. This course is taught in relationship to current debate topics, and is not limited to participants on the debate team. May be repeated to a total of 12 hours. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM321": {
+    "course_id": "COM321",
+    "title": "COM 321 Inter-Collegiate Debating",
+    "desc": "Open only to those chosen to debate as University representatives. May be repeated to a total of 12 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM322": {
+    "course_id": "COM322",
+    "title": "COM 322 Introduction to Argumentation",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span>.</em>",
+    "desc": "Fundamental theories of argument. This course will meet the secondary teaching certification requirements for a minimum of 2 semester hours in debate. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM325": {
+    "course_id": "COM325",
+    "title": "COM 325 Nonverbal Communication",
+    "desc": "This course examines the methods of research in nonverbal communication, the types or subcodes of nonverbal behaviors, and the application of nonverbal behaviors in social situations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM326": {
+    "course_id": "COM326",
+    "title": "COM 326 Effective Listening",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span> and <span data-link='COM209'>COM 209</span> and <span data-link='MED120'>MED 120</span>.</em>",
+    "desc": "The purpose of this course is to prepare the student to understand listening attitudes and behavior and to build a program for improvement in listening skills through application of listening theory to practical situations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "COM328": {
+    "course_id": "COM328",
+    "title": "COM 328 Persuasion",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='COM209'>COM 209</span> and <span data-link='COM210'>COM 210</span> and <span data-link='MED120'>MED 120</span>. Modern theories of persuasion with some evaluation of specific case studies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM331": {
+    "course_id": "COM331",
+    "title": "COM 331 Employment Interviewing",
+    "desc": "Students will examine the employment interviewing process as an instance of applied persuasion from the perspective of the job applicant. Topics include: anticipating employer questions, types of commonly asked questions, asking questions during the close, nonverbal elements of persuasive interviewing, the structure of the selection interview, creating positive first impressions, and writing thank you letters after the interview. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM332": {
+    "course_id": "COM332",
+    "title": "COM 332 Small Group Communication",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span>; and Communication majors/minors must be admitted to degree program.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='COM209'>COM 209</span> and <span data-link='COM210'>COM 210</span> and <span data-link='MED120'>MED 120</span>. Basic theory and techniques of oral interaction in group activities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM336": {
+    "course_id": "COM336",
+    "title": "COM 336 Communication in Organizations",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span>; and Communication majors/minors must be admitted to degree program.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='COM209'>COM 209</span> and <span data-link='COM210'>COM 210</span> and <span data-link='MED120'>MED 120</span>. Analysis of communication processes as they occur within organizations. Students study both the effects of the organizational context on communication as well as the role of communication in shaping organizational life and effectiveness. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM350": {
+    "course_id": "COM350",
+    "title": "COM 350 The Rhetorical Tradition and Contemporary Applications",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span>; and Communication majors/minors must be admitted to degree program.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='COM209'>COM 209</span> and <span data-link='COM210'>COM 210</span> and <span data-link='MED120'>MED 120</span>. A survey of rhetorical theories and methods from the classical period until present. The relevance of the rhetorical tradition to contemporary communication theory and practice is stressed. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM360": {
+    "course_id": "COM360",
+    "title": "COM 360 Introduction to Intercultural Communication",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span>; and Communication majors/minors must be admitted to degree program.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='COM209'>COM 209</span> and <span data-link='COM210'>COM 210</span> and <span data-link='MED120'>MED 120</span>. This course investigates the nature of communication between people from different cultures and nations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "COM379": {
+    "course_id": "COM379",
+    "title": "COM 379 Writing for Public Relations",
+    "desc": "Recommended prerequisite: <span data-link='JRN270'>JRN 270</span>. Study and preparation of copy for press releases, newsletters, brochures, annual reports, and other written public relations communications. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM390": {
+    "course_id": "COM390",
+    "title": "COM 390 Communication and Aging",
+    "desc": "Communication theories as they apply to the aging process. Examination of the effects of communication on the self-esteem, self-perception, well-being, and quality of life of the elderly. Study of communication between the elderly, the elderly and the young, and the elderly and their caregivers in a variety of contexts, including in one-on-one, family, and mediated situations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM397": {
+    "course_id": "COM397",
+    "title": "COM 397 Topics in Communication",
+    "desc": "A course covering a single topic within the field of Communication; subject will vary according to student demand and faculty availability. Examples include Conflict and Conflict Management, and Gender Differences. May be repeated up to a total of 6 hours with permission of department. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM405": {
+    "course_id": "COM405",
+    "title": "COM 405 Interpersonal Communication",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span>; and Communication majors/minors must be admitted to degree program.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='COM209'>COM 209</span> and <span data-link='COM210'>COM 210</span> and <span data-link='MED120'>MED 120</span>. A survey of contemporary interpersonal communication theories and issues within a variety of contexts. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM417": {
+    "course_id": "COM417",
+    "title": "COM 417 Teaching of Speech and Theatre",
+    "req": "<em>Prerequisite: <span data-link='EDC350'>EDC 350</span>, <span data-link='SPE340'>SPE 340</span>, <span data-link='EDT365'>EDT 365</span>, 12 hours in communication and 12 hours in theatre.</em>",
+    "desc": "Scope and objectives of the speech and theatre program in secondary schools; organization and administration of curricular and co-curricular programs; general instruction methodology. Completion of Checkpoint II for the Professional Portfolio is a component of this course. This course is recommended to be completed the fall semester before student teaching. Credited only on BSEd (Secondary). A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='COM490'>COM 490</span> or <span data-link='COM491'>COM 491</span>. Cannot be taken Pass/Not Pass. Identical with <span data-link='THE417'>THE 417</span>. Cannot receive credit for both <span data-link='COM417'>COM 417</span> and <span data-link='THE417'>THE 417</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM436": {
+    "course_id": "COM436",
+    "title": "COM 436 Communication and Leadership",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span>; and 60 hours; and Communication majors/minors must be admitted to degree program.</em>",
+    "desc": "In-depth study of the relationship between communication and leadership within organizations and the development of specific communication competencies associated with effective leadership. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "COM439": {
+    "course_id": "COM439",
+    "title": "COM 439 Techniques and Cases in Public Relations",
+    "req": "<em>Prerequisite: <span data-link='COM210'>COM 210</span> and <span data-link='COM309'>COM 309</span>; Communication majors/minors must be admitted to degree program.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='COM336'>COM 336</span>. Communication theories and techniques of message preparation as applied to the function of organizational promotion. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM449": {
+    "course_id": "COM449",
+    "title": "COM 449 Communication Programs and Issues Management",
+    "req": "<em>Prerequisite: <span data-link='COM210'>COM 210</span> and <span data-link='COM336'>COM 336</span> and <span data-link='COM439'>COM 439</span>; Communication majors/minors must be admitted to degree program.</em>",
+    "desc": "Analysis and practice in strategic communication program planning and management, including techniques relevant to effective crisis communication and issues management. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM490": {
+    "course_id": "COM490",
+    "title": "COM 490 Supervised Teaching (Secondary Speech and Theatre)",
+    "req": "<em>Prerequisite: <span data-link='COM417'>COM 417</span>; a grade of &quot;C&quot; or better in all professional education courses; current pre-professional liability insurance; and approval for supervised teaching.</em>",
+    "desc": "Student observes then teaches speech and theatre classes under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Cannot count toward the major GPA. Cannot receive credit for both <span data-link='COM490'>COM 490</span> and <span data-link='THE490'>THE 490</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM491": {
+    "course_id": "COM491",
+    "title": "COM 491 Supervised Teaching (Secondary Speech and Theatre)",
+    "req": "<em>Prerequisite: Concurrent enrollment in <span data-link='COM490'>COM 490</span>.</em>",
+    "desc": "Student observes then teaches under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Cannot count toward the major GPA. Cannot receive credit for both <span data-link='COM491'>COM 491</span> and <span data-link='THE491'>THE 491</span>. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM493": {
+    "course_id": "COM493",
+    "title": "COM 493 Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate masters-level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM494": {
+    "course_id": "COM494",
+    "title": "COM 494 Conflict Capstone",
+    "req": "<em>Prerequisite: <span data-link='COM205'>COM 205</span> and <span data-link='COM511'>COM 511</span> and <span data-link='COM521'>COM 521</span>; and admission to the certificate program in Conflict and Dispute Resolution; and at least one certificate elective course.</em>",
+    "desc": "This course allows students an applied opportunity to integrate theoretical material on conflict and dispute resolution with information on a variety of contexts in which conflict occurs. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM495": {
+    "course_id": "COM495",
+    "title": "COM 495 Communication Internship",
+    "req": "<em>Prerequisite: Program of study in Communication major or minor or Undergraduate Certificate in Conflict and Dispute Resolution; admitted to degree program; and permission of Internship Coordinator.</em>",
+    "desc": "Supervised pre-professional field experience related to communication studies. Meeting minimum prerequisite requirements does not guarantee internship placement. May be repeated to a maximum of 6 hours with permission of Internship Coordinator. No more than three hours may be applied to a Communication minor. No more than one hour may be applied to the Undergraduate Certificate in Conflict and Dispute Resolution. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM496": {
+    "course_id": "COM496",
+    "title": "COM 496 Readings in Communication and Persuasion",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span> and <span data-link='COM209'>COM 209</span> and <span data-link='MED120'>MED 120</span> and permission of instructor; Communication majors/minors must be admitted to degree program.</em>",
+    "desc": "Supervised independent study exploring in-depth selected areas. Selected readings controlled by conferences, progress reports and term papers. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM499": {
+    "course_id": "COM499",
+    "title": "COM 499 Program Assessment",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Required assessment of programs and public affairs activity for all communication majors. Must be taken during the last semester of graduation or of residence. Assessment activities include submission of a cumulative academic portfolio including report of public affairs project and other elements such as exit interviews, surveys, or examinations. The focus is on communication program development, rather than on individual student evaluation. Graded Pass/Not Pass only. ",
+    "hours": {},
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM500": {
+    "course_id": "COM500",
+    "title": "COM 500 Service Learning in Communication",
+    "req": "<em>Prerequisite: permission of instructor and concurrent enrollment in a communication, media, or journalism course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in communications to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. May be taught concurrently with <span data-link='COM600'>COM 600</span>. Cannot receive credit for both <span data-link='COM600'>COM 600</span> and <span data-link='COM500'>COM 500</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM506": {
+    "course_id": "COM506",
+    "title": "COM 506 Family Communication",
+    "desc": "This course is intended to provide students with an in-depth examination of communication as it functions in family systems. May be taught concurrently with <span data-link='COM607'>COM 607</span>. Cannot receive credit for both <span data-link='COM607'>COM 607</span> and <span data-link='COM506'>COM 506</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM507": {
+    "course_id": "COM507",
+    "title": "COM 507 Health Communication and Culture",
+    "desc": "The examination of intercultural communication concepts in the health care context. Emphasis will be on understanding the health needs of diverse populations, Western health practices, non-Western health practices, and the conflicts that can emerge when cultures collide. May be taught concurrently with <span data-link='COM604'>COM 604</span>. Cannot receive credit for both <span data-link='COM507'>COM 507</span> and <span data-link='COM604'>COM 604</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM508": {
+    "course_id": "COM508",
+    "title": "COM 508 Patient-Provider Communication",
+    "desc": "This course explores the nature of patient-provider interactions in health care contexts. Emphasis is placed on traditional and non-traditional health care providers, their patients, and interpersonal communication theories specific to health care interactions. May be taught concurrently with <span data-link='COM608'>COM 608</span>. Cannot receive credit for both <span data-link='COM508'>COM 508</span> and <span data-link='COM608'>COM 608</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "COM509": {
+    "course_id": "COM509",
+    "title": "COM 509 Proseminar in Public Relations",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Readings and applications in chosen areas of professional communication practice. May be repeated once for credit. Variable content course. May be taught concurrently with <span data-link='COM609'>COM 609</span>. Cannot receive credit for both <span data-link='COM609'>COM 609</span> and <span data-link='COM509'>COM 509</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM511": {
+    "course_id": "COM511",
+    "title": "COM 511 Conflict and Communication",
+    "desc": "Equips students to understand the dynamics of interpersonal conflict and its resolution in a variety of community settings. Students will learn to analyze their own conflict styles and to develop self-regulation strategies for collaborative outcomes. The course covers conflict theory and research and applies these ideas to current community and organizational settings and diverse populations. Lectures/discussions by scholars, community leaders, and/or agency personnel who deal with conflict as well as simulations of conflict situations will be provided. May be taught concurrently with <span data-link='COM611'>COM 611</span>. Cannot receive credit for both <span data-link='COM611'>COM 611</span> and <span data-link='COM511'>COM 511</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM512": {
+    "course_id": "COM512",
+    "title": "COM 512 Communication and Diversity in the Workplace",
+    "desc": "Exploration of current theory and research regarding communication and diversity in the workplace. Study of practical applications for the assessment and training of communication skills relative to culture, race, sex, age, disability, sexual orientation and other diversity issues. Emphasis is placed on improving understanding of communication similarities and differences among diverse population groups. Includes readings, class discussion, observation, and/or class projects about assessment and training in communication skills in a diverse workplace. May be taught concurrently with <span data-link='COM617'>COM 617</span>. Cannot receive credit for both <span data-link='COM617'>COM 617</span> and <span data-link='COM512'>COM 512</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM513": {
+    "course_id": "COM513",
+    "title": "COM 513 Ethical Issues in Communication",
+    "desc": "Ethical theories and justification models are studied and then related to ethical decision making in a variety of communication contexts, including interpersonal communication, group communication, organizational communication, and public communication. The course will examine the components of good ethical decision making in communication, as well as obstacles that can stand in the way of responsible choices. May be taught concurrently with <span data-link='COM619'>COM 619</span>. Cannot receive credit for both <span data-link='COM619'>COM 619</span> and <span data-link='COM513'>COM 513</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM521": {
+    "course_id": "COM521",
+    "title": "COM 521 Communication, Mediation, and Negotiation",
+    "desc": "Explores the communicative foundation for understanding the processes of mediation and negotiation as methods for resolving conflict, with an emphasis on interpersonal and organizational conflict. The course covers theories and concepts pertaining to mediation and negotiation, particularly alternative dispute resolution, and provides students the opportunity to apply concepts through a variety of experiential activities. May be taught concurrently with <span data-link='COM621'>COM 621</span>. Cannot receive credit for both <span data-link='COM621'>COM 621</span> and <span data-link='COM521'>COM 521</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "COM532": {
+    "course_id": "COM532",
+    "title": "COM 532 Teaching Debate",
+    "req": "<em>Prerequisite: <span data-link='COM322'>COM 322</span>.</em>",
+    "desc": "This course prepares the student to teach various forms of debate in a high school setting. It will explore all major forms of high school debate, including CX Policy Debate, L/D Debate, parliamentary, and Public Forum debate. May be taught concurrently with <span data-link='COM631'>COM 631</span>. Cannot receive credit for both <span data-link='COM631'>COM 631</span> and <span data-link='COM532'>COM 532</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM534": {
+    "course_id": "COM534",
+    "title": "COM 534 Teaching Individual Events",
+    "req": "<em>Prerequisite: <span data-link='THE323'>THE 323</span>.</em>",
+    "desc": "This course prepares the student to teach various individual events common in a high school setting. It will explore all major high school individual events, including Foreign and Domestic Extemporaneous Speaking, Original Oratory, Poetry, Prose, Dramatic Interpretation, Humorous Interpretation, Radio Speaking, Storytelling, and Student Congress. May be taught concurrently with <span data-link='COM633'>COM 633</span>. Cannot receive credit for both <span data-link='COM633'>COM 633</span> and <span data-link='COM534'>COM 534</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "COM536": {
+    "course_id": "COM536",
+    "title": "COM 536 Directing Forensics",
+    "req": "<em>Prerequisite: <span data-link='COM532'>COM 532</span> and <span data-link='COM534'>COM 534</span>.</em>",
+    "desc": "Problems in coaching and conducting forensic contests. May be taught concurrently with <span data-link='COM635'>COM 635</span>. Cannot receive credit for both <span data-link='COM635'>COM 635</span> and <span data-link='COM536'>COM 536</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM550": {
+    "course_id": "COM550",
+    "title": "COM 550 Political Communication",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span> and <span data-link='COM209'>COM 209</span> and <span data-link='MED120'>MED 120</span>; Communication majors/minors must be admitted to degree program.</em>",
+    "desc": "Communication majors must complete <span data-link='COM210'>COM 210</span>. Examination of the communication process in modern political campaigns. Emphasis is placed on the role of communication strategies and tactics in political organization, message formation, fund raising, and mass media usage. May be taught concurrently with <span data-link='COM650'>COM 650</span>. Cannot receive credit for both <span data-link='COM650'>COM 650</span> and <span data-link='COM550'>COM 550</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM566": {
+    "course_id": "COM566",
+    "title": "COM 566 Social Movement Communication",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span> and <span data-link='COM209'>COM 209</span> and <span data-link='MED120'>MED 120</span>; Communication majors/minors must be admitted to degree program.</em>",
+    "desc": "Examination of social movement communication with emphasis on functionalist, dramatistic, and symbolic convergence theories. Study of movements&apos; use of communication to generate discontent, mobilize and coordinate support, defend themselves and attack opponents, and negotiate with external groups. Critical analysis of collective actions such as student, civil rights, identity, labor, religious, feminist, lesbian/gay, and utopian movements. May be taught concurrently with <span data-link='COM660'>COM 660</span>. Cannot receive credit for both <span data-link='COM660'>COM 660</span> and <span data-link='COM566'>COM 566</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "COM597": {
+    "course_id": "COM597",
+    "title": "COM 597 Studies in Communication Theory and Practice",
+    "desc": "In-depth examination of a specific communication topic. May vary from semester to semester and, with permission of the department, may be repeated to a total of 12 hours. Variable content course. May be taught concurrently with <span data-link='COM698'>COM 698</span>. Cannot receive credit for both <span data-link='COM698'>COM 698</span> and <span data-link='COM597'>COM 597</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM600": {
+    "course_id": "COM600",
+    "title": "COM 600 Service Learning in Communication Graduate Study",
+    "req": "<em>Prerequisite: permission of instructor and concurrent enrollment in a communication, media, or journalism course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in communications to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. May be taught concurrently with <span data-link='COM500'>COM 500</span>. Cannot receive credit for both <span data-link='COM600'>COM 600</span> and <span data-link='COM500'>COM 500</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM604": {
+    "course_id": "COM604",
+    "title": "COM 604 Health Communication and Culture",
+    "desc": "The examination of intercultural communication concepts in the health care context. Emphasis will be on understanding the health needs of diverse populations, Western health practices, non-Western health practices, and the conflicts that can emerge when cultures collide. May be taught concurrently with <span data-link='COM507'>COM 507</span>. Cannot receive credit for both <span data-link='COM604'>COM 604</span> and <span data-link='COM507'>COM 507</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM607": {
+    "course_id": "COM607",
+    "title": "COM 607 Family Communication",
+    "desc": "This course is intended to provide students with an in-depth examination of communication as it functions in family systems. May be taught concurrently with <span data-link='COM506'>COM 506</span>. Cannot receive credit for both <span data-link='COM506'>COM 506</span> and <span data-link='COM607'>COM 607</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM608": {
+    "course_id": "COM608",
+    "title": "COM 608 Patient-Provider Communication",
+    "desc": "This course explores the nature of patient-provider interactions in health care contexts. Emphasis is placed on traditional and non-traditional health care providers, their patients, and interpersonal communication theories specific to health care interactions. May be taught concurrently with <span data-link='COM508'>COM 508</span>. Cannot receive credit for both <span data-link='COM608'>COM 608</span> and <span data-link='COM508'>COM 508</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "COM609": {
+    "course_id": "COM609",
+    "title": "COM 609 Proseminar in Public Relations",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Readings and applications in chosen areas of professional communication practice. May be repeated once for credit. Variable content course. May be taught concurrently with <span data-link='COM509'>COM 509</span>. Cannot receive credit for both <span data-link='COM509'>COM 509</span> and <span data-link='COM609'>COM 609</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM611": {
+    "course_id": "COM611",
+    "title": "COM 611 Conflict and Communication",
+    "desc": "Equips students to understand the dynamics of interpersonal conflict and its resolution in a variety of community settings. Students will learn to analyze their own conflict styles and to develop self-regulation strategies for collaborative outcomes. The course covers conflict theory and research and applies these ideas to current community and organizational settings and diverse populations. Lectures/discussions by scholars, community leaders, and/or agency personnel who deal with conflict as well as simulations of conflict situations will be provided. May be taught concurrently with <span data-link='COM511'>COM 511</span>. Cannot receive credit for both <span data-link='COM511'>COM 511</span> and <span data-link='COM611'>COM 611</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM617": {
+    "course_id": "COM617",
+    "title": "COM 617 Communication and Diversity in the Workplace",
+    "desc": "Exploration of current theory and research regarding communication and diversity in the workplace. Study of practical applications for the assessment and training of communication skills relative to culture, race, sex, age, disability, sexual orientation and other diversity issues. Emphasis is placed on improving understanding of communication similarities and differences among diverse population groups. Includes readings, class discussion, observation, and/or class projects about assessment and training in communication skills in a diverse workplace. May be taught concurrently with <span data-link='COM512'>COM 512</span>. Cannot receive credit for both <span data-link='COM512'>COM 512</span> and <span data-link='COM617'>COM 617</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM619": {
+    "course_id": "COM619",
+    "title": "COM 619 Ethical Issues in Communication",
+    "desc": "Ethical theories and justification models are studied and then related to ethical decision making in a variety of communication contexts, including interpersonal communication, group communication, organizational communication, and public communication. The course will examine the components of good ethical decision making in communication, as well as obstacles that can stand in the way of responsible choices. May be taught concurrently with <span data-link='COM513'>COM 513</span>. Cannot receive credit for both <span data-link='COM513'>COM 513</span> and <span data-link='COM619'>COM 619</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM621": {
+    "course_id": "COM621",
+    "title": "COM 621 Communication, Mediation, and Negotiation",
+    "desc": "Explores the communicative foundation for understanding the processes of mediation and negotiation as methods for resolving conflict, with an emphasis on interpersonal and organizational conflict. The course covers theories and concepts pertaining to mediation and negotiation, particularly alternative dispute resolution, and provides students the opportunity to apply concepts through a variety of experiential activities. May be taught concurrently with <span data-link='COM521'>COM 521</span>. Cannot receive credit for both <span data-link='COM521'>COM 521</span> and <span data-link='COM621'>COM 621</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "COM631": {
+    "course_id": "COM631",
+    "title": "COM 631 Teaching Debate",
+    "desc": "This course prepares the student to teach various forms of debate in a high school setting. It will explore all major forms of high school debate, including CX Policy Debate, L/D Debate, parliamentary, and Public Forum debate. May be taught concurrently with <span data-link='COM532'>COM 532</span>. Cannot receive credit for both <span data-link='COM532'>COM 532</span> and <span data-link='COM631'>COM 631</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM633": {
+    "course_id": "COM633",
+    "title": "COM 633 Teaching Individual Events",
+    "desc": "This course prepares the student to teach various individual events common in a high school setting. It will explore all major high school individual events, including Foreign and Domestic Extemporaneous Speaking, Original Oratory, Poetry, Prose, Dramatic Interpretation, Humorous Interpretation, Radio Speaking, Storytelling, and Student Congress. May be taught concurrently with <span data-link='COM534'>COM 534</span>. Cannot receive credit for both <span data-link='COM534'>COM 534</span> and <span data-link='COM633'>COM 633</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "COM635": {
+    "course_id": "COM635",
+    "title": "COM 635 Directing Forensics",
+    "desc": "Problems in coaching and conducting forensic contests. May be taught concurrently with <span data-link='COM536'>COM 536</span>. Cannot receive credit for both <span data-link='COM536'>COM 536</span> and <span data-link='COM635'>COM 635</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM650": {
+    "course_id": "COM650",
+    "title": "COM 650 Political Communication",
+    "desc": "Examination of the communication process in modern political campaigns. Emphasis is placed on the role of communication strategies and tactics in political organization, message formation, fund raising, and mass media usage. May be taught concurrently with <span data-link='COM550'>COM 550</span>. Cannot receive credit for both <span data-link='COM550'>COM 550</span> and <span data-link='COM650'>COM 650</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM660": {
+    "course_id": "COM660",
+    "title": "COM 660 Social Movement Communication",
+    "desc": "Examination of social movement communication with emphasis on functionalist, dramatistic, and symbolic convergence theories. Study of movements&apos; use of communication to generate discontent, mobilize and coordinate support, defend themselves and attack opponents, and negotiate with external groups. Critical analysis of collective actions such as student, civil rights, identity, labor, religious, feminist, lesbian/gay, and utopian movements. May be taught concurrently with <span data-link='COM566'>COM 566</span>. Cannot receive credit for both <span data-link='COM566'>COM 566</span> and <span data-link='COM660'>COM 660</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "COM698": {
+    "course_id": "COM698",
+    "title": "COM 698 Studies in Communication Theory and Practice",
+    "desc": "In-depth examination of a specific communication topic. May vary from semester to semester and, with permission of the department, may be repeated to a total of 12 hours. Variable content course. May be taught concurrently with <span data-link='COM597'>COM 597</span>. Cannot receive credit for both <span data-link='COM597'>COM 597</span> and <span data-link='COM698'>COM 698</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM701": {
+    "course_id": "COM701",
+    "title": "COM 701 Introduction to Graduate Studies",
+    "desc": "Introduction to graduate study in communication. Topics include an overview of the field, introduction to relevant journals, library skills, professional associations, planning a program of study, and how to satisfy the research requirement. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM702": {
+    "course_id": "COM702",
+    "title": "COM 702 Theory and Research in Communication",
+    "desc": "Survey of communication theory, models, and research. Topics include perception, construction of meaning, language and symbol systems, interpersonal discourse, relationships, small group interaction, and organizational communication. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM705": {
+    "course_id": "COM705",
+    "title": "COM 705 Health Communication",
+    "desc": "Examination of communication theory in the health care context. Emphasis will be on communication effectiveness in health care professional/client relationships, in addition to message practices in small group, organizational, and mediated health campaign settings. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM706": {
+    "course_id": "COM706",
+    "title": "COM 706 Rhetorical Theory",
+    "desc": "The study of rhetorical theories from the pre-Socratic period to the contemporary period. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "COM710": {
+    "course_id": "COM710",
+    "title": "COM 710 Contemporary Communication Education",
+    "desc": "Examination of current practices and trends in Communication Education. Graduate teaching assistants in communication are required to take this course during the first semester of the assistantship. Course is only open to graduate teaching assistants in the Department of Communication. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM712": {
+    "course_id": "COM712",
+    "title": "COM 712 Quantitative Analysis in Communication Research",
+    "desc": "Quantitative research designs and statistical tools used in human communication research. Topics include descriptive and inferential statistics, validity and reliability, hypothesis testing, and analysis and interpretation of computer assisted research. Students may design and carry out individual research projects. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM713": {
+    "course_id": "COM713",
+    "title": "COM 713 Media Resources for Organizations",
+    "desc": "This course is designed to provide students with an opportunity to explore the interface of profit and non-profit organizations with television, radio, newspapers and the Internet to enhance organizational effectiveness. The course is project based focusing on developing specific media resources to meet strategic organizational communication goals. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM714": {
+    "course_id": "COM714",
+    "title": "COM 714 Qualitative Analysis in Communication Research",
+    "desc": "Qualitative approaches to studying human communication. Topics include in-depth interviewing, survey methods, observation and coding techniques in structured and naturalistic settings, and interpretive data analysis. Students may be required to design and complete research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "COM716": {
+    "course_id": "COM716",
+    "title": "COM 716 Rhetorical Analysis in Communication Research",
+    "desc": "The investigation and evaluation of rhetorical acts and artifacts for the purpose of understanding rhetorical processes. Students will survey methods of rhetorical analysis and practice critical analysis of artifacts, events, and/or acts. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM718": {
+    "course_id": "COM718",
+    "title": "COM 718 Applied Communication Research Methods",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "In-depth examination of a specific applied communication research methodology including: survey research, media criticism, communication audits, in-depth interviewing, and focus group interviewing. Topic will vary semester to semester. May be repeated but only 3 hours will count toward the degree. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM722": {
+    "course_id": "COM722",
+    "title": "COM 722 Argumentation as Communication",
+    "desc": "Argumentation as related to decision making, conflict resolution and negotiation in business, industry, government, and education. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM724": {
+    "course_id": "COM724",
+    "title": "COM 724 Theories of Interpersonal Communication",
+    "desc": "Topics include theories, concepts, models of interpersonal communication, interpersonal discourse, relationships, resolving conflicts, verbal message analysis, interpreting nonverbal message. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM732": {
+    "course_id": "COM732",
+    "title": "COM 732 Theories and Concepts of Small Group Communication",
+    "desc": "Survey of theories and concepts related to communication in small groups. Topics include group development, roles, norms, leadership, cohesiveness, decision making, conflict, interaction analysis, and research approaches to small group communication. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM736": {
+    "course_id": "COM736",
+    "title": "COM 736 Concepts and Analysis of Communication in Organizations",
+    "desc": "Advanced study of communication in organizations. Application of traditional and contemporary theories of communication and organizations in current research and practice. Particular attention is given to the symbolic nature of organizing and to the analysis of organizational culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM739": {
+    "course_id": "COM739",
+    "title": "COM 739 Concepts and Analysis of Public Relations",
+    "desc": "Examination of concepts which underlie practices in public relations. Analysis of current practices and issues important in public relations for corporations, not-for-profit organizations. government agencies, and educational institutions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM795": {
+    "course_id": "COM795",
+    "title": "COM 795 Communication Internship",
+    "req": "<em>Prerequisite: 12 graduate hours in Communication; and permission of department.</em>",
+    "desc": "Independent projects in the various areas of communication. May be repeated to a maximum of 6 hours with permission of the department. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM796": {
+    "course_id": "COM796",
+    "title": "COM 796 Independent Study",
+    "req": "<em>Prerequisite: permission of advisor.</em>",
+    "desc": "Study may be reading project or a practical application of theories. May be repeated to a maximum of 4 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COM797": {
+    "course_id": "COM797",
+    "title": "COM 797 Seminar: Communication Theory",
+    "desc": "Special topics in history, theory and criticism of communication. Topic may vary from semester to semester. With permission, may be repeated for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COM799": {
+    "course_id": "COM799",
+    "title": "COM 799 Masters Thesis",
+    "req": "<em>Prerequisite: completion of 9 graduate hours in communication; and permission of the Director of Graduate Studies and admission to the thesis option; and complete 3 graduate hours in research methods or be concurrently enrolled in one of the following courses: <span data-link='COM712'>COM 712</span>, <span data-link='COM714'>COM 714</span>, <span data-link='COM716'>COM 716</span>, or <span data-link='COM718'>COM 718</span>.</em>",
+    "desc": "Independent research and study connected with preparation of thesis. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  }
+}

@@ -1,0 +1,790 @@
+{
+  "FCS120": {
+    "course_id": "FCS120",
+    "title": "FCS 120 Family Health and Nutrition",
+    "desc": "Current trends in family health care and home nursing care; practice in the laboratory. Basic concepts of human nutrition which includes carbohydrates, lipids, proteins, vitamins, minerals, absorption, digestion, and energy utilization as they relate to health and food consumption at different states in the life cycle.  Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FCS197": {
+    "course_id": "FCS197",
+    "title": "FCS 197 Introductory Topics in Family and Consumer Sciences",
+    "desc": "Variable content course for introductory concepts in Family and Consumer Sciences. May be repeated to a total of 6 hours when topics change. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FCS299": {
+    "course_id": "FCS299",
+    "title": "FCS 299 Work Experience",
+    "req": "<em>Prerequisite: permission of subject matter faculty member or coordinator.</em>",
+    "desc": "Students will secure positions in their area of specialization in order to gain work experience. This practicum is usually scheduled between their freshman and sophomore years. Working in a coordinated program the student will be evaluated by both the company supervisor and the practicum coordinator. Besides work experience, the student can be expected to gain in career direction as well as in the application of the principles and practices of their respective specialization. 200 minimum work hours. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FCS300": {
+    "course_id": "FCS300",
+    "title": "FCS 300 Special Topics in Family and Consumer Sciences",
+    "desc": "Selected topics of contemporary interest in Family and Consumer Sciences, offered when resources and demand allow. May be repeated to a total of 6 hours when topics change. Variable Content Course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FCS301": {
+    "course_id": "FCS301",
+    "title": "FCS 301 Textiles, Apparel, and Fashion",
+    "desc": "Textiles and apparel course for teachers of Family the Consumer Sciences. Study of textiles used in apparel, selection and care of apparel, apparel construction techniques, and cultural, aesthetic, historical, legal and environmental aspects of textiles, apparel and fashion. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FCS302": {
+    "course_id": "FCS302",
+    "title": "FCS 302 Family and Consumer Sciences Study Tour",
+    "desc": "Study of mills, factories, stores, hospitals, laboratories, hospitality facilities, museums, design studios, historic sites, and/or trade markets, and not-for-profit agencies. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FCS303": {
+    "course_id": "FCS303",
+    "title": "FCS 303 Service Learning in Family and Consumer Sciences",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a designated service learning offering within one of the major areas of study in Family and Consumer Sciences.</em>",
+    "desc": "A service learning course incorporates a community service experience with classroom instruction to provide an integrative learning experience which addresses the practice of citizenship and promotes an awareness of and participation in public affairs/service. Requires 40 hours of service to a community organization, agency, or public service provider. The community service placement and assignment will vary, depending on the specialization area and learning objectives. A list of approved placements will be available from the instructor and the Citizenship and Service Learning Office. Students are required to participate in a service learning training session(s) prior to beginning their service placement. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FCS335": {
+    "course_id": "FCS335",
+    "title": "FCS 335 Presentation Techniques",
+    "req": "<em>Prerequisite: <span data-link='COM115'>COM 115</span> and 60 hours.</em>",
+    "desc": "Planning and presenting techniques for teaching in the classroom, business, industry, or extension settings. A focus on professional presentation strategies incorporating the use of multimedia technology. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FCS373": {
+    "course_id": "FCS373",
+    "title": "FCS 373 Family Economics",
+    "desc": "Recommended Prerequisite: <span data-link='ECO155'>ECO 155</span>. Family as a consumer unit, its financial well-being and interrelationship with the market and the economy. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FCS400": {
+    "course_id": "FCS400",
+    "title": "FCS 400 Problems in Family and Consumer Sciences",
+    "desc": "Independent study for those who wish additional work in specific subject areas. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FCS472": {
+    "course_id": "FCS472",
+    "title": "FCS 472 Resource Management Theory and Practicum",
+    "req": "<em>Prerequisite: <span data-link='CFD163'>CFD 163</span> and <span data-link='FCS373'>FCS 373</span>.</em>",
+    "desc": "Study of family and individual resource management concepts and application of resource management principles and techniques with emphasis on group dynamics and problem solving. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FCS477": {
+    "course_id": "FCS477",
+    "title": "FCS 477 Seminar in Home Management and Family Economics",
+    "req": "<em>Prerequisite: senior standing and major in Family and Consumer Science BSEd program.</em>",
+    "desc": "Readings, discussion and analysis of trends and developments in home management and family economics. ",
+    "hours": {
+      "credit": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FCS493": {
+    "course_id": "FCS493",
+    "title": "FCS 493 Supervised Teaching (Family and Consumer Sciences)",
+    "req": "<em>Prerequisite: completion of all methods courses in Family and Consumer Sciences; a grade of &quot;C&quot; or better in all professional education courses; current pre-professional liability insurance; and approval for supervised teaching.</em>",
+    "desc": "Student observes then teaches family and consumer sciences classes under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FCS494": {
+    "course_id": "FCS494",
+    "title": "FCS 494 Supervised Teaching (Family and Consumer Sciences)",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='FCS493'>FCS 493</span>.</em>",
+    "desc": "Student observes then teaches under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FCS498": {
+    "course_id": "FCS498",
+    "title": "FCS 498  Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate masters-level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FCS499": {
+    "course_id": "FCS499",
+    "title": "FCS 499 Internship in Family and Consumer Sciences",
+    "req": "<em>Prerequisite: permission of subject matter faculty member.</em>",
+    "desc": "Off-campus, supervised experience in a cooperative program with business, government, community, or related establishments within any of the specialized areas of family and consumer sciences. In addition to the outline agency involvement, the student is (1) required to attend a beginning orientation and a follow-up seminar, and (2) complete assignments appropriate to subject matter specialization. May be repeated up to 12 hours credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FCS500": {
+    "course_id": "FCS500",
+    "title": "FCS 500 Issues in Family and Consumer Sciences",
+    "req": "<em>Prerequisite: senior standing.</em>",
+    "desc": "Advanced inquiry into specialized areas of study in Family and Consumer Sciences such as: Blended Families, Historic Building Preservation, Textile Conservation, Preservation Techniques, Advanced Culinary Techniques, and International Trends in Hospitality. May be repeated to a total of 6 hours when topics change. Variable content course. May be taught concurrently with <span data-link='FCS600'>FCS 600</span>. Cannot receive credit for both <span data-link='FCS600'>FCS 600</span> and <span data-link='FCS500'>FCS 500</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FCS502": {
+    "course_id": "FCS502",
+    "title": "FCS 502 Study Tour",
+    "req": "<em>Prerequisite: junior or senior standing.</em>",
+    "desc": "Study of and/or visits to mills, factories, stores, museums, hospitals, laboratories, design studios and/or trade markets. Supplemental course fee (variable by section). May be taught concurrently with <span data-link='FCS602'>FCS 602</span>. Cannot receive credit for both <span data-link='FCS602'>FCS 602</span> and <span data-link='FCS502'>FCS 502</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FCS507": {
+    "course_id": "FCS507",
+    "title": "FCS 507 Student Organizations in Family and Consumer Sciences",
+    "req": "<em>Prerequisite: <span data-link='FCS335'>FCS 335</span>; and concurrent enrollment in <span data-link='FCS512'>FCS 512</span>.</em>",
+    "desc": "Methods of organizing student groups in Family and Consumer Sciences programs, techniques of working with students in individual and group projects; leadership training. May be taught concurrently with <span data-link='FCS607'>FCS 607</span>. Cannot receive credit for both <span data-link='FCS607'>FCS 607</span> and <span data-link='FCS507'>FCS 507</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FCS512": {
+    "course_id": "FCS512",
+    "title": "FCS 512 Teaching Family and Consumer Sciences",
+    "req": "<em>Prerequisite: <span data-link='FCS335'>FCS 335</span>; and <span data-link='EDC350'>EDC 350</span>; and concurrent enrollment in <span data-link='FCS507'>FCS 507</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "An overview of the philosophy and history of family and consumer sciences education; includes curriculum building with emphasis on critical thinking and reflective decision-making, problem-based learning, and the development of authentic assessments. Includes the planning of lessons, units, and development of teaching materials in the family and consumer sciences discipline and practice implementation of such lessons. Completion of checkpoint II for the Professional Portfolio is a component of this course. Credited only on BSEd Family and Consumer Sciences major. Cannot be taken Pass/Not Pass. May be taught concurrently with <span data-link='FCS612'>FCS 612</span>. Cannot receive credit for both <span data-link='FCS612'>FCS 612</span> and <span data-link='FCS512'>FCS 512</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FCS515": {
+    "course_id": "FCS515",
+    "title": "FCS 515 Organization of Family and Consumer Sciences Programs",
+    "req": "<em>Prerequisite: <span data-link='FCS507'>FCS 507</span> and <span data-link='FCS512'>FCS 512</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "Investigation of the organization and administration of family and consumer sciences programs; identification of types of programs; program planning, program evaluation and career counseling with emphasis on critical thinking and reflective decision-making. Credited only on BSEd Family and Consumer Sciences major. Cannot not be taken Pass/Not Pass. May be taught concurrently with <span data-link='FCS615'>FCS 615</span>. Cannot receive credit for both <span data-link='FCS615'>FCS 615</span> and <span data-link='FCS515'>FCS 515</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FCS600": {
+    "course_id": "FCS600",
+    "title": "FCS 600 Issues in Family and Consumer Sciences",
+    "desc": "Advanced inquiry into specialized areas of study in Family and Consumer Sciences such as: Blended Families, Historic Building Preservation, Textile Conservation, Preservation Techniques, Advanced Culinary Techniques, and International Trends in Hospitality. May be repeated to a total of 6 hours when topics change. Variable content course. May be taught concurrently with <span data-link='FCS500'>FCS 500</span>. Cannot receive credit for both <span data-link='FCS500'>FCS 500</span> and <span data-link='FCS600'>FCS 600</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FCS602": {
+    "course_id": "FCS602",
+    "title": "FCS 602 Study Tour",
+    "desc": "Study of and/or visits to mills, factories, stores, museums, hospitals, laboratories, design studios and/or trade markets. Supplemental course fee (variable by section). May be taught concurrently with <span data-link='FCS502'>FCS 502</span>. Cannot receive credit for both <span data-link='FCS502'>FCS 502</span> and <span data-link='FCS602'>FCS 602</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FCS607": {
+    "course_id": "FCS607",
+    "title": "FCS 607 Student Organizations in Family and Consumer Sciences",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='FCS612'>FCS 612</span>.</em>",
+    "desc": "Methods of organizing student groups in Family and Consumer Sciences programs, techniques of working with students in individual and group projects; leadership training. May be taught concurrently with <span data-link='FCS507'>FCS 507</span>. Cannot receive credit for both <span data-link='FCS507'>FCS 507</span> and <span data-link='FCS607'>FCS 607</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FCS612": {
+    "course_id": "FCS612",
+    "title": "FCS 612 Teaching Family and Consumer Sciences",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='FCS607'>FCS 607</span>.</em>",
+    "desc": "An overview of the philosophy and history of family and consumer sciences education; includes curriculum building with emphasis on critical thinking and reflective decision-making, problem-based learning, and the development of authentic assessments. Includes the planning of lessons, units, and development of teaching materials in the family and consumer sciences discipline and practice implementation of such lessons. Completion of checkpoint II for the Professional Portfolio is a component of this course. A grade of &quot;C&quot; or better is required in this course. May be taught concurrently with <span data-link='FCS512'>FCS 512</span>. May be receive credit for both <span data-link='FCS512'>FCS 512</span> and <span data-link='FCS612'>FCS 612</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FCS615": {
+    "course_id": "FCS615",
+    "title": "FCS 615 Organization of Family and Consumer Sciences Programs",
+    "req": "<em>Prerequisite: <span data-link='FCS607'>FCS 607</span> and <span data-link='FCS612'>FCS 612</span>.</em>",
+    "desc": "Investigation of the organization and administration of family and consumer sciences programs; identification of types of programs; program planning, program evaluation and career counseling with emphasis on critical thinking and reflective decision-making. May be taught concurrently with <span data-link='FCS515'>FCS 515</span>. Cannot receive credit for both <span data-link='FCS515'>FCS 515</span> and <span data-link='FCS615'>FCS 615</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FCS701": {
+    "course_id": "FCS701",
+    "title": "FCS 701 Supervision of Student Teachers in Family and Consumer Sciences",
+    "req": "<em>Prerequisite: teaching experience in Family and Consumer Sciences; and permission.</em>",
+    "desc": "Experiences in creating an environment that will encourage Family and Consumer Sciences student teachers to realize their potentials and gain competence in teaching. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FCS795": {
+    "course_id": "FCS795",
+    "title": "FCS 795 Advanced Technical Practice",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Work in CAD, EDI, Child Life, mental health, hospitality, clinical hospitals, schools, manufacturing, retailing, and/or other settings. Ninety clock hours required. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FCS796": {
+    "course_id": "FCS796",
+    "title": "FCS 796 Practicum",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "The assumption of responsibilities at an approved practicum site under the direction of a professor and practicum site supervisor. ",
+    "hours": {
+      "credit": 4,
+      "lab": 8
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FMD101": {
+    "course_id": "FMD101",
+    "title": "FMD 101 Introduction to Fashion",
+    "desc": "Overview of the global fashion industry. Career options in fashion merchandising, product development and design are highlighted. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FMD103": {
+    "course_id": "FMD103",
+    "title": "FMD 103 Introduction to Fashion Construction",
+    "desc": "Basic understanding of industry construction techniques, terminology and applications of knit and woven fabrics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FMD201": {
+    "course_id": "FMD201",
+    "title": "FMD 201 History of Fashion",
+    "desc": "The study of fashion evolution from B.C. to current fashion and how the influences of social, economic, political, technological and global cultures impact garments and accessories. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FMD202": {
+    "course_id": "FMD202",
+    "title": "FMD 202 Fashion Textiles",
+    "desc": "Study of fibers, yarns and fabrics. Industry applications and end usage are examined. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FMD203": {
+    "course_id": "FMD203",
+    "title": "FMD 203 Kaledo for the Fashion Industry",
+    "req": "<em>Prerequisite: <span data-link='FMD101'>FMD 101</span> with grade of C grade or better; and <span data-link='FMD210'>FMD 210</span>.</em>",
+    "desc": "Introduction to the principles and techniques of computer aided design used in the fashion industry. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FMD210": {
+    "course_id": "FMD210",
+    "title": "FMD 210 Computer Imagery in the Fashion Industry",
+    "desc": "A study of software tools commonly used in the fashion industry. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FMD270": {
+    "course_id": "FMD270",
+    "title": "FMD 270 Advanced Fashion Construction",
+    "req": "<em>Prerequisite: <span data-link='FMD103'>FMD 103</span> with C grade or better.</em>",
+    "desc": "Advanced construction techniques utilizing a variety of merchandise classifications including menswear, intimates, children&apos;s wear, and sportswear. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FMD300": {
+    "course_id": "FMD300",
+    "title": "FMD 300 Special Topics in Fashion Merchandising and Design",
+    "desc": "Selected topics of contemporary interest in fashion merchandising and design. Offered when resources and demand allow. May be repeated for a total of 6 hours when topics change. Variable Content Course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FMD301": {
+    "course_id": "FMD301",
+    "title": "FMD 301 Introduction to Product Development",
+    "req": "<em>Prerequisite: <span data-link='FMD101'>FMD 101</span> with grade of C or better; and <span data-link='FMD210'>FMD 210</span>.</em>",
+    "desc": "Examination of product development through core concepts, trends, color, and elements of design. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FMD302": {
+    "course_id": "FMD302",
+    "title": "FMD 302 Fashion Merchandising and Design Study Tour",
+    "desc": "Study of and visits to museums, design studios, historic sites, trade shows, conferences, and conventions related to the fashion industry. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FMD303": {
+    "course_id": "FMD303",
+    "title": "FMD 303 Evaluation of Product Quality",
+    "req": "<em>Prerequisite: <span data-link='FMD202'>FMD 202</span> with a grade of C or better.</em>",
+    "desc": "The analysis of Product Development quality through element identification, stitch and seam classification, grading, fit, specifications and performance evaluation. May be taken concurrently with <span data-link='FMD301'>FMD 301</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FMD304": {
+    "course_id": "FMD304",
+    "title": "FMD 304 Application of Product Development",
+    "req": "<em>Prerequisite: <span data-link='FMD103'>FMD 103</span> and <span data-link='FMD202'>FMD 202</span> and <span data-link='FMD301'>FMD 301</span> and <span data-link='FMD303'>FMD 303</span> with grades of C or better.</em>",
+    "desc": "The development of multiple collections for a new company from consumer to retail buyer or consumer. Research includes target market, seasonal changes, color, fabric selection, costing, specification sheets, labeling, packaging, and line/trend boards. May be taken concurrently with <span data-link='FMD201'>FMD 201</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FMD305": {
+    "course_id": "FMD305",
+    "title": "FMD 305 Pre-Internship Seminar",
+    "req": "<em>Prerequisite: <span data-link='FMD101'>FMD 101</span> with grade of C or better; and <span data-link='FMD210'>FMD 210</span> and 301.</em>",
+    "desc": "Sourcing and acquisition of an internship are examined. Includes resume writing, phone, email and correspondence etiquette, and interview skills. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FMD306": {
+    "course_id": "FMD306",
+    "title": "FMD 306 Merchandising Mathematics",
+    "req": "<em>Prerequisite: <span data-link='FMD301'>FMD 301</span> with grade of C or better; and General Education mathematics requirement with a grade of C or better.</em>",
+    "desc": "Basic retail and buying formulas are examined for the purpose of understanding six month merchandising plans and open-to-buy calculations. Case studies include vender relations and negotiation strategies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FMD307": {
+    "course_id": "FMD307",
+    "title": "FMD 307 Advanced Computer Imagery for the Fashion Industry",
+    "req": "<em>Prerequisite: <span data-link='FMD210'>FMD 210</span> with grade of C or better.</em>",
+    "desc": "Learn how to use current industry software, such as Photoshop, Illustrator, and related programs for fashion presentations and portfolio work. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FMD360": {
+    "course_id": "FMD360",
+    "title": "FMD 360 Visual Merchandising",
+    "req": "<em>Prerequisite: <span data-link='FMD301'>FMD 301</span> with grade of C or better.</em>",
+    "desc": "Application of principles of visual merchandising through hands-on experience with visual placement, display focal points and background lighting for store displays. From a visual perspective students will explore media through the Internet, print and branding. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FMD361": {
+    "course_id": "FMD361",
+    "title": "FMD 361 Fashion Show Production",
+    "req": "<em>Prerequisite: <span data-link='FMD301'>FMD 301</span> and <span data-link='FMD304'>FMD 304</span> with grades of C or better; and junior standing.</em>",
+    "desc": "Production of a runway fashion show from a zero line budget; showcasing original study designs and hands-on experience in fundraising, modeling, garment selection, staging, and public relations. May be repeated up to 6 hours with permission. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FMD362": {
+    "course_id": "FMD362",
+    "title": "FMD 362 Fashion Promotion",
+    "req": "<em>Prerequisite: <span data-link='FMD301'>FMD 301</span> with grade of C or better; <span data-link='FMD304'>FMD 304</span> with grade of C or better or concurrent enrollment.</em>",
+    "desc": "An experiential based fashion course providing opportunities to develop various forms of productions for university and community promotions. May be repeated for a total of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FMD370": {
+    "course_id": "FMD370",
+    "title": "FMD 370 Flat Pattern",
+    "req": "<em>Prerequisite: <span data-link='FMD270'>FMD 270</span> with grade of C or better.</em>",
+    "desc": "Fundamental concepts of drafting for the basic female form and pattern manipulation techniques to develop original garments. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FMD371": {
+    "course_id": "FMD371",
+    "title": "FMD 371 Draping",
+    "req": "<em>Prerequisite: <span data-link='FMD370'>FMD 370</span> with C grade or better.</em>",
+    "desc": "Fundamental concepts for developing original designs by using draping techniques. Full size dress forms are used for creation of basic sloper and original designs in knits and wovens. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FMD372": {
+    "course_id": "FMD372",
+    "title": "FMD 372 Fashion Illustration",
+    "req": "<em>Prerequisite: <span data-link='FMD371'>FMD 371</span> with grade of C grade or better or junior standing.</em>",
+    "desc": "Creation of fashion flats and specification sheets. Students focus on the technical ability to translate a creative idea into a working blueprint. Outcomes include the portfolio for their senior collection. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FMD400": {
+    "course_id": "FMD400",
+    "title": "FMD 400 Problems in Fashion Merchandising and Design",
+    "desc": "Independent study for those who wish additional work in specific subject areas. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FMD401": {
+    "course_id": "FMD401",
+    "title": "FMD 401 Internship in Fashion Merchandising",
+    "req": "<em>Prerequisite: <span data-link='FMD305'>FMD 305</span> and <span data-link='FMD306'>FMD 306</span> with grades of C or better; and permission.</em>",
+    "desc": "Supervised experienced in a pre-approved internship program in a related field of Product Development or Merchandising. The student must work a minimum of 240 hours for a 4 credit hour internship or a minimum of 320 hours for a 6 credit hour internship, complete the student workbook, earn a satisfactory evaluation from the internship sponsor and complete a journal. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Summer": true,
+      "Upon demand": true
+    }
+  },
+  "FMD402": {
+    "course_id": "FMD402",
+    "title": "FMD 402 Internship in Fashion Design",
+    "req": "<em>Prerequisite: <span data-link='FMD305'>FMD 305</span> and <span data-link='FMD306'>FMD 306</span> and <span data-link='FMD370'>FMD 370</span> and <span data-link='FMD371'>FMD 371</span> with grades of C or better; and permission.</em>",
+    "desc": "Supervised experience in a pre-approved internship program in a related field of Product Development or Design. The student must work a minimum of 240 hours for a 4 credit hour internship or a minimum of 320 hours for a 6 credit hour internship, complete the student workbook, earn a satisfactory evaluation from the internship sponsor and complete a journal. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Summer": true,
+      "Upon demand": true
+    }
+  },
+  "FMD403": {
+    "course_id": "FMD403",
+    "title": "FMD 403 Post-Internship",
+    "req": "<em>Prerequisite: <span data-link='FMD401'>FMD 401</span> or <span data-link='FMD402'>FMD 402</span> with grade of C or better or concurrent enrollment.</em>",
+    "desc": "Objectives include the preparation and review of the electronic and visual portfolio, updating of resume and cover letter for job placement and a review of interview and business etiquette along with personal budgeting. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Upon demand": true
+    }
+  },
+  "FMD460": {
+    "course_id": "FMD460",
+    "title": "FMD 460 Fashion Merchandise Planning",
+    "req": "<em>Prerequisite: <span data-link='FMD306'>FMD 306</span> with grade of C or better.</em>",
+    "desc": "Advanced merchandise mathematics. Apply six month merchandise plan and OTB formulas through a simulated buying experience including store planning, merchandising and marketing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FMD470": {
+    "course_id": "FMD470",
+    "title": "FMD 470 Design Challenges",
+    "req": "<em>Prerequisite: <span data-link='FMD371'>FMD 371</span> with grade of C or better.</em>",
+    "desc": "Creation of garments using advanced flat pattern and draping techniques for a variety of merchandise classifications (menswear, children&apos;s wear, sportswear, and intimates) includes fitting and grading apparel. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FMD560": {
+    "course_id": "FMD560",
+    "title": "FMD 560 Entrepreneurship",
+    "req": "<em>Prerequisite: <span data-link='FMD460'>FMD 460</span> with grade of C or better or concurrent enrollment.</em>",
+    "desc": "Developing a fashion business plan from concept to store opening including: target market, location, merchandising classification, human resources, cash flow sheets, profit and loss, store design, assortment planning, marketing strategies and funding. Completed business plan is critiqued by a financial industry professional A grade of C or better is required for graduation. May be taught concurrently with <span data-link='FMD660'>FMD 660</span>. Cannot receive credit for both <span data-link='FMD560'>FMD 560</span> and <span data-link='FMD660'>FMD 660</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FMD570": {
+    "course_id": "FMD570",
+    "title": "FMD 570 Senior Collection",
+    "req": "<em>Prerequisite: <span data-link='FMD372'>FMD 372</span> and <span data-link='FMD470'>FMD 470</span> with grades of C or better.</em>",
+    "desc": "Complete a fashion collection to be critiqued and juried by fashion industry professionals for a spring fashion show. A grade of C or better is required for graduation. May be taught concurrently with <span data-link='FMD670'>FMD 670</span>. Cannot receive credit for both <span data-link='FMD570'>FMD 570</span> and <span data-link='FMD670'>FMD 670</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FMD660": {
+    "course_id": "FMD660",
+    "title": "FMD 660 Entrepreneurship",
+    "desc": "Developing a fashion business plan from concept to store opening including: target market, location, merchandising classification, human resources, cash flow sheets, profit and loss, store design, assortment planning, marketing strategies and funding. Completed business plan is critiqued by a financial industry professional A grade of C or better is required for graduation. May be taught concurrently with <span data-link='FMD560'>FMD 560</span>. Cannot receive credit for both <span data-link='FMD660'>FMD 660</span> and <span data-link='FMD560'>FMD 560</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FMD670": {
+    "course_id": "FMD670",
+    "title": "FMD 670 Senior Collection",
+    "desc": "Complete a fashion collection to be critiqued and juried by fashion industry professionals for the spring fashion show. A grade of &quot;C&quot; or better is required for graduation. Supplemental course fee. May be taught concurrently with <span data-link='FDM570'>FDM 570</span>. Cannot receive credit for both <span data-link='FMD670'>FMD 670</span> and <span data-link='FMD570'>FMD 570</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FMD682": {
+    "course_id": "FMD682",
+    "title": "FMD 682 Graduate Seminar in Fashion Merchandising and Design",
+    "req": "<em>Prerequisite: 12 hours of graduate credit.</em>",
+    "desc": "Selected topics in clothing and textiles that involve the areas of apparel manufacturing, fashion merchandising, and management trends are systematically explored through critical analysis of literature and through an individual research project. May be repeated for credit. A total of 4 hours may be applied to a degree program. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "SCI214": {
+    "course_id": "SCI214",
+    "title": "SCI 214 Introduction to Science Teaching in the 21st Century",
+    "req": "<em>Prerequisite: completion of eight hours of science courses.</em>",
+    "desc": "The course is an introduction to science teaching and to the field of science. Topics in the course include the nature of science, scientific inquiry and research in the sciences. The students will explore how scientists conduct research and how teachers and students conduct research in classrooms. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SCI314": {
+    "course_id": "SCI314",
+    "title": "SCI 314 Techniques and Technology in Science Laboratory Teaching",
+    "req": "<em>Prerequisite: <span data-link='SCI214'>SCI 214</span> and <span data-link='SEC302'>SEC 302</span>; and one laboratory courses in each science discipline: BIO, CHM, PHY, GLG or GRY.</em>",
+    "desc": "Instruction will focus on safe and effective uses of laboratory techniques and technology to teach science. The course will emphasize the potential of the science laboratory as a vehicle to promote student understanding of science and scientific inquiry. Pre-service teachers will have opportunities to familiarize themselves with laboratory equipment and techniques they will use to teach science in middle or high schools. Field trips to local schools will be required. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SCI404": {
+    "course_id": "SCI404",
+    "title": "SCI 404 Teaching of Middle School Natural Science",
+    "req": "<em>Prerequisite: <span data-link='BIO205'>BIO 205</span> and <span data-link='CHM116'>CHM 116</span> and 117 and <span data-link='PHY101'>PHY 101</span> and <span data-link='GRY240'>GRY 240</span>; <span data-link='EDC350'>EDC 350</span> or concurrent enrollment; and admission to Teacher Education Program; <span data-link='RDG318'>RDG 318</span> and <span data-link='MID421'>MID 421</span> are recommended.</em>",
+    "desc": "Integration of current science learning theories and standards into practical classroom experiences for students of diverse backgrounds and abilities. Students will learn to design and teach science through various inquiry pedagogical approaches. A 15 hour practicum is required. Field trips are required. Portfolio checkpoint 2 is partially addressed through assignments in this course. Credited only on BSEd degree. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='MID493'>MID 493</span> or <span data-link='MID494'>MID 494</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SCI414": {
+    "course_id": "SCI414",
+    "title": "SCI 414 Teaching of Secondary School Natural Science",
+    "req": "<em>Prerequisite: admission to the Teacher Education Program; <span data-link='SCI214'>SCI 214</span> and <span data-link='SCI314'>SCI 314</span>; completion of 20 hours in the primary science field; minimum of one required course in BIO, CHM, PHY, GLG or GRY; <span data-link='EDC350'>EDC 350</span> or concurrent enrollment; <span data-link='RDG474'>RDG 474</span> is recommended.</em>",
+    "desc": "Integration of current science learning theories and standards into practical classroom experiences for students of diverse backgrounds and abilities. Students will learn to design and teach science through various inquiry pedagogical approaches. Students will learn to assess content knowledge achievement through formal and informal techniques. Practical classroom management will be emphasized. A 15 hour practicum is required. Field trips are required. Portfolio checkpoint 2 is partially addressed through assignments in this courses. Credited only on BSEd. A grade of &quot;C&quot; or better is required in this class in order to take <span data-link='SCI493'>SCI 493</span> and <span data-link='SCI494'>SCI 494</span>. Cannot be taken Pass/Not Pass. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SCI493": {
+    "course_id": "SCI493",
+    "title": "SCI 493 Supervised Teaching (Secondary Science)",
+    "req": "<em>Prerequisite: <span data-link='SCI414'>SCI 414</span>; a grade of &quot;C: or better in all professional education courses; current pre-professional liability insurance; and approval for supervised teaching.</em>",
+    "desc": "Student observes, then teaches science under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SCI494": {
+    "course_id": "SCI494",
+    "title": "SCI 494 Supervised Teaching (Secondary Science)",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='SCI493'>SCI 493</span>.</em>",
+    "desc": "Student observes, then teaches under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SCI499": {
+    "course_id": "SCI499",
+    "title": "SCI 499 Clinical Experience in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate masters-level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SCI505": {
+    "course_id": "SCI505",
+    "title": "SCI 505 Intellectual Foundations of Science and Technology",
+    "req": "<em>Prerequisite: 70 hours including 8 hours of natural science.</em>",
+    "desc": "An historical and philosophical examination of the origins and the development of science and technology. The differences between science and technology, their interrelationships in modern times, and the impact of each of these on society will be considered. May be taught concurrently with <span data-link='SCI605'>SCI 605</span>. Cannot receive credit for both <span data-link='SCI605'>SCI 605</span> and <span data-link='SCI505'>SCI 505</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SCI580": {
+    "course_id": "SCI580",
+    "title": "SCI 580 Topics in Science Education",
+    "req": "<em>Prerequisite: 70 hours.</em>",
+    "desc": "A variable content course for offering selected topics of interest to science teachers in the elementary, middle, or secondary schools; or in college classrooms. May be repeated up to 6 hours when the topic varies. No more than 6 hours may be counted toward a degree. May be taught concurrently with <span data-link='SCI685'>SCI 685</span>. Cannot receive credit for both <span data-link='SCI685'>SCI 685</span> and <span data-link='SCI580'>SCI 580</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SCI605": {
+    "course_id": "SCI605",
+    "title": "SCI 605 Intellectual Foundations of Science and Technology",
+    "desc": "An historical and philosophical examination of the origins and the development of science and technology. The differences between science and technology, their interrelationships in modern times, and the impact of each of these on society will be considered. May be taught concurrently with <span data-link='SCI505'>SCI 505</span>. Cannot receive credit for both <span data-link='SCI505'>SCI 505</span> and <span data-link='SCI605'>SCI 605</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SCI685": {
+    "course_id": "SCI685",
+    "title": "SCI 685 Topics in Science Education",
+    "desc": "A variable content course for offering selected topics of interest to science teachers in the elementary, middle, or secondary schools; or in college classrooms. May be repeated up to 6 hours when the topic varies. No more than 6 hours may be counted toward a degree. May be taught concurrently with <span data-link='SCI580'>SCI 580</span>. Cannot receive credit for both <span data-link='SCI685'>SCI 685</span> and <span data-link='SCI580'>SCI 580</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SCI780": {
+    "course_id": "SCI780",
+    "title": "SCI 780 Advanced Topics in Science Education",
+    "req": "<em>Prerequisite: 12 hours of graduate coursework.</em>",
+    "desc": "A variable content course for offering selected topics of interest to science teachers in the elementary, middle, or secondary schools; or in college classrooms. May be repeated up to 6 hours when the topic varies. Maximum of 6 hours may be counted toward degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

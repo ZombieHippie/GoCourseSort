@@ -1,0 +1,436 @@
+{
+  "LIS101": {
+    "course_id": "LIS101",
+    "title": "LIS 101 Introduction to Information Literacy",
+    "desc": "Introduction to basic strategies and skills related to locating, evaluating, and using print and digital information resources. Information technologies, determining information needs, types of information sources, searching for and retrieving information, evaluating information for relevancy and quality, properly documenting use of information, and applying information ethically. Face to face or blended formats. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "LIS305": {
+    "course_id": "LIS305",
+    "title": "LIS 305 Service Learning in Library Science",
+    "req": "<em>Prerequisite: concurrent registration in an LIS course designated as a service learning offering.</em>",
+    "desc": "This one-hour service component for an existing course incorporates community service with classroom instruction in library science education. It provides an integrated learning experience, addressing the practice of citizenship and promoting an awareness of and participation in public affairs. It includes 40 hours of service benefiting an external community organization, agency or public service provider. Approved service placements and assignments will vary depending on the course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. May be taught concurrently with <span data-link='LIS618'>LIS 618</span>. Cannot receive credit for both <span data-link='LIS305'>LIS 305</span> and <span data-link='LIS618'>LIS 618</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS500": {
+    "course_id": "LIS500",
+    "title": "LIS 500 Libraries and Librarianship: An Introductory Seminar",
+    "desc": "Types of libraries; their functions and objectives; internal organization and procedures; duties and qualifications of librarians; professional organizations and literature; various issues and technologies reflecting the changing nature of librarianship; and introduction to professional portfolio development. May be taught concurrently with <span data-link='LIS600'>LIS 600</span>. Cannot receive credit for both <span data-link='LIS500'>LIS 500</span> and <span data-link='LIS600'>LIS 600</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS502": {
+    "course_id": "LIS502",
+    "title": "LIS 502 History of Books and Libraries",
+    "desc": "History of books and libraries from the earliest times to the present; influence and importance of the book and the library in society throughout history. May be taught concurrently with <span data-link='LIS602'>LIS 602</span>. Cannot receive credit for both <span data-link='LIS602'>LIS 602</span> and <span data-link='LIS502'>LIS 502</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS504": {
+    "course_id": "LIS504",
+    "title": "LIS 504 Reference",
+    "req": "<em>Prerequisite: <span data-link='LIS500'>LIS 500</span>.</em>",
+    "desc": "An introduction to basic, general print and electronic reference sources. May be taught concurrently with <span data-link='LIS604'>LIS 604</span>. Cannot receive credit for both <span data-link='LIS604'>LIS 604</span> and <span data-link='LIS504'>LIS 504</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS506": {
+    "course_id": "LIS506",
+    "title": "LIS 506 Collection Development and Acquisitions",
+    "req": "<em>Prerequisite: <span data-link='LIS500'>LIS 500</span>.</em>",
+    "desc": "Principles of collection development including selection aids, review media and collection evaluation; methods of selection and acquisitions. May be taught concurrently with <span data-link='LIS606'>LIS 606</span>. Cannot receive credit for both <span data-link='LIS606'>LIS 606</span> and <span data-link='LIS506'>LIS 506</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS508": {
+    "course_id": "LIS508",
+    "title": "LIS 508 Cataloging and Classification",
+    "req": "<em>Prerequisite: <span data-link='LIS500'>LIS 500</span>.</em>",
+    "desc": "Basic cataloging and classification; subject headings; cataloging print and non-print material; MARC records; various types of traditional and electronic catalogs. May be taught concurrently with <span data-link='LIS608'>LIS 608</span>. Cannot receive credit for both <span data-link='LIS608'>LIS 608</span> and <span data-link='LIS508'>LIS 508</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS510": {
+    "course_id": "LIS510",
+    "title": "LIS 510 Curriculum and the School Library",
+    "req": "<em>Prerequisite: <span data-link='LIS500'>LIS 500</span>.</em>",
+    "desc": "Focuses on integrating the school library program and collections with curriculum; emphasizes diverse student learning styles; role of the school librarian as a teacher; use of electronic resources for research, teaching, and learning. May be taught concurrently with <span data-link='LIS610'>LIS 610</span>. Cannot receive credit for both <span data-link='LIS610'>LIS 610</span> and <span data-link='LIS510'>LIS 510</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS512": {
+    "course_id": "LIS512",
+    "title": "LIS 512 Reading Guidance for Young Adults",
+    "desc": "The study of reading interests and habits of high school age young adults. Methods of meeting the needs of different types of readers and stimulating reading interest through library collections and services. May be taught concurrently with <span data-link='LIS612'>LIS 612</span>. Cannot receive credit for both <span data-link='LIS612'>LIS 612</span> and <span data-link='LIS512'>LIS 512</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS530": {
+    "course_id": "LIS530",
+    "title": "LIS 530 Children's Librarianship: Birth through Age 9",
+    "desc": "Fundamentals of children&apos;s librarianship for both public librarians and school library media specialists, including collection development, programming, and current issues. May be taught concurrently with <span data-link='LIS630'>LIS 630</span>. Cannot receive credit for both <span data-link='LIS630'>LIS 630</span> and <span data-link='LIS530'>LIS 530</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS532": {
+    "course_id": "LIS532",
+    "title": "LIS 532 Library Resources and Services for Grades 4-8",
+    "desc": "An introduction to a broad selection of books, audiovisuals, and electronic resources for grades 4-8 and how these can be used to enrich the curriculum. Emphasis will be placed on integration of a variety of resources in both content area studies and &quot;stand alone&quot; information literacy instruction. May be taught concurrently with <span data-link='LIS632'>LIS 632</span>. Cannot receive credit for both <span data-link='LIS632'>LIS 632</span> and <span data-link='LIS532'>LIS 532</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS534": {
+    "course_id": "LIS534",
+    "title": "LIS 534 Introduction to Storytelling",
+    "desc": "Introduction to the art of storytelling and development of skills in finding, preparing, and delivering stories to grades K-12; analysis and review of storytellers&apos; resources; exploration of a wide variety of styles and methods of telling to facilitate the planning and presentation of storytelling programs in the school media center or classroom and include traditional storytelling across the curriculum. May be taught concurrently with <span data-link='LIS634'>LIS 634</span>. Cannot receive credit for both <span data-link='LIS634'>LIS 634</span> and <span data-link='LIS534'>LIS 534</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "LIS540": {
+    "course_id": "LIS540",
+    "title": "LIS 540 Information Technologies",
+    "req": "<em>Prerequisite: <span data-link='LIS500'>LIS 500</span>.</em>",
+    "desc": "An introduction to applied information technologies applicable to libraries, including uses of computers in libraries, computer hardware and software needs of libraries, and issues related to access and evaluation of information. May be taught concurrently with <span data-link='LIS640'>LIS 640</span>. Cannot receive credit for both <span data-link='LIS640'>LIS 640</span> and <span data-link='LIS540'>LIS 540</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS596": {
+    "course_id": "LIS596",
+    "title": "LIS 596 Independent Study",
+    "req": "<em>Prerequisite: <span data-link='LIS500'>LIS 500</span> and two of the following: <span data-link='LIS504'>LIS 504</span>, <span data-link='LIS506'>LIS 506</span>, <span data-link='LIS508'>LIS 508</span>.</em>",
+    "desc": "Individual projects or study under the supervision of members of the library faculty. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='LIS696'>LIS 696</span>. Cannot receive credit for both <span data-link='LIS696'>LIS 696</span> and <span data-link='LIS596'>LIS 596</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS597": {
+    "course_id": "LIS597",
+    "title": "LIS 597 Special Topics",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Selected topics in substantive areas of librarianship such as automation, collection development and resource sharing, and the politics of librarianship. Offered when resources and demand allows. May be repeated to a total of 6 hours when topic changes. Variable content course. May be taught concurrently with <span data-link='LIS697'>LIS 697</span>. Cannot receive credit for both <span data-link='LIS697'>LIS 697</span> and <span data-link='LIS597'>LIS 597</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS598": {
+    "course_id": "LIS598",
+    "title": "LIS 598 Action Research in the School Library",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='LIS599'>LIS 599</span>.</em>",
+    "desc": "Survey of action research techniques designed to assess the integration of the school library into building-level curricula and its impact on student achievement. Students will design, conduct, and evaluate an action research project in a school library. May be taught concurrently with <span data-link='LIS698'>LIS 698</span>. Cannot receive credit for both <span data-link='LIS598'>LIS 598</span> and <span data-link='LIS698'>LIS 698</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS599": {
+    "course_id": "LIS599",
+    "title": "LIS 599 Library Practicum",
+    "req": "<em>Prerequisite: <span data-link='LIS500'>LIS 500</span> and <span data-link='LIS504'>LIS 504</span> and <span data-link='LIS506'>LIS 506</span> and <span data-link='LIS508'>LIS 508</span>.</em>",
+    "desc": "Supervised practical work experience in an appropriate library designed to cover all aspects of librarianship. Portfolio checkpoint number 3. May be taught concurrently with <span data-link='LIS699'>LIS 699</span>. Cannot receive credit for both <span data-link='LIS699'>LIS 699</span> and <span data-link='LIS599'>LIS 599</span>. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS600": {
+    "course_id": "LIS600",
+    "title": "LIS 600 Libraries and Librarianship: An Introductory Seminar",
+    "desc": "Types of libraries; their functions and objectives; internal organization and procedures; duties and qualifications of librarians; professional organizations and literature; various issues and technologies reflecting the changing nature of librarianship; and introduction to professional portfolio development. May be taught concurrently with <span data-link='LIS500'>LIS 500</span>. Cannot receive credit for both <span data-link='LIS500'>LIS 500</span> and <span data-link='LIS600'>LIS 600</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS602": {
+    "course_id": "LIS602",
+    "title": "LIS 602 History of Books and Libraries",
+    "desc": "History of books and libraries from the earliest times to the present; influence and importance of the book and the library in society throughout history. May be taught concurrently with <span data-link='LIS502'>LIS 502</span>. Cannot receive credit for both <span data-link='LIS502'>LIS 502</span> and <span data-link='LIS602'>LIS 602</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS604": {
+    "course_id": "LIS604",
+    "title": "LIS 604 Reference",
+    "req": "<em>Prerequisite: <span data-link='LIS600'>LIS 600</span>.</em>",
+    "desc": "An introduction to basic, general print and electronic reference sources. May be taught concurrently with <span data-link='LIS504'>LIS 504</span>. Cannot receive credit for both <span data-link='LIS504'>LIS 504</span> and <span data-link='LIS604'>LIS 604</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS606": {
+    "course_id": "LIS606",
+    "title": "LIS 606 Collection Development and Acquisitions",
+    "req": "<em>Prerequisite: <span data-link='LIS600'>LIS 600</span>.</em>",
+    "desc": "Principles of collection development including selection aids, review media and collection evaluation; methods of selection and acquisitions. May be taught concurrently with <span data-link='LIS506'>LIS 506</span>. Cannot receive credit for both <span data-link='LIS506'>LIS 506</span> and <span data-link='LIS606'>LIS 606</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS608": {
+    "course_id": "LIS608",
+    "title": "LIS 608 Cataloging and Classification",
+    "req": "<em>Prerequisite: <span data-link='LIS600'>LIS 600</span>.</em>",
+    "desc": "Basic cataloging and classification; subject headings; cataloging print and non-print material; MARC records; various types of traditional and electronic catalogs. May be taught concurrently with <span data-link='LIS508'>LIS 508</span>. Cannot receive credit for both <span data-link='LIS508'>LIS 508</span> and <span data-link='LIS608'>LIS 608</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS610": {
+    "course_id": "LIS610",
+    "title": "LIS 610 Curriculum and the School Library",
+    "req": "<em>Prerequisite: <span data-link='LIS600'>LIS 600</span>.</em>",
+    "desc": "Focuses on integrating the school library program and collections with curriculum; emphasizes diverse student learning styles; role of the school librarian as a teacher; use of electronic resources for research, teaching, and learning. May be taught concurrently with <span data-link='LIS510'>LIS 510</span>. Cannot receive credit for both <span data-link='LIS510'>LIS 510</span> and <span data-link='LIS610'>LIS 610</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS612": {
+    "course_id": "LIS612",
+    "title": "LIS 612 Reading Guidance for Young Adults",
+    "desc": "The study of reading interests and habits of high school age young adults. Methods of meeting the needs of different types of readers and stimulating reading interest through library collections and services. May be taught concurrently with <span data-link='LIS512'>LIS 512</span>. Cannot receive credit for both <span data-link='LIS512'>LIS 512</span> and <span data-link='LIS612'>LIS 612</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS618": {
+    "course_id": "LIS618",
+    "title": "LIS 618 Service Learning in Library Science",
+    "req": "<em>Prerequisite: concurrent registration in an LIS course designated as a service learning offering.</em>",
+    "desc": "This one-hour service component for an existing course incorporates community service with classroom instruction in library science education. It provides an integrated learning experience, addressing the practice of citizenship and promoting an awareness of and participation in public affairs. It includes 40 hours of service benefiting an external community organization, agency or public service provider. Approved service placements and assignments will vary depending on the course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. May be taught concurrently with <span data-link='LIS305'>LIS 305</span>. Cannot receive credit for both <span data-link='LIS618'>LIS 618</span> and <span data-link='LIS305'>LIS 305</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS620": {
+    "course_id": "LIS620",
+    "title": "LIS 620 Production and Application of Multimedia Materials in Library Media Centers",
+    "desc": "Recommended Prerequisite: <span data-link='LIS600'>LIS 600</span> and <span data-link='LIS610'>LIS 610</span>. Builds on concepts introduced in <span data-link='LIS610'>LIS 610</span>. Builds on concepts introduced in <span data-link='LIS510'>LIS 510</span>. Emphasis will be placed on multimedia project planning, instructional design, production techniques and processes as they relate specifically to the library media center program and its integration into the whole school curriculum to support teaching and learning activities. Includes web design, video editing, evaluation and application of electronic resource for school libraries. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS628": {
+    "course_id": "LIS628",
+    "title": "LIS 628 School Library Administration",
+    "req": "<em>Prerequisite: <span data-link='LIS600'>LIS 600</span> and two of the following: <span data-link='LIS604'>LIS 604</span>, 606, 608.</em>",
+    "desc": "Administration of K-12 libraries within school communities. Emphasizes program development, evaluation, planning cycle; budget process; services for diverse school constituencies. Examines effects of national, state and district guidelines, standards and policies on school library programs. Portfolio checkpoint number 2. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS630": {
+    "course_id": "LIS630",
+    "title": "LIS 630 Children's Librarianship: Birth thru Age 9",
+    "desc": "Fundamentals of children&apos;s librarianship for both public librarians and school library media specialists, including collection development, programming, and current issues. May be taught concurrently with <span data-link='LIS530'>LIS 530</span>. Cannot receive credit for both <span data-link='LIS530'>LIS 530</span> and <span data-link='LIS630'>LIS 630</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS632": {
+    "course_id": "LIS632",
+    "title": "LIS 632 Library Resources and Services for Grades 4-8",
+    "desc": "An introduction to a broad selection of books, audiovisuals, and electronic resources for grades 4-8 and how these can be used to enrich the curriculum. Emphasis will be placed on integration of a variety of resources in both content area studies and &quot;stand alone&quot; information literacy instruction. May be taught concurrently with <span data-link='LIS532'>LIS 532</span>. Cannot receive credit for both <span data-link='LIS632'>LIS 632</span> and <span data-link='LIS632'>LIS 632</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS634": {
+    "course_id": "LIS634",
+    "title": "LIS 634 Introduction to Storytelling",
+    "desc": "Introduction to the art of storytelling and development of skills in finding, preparing, and delivering stories to grades K-12; analysis and review of storytellers&apos; resources; exploration of a wide variety of styles and methods of telling to facilitate the planning and presentation of storytelling programs in the school media center or classroom and include traditional storytelling across the curriculum. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "LIS640": {
+    "course_id": "LIS640",
+    "title": "LIS 640 Information Technologies",
+    "req": "<em>Prerequisite: <span data-link='LIS600'>LIS 600</span>.</em>",
+    "desc": "An introduction to applied information technologies applicable to libraries, including uses of computers in libraries, computer hardware and software needs of libraries, and issues related to access and evaluation of information. May be taught concurrently with <span data-link='LIS540'>LIS 540</span>. Cannot receive credit for both <span data-link='LIS540'>LIS 540</span> and <span data-link='LIS640'>LIS 640</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS696": {
+    "course_id": "LIS696",
+    "title": "LIS 696 Independent Study",
+    "desc": "Individual projects under the supervision of members of the library faculty. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='LIS596'>LIS 596</span>. Cannot receive credit for both <span data-link='LIS596'>LIS 596</span> and <span data-link='LIS696'>LIS 696</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS697": {
+    "course_id": "LIS697",
+    "title": "LIS 697 Special Topics",
+    "desc": "Selected topics in substantive areas of librarianship such as automation, collection development and resource sharing, and the politics of librarianship. Offered when resources and demand allows. May be repeated to a total of 6 hours when topic changes. Variable content course. May be taught concurrently with <span data-link='LIS597'>LIS 597</span>. Cannot receive credit for both <span data-link='LIS597'>LIS 597</span> and <span data-link='LIS697'>LIS 697</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS698": {
+    "course_id": "LIS698",
+    "title": "LIS 698 Action Research in the School Library",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='LIS699'>LIS 699</span>.</em>",
+    "desc": "Survey of action research techniques designed to assess the integration of the school library into building/level curricula and its impact on student achievement. Students will design, conduct, and evaluate an action research project in a school library. May be taught concurrently with <span data-link='LIS598'>LIS 598</span>. Cannot receive credit for both <span data-link='LIS698'>LIS 698</span> and <span data-link='LIS598'>LIS 598</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LIS699": {
+    "course_id": "LIS699",
+    "title": "LIS 699 Library Practicum",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Supervised practical work experience in an appropriate library designed to cover all aspects of librarianship. Portfolio checkpoint number 3. May be taught concurrently with <span data-link='LIS599'>LIS 599</span>. Cannot receive credit for both <span data-link='LIS599'>LIS 599</span> and <span data-link='LIS699'>LIS 699</span>. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

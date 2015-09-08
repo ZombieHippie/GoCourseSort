@@ -1,0 +1,573 @@
+{
+  "DSS501": {
+    "course_id": "DSS501",
+    "title": "DSS 501 Seminar on Nuclear Strategy and Arms Control",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This seminar examines contemporary U.S. and Soviet/Russian strategic nuclear arms and arms control policies and their interaction. The seminar will review the U.S.-Soviet nuclear relationship and extend this to an examination of post-USSR Russian and American nuclear strategy and policy. The seminar will study the strategic nuclear balance, including specific problems and programs, and the strategic doctrine, concepts, and objectives of the nuclear powers. Nuclear arms control, including the processes of decision making and negotiating, will be examined, with an emphasis on comparing theory and practice. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DSS502": {
+    "course_id": "DSS502",
+    "title": "DSS 502 Seminar on International Security Affairs",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course deals with the methods and techniques of collecting and assessing information for use in the study of international security politics, problems, and policies. It explores the measures of relative power among nations and the manner in which such power or lack of it shapes the capability of a nation effectively to act in the international sphere. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS503": {
+    "course_id": "DSS503",
+    "title": "DSS 503 Analysis of International Security Politics",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course deals with the methods and techniques of collecting and assessing information for use in the study of international security politics, problems, and policies. It explores the measures of relative power among nations and the manner in which such power or lack of it shapes the capability of a nation effectively to act in the international sphere. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS504": {
+    "course_id": "DSS504",
+    "title": "DSS 504 The Geopolitics of Conflict and Accommodation",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "The application of the techniques and understanding lent by the geography to the illumination of the physical and social environment in which politics, strategy, and war take place. The relationship among geography, strategy, and politics is studied through the examination of both historical and contemporary circumstances where geography has intruded on politics or politics on geography. Students will be introduced to the geopolitical concepts of sea power, land power and air power, and these concepts will be critiqued in light of recent technological changes in warfare. Supplemental Course Fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DSS601": {
+    "course_id": "DSS601",
+    "title": "DSS 601 Seminar on Nuclear Strategy and Arms Control",
+    "desc": "This seminar examines the development of U.S. nuclear deterrence theory and policy. The seminar will study the strategic nuclear balance, including specific problems and programs, and the strategic doctrine, concepts, and objectives of the nuclear powers. Nuclear arms control, including the processes of decision making and negotiating, will be examined, with an emphasis on comparing theory and practice. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DSS630": {
+    "course_id": "DSS630",
+    "title": "DSS 630 International Law and Global Security",
+    "desc": "This is a survey course designed to introduce students to the core principles and defining features of the international legal system, and to the changing role of international law in contemporary national and global security. Emphasis will be placed on the applicability of international law to armed conflict, counterterrorism, and containing the spread of weapons of mass destruction. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DSS631": {
+    "course_id": "DSS631",
+    "title": "DSS 631 International Negotiations",
+    "desc": "This course combines the basics of negotiation theory and the examination of select international negotiation case studies with three practical &quot;hands-on&quot; negotiation exercises. It will explore various techniques for diagnosing the structure of a negotiation and identifying potential barriers to agreement. Case studies considered include: Negotiation of 1994 Framework Agreement with North Korea, George Mitchell&apos;s mediation in Northern Ireland resulting in the Good Friday Accords, the secret Oslo discussions leading to Israeli recognition of the PLO, The Louisiana Purchase, the Congress of Vienna, the Panama Canal negotiations, and the Egyptian-Israeli Armistice. The course is conducted as a series of interactive seminars including three simulated negotiations. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS632": {
+    "course_id": "DSS632",
+    "title": "DSS 632 Seminar on International Security Affairs",
+    "desc": "Examines international and regional security problems and policies from both a regional and global perspective. It treats strategies and security problems from a broader viewpoint than the Seminar on Strategy and Arms Control, covering national interests, alliance relationships, intervention, regional threats, and the security problems of other states, including China and Russia. Supplemental Course Fee. (3-0) F,S",
+    "hours": {},
+    "offered": {}
+  },
+  "DSS633": {
+    "course_id": "DSS633",
+    "title": "DSS 633 Analysis of International Security Politics",
+    "desc": "This course deals with the methods and techniques of collecting and assessing information for use in the study of international security politics, problems, and policies. It explores the measures of relative power among nations and the manner in which such power or lack of it shapes the capability of a nation effectively to act in the international sphere. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS634": {
+    "course_id": "DSS634",
+    "title": "DSS 634 The Geopolitics of Conflict and Accommodation",
+    "desc": "The application of the techniques and understanding lent by the geography to the illumination of the physical and social environment in which politics, strategy, and war take place. The relationship among geography, strategy, and politics is studied through the examination of both historical and contemporary circumstances where geography has intruded on politics or politics on geography. Students will be introduced to the geopolitical concepts of sea power, land power and air power, and these concepts will be critiqued in light of recent technological changes in warfare. Supplemental Course Fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS700": {
+    "course_id": "DSS700",
+    "title": "DSS 700 Strategy and U.S. Defense Policy",
+    "desc": "This course provides an examination of the basic concepts and issues of strategy, deterrence, defense, and arms control, and an overview of American defense policies, programs, and problems since World War II. Comparative strategic concepts, policies, and objectives are covered. Proliferation and measures of counter-proliferation, including arms control are examined on an introductory basis. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DSS702": {
+    "course_id": "DSS702",
+    "title": "DSS 702 Seminar on Regional Security Problems",
+    "desc": "This seminar provides an advanced and in-depth analysis of selected contemporary regional security problems outside of Western Europe. It focuses on a few critical conflict situations, analyzes threats to regional and to U.S. interests, and examines alternative strategic policies and actions, including military force requirements, for the states involved. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS703": {
+    "course_id": "DSS703",
+    "title": "DSS 703 Science, Technology, and Defense Policy",
+    "desc": "This course will cover four broad topics important to advanced work in DSS: basic principles and applications of defense science and technology; such as nuclear weapons effects, ballistic missiles, and strategic defenses; the influence of science and technology on defense programs and policies; the role of the scientific and technical community in defense policy; and current issues of defense science and technology. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "DSS704": {
+    "course_id": "DSS704",
+    "title": "DSS 704 Arms Control: Theory and Practice",
+    "desc": "An examination of contending arms control theories and concepts as tested by postwar and contemporary experience, bilateral and multilateral. There will be in-depth analysis of American and Russian approaches to arms control, as well as consideration of the arms control policies of other states. The course will study scientific and technical problems in arms control, including those of R and D, testing, production, and deployment; arms negotiations, and issues in verification and compliance. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DSS705": {
+    "course_id": "DSS705",
+    "title": "DSS 705 NATO Security Issues",
+    "desc": "After an examination of the history of NATO policies, defense policies, and security issues, emphasis will be placed on analysis of current NATO security problems and options, including specific military defense alternatives. The individual security policies of the U.S., UK, FRG, and France will be studied, along with problems on the northern and southern flanks, and policies for outside-NATO-area security problems. Literature on the future of NATO would be included. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "DSS706": {
+    "course_id": "DSS706",
+    "title": "DSS 706 Russian Military Strategy",
+    "desc": "The first part of this seminar will review and study Soviet military policy, doctrine, strategy, and programs from the 1950s through the 1980s. It will consider problems of identifying, interpreting, and analyzing Soviet strategic policies and programs - in essence, problems of U.S. intelligence and threat assessment. The second part of the seminar will extend this study to Post-USSR Russia and current directions of Russian strategic policy both for territories of the former USSR and beyond. Particular emphasis will be placed on military reform, continuity and change in military policy, and the status and role of the Russian military forces. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS707": {
+    "course_id": "DSS707",
+    "title": "DSS 707 Seminar on Congress, National Security, and Weapons of Mass Destruction",
+    "desc": "Advanced research, study, and analysis of defense programs, policies, and the policy and budget processes, both within the Congress and the Department of Defense. Included also will be the comparative analysis of various studies, analyses, and critiques of U.S. defense programs and plans, and of regional and global WMD capabilities. Department of Defense administration and organization will also be studied. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DSS708": {
+    "course_id": "DSS708",
+    "title": "DSS 708 Seminar on Contemporary Security Issues in Russia",
+    "desc": "This seminar addresses on an advanced level current developments in Russia and other states of the former Soviet Union as they bear on issues of national and international security and on U.S. security policy-making. The approach will combine analysis of internal developments related to military power and policy, and of evolving international policies, with strategic and geopolitical analysis. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS709": {
+    "course_id": "DSS709",
+    "title": "DSS 709 Seminar on Space and Information Warfare",
+    "desc": "This seminar will explore the role that space and information warfare play in the national security policies and programs, and military doctrines, of the United States and other great powers. The seminar will be divided into three parts. Part one will focus on the role of space in national security, including background on U.S. and Soviet/Russian space programs, the nature of space technologies and systems, the environment of space as a theater of military operations, the impact of international law and treaties on space warfare, the development of space threats to the United States and its allies, the historical and future role of space assets in terrestrial warfare, and the nexus between civilian and military space programs. Part two will examine the burgeoning field of information warfare by seeking to define and understand what is meant by the concept, what benefits and risks it offers to American national security, in what ways the pursuit of I-War capabilities is shaping the development of American military doctrine and force structure, and how and to what extent I-War capabilities are replacements for more traditional military capabilities such as conventional and nuclear forces. Part three will then examine the relationship between space warfare and information warfare, including how the two are conceptually supportive and how civilian and military applications of information and space technology will be increasingly blurred in the future. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS710": {
+    "course_id": "DSS710",
+    "title": "DSS 710 Seminar on International Terrorism and Security",
+    "desc": "This seminar will attempt to define and examine security issues related to terrorism and low-intensity conflict today. The origins of modern terrorism will be explored and terrorism will be put in the context of a strategy to achieve political ends. Case studies of terrorism in various regions, e.g., the Middle East, Europe and the United States, will show some of the current empirical evidence of global terrorist activities. The impact terrorism has on liberal societies and their ability to defend themselves will be examined in the context of counterterrorism strategies. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS711": {
+    "course_id": "DSS711",
+    "title": "DSS 711 The Rise of the United States to Preeminence",
+    "desc": "This course will discuss the political development of the United States and its rise to great power, and then superpower status. Students will study a number of major U.S. wars and the political circumstances surrounding those conflicts. The course will address why the United States successfully developed into a world power and how its grand strategy changed over time. It will ask what lessons today&apos;s strategists can draw from the experiences of their predecessors. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS712": {
+    "course_id": "DSS712",
+    "title": "DSS 712 American National Security Policy",
+    "desc": "This course evaluates the major actors and components of American national security policy. America&apos;s traditional national interests are studied--accenting World War II, the Cold War, and the present day. The course also addresses the circumstances of major foreign policy crises, such as the Cuban Missile Crisis, and the causes of successful and unsuccessful American interventions during the Cold War and after. Additionally, it considers America&apos;s foreign and defense policy in the post-Cold War world, and particular emphasis is placed on American policies toward other great powers such as China, Japan, and Russia, as well as in contemporary foreign and defense policy crises such as the war on terrorism. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS713": {
+    "course_id": "DSS713",
+    "title": "DSS 713 Intelligence, Counterintelligence, and Covert Action",
+    "desc": "This course examines the role of intelligence and counterintelligence in the formulation and execution of state national security policies in democratic governments, and the impact of intelligence operations on international relations. The intelligence process is examined including the problems and opportunities associated with targeting or the tasking of intelligence agencies, the media of intelligence collection, the difficulties of analysis and evaluation, and counterintelligence. Additionally, covert action and paramilitary activities are studied with emphasis on the manner by which successes and failures have influenced military and foreign policy outcomes. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DSS714": {
+    "course_id": "DSS714",
+    "title": "DSS 714 Seminar on Strategic Thought",
+    "desc": "There is a rich literature on strategy and warfare, and even the oldest surviving works on strategy are arguably relevant to contemporary political leaders. This course will examine the ideas of strategic thinkers who lived in historical periods ranging from the ancient world to the present. Students will read works by (and in some cases, about) such figures as Sun Tzu, Niccolo Machiavelli, Napoleon Bonaparte, Baron Antoine Henri de Jomini, Carl von Clausewitz, Thucydides, Thomas Schelling, and Herman Kahn. Students will discuss how these thinkers have influenced strategic studies, and how military-strategic thought has developed over time. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS715": {
+    "course_id": "DSS715",
+    "title": "DSS 715 Grand Strategy",
+    "desc": "This seminar examines the role of grand strategy in international security. Emphasis is placed on the nature and role of grand strategy, and the major systemic and domestic factors that influence grand strategy. The nature of grand strategy will be introduced historically, and the grand strategies of the major world powers prior to and during World Wars I and II, the Cold War, and post-Cold War period, will be studied. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS716": {
+    "course_id": "DSS716",
+    "title": "DSS 716 Understanding Military Operations",
+    "desc": "This seminar delineates selected past, current, and future sea, air, space, and land conflicts into their constituent parts in order to examine the interaction of political objectives and military doctrine. It will specifically seek to explore how the political objectives and military doctrine influence technological development and military innovation. To meet these objectives, the seminar will examine a variety of international political and doctrinal problems that have had a major impact on American national security policy. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DSS717": {
+    "course_id": "DSS717",
+    "title": "DSS 717 Small Wars, Imperial Conflicts, and Guerrilla Warfare",
+    "desc": "This seminar examines some of the many forms of warfare that differ from &quot;symmetrical&quot; conflicts between great powers, with special attention to how great powers fight such wars and why they succeed or fail in bringing them to a satisfactory conclusion. Students will read a variety of literature written by authors such as C. E. Calwell, Victor Davis Hanson, and Colin Gray, as well as insurgents such as Che Guevara. The class will include a number of historical case studies, with an emphasis on the nineteenth, twentieth, and twenty-first centuries. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS718": {
+    "course_id": "DSS718",
+    "title": "DSS 718 Causes of War",
+    "desc": "This seminar explores the causes of warfare through the lens of human evolution, psychological approaches, economic system, ideology, and the international system, with the intention of understanding the strengths and limitations of each level of analysis. From that foundation, the seminar applies each level of analysis to the study of the origins of particularly significant wars: the Peloponnesian, Crimean, Seven Years&apos;, Korean, and Vietnam Wars, as well as World War I and World War II. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS719": {
+    "course_id": "DSS719",
+    "title": "DSS 719 Strategic Culture",
+    "desc": "Provides an introduction to using strategic culture as an analytical approach to understanding the cultural, religious, historical, and leadership sources of state and non-state actor behavior, with special reference to issues related to weapons of mass destruction. The concept of strategic culture captures domestic sources of state behavior, and offers an alternative or supplemental explanatory framework to the prevailing realist and constructionist theories of international relations. Examines the cultural context for applying theories of deterrence and dissuasion, and will involve a survey of thinking and analysis on strategic culture. from both theoretical and policy perspectives, as well as an exposure to the framework and methodology of strategic cultural analysis. Several key strategic cultures will serve as case studies. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DSS720": {
+    "course_id": "DSS720",
+    "title": "DSS 720 Internship Training in DSS Policy",
+    "req": "<em>Prerequisite: permission of instructor and acceptance by employer.</em>",
+    "desc": "Internship experience and training in defense and arms control policy making with a U.S. Government department or agency, a Washington, D.C., based defense policy research institute, or institution of comparable professional experience, including preparation of a written report or research paper based upon the internship. May be repeated to a maximum of 6 hours toward degree. Supplemental course fee. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "DSS721": {
+    "course_id": "DSS721",
+    "title": "DSS 721 Missile Defense, Proliferation and Contemporary Warfare",
+    "desc": "Examines the role of missile defense in the national security policies, programs, and military doctrines of the United States. Emphasis on exploring the evolution of missile defense within the broader context of contemporary American deterrence and defense policy. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DSS722": {
+    "course_id": "DSS722",
+    "title": "DSS 722 Emerging Strategic Challenges",
+    "desc": "For the purpose of this seminar, strategic challenges are defined as those emerging trends or security threats--political, economic, or military--that could fundamentally alter the present pattern of interstate relations or the core principles of U.S. foreign and defense policy. Examples include a possible cascade of proliferation resulting in 20 or 30 nuclear-armed states, a single terrorist with a nuclear weapon, or a resurgent Russia or ascendant China rising to a level of a peer competitor of the United States. Seminar reading and discussions will focus on: 1) Examining the causes, effects, and responses to these potential strategic challenges, especially the spread of weapons of mass destruction to state and non-state actors, both terrorists and enablers such as the A.Q. Kahn network; 2) Assessing assumptions, policies and capabilities for dealing with these challenges and how the concept of dissuasion, deterrence, and defense must adapt to the new security environment; and 3) Exploring how best to hedge against strategic uncertainties and how best to shape the future of the nuclear enterprise to promote the expansion of nuclear energy globally while reducing the risks of proliferation. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DSS723": {
+    "course_id": "DSS723",
+    "title": "DSS 723 Counterproliferation",
+    "desc": "Explores the challenges posed by nuclear and biological weapons in the hands of state and non-state actors. Students will investigate why various actors pursue these weapons, why some give them up, why others refuse to give them up, and the assorted instruments of national power that may be employed in the development of a national strategy to combat these weapons. Students will consider both the national security and homeland security aspects of these challenges. The subject matter will provide a vehicle for refining critical analytical skills; both verbal and written. The course will stress the refinement of each student&apos;s analytical and problem solving abilities as part of their development as national security strategists. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS724": {
+    "course_id": "DSS724",
+    "title": "DSS 724 Leadership in National Security Policy",
+    "desc": "Addresses the issue of national security policy leadership. Students will investigate the critical topics, including the components of good leadership, and the consequences of leadership failures. Speakers from the national security community will participate in order to explain the leadership challenges they faced in their careers. The subject matter will provide a vehicle for refining student leadership skills as part of their development as national security strategists. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DSS725": {
+    "course_id": "DSS725",
+    "title": "DSS 725 Seminar on Instruments of State Power",
+    "desc": "Instruments of state power encompass a broad range of tools--diplomatic, economic, intelligence, scientific and military--at the disposal of the state in the formulation and implementation of national security policy. Understanding the foundations, applications, and integration of these instruments is essential for the successful practitioner or scholar of security affairs. This seminar will focus on the individual instruments of U.S. power and their interrelationships in the conduct of foreign and defense policy. The class will employ case studies to assess the role of these instruments and the success and failure of their application. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DSS726": {
+    "course_id": "DSS726",
+    "title": "DSS 726 Chinese Military Power",
+    "desc": "This course focuses on the rising military power of China (its motivation and implications), Chinese objectives in Asia and their relationship to its military buildup, the impact of the Chinese military buildup on the military and deterrence requirements of the United States and our Asia Allies, the prospect and outcome of a military confrontation between China and Taiwan, including potential involvement of the United States and, in light of the potentially catastrophic consequences of a major war in the Far East, issues relating to the deterrence of China. The focus of the course will be on relatively recent developments--1990 to the present because of the dramatic shift in Chinese military capabilities, doctrine and objectives during this period. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS727": {
+    "course_id": "DSS727",
+    "title": "DSS 727 Chemical and Biological Warfare: Global and Community Perspectives",
+    "desc": "This course will help the student develop a global perspective on factors that may lead to the development and deployment of weapons of mass destruction, specifically the chemical and biological warfare agents. The introduction will consist of a history of the use of chemical and biological warfare, both on the traditional and the asymmetric battle fields. The biology and toxicology of the agents will be presented at a basic level sufficient to understand the development of use of countermeasures. Community preparedness in the form of immunizations, prophylaxis, and facility hardening will be addressed, followed by presentations on community risk analysis, response planning and decontamination of personnel and facilities. Class discussions will include (1) the role different national agencies (DoD, Homeland Security, state governments, etc.) play in protecting the populace (2) the effectiveness of recent homeland security efforts toward protecting communities from the effects of chemical and biological warfare agents (3) and global developments in religion and politics which impact the potential use of chemical and biological warfare, including globalism and jihadism. This course will be taught completely online. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "DSS728": {
+    "course_id": "DSS728",
+    "title": "DSS 728 Terrorism: Advanced Research Topics",
+    "req": "<em>Prerequisite: <span data-link='DSS710'>DSS 710</span> and permission of instructor.</em>",
+    "desc": "An intense, research-based exploration of terrorism problems, patterns, and trends as these confront societies and governments in key regions of the globe, especially North America, Latin America, Western Europe and the Maghreb. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS737": {
+    "course_id": "DSS737",
+    "title": "DSS 737 Advanced Studies in Chemical and Biological Warfare",
+    "req": "<em>Prerequisite: <span data-link='DSS727'>DSS 727</span>.</em>",
+    "desc": "This course builds on elements of <span data-link='DSS727'>DSS 727</span>, Chemical and Biological Warfare: Global and Community Perspectives. The purpose of the course is to allow the student an opportunity to delve more deeply into a specific aspect of the field that is of great interest to the student. Subjects that were covered in the earlier course that might be considered for in-depth review include decontamination, pertinent treaties and conventions, weapons monitoring, dangers presented by industrial chemicals, and historical analysis of the use of chemical/biological weapons. Additional topics that might be considered are the natural epidemiology of diseases like tularemia, plague or anthrax, or risk assessments for potential chemical/biological weapons used by specific nations or sub-national groups. Each student will choose a separate subject to explore. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS740": {
+    "course_id": "DSS740",
+    "title": "DSS 740 Ethics of Weapons of Mass Destruction",
+    "desc": "This seminar examines the wide-ranging moral issues associated with weapons of mass destruction (WMD). It highlights the key moral dilemmas associated with the decision to develop, acquire, maintain, employ, or dispose of WMD. It situates WMD moral discourse in the context of both standard ethical paradigms pertaining to the conduct of individuals in society as well as those paradigms associated with the regulation of violence in armed conflict, in both their theoretical and practical dimensions. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS794": {
+    "course_id": "DSS794",
+    "title": "DSS 794 Active In Research",
+    "desc": "Students who have completed all course work and are only working on their research component may register for this course. The course is assessed a $600 supplemental course fee and allows the following: access to the library including online services, access to computer services and Missouri State email, and scheduled meetings and access to DSS professors. Course is for zero credit hours and is graded &quot;P&quot; (pass) or &quot;W&quot; (student discontinues participation in the course and is dropped from the course). ",
+    "hours": {},
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "DSS795": {
+    "course_id": "DSS795",
+    "title": "DSS 795 Seminar: CWMD Graduate Fellows Colloquium",
+    "req": "<em>Prerequisite: permission of instructor and active U.S.</em>",
+    "desc": "security clearance. This is the capstone course of the National Defense University (NDU) CWMD Fellowship Program. Its purpose is to provide (NDU) CWMD Fellows occasion to: interact with other CWMD Fellows at the classified level; reflect upon and synthesize broad themes encountered in program course work; appreciate the complexities associated with DoD&apos;s CWMD challenges in an interagency context; and acquire unique professional tools that will facilitate their success as CWMD practitioners in the United States government. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "DSS796": {
+    "course_id": "DSS796",
+    "title": "DSS 796 Directed Reading and Research in Defense and Strategic Studies",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Individually tailored directed readings or research for bibliographical purposes; for improvement of research skills; for the purposes of a broader background of knowledge (e.g., in areas not covered by seminars, such as classical writings on strategy, and on the art of warfare historically or in the American experience); for more depth in selected areas of specialization; and/or to help meet the non-thesis MS degree research requirement. May be repeated to a maximum of 9 hours toward degree. Supplemental course fee. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "DSS797": {
+    "course_id": "DSS797",
+    "title": "DSS 797 Special Topics",
+    "desc": "Special topics may be offered as specific important issues, which are not adequately covered by regular seminars, arise; when Distinguished Guest seminars and work-shops can be planned ahead of time; or when visiting faculty wish to offer specialized courses not in the curriculum. May be repeated to a maximum of 6 hours, as topics change. Supplemental course fee. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS798": {
+    "course_id": "DSS798",
+    "title": "DSS 798 Seminar on Contemporary Defense Issues",
+    "desc": "This seminar will address important contemporary defense and international security issues and may be offered to develop areas of study that are insufficiently covered by regular seminars, or when distinguished guest faculty or speakers wish to offer a specialized seminar not provided by the curriculum. May be repeated to a maximum of 6 hours, as topics change. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DSS799": {
+    "course_id": "DSS799",
+    "title": "DSS 799 Thesis",
+    "req": "<em>Prerequisite: completion of DSS course requirements for MS degree (30 hours minimum).</em>",
+    "desc": "Independent research and study connected with preparation of thesis. Supplemental course fee. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  }
+}

@@ -1,0 +1,2700 @@
+{
+  "ENG100": {
+    "course_id": "ENG100",
+    "title": "ENG 100 Introduction to College Composition",
+    "desc": "Required of some students as determined by placement score. An introduction to the composition sequence: the purposes of whole compositions, the processes that lead to finished compositions, and the parts that combine to create compositions. Cannot be used as elective credit on any major or minor offered by the department and cannot count toward hours required for graduation. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG110": {
+    "course_id": "ENG110",
+    "title": "ENG 110 Writing I",
+    "req": "<em>Prerequisite: appropriate placement score or <span data-link='ENG100'>ENG 100</span>. General Education Course (Focus on Written Communication and Information Literacy).</em>",
+    "desc": "An introduction to college-level writing in which students develop critical reading and writing skills. The emphasis in reading has students locating, evaluating, and synthesizing information in an analytical and ethical manner. The emphasis in writing develops students&apos; understanding of the ways writers generate and express ideas of different purposes to various kinds of audiences across a range of context, including social, academic, and professional. Students work on argumentation, rhetorical analysis, and editing for clarity, style, and conventions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG131": {
+    "course_id": "ENG131",
+    "title": "ENG 131 Introduction to Careers in Technical and Professional Writing",
+    "desc": "Survey of career possibilities and the job market in technical and professional writing. Consideration of document types, formats, conventions, and development processes including discourse strategies, technology tools, collaborative writing, legal and ethical obligations. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG184": {
+    "course_id": "ENG184",
+    "title": "ENG 184 Mini Literature",
+    "desc": "Topics in literature, such as detective fiction, Missouri writers, new fiction. Check semester class schedule for topics offered. Course may be repeated, provided topic and title are different, to a maximum of 6 hours. May be counted toward General Education Humanities requirement for those following a general education catalog prior to fall 1997. Variable content course. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG190": {
+    "course_id": "ENG190",
+    "title": "ENG 190 Language Skills",
+    "desc": "Development of specific writing skills in selected areas of composition, such as sentence grammar and structure, punctuation and capitalization, spelling, diction and dictionary use, outlining and organization. Not a composition course. Check semester class schedule to determine topics being offered. Course may be repeated, provided topic and title are different, to a maximum of 3 hours. Will not satisfy the general education requirement in English. Variable content course. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG191": {
+    "course_id": "ENG191",
+    "title": "ENG 191 Grammar Skills",
+    "desc": "Development of specific skills in American English grammar (including sentence structure, punctuation, capitalization, spelling, and diction). Students will explore and discuss grammar and usage in written communication. Not a composition course. Cannot be used to satisfy any General Education requirement in English or any requirement in the Bachelor of Science in Education degree. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG200": {
+    "course_id": "ENG200",
+    "title": "ENG 200 Great Books and Instant Classics",
+    "req": "<em>General Education Course (Focus on Humanities).</em>",
+    "desc": "The works that society calls its &quot;great books&quot; tell us much about how the society views itself. Popular forms of linguistic expression, though sometimes less celebrated, similarly reflect a culture&apos;s sense of itself. Examining a range of texts, time-honored and otherwise, from numerous critical perspectives, this course explores how literatures reflect the values of the societies that create and enjoy them. Appropriate for students in all majors. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "ENG201": {
+    "course_id": "ENG201",
+    "title": "ENG 201 Public Issues in Popular Culture",
+    "req": "<em>Prerequisite: 12 hours. General Education Course (Focus on Public Issues).</em>",
+    "desc": "A writing-intensive course that examines contemporary public issues through a variety of cultural expressions, from fiction, poetry, television and comics, to political discourse, folklore, web-based media, and song lyrics, among other popular genres. Exploring issues from these multiple viewpoints, the course will investigate the various underlying value systems that both inform the rhetorical construction of the texts and influence the attitudes and behaviors of their readers. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG203": {
+    "course_id": "ENG203",
+    "title": "ENG 203 Creative Writing: Poetry",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>. General Education Course (Focus on the Arts).</em>",
+    "desc": "Introduction to the theory, art, cultural context, craft, and process of poetry writing. Analysis of the full stylistic range of the modern poem and practical experience in writing in the form, with focus on the process form of writing through revision and the collaborative workshop experience. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "ENG205": {
+    "course_id": "ENG205",
+    "title": "ENG 205 Creative Writing: Nonfiction",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>. General Education Course (Focus on the Arts).</em>",
+    "desc": "A study of the key characteristics of creative nonfiction, including an introduction to the evolving forms of text classified as creative nonfiction. Practice in writing prose with a focus on collaborative workshops and revision. Emphasis on the creative interpretation of complex thoughts and human experiences. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "ENG210": {
+    "course_id": "ENG210",
+    "title": "ENG 210 Writing II: Writing Across the Disciplines",
+    "req": "<em>Prerequisite: 30 hours and <span data-link='ENG110'>ENG 110</span> or equivalent. General Education Course (Focus on Written Communication and Integrative and Applied Learning).</em>",
+    "desc": "Practice in the writing and research of various disciplinary fields of study; experience with integrating and applying academic forms to specific problems and situations. Includes the study of ways knowledge is made and expressed in various disciplines. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG215": {
+    "course_id": "ENG215",
+    "title": "ENG 215 Creative Writing: Short Story",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>. General Education Course (Focus on the Arts).</em>",
+    "desc": "Introduction to the theory, art, cultural context, craft, and process of short story writing. Analysis of the full stylistic range of the modern short story and practical experience in writing in the form, with focus on the process form of writing through revision and the collaborative workshop experience. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "ENG216": {
+    "course_id": "ENG216",
+    "title": "ENG 216 Introduction to the Graphic Novel",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Introduction to the literature, theory, technique, and terminology of graphic narrative and practical experience in the writing of graphic narrative. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG221": {
+    "course_id": "ENG221",
+    "title": "ENG 221 Writing II: Writing for the Professions",
+    "req": "<em>Prerequisite: 30 hours and <span data-link='ENG110'>ENG 110</span> or equivalent. General Education Course (Focus on Written Communication and Integrative and Applied Learning).</em>",
+    "desc": "Students apply discipline-specific knowledge to a variety of writing situations encountered by professionals: correspondence, proposals, documented research reports, abstracts, definitions, product and process descriptions. Projects emphasize developing skills in audience analysis, including multicultural considerations; analytical reading; critical thinking; research methods; and clear writing, with attention to the ethical dimensions of workplace writing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG222": {
+    "course_id": "ENG222",
+    "title": "ENG 222 Writing for Social Change",
+    "req": "<em>Prerequisite: 12 hours, and <span data-link='ENG110'>ENG 110</span> or equivalent. General Education Course (Focus on Public Issues).</em>",
+    "desc": "Students examine the persuasive power of language to effect social change. Through the analysis of key historic texts, students identify effective writing techniques. Students articulate creative, researched, and well-reasoned solutions to socially relevant problems. Projects include blogs, proposals, op-ed pieces, and social-media strategies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG225": {
+    "course_id": "ENG225",
+    "title": "ENG 225 Creative Writing: Playwriting",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Problems in playwriting. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG235": {
+    "course_id": "ENG235",
+    "title": "ENG 235 Critical Approaches to Literature",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Writing analytical papers employing a variety of critical methods of reading and interpreting poetry, fiction, and drama. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG282": {
+    "course_id": "ENG282",
+    "title": "ENG 282 Literature by Women",
+    "req": "<em>General Education Course (Focus on Humanities).</em>",
+    "desc": "Students will read literature by women from various cultures, continents, and historical periods. Course explores how female experience is shaped by cultural contexts as well as how women authors have used writing to change societies&apos; ideas about women and men. Emphasis is on basic elements of literary study and of feminist analysis. Coursework includes discussion, exams, and short papers. Appropriate for students in all majors. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG283": {
+    "course_id": "ENG283",
+    "title": "ENG 283 Folklore and Cultural Engagement",
+    "req": "<em>General Education Course (Focus on Humanities).</em>",
+    "desc": "Reading and examination of oral, nonverbal, and written tradition as expressions of culture, introduction of folklore research methods; the major genres of folklore including folk narrative, folk song, and material culture; and folklore&apos;s influence on perceptions and behaviors from the personal to cultural and international levels. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG285": {
+    "course_id": "ENG285",
+    "title": "ENG 285 Subjects in Folklore",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Reading and examination of folklore, as folk art and as cultural holding material; study may focus on types (such as myth, legend, fairy tales); groups (such as miners, cowboys, railroaders); or regions (such as Ozarks, New England, or Scandinavia). Student requests will be considered. May be repeated to a total of 6 hours. Variable content course. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG287": {
+    "course_id": "ENG287",
+    "title": "ENG 287 Life Stages in Literature",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Study of poetry, fiction, drama, biography, and autobiography selected to explore how factors such as historical era, ethnicity, religion, social class, family structure, and gender shape one&apos;s experience of life stages; emphasis on class discussion and various kinds of writing, some of it autobiographical; an introductory literature course for English majors and non-majors. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG289": {
+    "course_id": "ENG289",
+    "title": "ENG 289 Literature, Culture, and Conflict",
+    "req": "<em>General Education Course (Focus on Cultural Competence).</em>",
+    "desc": "This course explores how literature imagines cultural identities, conflicts within and between cultural groups, and efforts to resolve these conflicts. For the purposes of this course, culture will be understood in terms of such categories as nation, region, language, race, ethnicity, religion, social class, family structure, gender, sexuality, age, and disability. Through the critical analysis of literature and through personal reflection on literary texts, students will learn to recognize, describe, and understand their own and others&apos; cultures, the histories of these cultures, and their divergences and convergences. Students will also consider how knowledge of multiple cultures can form a foundation for ethical decision-making and action in a variety of public arenas. Appropriate for student in all majors. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG291": {
+    "course_id": "ENG291",
+    "title": "ENG 291 Introduction to Teaching English to Speakers of Other Languages TESOL",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> and 30 hours; and concurrent enrollment in <span data-link='ENG300'>ENG 300</span>.</em>",
+    "desc": "Introduction to basic concepts in Teaching English to Speakers of Other Languages (TESOL), including bilingualism, second language acquisition, current methods and materials used to teach ESOL, and language policy in the U.S. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG296": {
+    "course_id": "ENG296",
+    "title": "ENG 296 Introduction to Linguistics",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Introduction to fundamental concepts of linguistic theory as they apply to languages of the world, especially English. Areas covered include phonology, morphology, syntax, and semantics, and some applied areas, such as language variation, change, and acquisition, disorders, and language and culture. Students cannot receive credit for both <span data-link='ENG296'>ENG 296</span> and <span data-link='ENG591'>ENG 591</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG300": {
+    "course_id": "ENG300",
+    "title": "ENG 300 Service Learning in English",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in an English course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in English. It provides an integrated learning experience, addressing the practice of citizenship and promoting an awareness of and participation in public affairs. It includes 40 hours of service that benefits an external community organization, agency or public service provider. Approved service placements and assignments will vary depending on the course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG301": {
+    "course_id": "ENG301",
+    "title": "ENG 301 Seminar in English Studies and Public Affairs",
+    "req": "<em>Prerequisite: <span data-link='ENG235'>ENG 235</span>; and must be taken in the senior year or by permission (with a minimum of 75 hours completed).</em>",
+    "desc": "Explores how literature shapes and is shaped by public debates, cultural heritages, and community needs. Course Unit 1, &quot;Writers, Writing, and Leadership,&quot; examines writers&apos; and literary institutions&apos; interventions in crises of leadership, types of writing that have developed to fill voids in leadership, and/or, literary representations of leadership. Unit 2, &quot;Writing Cultures and Intercultural Encounters,&quot; considers writers&apos; efforts to imagine or represent cultures and cross-cultural relations. Unit 3, &quot;Texts and Their Communities,&quot; focuses on the relations between texts and their audiences, the development of literary communities and institutions, and/or the process of writing or editing a text for a particular local community. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG303": {
+    "course_id": "ENG303",
+    "title": "ENG 303 Creative Writing: Poetry II",
+    "req": "<em>Prerequisite: <span data-link='ENG203'>ENG 203</span>.</em>",
+    "desc": "An intermediate course, aimed at developing skills and extending knowledge begun in <span data-link='ENG203'>ENG 203</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG305": {
+    "course_id": "ENG305",
+    "title": "ENG 305 Creative Writing: Nonfiction II",
+    "req": "<em>Prerequisite: <span data-link='ENG205'>ENG 205</span>.</em>",
+    "desc": "Intermediate study in the nonfiction genre. Variable content course with a focus in a specific subgenre of nonfiction, such as memoir, travel writing, personal cultural criticism, and narrative nonfiction. Students will read and analyze works and write within the subgenre. May be repeated to a total of 6 hours when the topic varies. Approved Recurring Topic: Memoir. Focused study of the craft of memoir. This course will introduce students to the various subgenres of memoir, including book-length memoir, graphic memoir, flash nonfiction, and traditional short memoir as published in literary magazines or collections, to prepare students&apos; writing for a variety of opportunities in literary publication. Students will participate in a workshop environment to develop original memoirs. Approved Recurring Topic: Narrative Nonfiction. Focused study of the craft of narrative nonfiction. This course will introduce students to the various characteristics of narrative nonfiction, including book-length and shorter works. Students will participate in a workshop environment to develop original works of narrative nonfiction. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG310": {
+    "course_id": "ENG310",
+    "title": "ENG 310 Writing II: Writing for Graduate and Professional Schools",
+    "req": "<em>Prerequisite: 45 hours and <span data-link='ENG110'>ENG 110</span> or equivalent. General Education Course (Focus on Written Communication and Integrative and Applied Learning).</em>",
+    "desc": "Practice in writing genres common to both graduate and graduate/professional school writing, including documented research writing and proposals (including significant work examining current problems through cross-disciplinary viewpoints), letters of application, admission essays, and vitae. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG312": {
+    "course_id": "ENG312",
+    "title": "ENG 312 Introduction to Shakespeare",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Selected representative plays and poems of Shakespeare. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG315": {
+    "course_id": "ENG315",
+    "title": "ENG 315 Creative Writing: Fiction II",
+    "req": "<em>Prerequisite: <span data-link='ENG215'>ENG 215</span>.</em>",
+    "desc": "Intermediate-level work in short story writing. Introduction to the theory, techniques, and terminology of novella and novel writing. Individual conferences. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG321": {
+    "course_id": "ENG321",
+    "title": "ENG 321 Writing II: Beginning Technical Writing",
+    "req": "<em>Prerequisite: 45 hours and <span data-link='ENG110'>ENG 110</span> or equivalent. General Education Course (Focus on Written Communication and Integrative and Applied Learning).</em>",
+    "desc": "Experience in community engagement through client-based projects in which students synthesize information and apply skills learned in this and other classes. Using primary and secondary research, students solve problems by developing employment materials, brochures, instructions, graphics, manuals, or other professional documents. Emphasis on audience analysis, including multicultural considerations, as well as on presenting information clearly, concisely, and ethically in both prose and visuals. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG325": {
+    "course_id": "ENG325",
+    "title": "ENG 325 Creative Writing Playwriting II",
+    "req": "<em>Prerequisite: <span data-link='ENG225'>ENG 225</span>.</em>",
+    "desc": "Intermediate-level work in playwriting. Analysis of dramatic structure. Practice in writing one-act and full-length scripts. Workshop staged readings of student scripts. Marketing strategies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG330": {
+    "course_id": "ENG330",
+    "title": "ENG 330 Studies in Literature",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Examination of literary modes such as humor, satire, fantasy, tragedy, or genres such as essay, short story, biography. May be repeated for up to 6 hours with variable topics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG334": {
+    "course_id": "ENG334",
+    "title": "ENG 334 Literature for Children",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Study of various genres-poetry, picture books, traditional stories, modern realistic and fantasy fiction, nonfiction--appropriate for early childhood and elementary grades; criteria for selection. Satisfies a requirement for Early Childhood and Elementary Certification. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG336": {
+    "course_id": "ENG336",
+    "title": "ENG 336 Literature for Middle School",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Study of various genres-poetry, illustrated books, modern realistic and fantasy fiction, drama, nonfiction--appropriate for middle school (grades 5-9); criteria for selection. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG338": {
+    "course_id": "ENG338",
+    "title": "ENG 338 Literature for Young Adults",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> and 60 hours.</em>",
+    "desc": "Study of various genres-poetry, realistic and fantasy fiction, nonfiction, drama, film--appropriate for secondary school; criteria for selection. Satisfies a requirement for Secondary English Certification. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG339": {
+    "course_id": "ENG339",
+    "title": "ENG 339 Writing for Children and Young Adults",
+    "req": "<em>Prerequisite: <span data-link='ENG334'>ENG 334</span> or <span data-link='ENG336'>ENG 336</span> or <span data-link='ENG338'>ENG 338</span>.</em>",
+    "desc": "Introductory practice writing in genres such as literary folk tales, fantasy, realistic fiction, nonfiction, picture book texts, and poetry for young readers at different stages of maturity. Emphasizes the writing process as well as the final product. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG340": {
+    "course_id": "ENG340",
+    "title": "ENG 340 Survey of English Literature I",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Representative authors, movements, ideas, and styles in English literature from the beginning to 1790. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG341": {
+    "course_id": "ENG341",
+    "title": "ENG 341 Survey of English Literature II",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Representative authors, movements, ideas, and styles in English literature from 1790 to the present. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG350": {
+    "course_id": "ENG350",
+    "title": "ENG 350 Survey of American Literature I",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Representative authors, movements, ideas, and styles in American literature from the beginning to 1870. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG351": {
+    "course_id": "ENG351",
+    "title": "ENG 351 Survey of American Literature II",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Representative authors, movements, ideas, and styles in American literature from 1870 to the present. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG354": {
+    "course_id": "ENG354",
+    "title": "ENG 354 Ethnic American Literature",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Study of representative literary works by African American, Hispanic American, Native American, or other minority authors. May be repeated to a total of 6 hours if topic is different. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG355": {
+    "course_id": "ENG355",
+    "title": "ENG 355 African-American Literature",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Survey of representative works of fiction, poetry, personal narratives, and essays in the context of social and cultural movements. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG360": {
+    "course_id": "ENG360",
+    "title": "ENG 360 Survey of European Literature I",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "European literature beginning with the Bible and Greek works, and ending at 1700. (Excludes British literature) ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG361": {
+    "course_id": "ENG361",
+    "title": "ENG 361 Survey of European Literature II",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "European literature from 1700 to the present. (Excludes British literature) ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG362": {
+    "course_id": "ENG362",
+    "title": "ENG 362 Non-European World Literature",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Literature from all areas (except literature of England, Western Europe, and the United States). May be repeated to a total of 6 hours if topic is different. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG363": {
+    "course_id": "ENG363",
+    "title": "ENG 363 Introduction to African Literature",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Survey of representative works of fiction, poetry, drama, folklore, personal narratives, and essays from various countries on the African continent written in or translated into English. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG366": {
+    "course_id": "ENG366",
+    "title": "ENG 366 Science Fiction and Fantasy Literature",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> or equivalent.</em>",
+    "desc": "Representative science fiction or fantasy literary works. May be repeated for a total of 6 hours if topics differ. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG373": {
+    "course_id": "ENG373",
+    "title": "ENG 373 Writing with Technology",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> or equivalent; CSC/<span data-link='CIS101'>CIS 101</span> or equivalent; and 45 hours.</em>",
+    "desc": "Explores the ethical use of software and hardware tools that professional writers use in the workplace to create and distribute technical information. Students will produce projects to gain a hands-on understanding of the tools used in developing online help and printed documentation, working with graphics, and other relevant areas. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG377": {
+    "course_id": "ENG377",
+    "title": "ENG 377 Scientific and Technical Editing",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> and 60 hours.</em>",
+    "desc": "The process of creating a new piece of writing by clarifying, reducing, expanding, and synthesizing materials written by others. Emphasis on audience adaptation; professional ethics; and document organization, style, and mechanics through a client-based editing project. Focus on building author-editor relationships while managing the editing cycle. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG385": {
+    "course_id": "ENG385",
+    "title": "ENG 385 Ozarks Traditions",
+    "req": "<em>Prerequisite: <span data-link='ENG283'>ENG 283</span>.</em>",
+    "desc": "The course will introduce elements of folklore theory applicable to museum and performance presentation, and include reading and examination of folk worlds within the Ozarks context. Major genres covered may include ballad, legend, folk tale, and folk song. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG386": {
+    "course_id": "ENG386",
+    "title": "ENG 386 Literature of the Ozarks",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Survey of representative works of fiction and poetry focusing on the Ozarks or Ozarks characters. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG390": {
+    "course_id": "ENG390",
+    "title": "ENG 390 Modern English Grammar",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "The structure of American English, with emphasis on current descriptive approaches to English grammar. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG405": {
+    "course_id": "ENG405",
+    "title": "ENG 405 Teaching of Middle and High School English",
+    "req": "<em>Prerequisite: 30 hours in English and admitted to teacher education program.</em>",
+    "desc": "Techniques of teaching literature, the English language, and media as it relates to the English classroom; organization of teaching materials with particular emphasis on unit construction. A 20-hour field experience under the mentorship of an experienced classroom teacher is required. Credited only on BSEd (Secondary). A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='ENG432'>ENG 432</span> or <span data-link='ENG433'>ENG 433</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG421": {
+    "course_id": "ENG421",
+    "title": "ENG 421 Advanced Technical Writing",
+    "req": "<em>Prerequisite: <span data-link='ENG321'>ENG 321</span>.</em>",
+    "desc": "Practice in planning and managing projects. Emphasis is researched-based audience analysis, document design, and usability testing, including ethical considerations. Students complete a client-based design project and supporting documents. Emphasis on practical and marketable skills. Public Affairs Capstone Experience course. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG422": {
+    "course_id": "ENG422",
+    "title": "ENG 422 Career Focus in Professional Writing",
+    "req": "<em>Prerequisite: <span data-link='ENG373'>ENG 373</span> and <span data-link='ENG377'>ENG 377</span> and <span data-link='ENG421'>ENG 421</span>.</em>",
+    "desc": "A capstone course emphasizing reflection and synthesis of concepts from previous courses. Focus on skills associated with the smooth transition from an academic study of professional writing to the professional workforce. Students prepare a portfolio that demonstrates their integration of course and program outcomes and complete individual research projects related to the three pillars of the Public Affairs mission, including topics ranging from ethical and legal issues to globalization and localization. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG432": {
+    "course_id": "ENG432",
+    "title": "ENG 432 Supervised Teaching (Secondary English)",
+    "req": "<em>Prerequisite: <span data-link='ENG405'>ENG 405</span>; a grade of &quot;C&quot; or better in all professional education courses; current pre-professional liability insurance; and approval for supervised teaching.</em>",
+    "desc": "Student observes then teaches English classes under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG433": {
+    "course_id": "ENG433",
+    "title": "ENG 433 Supervised Teaching (Secondary English)",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='ENG432'>ENG 432</span>.</em>",
+    "desc": "Student observes then teaches under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities and attends both individual and group conferences. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG434": {
+    "course_id": "ENG434",
+    "title": "ENG 434 Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate masters-level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG455": {
+    "course_id": "ENG455",
+    "title": "ENG 455 African-American Drama",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> and 60 hours.</em>",
+    "desc": "Study of intersections of dramatic art and politics including survey of theatrical styles such as realism, surrealism, agit-prop, and theatre-of-the-absurd. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG473": {
+    "course_id": "ENG473",
+    "title": "ENG 473 Writing with Technology II",
+    "req": "<em>Prerequisite: <span data-link='ENG373'>ENG 373</span>.</em>",
+    "desc": "Builds on concepts students learn in <span data-link='ENG373'>ENG 373</span>. Students will gain hands-on practice working with more-advanced tools and features that professional writers use to produce technical documents. Topics may include, but are not limited to, desktop publishing, web-page creation, single sourcing, and accessibility. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG483": {
+    "course_id": "ENG483",
+    "title": "ENG 483 Folklore and Literature",
+    "req": "<em>Prerequisite: <span data-link='ENG283'>ENG 283</span>.</em>",
+    "desc": "Reading and examination will emphasize folklore as a definitive characteristic of varied North American literary texts. Fictional, visual, and audio texts may be examined. This course will offer readings focusing on Folklore in Literature (e.g., Children&apos;s Literature, Local Color Literature), literature presenting immigrant, ethnic, and social groups of North American regions such as the Ozarks, Appalachians, or Maritimes, or other topics of student interest. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG485": {
+    "course_id": "ENG485",
+    "title": "ENG 485 Study of American Folklore",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>.</em>",
+    "desc": "Introduction to what folklore is, its types, why it varies between folk worlds; basic folklore research methods. Influence of folklore on other forms of literature. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG487": {
+    "course_id": "ENG487",
+    "title": "ENG 487 Analysis of Scientific Literature",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> and 60 hours.</em>",
+    "desc": "Examines the history and development of scientific writing. Students survey a broad selection of scientific literature to better understand the cultural and ethical implications of science writing as they apply to both the field of scientific and technical writing and the broader society. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG491": {
+    "course_id": "ENG491",
+    "title": "ENG 491 History of the English Language",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Historical development of the English language from its Indo-European roots to present-day American English. Considers written language as a source of evidence, language as a cultural artifact, and the dynamics of linguistic/cultural contact. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG494": {
+    "course_id": "ENG494",
+    "title": "ENG 494 Dialects of American English",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Regional, social, and ethnic variation in American English. Incorporates linguistic geography and sociolinguistic approaches, and considers relevant political and educational issues. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG500": {
+    "course_id": "ENG500",
+    "title": "ENG 500 Advanced Writing: Nonfiction",
+    "req": "<em>Prerequisite: <span data-link='ENG305'>ENG 305</span> or <span data-link='ENG321'>ENG 321</span>.</em>",
+    "desc": "Group discussion and criticism. Individual writing projects. Students lacking a course prerequisite must submit two manuscripts for consideration when applying for permission. May be organized around one or more of the following nonfiction genres: creative nonfiction, magazine writing, and popular science writing. May be repeated for a total of 6 hours. May be taught concurrently with <span data-link='ENG604'>ENG 604</span>. Cannot receive credit for both <span data-link='ENG604'>ENG 604</span> and <span data-link='ENG500'>ENG 500</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG501": {
+    "course_id": "ENG501",
+    "title": "ENG 501 Advanced Writing: Fiction",
+    "req": "<em>Prerequisite: <span data-link='ENG315'>ENG 315</span>.</em>",
+    "desc": "Group discussion and criticism. Individual writing projects. Students lacking the course prerequisite must submit two manuscripts for consideration when applying for permission to enroll in the course. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='ENG601'>ENG 601</span>. Cannot receive credit for both <span data-link='ENG601'>ENG 601</span> and <span data-link='ENG501'>ENG 501</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG503": {
+    "course_id": "ENG503",
+    "title": "ENG 503 Advanced Writing: Poetry",
+    "req": "<em>Prerequisite: <span data-link='ENG303'>ENG 303</span>.</em>",
+    "desc": "Group discussion and criticism. Individual writing projects. Students lacking the course prerequisite must submit two manuscripts for consideration when applying for permission to enroll in the course. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='ENG607'>ENG 607</span>. Cannot receive credit for both <span data-link='ENG607'>ENG 607</span> and <span data-link='ENG503'>ENG 503</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG505": {
+    "course_id": "ENG505",
+    "title": "ENG 505 Methods in Teaching English to Speakers of Other Languages TESOL",
+    "req": "<em>Prerequisite: <span data-link='ENG595'>ENG 595</span>.</em>",
+    "desc": "Contemporary approaches to teaching grammar, reading, writing, listening, and speaking for students who are learning English as a second language. Includes material design, development, and evaluation; student assessment; integration of all components into a unified TESOL curriculum. May be taught concurrently with <span data-link='ENG605'>ENG 605</span>. Cannot receive credit for both <span data-link='ENG605'>ENG 605</span> and <span data-link='ENG505'>ENG 505</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG506": {
+    "course_id": "ENG506",
+    "title": "ENG 506 Advanced Writing: Drama",
+    "req": "<em>Prerequisite: <span data-link='ENG225'>ENG 225</span>.</em>",
+    "desc": "Group discussion and criticism. Individual writing projects. Students lacking a prerequisite must submit two manuscripts for consideration when applying for permission to enroll in the course. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='ENG606'>ENG 606</span>. Cannot receive credit for both <span data-link='ENG606'>ENG 606</span> and <span data-link='ENG506'>ENG 506</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG508": {
+    "course_id": "ENG508",
+    "title": "ENG 508 Creative Writing Project",
+    "req": "<em>Prerequisite: <span data-link='ENG500'>ENG 500</span> or <span data-link='ENG501'>ENG 501</span> or <span data-link='ENG503'>ENG 503</span>.</em>",
+    "desc": "Directed development of a substantial work of poetry, fiction, or non-critical prose, prepared for publication. May be taught concurrently with <span data-link='ENG609'>ENG 609</span>. Cannot receive credit for both <span data-link='ENG609'>ENG 609</span> and <span data-link='ENG508'>ENG 508</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG510": {
+    "course_id": "ENG510",
+    "title": "ENG 510 Chaucer",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "The Canterbury Tales and other works by Chaucer; social, historical, literary, and linguistic background of late Middle Ages. May be taught concurrently with <span data-link='ENG615'>ENG 615</span>. Cannot receive credit for both <span data-link='ENG615'>ENG 615</span> and <span data-link='ENG510'>ENG 510</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG512": {
+    "course_id": "ENG512",
+    "title": "ENG 512 The British Novel",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Works by major figures in the development of the British novel, such as Fielding, Austen, Dickens, George Eliot, Hardy, Lawrence, and Woolf; major criticism of the genre. May be taught concurrently with <span data-link='ENG618'>ENG 618</span>. Cannot receive credit for both <span data-link='ENG618'>ENG 618</span> and <span data-link='ENG512'>ENG 512</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG513": {
+    "course_id": "ENG513",
+    "title": "ENG 513 Shakespeare",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Selected plays and poems of Shakespeare, representative criticism, and Shakespeare&apos;s theatre and milieu. May be taught concurrently with <span data-link='ENG613'>ENG 613</span>. Cannot receive credit for both <span data-link='ENG613'>ENG 613</span> and <span data-link='ENG513'>ENG 513</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG514": {
+    "course_id": "ENG514",
+    "title": "ENG 514 British Drama",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Representative British plays from pre-Renaissance times to present, including such authors as Marlowe, Congreve, Wilde, and Shaw. May be taught concurrently with <span data-link='ENG614'>ENG 614</span>. Cannot receive credit for both <span data-link='ENG614'>ENG 614</span> and <span data-link='ENG514'>ENG 514</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG516": {
+    "course_id": "ENG516",
+    "title": "ENG 516 Mark Twain",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Twain&apos;s life and work (selected novels, short pieces, travelogues, autobiography, and criticism) studied as pivotal between an old and new America. May be taught concurrently with <span data-link='ENG616'>ENG 616</span>. Cannot receive credit for both <span data-link='ENG616'>ENG 616</span> and <span data-link='ENG516'>ENG 516</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG517": {
+    "course_id": "ENG517",
+    "title": "ENG 517 The American Novel",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Works by major figures in the development of the American Novel, such as Twain, James, Howells, Dreiser, Lewis, Hemingway, Faulkner, and Warren; major criticism of the genre. May be taught concurrently with <span data-link='ENG617'>ENG 617</span>. Cannot receive credit for both <span data-link='ENG617'>ENG 617</span> and <span data-link='ENG517'>ENG 517</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG519": {
+    "course_id": "ENG519",
+    "title": "ENG 519 American Drama",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Development of American Drama to the present; emphasis on 20th century, including such authors as O&apos;Neill, Wilder, Hellman, Williams, Miller, and Albee; major criticism of the genre. May be taught concurrently with <span data-link='ENG619'>ENG 619</span>. Cannot receive credit for both <span data-link='ENG619'>ENG 619</span> and <span data-link='ENG519'>ENG 519</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG520": {
+    "course_id": "ENG520",
+    "title": "ENG 520 Composition and Rhetoric in High School and Junior College",
+    "req": "<em>Prerequisite: <span data-link='ENG235'>ENG 235</span>; and admitted to the Teacher Education Program.</em>",
+    "desc": "A survey of current writing and evaluation practices. Training in the teaching and evaluating of oral and written composition. The student will have an opportunity to examine methods currently taught in area high schools. May be taught concurrently with <span data-link='ENG629'>ENG 629</span>. Cannot receive credit for both <span data-link='ENG629'>ENG 629</span> and <span data-link='ENG520'>ENG 520</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG521": {
+    "course_id": "ENG521",
+    "title": "ENG 521 Writing for Teachers",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "A course intended to develop the writing of prospective and in-service teachers and to explore the means by which writing can be encouraged, developed, and assessed. May be taught concurrently with <span data-link='ENG631'>ENG 631</span>. Cannot receive credit for both <span data-link='ENG521'>ENG 521</span> and <span data-link='ENG631'>ENG 631</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG523": {
+    "course_id": "ENG523",
+    "title": "ENG 523 Writing Center Theory and Practice",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Collaborative workshop designed to prepare individuals for teaching one-to-one in a writing center environment. May be taught concurrently with <span data-link='ENG623'>ENG 623</span>. Cannot receive credit for both <span data-link='ENG623'>ENG 623</span> and <span data-link='ENG523'>ENG 523</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG525": {
+    "course_id": "ENG525",
+    "title": "ENG 525 History of Rhetoric",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Study of historical trends important to the development of written discourse and writing instruction. Survey of theory from classical antiquity through the nineteenth century. May be taught concurrently with <span data-link='ENG627'>ENG 627</span>. Cannot receive credit for both <span data-link='ENG627'>ENG 627</span> and <span data-link='ENG525'>ENG 525</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG526": {
+    "course_id": "ENG526",
+    "title": "ENG 526 Modern Rhetorical Theory",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "A continuation of <span data-link='ENG525'>ENG 525</span>. Study of twentieth-century rhetorical theory and its applications in literary criticism, literacy, technical writing, and/or composition. May be taught concurrently with <span data-link='ENG628'>ENG 628</span>. Cannot receive credit for both <span data-link='ENG628'>ENG 628</span> and <span data-link='ENG526'>ENG 526</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG533": {
+    "course_id": "ENG533",
+    "title": "ENG 533 Studies in Children's Literature",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "A study of significant themes (such as gender, ethnicity, or childhood) or genres (such as children&apos;s poetry, the picture book, and the literary folktale and historical fiction) in literature for the young. May be repeated when content varies. May be taught concurrently with <span data-link='ENG633'>ENG 633</span>. Cannot receive credit for both <span data-link='ENG633'>ENG 633</span> and <span data-link='ENG533'>ENG 533</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG534": {
+    "course_id": "ENG534",
+    "title": "ENG 534 Historical Perspectives in Children's Literature",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Study of one or more periods in the historical development of children&apos;s literature, such as the Golden Age of children&apos;s classics, twentieth-century British children&apos;s literature, and the novels for children since 1950. May be repeated when content varies. May be taught concurrently with <span data-link='ENG634'>ENG 634</span>. Cannot receive credit for both <span data-link='ENG634'>ENG 634</span> and <span data-link='ENG534'>ENG 534</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG536": {
+    "course_id": "ENG536",
+    "title": "ENG 536 Young Adult Novel",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Study of various kinds of novels written for young people; includes historical perspectives; emphasizes developments since the &quot;New Realism&quot; of the 1960s. May be taught concurrently with <span data-link='ENG636'>ENG 636</span>. Cannot receive credit for both <span data-link='ENG636'>ENG 636</span> and <span data-link='ENG536'>ENG 536</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG539": {
+    "course_id": "ENG539",
+    "title": "ENG 539 Advanced Writing for Children and Young Adults",
+    "req": "<em>Prerequisite: <span data-link='ENG339'>ENG 339</span>.</em>",
+    "desc": "Group discussion and criticism. Individual writing projects. Students lacking the course prerequisite must submit two manuscripts for consideration when applying for permission to enroll in the course. May be taught concurrently with <span data-link='ENG639'>ENG 639</span>. Cannot receive credit for both <span data-link='ENG639'>ENG 639</span> and <span data-link='ENG539'>ENG 539</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG541": {
+    "course_id": "ENG541",
+    "title": "ENG 541 Renaissance Literature",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Sidney, Spenser, Donne, Milton, and other major non-dramatic writers; literary developments, 1500-1660. May be taught concurrently with <span data-link='ENG641'>ENG 641</span>. Cannot receive credit for both <span data-link='ENG641'>ENG 641</span> and <span data-link='ENG541'>ENG 541</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG543": {
+    "course_id": "ENG543",
+    "title": "ENG 543 Restoration and 18th Century Literature",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Dryden, Swift, Pope, Johnson, and other significant writers; literary developments, 1660-1798. May be taught concurrently with <span data-link='ENG643'>ENG 643</span>. Cannot receive credit for both <span data-link='ENG643'>ENG 643</span> and <span data-link='ENG543'>ENG 543</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG544": {
+    "course_id": "ENG544",
+    "title": "ENG 544 British Romantic Literature",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Blake, Wollstonecraft, Dorothy Wordsworth, William Wordsworth, Coleridge, Byron, Mary Shelley, Percy Bysshe Shelley, Keats; cultural backgrounds and literary developments, 1798-1837. May be taught concurrently with <span data-link='ENG642'>ENG 642</span>. Cannot receive credit for both <span data-link='ENG642'>ENG 642</span> and <span data-link='ENG544'>ENG 544</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG546": {
+    "course_id": "ENG546",
+    "title": "ENG 546 Victorian Literature",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Tennyson, Browning, the Rossettis, Hardy, and other British Victorian writers; literary developments, 1837-1901. May be taught concurrently with <span data-link='ENG646'>ENG 646</span>. Cannot receive credit for both <span data-link='ENG646'>ENG 646</span> and <span data-link='ENG546'>ENG 546</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG547": {
+    "course_id": "ENG547",
+    "title": "ENG 547 Modern British Literature",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Significant works from several genres by authors such as Conrad, Yeats, Greene, Lessing, and Stoppard; literary developments, 1901-present. May be taught concurrently with <span data-link='ENG645'>ENG 645</span>. Cannot receive credit for both <span data-link='ENG645'>ENG 645</span> and <span data-link='ENG547'>ENG 547</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG548": {
+    "course_id": "ENG548",
+    "title": "ENG 548 Major British Authors",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Study of several major works by one or two British writers, such as Marlowe and Jonson, Johnson and Boswell, George Eliot and Hardy, Yeats and T.S. Eliot, Amis and Larkin; the intellectual milieu of their works. May be taught concurrently with <span data-link='ENG649'>ENG 649</span>. Cannot receive credit for both <span data-link='ENG649'>ENG 649</span> and <span data-link='ENG548'>ENG 548</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG551": {
+    "course_id": "ENG551",
+    "title": "ENG 551 Literary Publication",
+    "req": "<em>Prerequisite: <span data-link='ENG303'>ENG 303</span> or <span data-link='ENG315'>ENG 315</span> or <span data-link='ENG325'>ENG 325</span>.</em>",
+    "desc": "Practical experience with the literary publication process, including the editing work that goes into literary journals and the process of submitting and publishing creative work. Students will be introduced to such various aspects of the literary market and other opportunities for creative writers, as conferences and writing workshops. Students will learn about the publishing process through such University publications projects as the English Department&apos;s Moon City Press. May be taught concurrently with <span data-link='ENG651'>ENG 651</span>. Cannot receive credit for both <span data-link='ENG551'>ENG 551</span> and <span data-link='ENG651'>ENG 651</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG553": {
+    "course_id": "ENG553",
+    "title": "ENG 553 American Romantic Literature",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Significant works from several genres by authors such as Cooper, Poe, Irving, Thoreau, Emerson, Hawthorne, Melville, and Whitman; literary developments to 1855. May be taught concurrently with <span data-link='ENG652'>ENG 652</span>. Cannot receive credit for both <span data-link='ENG652'>ENG 652</span> and <span data-link='ENG553'>ENG 553</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG557": {
+    "course_id": "ENG557",
+    "title": "ENG 557 American Realism",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Significant works from several genres by authors such as Twain, Howells, James, Crane, and Frost; literary developments, 1855-1914. May be taught concurrently with <span data-link='ENG656'>ENG 656</span>. Cannot receive credit for both <span data-link='ENG656'>ENG 656</span> and <span data-link='ENG557'>ENG 557</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG558": {
+    "course_id": "ENG558",
+    "title": "ENG 558 Major American Authors",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Study of several major works by one or two writers, such as Emerson and Thoreau, Frost and Dickinson, Sexton and Lowell; the intellectual milieu of their works. May be repeated when content varies. May be taught concurrently with <span data-link='ENG661'>ENG 661</span>. Cannot receive credit for both <span data-link='ENG661'>ENG 661</span> and <span data-link='ENG558'>ENG 558</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG559": {
+    "course_id": "ENG559",
+    "title": "ENG 559 Modern American Literature",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Significant works from several genres by authors such as Fitzgerald, Hemingway, Lowell, Roethke, Bellow, and O&apos;Connor; literary developments, 1914-present. May be taught concurrently with <span data-link='ENG659'>ENG 659</span>. Cannot receive credit for both <span data-link='ENG659'>ENG 659</span> and <span data-link='ENG559'>ENG 559</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG562": {
+    "course_id": "ENG562",
+    "title": "ENG 562 Contemporary American Poetry/Fiction",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "A survey of contemporary American poetry or fiction, which encompasses a selection of significant authors and traces the history and development of various literacy theories, schools and movements, from New Criticism through more recent trends in both narrative and lyric modes (poetry) and Post-Modern narrative techniques (fiction). Variable content course. May be repeated up to 6 hours if topic is different. May be taught concurrently with <span data-link='ENG662'>ENG 662</span>. Cannot receive credit for both <span data-link='ENG562'>ENG 562</span> and <span data-link='ENG662'>ENG 662</span> unless topic is different. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG563": {
+    "course_id": "ENG563",
+    "title": "ENG 563 Literature and Medicine",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "This course examines literary representations of health and illness, ability and disability, and cultural practices of healing. Drawing on major theoretical movements in medical humanities, students will situate literary texts within the ethical situations and institutional structures of their community and culture. May be taught concurrently with <span data-link='ENG663'>ENG 663</span>. Cannot receive credit for both <span data-link='ENG563'>ENG 563</span> and <span data-link='ENG663'>ENG 663</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG565": {
+    "course_id": "ENG565",
+    "title": "ENG 565 Literature and Language Workshop",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Variable topics related to the use of writing and literature in the classroom. Number of class hours determined by length of workshop. May be repeated for a total of 6 hours. May be taught concurrently with <span data-link='ENG665'>ENG 665</span>. Cannot receive credit for both <span data-link='ENG665'>ENG 665</span> and <span data-link='ENG565'>ENG 565</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "ENG568": {
+    "course_id": "ENG568",
+    "title": "ENG 568 Major World Authors",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Study of several major works by one or two writers, such as Aristophanes and Sophocles; Ibsen and Strindberg; the intellectual milieu of their works. May be repeated when content varies. May be taught concurrently with <span data-link='ENG668'>ENG 668</span>. Cannot receive credit for both <span data-link='ENG668'>ENG 668</span> and <span data-link='ENG568'>ENG 568</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG570": {
+    "course_id": "ENG570",
+    "title": "ENG 570 Writing in the Health Professions",
+    "req": "<em>Prerequisite: 60 hours; and <span data-link='ENG321'>ENG 321</span> or <span data-link='ENG310'>ENG 310</span> or <span data-link='NUR472'>NUR 472</span> or equivalent.</em>",
+    "desc": "Rhetorical analysis and production of a broad range of document genres, including public health campaigns, grant proposals, medical reports, and patient information materials. Students research and present their findings on current issues in the field. Emphasis on audience analysis, document design principles, and ethical considerations. May be taught concurrently with <span data-link='ENG678'>ENG 678</span>. Cannot receive credit for both <span data-link='ENG678'>ENG 678</span> and <span data-link='ENG570'>ENG 570</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG572": {
+    "course_id": "ENG572",
+    "title": "ENG 572 Writing Grant Proposals",
+    "req": "<em>Prerequisite: Writing II and 60 hours.</em>",
+    "desc": "Studying and applying basic elements of grant-proposal writing, including identifying potential funding sources, aligning projects with goals of funders, writing a compelling statement of need, and establishing a credible method of accomplishing goals as well as a reasonable budget and timeline. Emphasis on tailoring proposals to prospective funders in concise, persuasive writing. May be taught concurrently with <span data-link='ENG672'>ENG 672</span>. Cannot receive credit for both <span data-link='ENG572'>ENG 572</span> and <span data-link='ENG672'>ENG 672</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG573": {
+    "course_id": "ENG573",
+    "title": "ENG 573 Writing for the Web",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Explores the professional writer&apos;s role in creating web pages and sites designed to deliver information. Topics include planning, user analysis, organization, structure, presentation, content development, writing style, and accessibility accommodation. May be taught concurrently with <span data-link='ENG679'>ENG 679</span>. Cannot receive credit for both <span data-link='ENG573'>ENG 573</span> and <span data-link='ENG679'>ENG 679</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG574": {
+    "course_id": "ENG574",
+    "title": "ENG 574 Technical Writing Internship",
+    "req": "<em>Prerequisite: <span data-link='ENG421'>ENG 421</span> and permission of instructor.</em>",
+    "desc": "Projects in technical writing, combining academic training and supervised work experience in business, industry, government, academia, or nonprofit organizations. Students are required to work a minimum of 135 hours. May be taught concurrently with <span data-link='ENG694'>ENG 694</span>. Cannot receive credit for both <span data-link='ENG694'>ENG 694</span> and <span data-link='ENG574'>ENG 574</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG575": {
+    "course_id": "ENG575",
+    "title": "ENG 575 Topics in Professional Writing",
+    "req": "<em>Prerequisite: <span data-link='ENG421'>ENG 421</span> and 60 hours.</em>",
+    "desc": "Covers a single topic within the field of professional writing. The subject will vary according to student demand and faculty availability. Examples include writing for the legal profession, writing proposals, regulatory writing, developing training materials, and ethics in professional writing. Approved Recurring Course Topic: Data Displays in Technical Documents. Practice in developing data displays. Students identify appropriate data displays for given contexts, use design principles to organize and display data effectively, and evaluate data displays for accuracy and ethical presentation. May be repeated to a total of 6 hours when the topic varies. Variable content course. May be taught concurrently with <span data-link='ENG684'>ENG 684</span>. Cannot receive credit for both <span data-link='ENG684'>ENG 684</span> and <span data-link='ENG575'>ENG 575</span> unless topic is different. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG580": {
+    "course_id": "ENG580",
+    "title": "ENG 580 Gender Issues in Language and Literature",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> and 60 hours.</em>",
+    "desc": "Consideration of gender issues from the standpoint of literary history, genre, composition/rhetoric, linguistics, or feminist theory. May be repeated to a total of 6 hours if topic is different. May be taught concurrently with <span data-link='ENG682'>ENG 682</span>. Cannot receive credit for both <span data-link='ENG682'>ENG 682</span> and <span data-link='ENG580'>ENG 580</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG583": {
+    "course_id": "ENG583",
+    "title": "ENG 583 Themes in Folkloristics",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "A topical course investigating the relationship of folklore and daily life through reading and examination of the field and its genres as a global discipline. Consideration of lived-environments such as occupational, educational, and popular culture settings or themes. May be repeated to a total of 9 hours if topic is different. May be taught concurrently with <span data-link='ENG683'>ENG 683</span>. Cannot receive credit for both <span data-link='ENG683'>ENG 683</span> and <span data-link='ENG583'>ENG 583</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG585": {
+    "course_id": "ENG585",
+    "title": "ENG 585 History of Literary Criticism",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "A survey of the theories of literary critics, such as Sidney, Pope, Coleridge, Eliot, Brooks, Barthes, Eagleton, Kristeva, and Derrida. May be taught concurrently with <span data-link='ENG687'>ENG 687</span>. Cannot receive credit for both <span data-link='ENG687'>ENG 687</span> and <span data-link='ENG585'>ENG 585</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG590": {
+    "course_id": "ENG590",
+    "title": "ENG 590 Grammatical Analysis",
+    "req": "<em>Prerequisite: 60 hours; and <span data-link='ENG296'>ENG 296</span> or <span data-link='ENG390'>ENG 390</span> or <span data-link='ENG591'>ENG 591</span>.</em>",
+    "desc": "Advanced study of English morphology and syntax using a variety of current approaches, including phrase-structure, transformational, discourse-based, and semantic-based grammars. May be taught concurrently with <span data-link='ENG690'>ENG 690</span>. Cannot receive credit for both <span data-link='ENG690'>ENG 690</span> and <span data-link='ENG590'>ENG 590</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG591": {
+    "course_id": "ENG591",
+    "title": "ENG 591 Linguistic Theory",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "A specialized survey of linguistics intended for graduate and advanced undergraduate students. Areas covered include, but are not limited to, phonology, morphology, syntax, semantics, discourse, pragmatics, language change, and language variation. Students cannot receive credit for both <span data-link='ENG296'>ENG 296</span> and <span data-link='ENG591'>ENG 591</span>. May be taught concurrently with <span data-link='ENG691'>ENG 691</span>. Cannot receive credit for both <span data-link='ENG691'>ENG 691</span> and <span data-link='ENG591'>ENG 591</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG592": {
+    "course_id": "ENG592",
+    "title": "ENG 592 Sociolinguistics for Language Teaching",
+    "req": "<em>Prerequisite: 60 hours; and <span data-link='ENG296'>ENG 296</span> or <span data-link='ENG390'>ENG 390</span> or <span data-link='ENG591'>ENG 591</span>.</em>",
+    "desc": "Various sociolinguistic topics, with an emphasis on those relevant for language teaching, such as language altitudes; standard languages; literacy; language variation; multilingualism; language planning and policy; and language maintenance and loss. May be taught concurrently with <span data-link='ENG688'>ENG 688</span>. Cannot receive credit for both <span data-link='ENG688'>ENG 688</span> and <span data-link='ENG592'>ENG 592</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG593": {
+    "course_id": "ENG593",
+    "title": "ENG 593 Studies in Linguistics",
+    "req": "<em>Prerequisite: 60 hours; and <span data-link='ENG296'>ENG 296</span> or <span data-link='ENG390'>ENG 390</span> or <span data-link='ENG591'>ENG 591</span>.</em>",
+    "desc": "Topics in linguistics including history of linguistics, language acquisition, or transformational grammars. May be repeated to a total of 9 hours if topic is different. May be taught concurrently with <span data-link='ENG689'>ENG 689</span>. Cannot receive credit for both <span data-link='ENG689'>ENG 689</span> and <span data-link='ENG593'>ENG 593</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG595": {
+    "course_id": "ENG595",
+    "title": "ENG 595 Principles of Second Language Acquisition",
+    "req": "<em>Prerequisite: 60 hours and <span data-link='ENG296'>ENG 296</span> or <span data-link='ENG390'>ENG 390</span> or <span data-link='ENG591'>ENG 591</span>.</em>",
+    "desc": "The processes of both first and second language acquisition, with an emphasis on Teaching English to Speakers of Other Languages (TESOL) and bilingualism. Includes the theory behind and history of TESOL methodologies, as well as contemporary theoretical issues in TESOL. May be taught concurrently with <span data-link='ENG695'>ENG 695</span>. Cannot receive credit for both <span data-link='ENG695'>ENG 695</span> and <span data-link='ENG595'>ENG 595</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG596": {
+    "course_id": "ENG596",
+    "title": "ENG 596 Materials and Assessment in Teaching English to Speakers of Other Languages TESOL",
+    "req": "<em>Prerequisite: 60 hours and <span data-link='ENG595'>ENG 595</span>.</em>",
+    "desc": "Practical and theoretical perspectives in specific areas in TESOL, including speaking, grammar, composition, and critical reading. Consideration of material design and student assessment. May be taught concurrently with <span data-link='ENG696'>ENG 696</span>. Cannot receive credit for both <span data-link='ENG696'>ENG 696</span> and <span data-link='ENG596'>ENG 596</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG597": {
+    "course_id": "ENG597",
+    "title": "ENG 597 Practicum in Teaching English to Speakers of Other Languages TESOL",
+    "req": "<em>Prerequisite: <span data-link='ENG505'>ENG 505</span> and <span data-link='ENG596'>ENG 596</span>.</em>",
+    "desc": "Application of coursework in TESOL with individualized experience based on students&apos; needs and background, especially in composition, grammar, and pronunciation. May be taught concurrently with <span data-link='ENG697'>ENG 697</span>. Cannot receive credit for both <span data-link='ENG697'>ENG 697</span> and <span data-link='ENG597'>ENG 597</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG598": {
+    "course_id": "ENG598",
+    "title": "ENG 598 Early English Language and Literature",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Special topics in Old and Middle English language and literature, including an understanding of the linguistic structure of early English, experience in working with a variety of medieval English texts, and application of various linguistic and literary theories to the study of Old and Middle English writing. May be repeated to 6 hours if topic is different. Will not count toward any teacher certification requirement. May be taught concurrently with <span data-link='ENG698'>ENG 698</span>. Cannot receive credit for both <span data-link='ENG698'>ENG 698</span> and <span data-link='ENG598'>ENG 598</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG601": {
+    "course_id": "ENG601",
+    "title": "ENG 601 Advanced Writing: Fiction",
+    "desc": "Group discussion and criticism. Individual writing projects. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='ENG501'>ENG 501</span>. Cannot receive credit for both <span data-link='ENG501'>ENG 501</span> and <span data-link='ENG601'>ENG 601</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG604": {
+    "course_id": "ENG604",
+    "title": "ENG 604 Advanced Writing: Nonfiction",
+    "desc": "Group discussion and criticism. Individual writing projects. May be organized around one or more of the following non-fiction genres: creative nonfiction, magazine writing, stylistics, and popular science writing. May be repeated for a total of 6 hours. May be taught concurrently with <span data-link='ENG500'>ENG 500</span>. Cannot receive credit for both <span data-link='ENG500'>ENG 500</span> and <span data-link='ENG604'>ENG 604</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG605": {
+    "course_id": "ENG605",
+    "title": "ENG 605 Methods in Teaching English to Speakers of Other Languages (TESOL)",
+    "desc": "Contemporary approaches to teaching grammar, reading, writing, listening, and speaking for students who are learning English as a second language. Includes material design, development, and evaluation; student assessment; integration of all components into a unified TESOL curriculum. May be taught concurrently with <span data-link='ENG505'>ENG 505</span>. Cannot receive credit for both <span data-link='ENG505'>ENG 505</span> and <span data-link='ENG605'>ENG 605</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG606": {
+    "course_id": "ENG606",
+    "title": "ENG 606 Advanced Writing: Drama",
+    "desc": "Group discussion and criticism. Individual writing projects. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='ENG506'>ENG 506</span>. Cannot receive credit for both <span data-link='ENG506'>ENG 506</span> and <span data-link='ENG606'>ENG 606</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG607": {
+    "course_id": "ENG607",
+    "title": "ENG 607 Advanced Writing: Poetry",
+    "desc": "Group discussion and criticism. Individual writing projects. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='ENG503'>ENG 503</span>. Cannot receive credit for both <span data-link='ENG503'>ENG 503</span> and <span data-link='ENG607'>ENG 607</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG609": {
+    "course_id": "ENG609",
+    "title": "ENG 609 Creative Writing Project",
+    "desc": "Directed development of a substantial work of poetry, fiction, or non-critical prose, prepared for publication. May be taught concurrently with <span data-link='ENG508'>ENG 508</span>. Cannot receive credit for both <span data-link='ENG508'>ENG 508</span> and <span data-link='ENG609'>ENG 609</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG613": {
+    "course_id": "ENG613",
+    "title": "ENG 613 Shakespeare",
+    "desc": "Selected plays and poems of Shakespeare, representative criticism, and Shakespeare&apos;s theatre and milieu. May be taught concurrently with <span data-link='ENG513'>ENG 513</span>. Cannot receive credit for both <span data-link='ENG513'>ENG 513</span> and <span data-link='ENG613'>ENG 613</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG614": {
+    "course_id": "ENG614",
+    "title": "ENG 614 British Drama",
+    "desc": "Representative British plays from pre-Renaissance times to present, including such authors as Marlowe, Congreve, Wilde, and Shaw. May be taught concurrently with <span data-link='ENG514'>ENG 514</span>. Cannot receive credit for both <span data-link='ENG514'>ENG 514</span> and <span data-link='ENG614'>ENG 614</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG615": {
+    "course_id": "ENG615",
+    "title": "ENG 615 Chaucer",
+    "desc": "The Canterbury Tales and other works by Chaucer; social, historical, literary, and linguistic background of late Middle Ages. May be taught concurrently with <span data-link='ENG510'>ENG 510</span>. Cannot receive credit for both <span data-link='ENG510'>ENG 510</span> and <span data-link='ENG615'>ENG 615</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG616": {
+    "course_id": "ENG616",
+    "title": "ENG 616 Mark Twain",
+    "desc": "Twain&apos;s life and work (selected novels, short pieces, travelogues, autobiography, and criticism) studied as pivotal between an old and new America. May be taught concurrently with <span data-link='ENG516'>ENG 516</span>. Cannot receive credit for both <span data-link='ENG516'>ENG 516</span> and <span data-link='ENG616'>ENG 616</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG617": {
+    "course_id": "ENG617",
+    "title": "ENG 617 The American Novel",
+    "desc": "Works by major figures in the development of the American Novel, such as Twain, James, Howells, Dreiser, Lewis, Hemingway, Faulkner, and Warren; major criticism of the genre. May be taught concurrently with <span data-link='ENG517'>ENG 517</span>. Cannot receive credit for both <span data-link='ENG517'>ENG 517</span> and <span data-link='ENG617'>ENG 617</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG618": {
+    "course_id": "ENG618",
+    "title": "ENG 618 The British Novel",
+    "desc": "Works by major figures in the development of the British novel, such as Fielding, Austen, Dickens, George Eliot, Hardy, Lawrence, and Woolf; major criticism of the genre. May be taught concurrently with <span data-link='ENG512'>ENG 512</span>. Cannot receive credit for both <span data-link='ENG512'>ENG 512</span> and <span data-link='ENG618'>ENG 618</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG619": {
+    "course_id": "ENG619",
+    "title": "ENG 619 American Drama",
+    "desc": "Development of American Drama to the present; emphasis on 20th century, including such authors as O&apos;Neill, Wilder, Hellman, Williams, Miller, and Albee; major criticism of the genre. May be taught concurrently with <span data-link='ENG519'>ENG 519</span>. Cannot receive credit for both <span data-link='ENG519'>ENG 519</span> and <span data-link='ENG619'>ENG 619</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG623": {
+    "course_id": "ENG623",
+    "title": "ENG 623 Writing Center Theory and Practice",
+    "desc": "Collaborative workshop designed to prepare individuals for teaching one-to-one in a writing center environment. May be taught concurrently with <span data-link='ENG523'>ENG 523</span>. Cannot receive credit for both <span data-link='ENG523'>ENG 523</span> and <span data-link='ENG623'>ENG 623</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG627": {
+    "course_id": "ENG627",
+    "title": "ENG 627 History of Rhetoric",
+    "desc": "Study of historical trends important to the development of written discourse and writing instruction. Survey of theory from classical antiquity through the nineteenth century. May be taught concurrently with <span data-link='ENG525'>ENG 525</span>. Cannot receive credit for both <span data-link='ENG525'>ENG 525</span> and <span data-link='ENG627'>ENG 627</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG628": {
+    "course_id": "ENG628",
+    "title": "ENG 628 Modern Rhetorical Theory",
+    "desc": "A continuation of <span data-link='ENG627'>ENG 627</span>. Study of twentieth-century rhetorical theory and its applications in literary criticism, literacy, technical writing, and/or composition. May be taught concurrently with <span data-link='ENG526'>ENG 526</span>. Cannot receive credit for both <span data-link='ENG526'>ENG 526</span> and <span data-link='ENG628'>ENG 628</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG629": {
+    "course_id": "ENG629",
+    "title": "ENG 629 Composition and Rhetoric in High School and Junior College",
+    "req": "<em>Prerequisite: teacher certification students must be admitted to the Teacher Education Program.</em>",
+    "desc": "A survey of current writing and evaluation practices. Training in the teaching and evaluating of oral and written composition. The student will have an opportunity to examine methods currently taught in area high schools. May be taught concurrently with <span data-link='ENG520'>ENG 520</span>. Cannot receive credit for both <span data-link='ENG629'>ENG 629</span> and <span data-link='ENG520'>ENG 520</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG631": {
+    "course_id": "ENG631",
+    "title": "ENG 631 Writing for Teachers",
+    "desc": "A course intended to develop the writing of prospective and in-service teachers and to explore the means by which writing can be encouraged, developed, and assessed. May be taught concurrently with <span data-link='ENG521'>ENG 521</span>. Cannot receive credit for both <span data-link='ENG631'>ENG 631</span> and <span data-link='ENG521'>ENG 521</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG633": {
+    "course_id": "ENG633",
+    "title": "ENG 633 Studies in Children's Literature",
+    "desc": "A study of significant themes (such as gender, ethnicity, or childhood) or genres (such as children&apos;s poetry, the picture book, and the literary folktale and historical fiction) in literature for the young. May be repeated when content varies. May be taught concurrently with <span data-link='ENG533'>ENG 533</span>. Cannot receive credit for both <span data-link='ENG533'>ENG 533</span> and <span data-link='ENG633'>ENG 633</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG634": {
+    "course_id": "ENG634",
+    "title": "ENG 634 Historical Perspectives in Children's Literature",
+    "desc": "Study of one or more periods in the historical development of children&apos;s literature, such as the Golden Age of children&apos;s classics, twentieth-century British children&apos;s literature, and the novels for children since 1950. May be repeated when content varies. May be taught concurrently with <span data-link='ENG534'>ENG 534</span>. Cannot receive credit for both <span data-link='ENG534'>ENG 534</span> and <span data-link='ENG634'>ENG 634</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG636": {
+    "course_id": "ENG636",
+    "title": "ENG 636 Young Adult Novel",
+    "desc": "Study of various kinds of novels written for young people; includes historical perspectives; emphasizes developments since the &quot;New Realism&quot; of the 1960s. May be taught concurrently with <span data-link='ENG536'>ENG 536</span>. Cannot receive credit for both <span data-link='ENG536'>ENG 536</span> and <span data-link='ENG636'>ENG 636</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG639": {
+    "course_id": "ENG639",
+    "title": "ENG 639 Advanced Writing for Children and Young Adults",
+    "desc": "Group discussion and criticism. Individual writing projects. May be taught concurrently with <span data-link='ENG539'>ENG 539</span>. Cannot receive credit for both <span data-link='ENG539'>ENG 539</span> and <span data-link='ENG639'>ENG 639</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG641": {
+    "course_id": "ENG641",
+    "title": "ENG 641 Renaissance Literature",
+    "desc": "Sidney, Spenser, Donne, Milton, and other major non-dramatic writers; literary developments, 1500-1660. May be taught concurrently with <span data-link='ENG541'>ENG 541</span>. Cannot receive credit for both <span data-link='ENG541'>ENG 541</span> and <span data-link='ENG641'>ENG 641</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG642": {
+    "course_id": "ENG642",
+    "title": "ENG 642 British Romantic Literature",
+    "desc": "Blake, Wollstonecraft, Dorothy Wordsworth, William Wordsworth, Coleridge, Byron, Mary Shelley, Percy Bysshe Shelley, Keats; cultural backgrounds and literary developments, 1798-1837. May be taught concurrently with <span data-link='ENG544'>ENG 544</span>. Cannot receive credit for both <span data-link='ENG544'>ENG 544</span> and <span data-link='ENG642'>ENG 642</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG643": {
+    "course_id": "ENG643",
+    "title": "ENG 643 Restoration and 18th Century Literature",
+    "desc": "Dryden, Swift, Pope, Johnson, and other significant writers; literary developments, 1660-1798. May be taught concurrently with <span data-link='ENG543'>ENG 543</span>. Cannot receive credit for both <span data-link='ENG543'>ENG 543</span> and <span data-link='ENG643'>ENG 643</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG645": {
+    "course_id": "ENG645",
+    "title": "ENG 645 Modern British Literature",
+    "desc": "Significant works from several genres by authors such as Conrad, Yeats, Greene, Lessing, and Stoppard; literary developments, 1901-present. May be taught concurrently with <span data-link='ENG547'>ENG 547</span>. Cannot receive credit for both <span data-link='ENG547'>ENG 547</span> and <span data-link='ENG645'>ENG 645</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG646": {
+    "course_id": "ENG646",
+    "title": "ENG 646 Victorian Literature",
+    "desc": "Tennyson, Browning, the Rossettis, Hardy, and other British Victorian writers; literary developments, 1837-1901. May be taught concurrently with <span data-link='ENG546'>ENG 546</span>. Cannot receive credit for both <span data-link='ENG546'>ENG 546</span> and <span data-link='ENG646'>ENG 646</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG649": {
+    "course_id": "ENG649",
+    "title": "ENG 649 Major British Authors",
+    "desc": "Study of several major works by one or two British writers, such as Marlowe and Jonson, Johnson and Boswell, George Eliot and Hardy, Yeats and T.S. Eliot, Amis and Larkin; the intellectual milieu of their works. May be taught concurrently with <span data-link='ENG548'>ENG 548</span>. Cannot receive credit for both <span data-link='ENG548'>ENG 548</span> and <span data-link='ENG649'>ENG 649</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG651": {
+    "course_id": "ENG651",
+    "title": "ENG 651 Literary Publication",
+    "desc": "Practical experience with the literary publication process, including the editing work that goes into literary journals and the process of submitting and publishing creative work. Students will be introduced to various aspects of the literary market and other opportunities for creative writers, such as conferences and writing workshops. Students will learn about the publishing process through University publications projects such as the English Department&apos;s Moon City Press. May be taught concurrently with <span data-link='ENG551'>ENG 551</span>. Cannot receive credit for both <span data-link='ENG651'>ENG 651</span> and <span data-link='ENG551'>ENG 551</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG652": {
+    "course_id": "ENG652",
+    "title": "ENG 652 American Romantic Literature",
+    "desc": "Significant works from several genres by authors such as Cooper, Poe, Irving, Thoreau, Emerson, Hawthorne, Melville, and Whitman; literary developments to 1855. May be taught concurrently with <span data-link='ENG553'>ENG 553</span>. Cannot receive credit for both <span data-link='ENG553'>ENG 553</span> and <span data-link='ENG652'>ENG 652</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG656": {
+    "course_id": "ENG656",
+    "title": "ENG 656 American Realism",
+    "desc": "Significant works from several genres by authors such as Twain, Howells, James, Crane, and Frost; literary developments, 1855-1914. May be taught concurrently with <span data-link='ENG557'>ENG 557</span>. Cannot receive credit for both <span data-link='ENG557'>ENG 557</span> and <span data-link='ENG656'>ENG 656</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG659": {
+    "course_id": "ENG659",
+    "title": "ENG 659 Modern American Literature",
+    "desc": "Significant works from several genres by authors such as Fitzgerald, Hemingway, Lowell, Roethke, Bellow, and O&apos;Connor; literary developments, 1914-present. May be taught concurrently with <span data-link='ENG559'>ENG 559</span>. Cannot receive credit for both <span data-link='ENG559'>ENG 559</span> and <span data-link='ENG659'>ENG 659</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG661": {
+    "course_id": "ENG661",
+    "title": "ENG 661 Major American Authors",
+    "desc": "Study of several major works by one or two writers, such as Emerson and Thoreau, Frost and Dickinson, Sexton and Lowell; the intellectual milieu of their works. May be repeated when content varies. May be taught concurrently with <span data-link='ENG558'>ENG 558</span>. Cannot receive credit for both <span data-link='ENG558'>ENG 558</span> and <span data-link='ENG661'>ENG 661</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG662": {
+    "course_id": "ENG662",
+    "title": "ENG 662 Contemporary American Poetry/Fiction",
+    "desc": "A survey of contemporary American poetry or fiction, which encompasses a selection of significant authors and traces the history and development of various literacy theories, schools and movements, from new Criticism through more recent trends in both narrative and lyric modes (poetry) and Post-Modern narrative techniques (fiction). Variable content course. May be repeated up to 6 hours if topic is different. May be taught concurrently with <span data-link='ENG562'>ENG 562</span>. Cannot receive credit for both <span data-link='ENG562'>ENG 562</span> and <span data-link='ENG662'>ENG 662</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG663": {
+    "course_id": "ENG663",
+    "title": "ENG 663 Literature and Medicine",
+    "desc": "This course examines literary representations of health and illness, ability and disability, and cultural practices of healing. Drawing on major theoretical movements in medical humanities, students will situate literary texts within the ethical situations and institutional structures of their community and culture. May be taught concurrently with <span data-link='ENG563'>ENG 563</span>. Cannot receive credit for both <span data-link='ENG563'>ENG 563</span> and <span data-link='ENG663'>ENG 663</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG665": {
+    "course_id": "ENG665",
+    "title": "ENG 665 Literature and Language Workshop",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Variable topics related to the use of writing and literature in the classroom. Number of class hours determined by length of workshop. May be repeated for a total of 6 hours. May be taught concurrently with <span data-link='ENG565'>ENG 565</span>. Cannot receive credit for both <span data-link='ENG665'>ENG 665</span> and <span data-link='ENG565'>ENG 565</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "ENG668": {
+    "course_id": "ENG668",
+    "title": "ENG 668 Major World Authors",
+    "desc": "Study of several major works by one or two writers, such as Aristophanes and Sophocles; Ibsen and Strindberg; the intellectual milieu of their works. May be repeated when content varies. May be taught concurrently with <span data-link='ENG568'>ENG 568</span>. Cannot receive credit for both <span data-link='ENG568'>ENG 568</span> and <span data-link='ENG668'>ENG 668</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG672": {
+    "course_id": "ENG672",
+    "title": "ENG 672 Writing Grant Proposals",
+    "desc": "Studying and applying basic elements of grant-proposal writing, including identifying potential funding sources, aligning projects with goals of funders, writing a compelling statement of need, and establishing a credible method of accomplishing goals as well as a reasonable budget and timeline. Emphasis on tailoring proposals to prospective funders in concise, persuasive writing. May be taught concurrently with <span data-link='ENG572'>ENG 572</span>. Cannot receive credit for both <span data-link='ENG572'>ENG 572</span> and <span data-link='ENG672'>ENG 672</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG678": {
+    "course_id": "ENG678",
+    "title": "ENG 678 Writing in the Health Professions",
+    "desc": "Rhetorical analysis and production of a broad range of document genres, including public health campaigns, grant proposals, medical reports, and patient information materials. Students research and present their findings on current issues in the field. Emphasis on audience analysis, document design principles, and ethical considerations. May be taught concurrently with <span data-link='ENG570'>ENG 570</span>. Cannot receive credit for both <span data-link='ENG570'>ENG 570</span> and <span data-link='ENG678'>ENG 678</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG679": {
+    "course_id": "ENG679",
+    "title": "ENG 679 Writing for the Web",
+    "desc": "Explores the professional writer&apos;s role in creating web pages and sites designed to deliver information. Topics include planning, user analysis, organization, structure, presentation, content development, writing style, and accessibility accommodation. May be taught concurrently with <span data-link='ENG573'>ENG 573</span>. Cannot receive credit for both <span data-link='ENG573'>ENG 573</span> and <span data-link='ENG679'>ENG 679</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG682": {
+    "course_id": "ENG682",
+    "title": "ENG 682 Gender Issues in Language and Literature",
+    "desc": "Consideration of gender issues from the standpoint of literary history, genre, composition/rhetoric, linguistics, or feminist theory. May be repeated to a total of 6 hours if topic is different. May be taught concurrently with <span data-link='ENG580'>ENG 580</span>. Cannot receive credit for both <span data-link='ENG580'>ENG 580</span> and <span data-link='ENG682'>ENG 682</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG683": {
+    "course_id": "ENG683",
+    "title": "ENG 683 Themes in Folkloristics",
+    "desc": "A topical course investigating the relationship of folklore and daily life through reading and examination of the field and its genres as a global discipline. Consideration of lived-environments such as occupational, educational, and popular culture settings or themes. May be repeated to a total of 9 hours if topic is different. May be taught concurrently with <span data-link='ENG583'>ENG 583</span>. Cannot receive credit for both <span data-link='ENG583'>ENG 583</span> and <span data-link='ENG683'>ENG 683</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG684": {
+    "course_id": "ENG684",
+    "title": "ENG 684 Topics in Professional Writing",
+    "desc": "Covers a single topic within the field of professional writing. The subject will vary according to student demand and faculty availability. Examples include writing for the legal profession, writing proposals, regulatory writing, developing training materials, and ethics in professional writing. May be repeated to a total of 6 hours when the topic varies. Variable content course. May be taught concurrently with <span data-link='ENG575'>ENG 575</span>. Cannot receive credit for both <span data-link='ENG575'>ENG 575</span> and <span data-link='ENG684'>ENG 684</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG687": {
+    "course_id": "ENG687",
+    "title": "ENG 687 History of Literary Criticism",
+    "desc": "A survey of the theories of literary critics, such as Sidney, Pope, Coleridge, Eliot, Brooks, Barthes, Eagleton, Kristeva, and Derrida. May be taught concurrently with <span data-link='ENG585'>ENG 585</span>. Cannot receive credit for both <span data-link='ENG585'>ENG 585</span> and <span data-link='ENG687'>ENG 687</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG688": {
+    "course_id": "ENG688",
+    "title": "ENG 688 Sociolinguistics for Language Teaching",
+    "desc": "Various sociolinguistic topics, with an emphasis on those relevant for language teaching, such as language altitudes; standard languages; literacy; language variation; multilingualism; language planning and policy; and language maintenance and loss. May be taught concurrently with <span data-link='ENG592'>ENG 592</span>. Cannot receive credit for both <span data-link='ENG592'>ENG 592</span> and <span data-link='ENG688'>ENG 688</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG689": {
+    "course_id": "ENG689",
+    "title": "ENG 689 Studies in Linguistics",
+    "desc": "Topics in linguistics including history of linguistics, language acquisition, or transformational grammars. May be repeated to a total of 9 hours if topic is different. May be taught concurrently with <span data-link='ENG593'>ENG 593</span>. Cannot receive credit for both <span data-link='ENG593'>ENG 593</span> and <span data-link='ENG689'>ENG 689</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG690": {
+    "course_id": "ENG690",
+    "title": "ENG 690 Grammatical Analysis",
+    "desc": "Advanced study of English morphology and syntax using a variety of current approaches, including phrase-structure, transformational, discourse-based, and semantic-based grammars. May be taught concurrently with <span data-link='ENG590'>ENG 590</span>. Cannot receive credit for both <span data-link='ENG590'>ENG 590</span> and <span data-link='ENG690'>ENG 690</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG691": {
+    "course_id": "ENG691",
+    "title": "ENG 691 Linguistic Theory",
+    "desc": "A specialized survey of linguistics intended for graduate and advanced undergraduate students. Areas covered include, but are not limited to, phonology, morphology, syntax, semantics, discourse, pragmatics, language change, and language variation. Students cannot receive credit for both <span data-link='ENG296'>ENG 296</span> and <span data-link='ENG691'>ENG 691</span>. May be taught concurrently with <span data-link='ENG591'>ENG 591</span>. Cannot receive credit for both <span data-link='ENG591'>ENG 591</span> and <span data-link='ENG691'>ENG 691</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG694": {
+    "course_id": "ENG694",
+    "title": "ENG 694 Technical Writing Internship",
+    "desc": "Projects in technical writing, combining academic training and supervised work experience in business, industry, government, academia, or nonprofit organizations. Students are required to work a minimum of 135 hours. May be taught concurrently with <span data-link='ENG574'>ENG 574</span>. Cannot receive credit for both <span data-link='ENG574'>ENG 574</span> and <span data-link='ENG694'>ENG 694</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG695": {
+    "course_id": "ENG695",
+    "title": "ENG 695 Principles of Second Language Acquisition",
+    "desc": "The processes of both first and second language acquisition, with an emphasis on Teaching English to Speakers of Other Languages (TESOL) and bilingualism. Includes the theory behind and history of TESOL methodologies, as well as contemporary theoretical issues in TESOL. May be taught concurrently with <span data-link='ENG595'>ENG 595</span>. Cannot receive credit for both <span data-link='ENG595'>ENG 595</span> and <span data-link='ENG695'>ENG 695</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG696": {
+    "course_id": "ENG696",
+    "title": "ENG 696 Materials and Assessment in Teaching English to Speakers of Other Languages (TESOL)",
+    "desc": "Practical and theoretical perspectives in specific areas in TESOL, including speaking, grammar, composition, and critical reading. Consideration of material design and student assessment. May be taught concurrently with <span data-link='ENG596'>ENG 596</span>. Cannot receive credit for both <span data-link='ENG596'>ENG 596</span> and <span data-link='ENG696'>ENG 696</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG697": {
+    "course_id": "ENG697",
+    "title": "ENG 697 Practicum in Teaching English to Speakers of Other Languages (TESOL)",
+    "desc": "Application of coursework in TESOL with individualized experience based on students&apos; needs and background, especially in composition, grammar, and pronunciation. May be taught concurrently with <span data-link='ENG597'>ENG 597</span>. Cannot receive credit for both <span data-link='ENG597'>ENG 597</span> and <span data-link='ENG697'>ENG 697</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG698": {
+    "course_id": "ENG698",
+    "title": "ENG 698 Early English Language and Literature",
+    "desc": "Special topics in Old and Middle English language and literature, including an understanding of the linguistic structure of early English, experience in working with a variety of medieval English texts, and application of various linguistic and literary theories to the study of Old and Middle English writing. May be repeated to 6 hours if topic is different. Will not count toward any teacher certification requirement. May be taught concurrently with <span data-link='ENG598'>ENG 598</span>. Cannot receive credit for both <span data-link='ENG598'>ENG 598</span> and <span data-link='ENG698'>ENG 698</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG700": {
+    "course_id": "ENG700",
+    "title": "ENG 700 Introduction to Research Methods in English",
+    "desc": "Provides an introduction to research methods and writing within the broadly defined discipline of English Studies. It focuses on ways of developing research problems and questions, designing studies, and conducting, reading and evaluating research. Students will also learn to present their research in verbal and written formats including the abstract, proposal, conference presentation, and publishable essay. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG701": {
+    "course_id": "ENG701",
+    "title": "ENG 701 Graduate Fiction Workshop",
+    "req": "<em>Prerequisite: <span data-link='ENG601'>ENG 601</span> or permission of instructor.</em>",
+    "desc": "Group discussion and criticism. Individual writing projects. Intensive reading and writing assignments designed to enhance students&apos; ability to compete in the publishing world and in application to further graduate study. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG702": {
+    "course_id": "ENG702",
+    "title": "ENG 702 Service Learning in English II",
+    "req": "<em>Prerequisite: concurrent enrollment in an English course designated as a service-learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction. It provides an integrated learning experience, addressing the practice of citizenship and promoting an awareness of and participation in public affairs. It includes a minimum of 40 hours of service that benefits an external community organization or public-service provider. Approved service placements and assignments will vary depending on the course topic. May be taken once for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG703": {
+    "course_id": "ENG703",
+    "title": "ENG 703 Practicum in Teaching Composition",
+    "desc": "Writing, evaluation of student essays, discussion of current theory and practice in teaching college composition. Credit from this course will not count toward the MA in English or the MS in Ed (ENG) degrees. Required of graduate teaching assistants their first two semesters of appointment. May be repeated up to 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG704": {
+    "course_id": "ENG704",
+    "title": "ENG 704 Teaching Writing Online",
+    "desc": "An intensive study of the theory and practice associated with teaching composition online. Students will examine key ideas in the field as well as the benefits and challenges of online pedagogy. Students will have the opportunity to study and design online instructional materials. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true,
+      "Spring": true
+    }
+  },
+  "ENG707": {
+    "course_id": "ENG707",
+    "title": "ENG 707 Graduate Poetry Workshop",
+    "req": "<em>Prerequisite: <span data-link='ENG607'>ENG 607</span> or permission of instructor.</em>",
+    "desc": "Group discussion and criticism. Individual writing projects. Intensive reading and writing assignments designed to enhance students&apos; ability to compete in the publishing world and in application to further graduate study. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG708": {
+    "course_id": "ENG708",
+    "title": "ENG 708 Creative Writing Project II",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Directed development of a substantial work of poetry, fiction, or non-critical prose. This work may be submitted as a degree paper in partial fulfillment of the research requirement in English. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG710": {
+    "course_id": "ENG710",
+    "title": "ENG 710 Seminar: Fiction",
+    "desc": "Significant genres, authors, and developments in prose fiction. May be repeated to a total of 9 hours if topic is different. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG711": {
+    "course_id": "ENG711",
+    "title": "ENG 711 Seminar: Poetry",
+    "desc": "Significant genres, authors, and developments in poetry. May be repeated to a total of 9 hours if topic is different. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG712": {
+    "course_id": "ENG712",
+    "title": "ENG 712 Seminar: Drama",
+    "desc": "Detailed study of selected plays and dramatists. May be repeated to a total of 9 hours if topic is different. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG720": {
+    "course_id": "ENG720",
+    "title": "ENG 720 Seminar: Composition Theory",
+    "desc": "Detailed study of contemporary composition theory in university freshman writing. Open to all graduate students. Graduate teaching assistants must take <span data-link='ENG720'>ENG 720</span> during their first year of appointment, unless they have taken <span data-link='ENG520'>ENG 520</span> as undergraduates. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG721": {
+    "course_id": "ENG721",
+    "title": "ENG 721 Theory of Basic Writing",
+    "desc": "Study of issues, problems, and pedagogical strategies appropriate to teaching composition to students with limited English proficiency. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG722": {
+    "course_id": "ENG722",
+    "title": "ENG 722 Literacy Theory and Composition",
+    "desc": "An introduction to literacy theory and its application to the teaching of composition. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG725": {
+    "course_id": "ENG725",
+    "title": "ENG 725 Seminar: Composition and Rhetoric",
+    "desc": "Topics in the application of rhetorical theory to the teaching of writing. May be repeated up to 9 hours if the content is different. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "ENG726": {
+    "course_id": "ENG726",
+    "title": "ENG 726 Issues in Professional Writing",
+    "desc": "Study of some aspect of professional writing not ordinarily offered in the curriculum. Students read, discuss, and write about selected books or other documents related to the field. May be repeated to a total of 6 hours if topic is different. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG730": {
+    "course_id": "ENG730",
+    "title": "ENG 730 Ozarks Writing Project",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "An intensive course in the writing process and the writing curriculum, designed for experienced K-16 teachers across the disciplines using the National Writing Project model. Readings of current theory and research will be related to participants&apos; experiences as writers and as teachers. May be repeated for up to six hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "ENG732": {
+    "course_id": "ENG732",
+    "title": "ENG 732 Seminar: Issues and Trends in English Education",
+    "desc": "Study of some aspects of English Education not ordinarily in the curriculum. Students read, discuss, and write about selected books and articles related to the field. Variable content course. May be repeated for a total of 9 hours if topic is different. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG735": {
+    "course_id": "ENG735",
+    "title": "ENG 735 Seminar: Children's Literature",
+    "desc": "Detailed study of selected works, authors, or themes in children&apos;s/young adult literature. May be repeated to a total of 9 hours if topic is different. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG744": {
+    "course_id": "ENG744",
+    "title": "ENG 744 Seminar: English Literature Before 1798",
+    "desc": "Detailed study of selected works, authors, or themes in English literature up to the Romantic Movement. May be repeated to a total of 9 hours if topic is different. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG748": {
+    "course_id": "ENG748",
+    "title": "ENG 748 Seminar: English Literature After 1798",
+    "desc": "Detailed study of selected works, authors, or themes in English literature since 1798, including the Romantic Movement. May be repeated to a total of 9 hours if the topic is different. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG757": {
+    "course_id": "ENG757",
+    "title": "ENG 757 Seminar: Early American Literature",
+    "desc": "Detailed study of selected works, authors, or themes in American Literature to 1900. May be repeated to a total of 9 hours if topic is different. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG758": {
+    "course_id": "ENG758",
+    "title": "ENG 758 Seminar: 20th Century American Literature",
+    "desc": "Detailed study of selected works, authors, or themes in American Literature, 1900 to the present. May be repeated to a total of 9 hours if topic is different. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG770": {
+    "course_id": "ENG770",
+    "title": "ENG 770 The Teaching of Technical and Professional Writing",
+    "desc": "Theory and practice of teaching college courses in technical and professional writing. Some consideration of in-service writing courses for business, science, industry, and government. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG771": {
+    "course_id": "ENG771",
+    "title": "ENG 771 Professional Writing",
+    "desc": "Theory and practice of writing and analyzing documents in business, science, and industry. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG773": {
+    "course_id": "ENG773",
+    "title": "ENG 773 Writing for the Computer Industry",
+    "desc": "Study and practice in developing user-centered computer system documentation. Topics include working with workplace and user communities to develop content; formatting, organizing, and designing information; and user analysis and testing. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG774": {
+    "course_id": "ENG774",
+    "title": "ENG 774 Professional Writing Internship",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Projects in technical and professional writing, combining academic training and supervised work experience in business and industry. Students are required to work a minimum of 150 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG775": {
+    "course_id": "ENG775",
+    "title": "ENG 775 Designing Technical Documents",
+    "desc": "Producing, analyzing, and adapting technical documents to meet the needs of diverse clients. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG777": {
+    "course_id": "ENG777",
+    "title": "ENG 777 Scientific and Technical Editing",
+    "desc": "Current practices in editing and electronic publishing. Group and individual projects involving diverse fields, audiences, and formats; topics include copyediting, content editing, usability editing, author-editor relations, and the production process. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG780": {
+    "course_id": "ENG780",
+    "title": "ENG 780 Seminar: Intellectual Backgrounds of Literature in English",
+    "desc": "Relation of basic intellectual and social ideas to the form, content, production/publication, and distribution of selected literary works or genres. May be repeated to a total of 9 hours if topic is different. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG781": {
+    "course_id": "ENG781",
+    "title": "ENG 781 Rhetorical Criticism",
+    "desc": "Study of rhetorical and metalinguistic approaches to analyzing literature, with applications of theory to particular works. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ENG785": {
+    "course_id": "ENG785",
+    "title": "ENG 785 Seminar: Critical Theories",
+    "desc": "Literary criticism, with emphasis upon modern, critical practice; application of theory to particular problems. May be repeated to a total of 9 hours if topic is different. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG786": {
+    "course_id": "ENG786",
+    "title": "ENG 786 Seminar: Form and Theory of Poetry and Prose",
+    "desc": "Designed for creative writers. Detailed study of traditional literary forms in poetry, drama, or fiction and the new forms that have grown out of them. Discussion of interaction between structure and content. Variable Content Course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ENG792": {
+    "course_id": "ENG792",
+    "title": "ENG 792 Linguistics in Rhetoric and Composition",
+    "desc": "Applications of linguistic models to rhetorical theory and/or the teaching of composition. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ENG793": {
+    "course_id": "ENG793",
+    "title": "ENG 793 Seminar: Linguistics",
+    "desc": "Topics in historical, theoretical, or applied linguistics. May be repeated to a total of 9 hours if topic is different. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ENG799": {
+    "course_id": "ENG799",
+    "title": "ENG 799 Thesis",
+    "req": "<em>Prerequisite: permission of the Director of Graduate Studies in English.</em>",
+    "desc": "Independent research and study connected with preparation of thesis. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  }
+}

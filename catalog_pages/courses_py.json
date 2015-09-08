@@ -1,0 +1,2011 @@
+{
+  "GER300": {
+    "course_id": "GER300",
+    "title": "GER 300 Service Learning Curricular Component",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a gerontology course designated as service learning offering.</em>",
+    "desc": "An integrative learning experience which addresses the practice of citizenship and promotes an awareness of and participation in public affairs by incorporating community service with classroom instruction. Includes 40 hours on-task service to a community organization, agency or public service provider. The community service placement agency and service assignment will vary, dependent on the course topic and learning objectives. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GER301": {
+    "course_id": "GER301",
+    "title": "GER 301 The Elderly and the Media: Confronting Popular Stereotypes",
+    "req": "<em>Prerequisite: 30 hours.</em>",
+    "desc": "Students will be introduced to common stereotypes held about the elderly within our society and statistics and information which prove these stereotypes to be false. Public perceptions of the elderly will be studied through the use of five commercial motion pictures and a review of four articles covering topics related to the theme of each of the films. The class will focus on how stereotypes about the elderly are both reinforced and challenged in commercial motion pictures, how stereotypes affect an older person&apos;s self-concept, and how popular ageist stereotypes shape our own views on growing older. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GER310": {
+    "course_id": "GER310",
+    "title": "GER 310 Social Forces and Aging",
+    "req": "<em>Prerequisite: 45 hours.</em>",
+    "desc": "Examines the aging process, demographic trends, and the social, economic, and social-psychological aspects of aging in the United States. Students will be introduced to current theories on aging in social gerontology and their application to the everyday lives of older people. Topics of interest include social attitudes toward aging, family and social bonds, work and retirement, gender issues, ethnicity and aging, living environments, and approaches to aging well. Students will learn about the role of federal, state and local agencies in meeting the needs of the elderly. Identical with <span data-link='SOC375'>SOC 375</span>. Cannot receive credit for both <span data-link='GER310'>GER 310</span> and <span data-link='SOC375'>SOC 375</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GER320": {
+    "course_id": "GER320",
+    "title": "GER 320 Gender Issues in Later Life",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>; and <span data-link='GST170'>GST 170</span> or 45 hours.</em>",
+    "desc": "A comparison of the aging experiences of men and women in later life. The relevance of gender and gender roles to the aging process will be considered. Specific topics of analysis will include the gender gap in longevity, psychological and physical health, minority status, socioeconomic status, family relationships, and public policy issues. Identical to <span data-link='PSY354'>PSY 354</span>. Can only receive credit for one of the following: <span data-link='GER320'>GER 320</span> or <span data-link='PSY354'>PSY 354</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GER365": {
+    "course_id": "GER365",
+    "title": "GER 365 Families in Later Life",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>; and <span data-link='CFD155'>CFD 155</span> or <span data-link='CFD163'>CFD 163</span> or 30 hours.</em>",
+    "desc": "Examination of the structure and function of families in later life. Topics of interest include demographic trends impacting the structure of the family, marriage, sibling relations, parent-adult child relations, grandparenthood, widowhood, and retirement. The application of family theories and their relevance to later life families will be discussed. Identical with <span data-link='CFD365'>CFD 365</span>, <span data-link='SWK365'>SWK 365</span>, and <span data-link='PSY366'>PSY 366</span>. Can only receive credit for one of following: <span data-link='CFD365'>CFD 365</span>, <span data-link='GER365'>GER 365</span>, <span data-link='PSY366'>PSY 366</span> or <span data-link='SWK365'>SWK 365</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GER380": {
+    "course_id": "GER380",
+    "title": "GER 380 Senior Citizens: Policies and Politics",
+    "req": "<em>Prerequisite: 9 hours of gerontology.</em>",
+    "desc": "Students will be introduced to the development and practice of social policy, on the state and federal level, and how it affects services to the older adult population. Political organizations that influence the lives of the elderly (e.g., the American Association of Retired Persons, Gray Panthers, Older Women&apos;s League) will be examined as well as government and social welfare programs (i.e., Social Security, Medicaid and Medicare). What constitutes &quot;citizenship&quot; and the role of a &quot;senior citizen&quot; will also be explored. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GER396": {
+    "course_id": "GER396",
+    "title": "GER 396 Directed Readings in Gerontology",
+    "req": "<em>Prerequisite: 6 hours of gerontology and permission.</em>",
+    "desc": "Readings designed to supplement material introduced in previous Gerontology courses. Includes a wide selection of literature in the field. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GER397": {
+    "course_id": "GER397",
+    "title": "GER 397 Special Topics in Gerontology",
+    "req": "<em>Prerequisite: 6 hours of designated courses in the gerontology major.</em>",
+    "desc": "In-depth inquiry into selected interdisciplinary topics of contemporary interest in gerontology. May be repeated to a total of 6 hours when topic changes. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GER470": {
+    "course_id": "GER470",
+    "title": "GER 470 Community Resources for Older Adults",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Covers the services, programs and institutions involved in providing services to older adults in the United States, with a focus on community-based services. Typical needs, issues, concerns and desires of older persons are identified and corresponding community-based services to address these needs are discussed. Emerging issues and developments in the field of gerontology will also be discussed as they relate to community services and resources. Site visits to agencies and organizations serving older adults will enhance students&apos; familiarity with resources to improve the quality of life and well-being of aging members in our society. Identical with <span data-link='SWK470'>SWK 470</span>. Cannot receive credit for both <span data-link='GER470'>GER 470</span> and <span data-link='SWK470'>SWK 470</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GER597": {
+    "course_id": "GER597",
+    "title": "GER 597 Special Topics in Gerontology",
+    "req": "<em>Prerequisite: 90 hours; and 12 hours of gerontology.</em>",
+    "desc": "In-depth inquiry into selected interdisciplinary topics of contemporary interest in gerontology. May be repeated to a total of 6 hours when topic changes. Variable content course. May be taught concurrently with <span data-link='GER697'>GER 697</span>. Cannot receive credit for both <span data-link='GER697'>GER 697</span> and <span data-link='GER597'>GER 597</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GER598": {
+    "course_id": "GER598",
+    "title": "GER 598 Supervised Practicum in Gerontology",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='GER599'>GER 599</span>; completion of gerontology core courses with a grade of &quot;C&quot; or better in each; and permission of the program coordinator.</em>",
+    "desc": "Onsite contacts with elderly individuals through an internship at a residential or community placement approved by the coordinator. Direct supervision will be provided by qualified professionals in the field of gerontology. Students will serve 45 clock hours for each credit hour awarded. May be repeated to a total of 12 hours. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GER599": {
+    "course_id": "GER599",
+    "title": "GER 599 Seminar in Gerontology",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='GER598'>GER 598</span>; completion of the gerontology core courses with a grade of &quot;C&quot; or better in each; and permission of the program coordinator.</em>",
+    "desc": "Weekly meetings to allow students to correlate experiences in <span data-link='GER598'>GER 598</span> with academic knowledge, share experiences, and broaden contacts in the field of aging. Survey of current literature in gerontology from various disciplines will be included. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GER697": {
+    "course_id": "GER697",
+    "title": "GER 697 Special Topics in Gerontology",
+    "desc": "Recommended Prerequisite: 12 hours of Gerontology. In-depth inquiry into selected interdisciplinary topics of contemporary interest in gerontology. Variable content course. May be repeated to a total of 6 hours when topic changes. May be taught concurrently with <span data-link='GER597'>GER 597</span>. Cannot receive credit for both <span data-link='GER597'>GER 597</span> and <span data-link='GER697'>GER 697</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY101": {
+    "course_id": "PSY101",
+    "title": "PSY 101 Psychology for Personal Growth",
+    "desc": "A study of the emotional, intellectual, and interpersonal experiences of self and others in order to enhance self-understanding, to make informed choices, and to promote adjustment. Will not count toward the major or minor in psychology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY121": {
+    "course_id": "PSY121",
+    "title": "PSY 121 Introductory Psychology",
+    "req": "<em>General Education Course (Focus on Social and Behavioral Sciences).</em>",
+    "desc": "An examination of how psychology enhances our understanding of human behavior; a survey of basic biological, experiential, cognitive, emotional, and sociocultural influences on behavior and self-understanding. Students must choose either to be research participants or fulfill an alternative library assignment as part of the course requirements. Honors sections are taught in a lecture/lab format. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY150": {
+    "course_id": "PSY150",
+    "title": "PSY 150 Introduction to the Psychology Major",
+    "desc": "This course is required for admission to the psychology degree program and is recommended for students considering psychology as a major. Students will learn about specialties and careers in the field, understand the training and education necessary for various careers, develop professional goals, explore minor options, and become familiar with the psychology faculty and their specialties. Not required for the Psychology minor. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "PSY160": {
+    "course_id": "PSY160",
+    "title": "PSY 160 The Pursuit of Happiness: A Psychological Perspective",
+    "desc": "Explore the sources of our moods with an emphasis on skills for achieving healthy, happy, and productive feelings. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY197": {
+    "course_id": "PSY197",
+    "title": "PSY 197 Topics in Psychology",
+    "desc": "Selected topics especially appropriate for lower division students (examples: meaning of death, preparation for marriage, and child rearing practices). May be repeated for a maximum of 4 hours. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY200": {
+    "course_id": "PSY200",
+    "title": "PSY 200 Psychological Statistical Methods",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>; and completion of General Education mathematics requirement.</em>",
+    "desc": "Principles and methods of statistics used in psychology; understanding and interpreting psychological data. This course cannot be credited toward a degree if the student has taken any of the following: <span data-link='AGR330'>AGR 330</span>, <span data-link='MTH340'>MTH 340</span>, <span data-link='QBA237'>QBA 237</span>, <span data-link='REC328'>REC 328</span>, <span data-link='SOC302'>SOC 302</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY203": {
+    "course_id": "PSY203",
+    "title": "PSY 203 Introduction to Research",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>; and completion of General Education mathematics requirement.</em>",
+    "desc": "This course will provide an integrated approach to elementary research design and statistical methods. Students will review current research and develop small projects for which statistical methods will be selected and applied. This course cannot be substituted for <span data-link='PSY200'>PSY 200</span> and/or <span data-link='PSY201'>PSY 201</span> on the psychology major and will not count toward the Psychology major. This course is designed for psychology minors and will not prepare students for graduate work in Psychology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY240": {
+    "course_id": "PSY240",
+    "title": "PSY 240 Psychology of Humor",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Introduction to psychology of humor, includes theories of humor and explorations of humor through different areas of psychology, for example cognitive, social, developmental, personality, and health psychology. Focus will be on thinking critically about humor research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY250": {
+    "course_id": "PSY250",
+    "title": "PSY 250 Analysis of Interpersonal Behavior",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and permission of instructor.</em>",
+    "desc": "Ongoing processes of interpersonal behavior. Observation and experience as participant of a self-analytic group in the human relations laboratory. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY300": {
+    "course_id": "PSY300",
+    "title": "PSY 300 Naturalistic Methods in Social Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>, and 6 additional hours of Psychology.</em>",
+    "desc": "An alternative approach to social psychological processes. Involves text analysis, materials analysis, interviewing, and participant observation in naturally occurring, non-laboratory field settings. Focus will be on small group behavior. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY302": {
+    "course_id": "PSY302",
+    "title": "PSY 302 Experimental Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and <span data-link='PSY200'>PSY 200</span>.</em>",
+    "desc": "Psychological methodology; major emphasis on experimentation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY303": {
+    "course_id": "PSY303",
+    "title": "PSY 303 Stress and Tension Control",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "An examination of the nature and treatment of the stress response. Laboratory experience with several forms of relaxation training including biofeedback. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY304": {
+    "course_id": "PSY304",
+    "title": "PSY 304 Abnormal Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Psychopathology and the maladjustment of the organism. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY305": {
+    "course_id": "PSY305",
+    "title": "PSY 305 Introduction to Industrial and Organizational Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "A survey of the major topics that are studied and the methods that are used in I/O psychology. The topics and methods will be viewed from a psychological perspective and will include psychological testing and personnel selection; training and development; job analysis, employee evaluation and performance appraisal; human motivation and job satisfaction; leadership, communication and group processes; organization theory and development. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY306": {
+    "course_id": "PSY306",
+    "title": "PSY 306 Learning Processes",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "A survey of the methods of classical and instrumental conditioning. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY307": {
+    "course_id": "PSY307",
+    "title": "PSY 307 Human Sexuality",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "A balanced and comprehensive perspective of the field of human sexuality. Content includes the psychological, physiological, and interpersonal variables of human sexuality. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY309": {
+    "course_id": "PSY309",
+    "title": "PSY 309 Identity and Aging in Literature and Film",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and 3 additional hours of Psychology.</em>",
+    "desc": "Emphasizes the experience of aging as perceived from the older person&apos;s point of view and that of society. Situations in later life will be explore through the use of short stories, selected articles, and videos. The topics covered will include health, friendship and relationships, widowhood, family and intergenerational relations, perceptions of death and dying, and finding purpose and meaning in life. Students will acquire a basic understanding of identity issued and factors that contribute to well-being in later life. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY310": {
+    "course_id": "PSY310",
+    "title": "PSY 310 Applied Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Practical areas of application of psychology. Limited enrollment; field trips required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY311": {
+    "course_id": "PSY311",
+    "title": "PSY 311 Service Learning in Psychology",
+    "req": "<em>Prerequisite: 30 hours, concurrent registration in a Psychology course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in psychology to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of, and participation, in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY315": {
+    "course_id": "PSY315",
+    "title": "PSY 315 History and Systems of Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and 6 additional hours of psychology.</em>",
+    "desc": "Present psychological systems in the light of their historical development from ancient Greek and medieval thought. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY317": {
+    "course_id": "PSY317",
+    "title": "PSY 317 Psychology of Addictions",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Students in the course will learn basic psychological and psychophysiological processes involved in the progression of substance use, abuse, and addiction. Topics covered will include the conduct of individual assessment, interviewing techniques, and counseling processes. This class is intended to give students an understanding of individual, motivational, and social psychological perspectives. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY320": {
+    "course_id": "PSY320",
+    "title": "PSY 320 Psychology and the Law",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "This course is a survey of psychology applied to the legal system. The course includes topics in mental health law, such as competency and insanity, as well as the psychology of law enforcement, crime, juries, eyewitness testimony, and legal socialization. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY331": {
+    "course_id": "PSY331",
+    "title": "PSY 331 Psychology of Childhood",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "This course examines major psychological issues, theories and research concerning child development. Influences on cognitive, personality and social development are analyzed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY336": {
+    "course_id": "PSY336",
+    "title": "PSY 336 Ethology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "The study of the behavior of animals in a natural setting will be emphasized. The viewpoints of ethology, comparative psychology, behavioral ecology, and sociobiology will be used to study the behavior of animals, including humans. This course cannot be credited toward a degree if the student has taken <span data-link='PSY497'>PSY 497</span>: Animal Behavior. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY339": {
+    "course_id": "PSY339",
+    "title": "PSY 339 Introduction to Clinical Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and <span data-link='PSY304'>PSY 304</span>.</em>",
+    "desc": "A survey of the field of clinical psychology from a broad conceptual and historic perspective. The course examines professional issues such as various mental health delivery systems, ethics, and graduate training. The course also presents an overview of different approaches to psychotherapy along with assessment methods commonly used in evaluation of therapy, research, and decision making in a clinical setting. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY350": {
+    "course_id": "PSY350",
+    "title": "PSY 350 Psychology of Adulthood",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Principles and practical applications in development of the adult. Includes psychological effects of personality and intellect. Both normal and abnormal phenomena are considered. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY354": {
+    "course_id": "PSY354",
+    "title": "PSY 354 Gender Issues in Later Life",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>; and <span data-link='GST170'>GST 170</span> or 45 hours.</em>",
+    "desc": "A comparison of the aging experiences of men and women in later life. The relevance of gender and gender roles to the aging process will be considered. Specific topics of analysis will include the gender gap in longevity, psychological and physical health, minority status, socioeconomic status, family relationships, and public policy issues. Identical to <span data-link='GER320'>GER 320</span>. Can only receive credit for one of the following: <span data-link='GER320'>GER 320</span> or <span data-link='PSY354'>PSY 354</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY357": {
+    "course_id": "PSY357",
+    "title": "PSY 357 Psychology of Gender",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "This course will provide an in-depth examination and survey of the research and theory on psychological gender differences and similarities. An exploration will be made of the influence of biology, social, and culture on the development of gender in a variety of areas (e.g., emotions, attitudes, relationships, aggression, mental health, physical health, stress, coping, intelligence, work and achievement). ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY359": {
+    "course_id": "PSY359",
+    "title": "PSY 359 Theories of Social Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> or <span data-link='SOC150'>SOC 150</span>.</em>",
+    "desc": "A survey of research strategies in social psychology; social perception; interpersonal attraction; attitudes and persuasion; sex differences in social behavior. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY360": {
+    "course_id": "PSY360",
+    "title": "PSY 360 Educational Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Introduction to theory and research in educational psychology. Topics include cognitive and social development, learning, memory, cognition, intelligence, motivation, measurement, and individual differences. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY363": {
+    "course_id": "PSY363",
+    "title": "PSY 363 Death and Human Behavior",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "An introduction to the varied aspects of death and dying. The course will focus on attitudes toward death, fears of death and dying, special needs of those who have a life threatening illness, means of helping the survivors and techniques for prolonging life. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY365": {
+    "course_id": "PSY365",
+    "title": "PSY 365 Aging and Adjustment",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Personality adjustment in old age, with emphasis both on adequate and maladjusted development. Factors influencing adjustment are considered. Both functional and organic sources of maladjustment are surveyed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY366": {
+    "course_id": "PSY366",
+    "title": "PSY 366 Families in Later Life",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>; and <span data-link='CFD155'>CFD 155</span> or <span data-link='CFD163'>CFD 163</span> or 30 hours.</em>",
+    "desc": "Examination of the structure and function of families in later life. Topics of interest include demographic trends impacting the structure of the family, marriage, sibling relations, parent-adult child relations, grandparenthood, widowhood, and retirement. The application of family theories and their relevance to later life families will be discussed. Identical with <span data-link='CFD365'>CFD 365</span>, <span data-link='GER365'>GER 365</span>, and <span data-link='SWK365'>SWK 365</span>. Can only receive credit for one of following: <span data-link='CFD365'>CFD 365</span>, <span data-link='GER365'>GER 365</span>, <span data-link='PSY366'>PSY 366</span>, or <span data-link='SWK365'>SWK 365</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY379": {
+    "course_id": "PSY379",
+    "title": "PSY 379 Environmental Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "An introduction to the psychological predictors, processes, and outcomes associated with individual and group decision making about sustainable living, including individual differences, motivation, social influence, self-regulation, altruism, persuasion, ethics, and emotive responses. These variables will then be applied to issues of individual and social behavior change. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY380": {
+    "course_id": "PSY380",
+    "title": "PSY 380 Development of the Student",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>; and either <span data-link='ELE302'>ELE 302</span> or <span data-link='SEC302'>SEC 302</span>.</em>",
+    "desc": "Life-span development, with a strong emphasis on grades K-12. Includes cognitive, physical, social, and emotional development. Coverage of developmental issues, such as divorce, child abuse, substance abuse, sexuality, and peer pressure. Also includes learning and motivation theory. Required for students seeking special education, K-9, or K-12 certification. Also will count toward any certification. May substitute for <span data-link='PSY385'>PSY 385</span> or <span data-link='PSY390'>PSY 390</span>. Will not count towards the major or minor in psychology. Credit will be awarded for only one of the following: <span data-link='PSY380'>PSY 380</span>, <span data-link='PSY385'>PSY 385</span>, <span data-link='PSY390'>PSY 390</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY385": {
+    "course_id": "PSY385",
+    "title": "PSY 385 Development of the Early Childhood and Elementary School Student",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Life-span development, with a strong emphasis on preschool through sixth grade. Coverage of developmental issues, such as divorce, child abuse, substance abuse, and peer pressure. Also includes learning and motivation theory. Required for students seeking early childhood, early childhood-special education, or elementary education certification. <span data-link='PSY380'>PSY 380</span> may be taken instead of <span data-link='PSY385'>PSY 385</span>. Will not count towards special education, K-9, K-12, middle school or secondary education certification. Will not count towards the major or minor in psychology. Credit will be awarded for only one of the following: <span data-link='PSY380'>PSY 380</span>, <span data-link='PSY385'>PSY 385</span>, <span data-link='PSY390'>PSY 390</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY390": {
+    "course_id": "PSY390",
+    "title": "PSY 390 Development of the Adolescent Student",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and <span data-link='SEC302'>SEC 302</span>.</em>",
+    "desc": "Life-span development, with a strong emphasis on the middle school and secondary education years. Includes cognitive, physical, social, and emotional development. Coverage of developmental issues, such as substances abuse, sexuality, divorce, and peer pressure. Also includes learning and motivation theory. Required for students seeking middle school or secondary education certification. <span data-link='PSY380'>PSY 380</span> may be taken instead of <span data-link='PSY390'>PSY 390</span>. Will not count towards special education, K-9, K-12, early childhood, early childhood-special education or elementary education certification. Will not count towards the major or minor in psychology. Credit will be awarded for only one of the following: <span data-link='PSY380'>PSY 380</span>, <span data-link='PSY385'>PSY 385</span>, <span data-link='PSY390'>PSY 390</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY405": {
+    "course_id": "PSY405",
+    "title": "PSY 405 Exercise Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "An examination of the research, theory, and practical applications of the field of exercise psychology. Content includes exercise adherence, psychological effects of exercise, and motivation to continue programs. Intersession course only. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY411": {
+    "course_id": "PSY411",
+    "title": "PSY 411 Psychology of Diverse Populations",
+    "req": "<em>Prerequisite: senior standing; and 27 hours of Psychology.</em>",
+    "desc": "Capstone course reviewing research and theory in social cognition, biological bases of behavior, development, individual differences, and psychopathology as they apply to ethnicity, sexual orientation, gender, language, exceptionality, aging, privilege/disadvantage, and other aspects of diversity. Similarities and differences in human thoughts and behaviors will be evaluated to better understand individual and group outcomes. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "PSY422": {
+    "course_id": "PSY422",
+    "title": "PSY 422 Memory and Cognition",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and 6 additional hours of psychology.</em>",
+    "desc": "Theoretical, empirical, and practical consideration of human memory and cognition. Laboratory will focus on investigation and demonstration of various cognitive phenomena. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY424": {
+    "course_id": "PSY424",
+    "title": "PSY 424 Teaching of Psychology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course is open only to psychology majors who have completed the application and selection process for an undergraduate learning assistant in Introductory Psychology and who are available to attend training sessions prior to the beginning of semester. Students will be assisting in the teaching of Introductory Psychology by serving as undergraduate learning assistants. Experiences will include facilitating group study sessions, individually mentoring students, and gaining exposure to the skills necessary for successful teaching. Emphasis will be on learning and practicing mentoring skills, the implementation of innovative pedagogical techniques, and course development. May be repeated for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY441": {
+    "course_id": "PSY441",
+    "title": "PSY 441 Psychology of Adolescence",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and one additional psychology course, and junior standing.</em>",
+    "desc": "This course examines major psychological issues, theories, and research concerning adolescent development. Influences on cognitive, personality, and social development are analyzed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY451": {
+    "course_id": "PSY451",
+    "title": "PSY 451 Psychophysiology of Aging",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>; and <span data-link='BIO101'>BIO 101</span> and 111, or <span data-link='BMS100'>BMS 100</span> or <span data-link='BMS110'>BMS 110</span>.</em>",
+    "desc": "This course will provide an introduction to the biology and physiology of aging. Students will examine broad changes in structure and function in humans, and get a closer look at changes in systems, organs, tissues, and cells in humans and some nonhumans. The class will explore the implications of these changes on function and independence in old age; learn about the impact of these changes on research and development of therapeutic measures to prevent, maintain or improve structure and function; and study methods for preventing decline, and maintaining and improving health and quality of life in older adults. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY481": {
+    "course_id": "PSY481",
+    "title": "PSY 481 Human Engineering",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> or 60 hours.</em>",
+    "desc": "Focuses on systematic attempts to develop principles and data to be applied in adapting equipment, machines, work space, and environments for human use. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY486": {
+    "course_id": "PSY486",
+    "title": "PSY 486 Management and Assessment in the Middle and Secondary Classroom",
+    "req": "<em>Prerequisite: admission to Teacher Education Program; and <span data-link='PSY360'>PSY 360</span> or equivalent competencies.</em>",
+    "desc": "Planning, constructing, using, and analyzing a variety of assessment practices and understanding uses of standardized testing in education. Covers adolescent social behavior, management theory and strategies that promote effective learning and development while minimizing disruptive behavior. Application of theory to classroom practice and everyday situations. Identical with <span data-link='SFR486'>SFR 486</span>. Cannot receive credit for both <span data-link='PSY486'>PSY 486</span> and <span data-link='SFR486'>SFR 486</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "PSY487": {
+    "course_id": "PSY487",
+    "title": "PSY 487 Behavior Problems of Childhood",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> or <span data-link='PSY331'>PSY 331</span>.</em>",
+    "desc": "Survey of the patterns of maladjustment in childhood from infancy through early adolescence. Introduction to the concepts related to the origin, manifestation, and treatment of childhood psychopathology emphasizing a developmental approach. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY490": {
+    "course_id": "PSY490",
+    "title": "PSY 490 Preparation for Graduate School",
+    "desc": "Primarily for senior students considering graduate study in psychology and related fields. Emphasis is on career awareness and the practical activities involved in the application process. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY493": {
+    "course_id": "PSY493",
+    "title": "PSY 493 Directed Readings in Educational Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and permission of instructor.</em>",
+    "desc": "This course is designed for transfer students who are seeking teacher certification and who need to complete a limited number of MOSTEP standards. The course will involve inquiry into selected topics of educational psychology. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY495": {
+    "course_id": "PSY495",
+    "title": "PSY 495 Senior Seminar",
+    "req": "<em>Prerequisite: senior standing (90 hours); and 27 hours of Psychology.</em>",
+    "desc": "Activities to help students identify and explore postgraduate career opportunities. A major field achievement test and program evaluation will be administered. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY496": {
+    "course_id": "PSY496",
+    "title": "PSY 496 Directed Readings in Psychology",
+    "req": "<em>Prerequisite: 10 hours of psychology and permission of department head.</em>",
+    "desc": "Outstanding students who wish to undertake directed readings must consult with a professor of the department who specializes in the area selected, and with his or her consent present a written proposal to the head of the department for approval. Such proposals must be presented and approved before final registration for the course. Credited only on BA and BS degrees. May be repeated for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY497": {
+    "course_id": "PSY497",
+    "title": "PSY 497 Advanced Topics in Psychology",
+    "req": "<em>Prerequisite: 9 hours psychology.</em>",
+    "desc": "In depth inquiry into selected topics of psychology. May be repeated to a maximum of 9 hours if topic is different. 1-3 F,S. Approved recurring course topic: Ethical Issues and Concepts. Exploration of the ethical principles and standards that guide the practice of psychology. Approved recurring course topic: Psychological Disorders in the Movies. Exploration and examination of psychological disorders in film. Approved recurring course topic: Psychology of Sexual and Intimate Relationships. Exploration of issues related to sexual and intimate relationships including techniques to enhance communication, sexual intimacy and relationships. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY498": {
+    "course_id": "PSY498",
+    "title": "PSY 498 Directed Research",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and permission of sponsoring faculty member and department head.</em>",
+    "desc": "Allows students to gain research experience by working with an individual faculty member either as a research assistant or as a primary researcher working under faculty supervision. May be repeated for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY499": {
+    "course_id": "PSY499",
+    "title": "PSY 499 Practicum in Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and 14 additional hours of psychology and permission of department head.</em>",
+    "desc": "Offers an opportunity for the student to obtain experience through field work. Such experience need not be confined to the campus. May be repeated for a maximum of six hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY502": {
+    "course_id": "PSY502",
+    "title": "PSY 502 Learning Theories",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and 3 additional hours of psychology.</em>",
+    "desc": "An introduction to contemporary theories about learning and behavior, emphasizing the experimental basis of these phenomena. May be taught concurrently with <span data-link='PSY602'>PSY 602</span>. Cannot receive credit for both <span data-link='PSY602'>PSY 602</span> and <span data-link='PSY502'>PSY 502</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY505": {
+    "course_id": "PSY505",
+    "title": "PSY 505 Forensic Child Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Explores the basics of forensic psychology with emphasis on factors that affect children, how these factors are assessed and how communities intervene to reduce both child crime and child victimization. The class will involve text analysis as well as analysis of primary source readings. May be taught concurrently with <span data-link='PSY604'>PSY 604</span>. Cannot receive credit for both <span data-link='PSY604'>PSY 604</span> and <span data-link='PSY505'>PSY 505</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY506": {
+    "course_id": "PSY506",
+    "title": "PSY 506 Perception",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and 3 additional hours of psychology.</em>",
+    "desc": "Nature of perception, concept formation and role of language. May be taught concurrently with <span data-link='PSY606'>PSY 606</span>. Cannot receive credit for both <span data-link='PSY606'>PSY 606</span> and <span data-link='PSY506'>PSY 506</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY508": {
+    "course_id": "PSY508",
+    "title": "PSY 508 Introduction to Applied Behavior Analysis",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Serves as an introduction to the field of applied behavior analysis. During this course, students are introduced to content areas contained in the Behavior Analysis Certification Board Task List. This includes core concepts such as reinforcement, punishment, stimulus control, and principles of shaping. Students will be introduced to functional assessments and functional analyses. Additional topics include verbal behavior and ethical considerations for behavior analysts. May be taught concurrently with <span data-link='PSY614'>PSY 614</span>. Cannot receive credit for both <span data-link='PSY614'>PSY 614</span> and <span data-link='PSY508'>PSY 508</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY510": {
+    "course_id": "PSY510",
+    "title": "PSY 510 Research in Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>; and <span data-link='PSY200'>PSY 200</span> or equivalent; and <span data-link='PSY302'>PSY 302</span>.</em>",
+    "desc": "Advanced course in research methodology for psychology. The course focuses on individual research projects. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY512": {
+    "course_id": "PSY512",
+    "title": "PSY 512 Personality Theory and Systems",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and <span data-link='PSY304'>PSY 304</span>.</em>",
+    "desc": "Current theories of personality, research background and historical development. May be taught concurrently with <span data-link='PSY612'>PSY 612</span>. Cannot receive credit for both <span data-link='PSY612'>PSY 612</span> and <span data-link='PSY512'>PSY 512</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY513": {
+    "course_id": "PSY513",
+    "title": "PSY 513 Neuropsychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and 3 additional hours of Psychology.</em>",
+    "desc": "Introduction to the field of neuropsychology. Includes careers, history, behavioral changes after brain injury, assessment, and ethical considerations. May be taught concurrently with <span data-link='PSY613'>PSY 613</span>. Cannot receive credit for both <span data-link='PSY513'>PSY 513</span> and <span data-link='PSY613'>PSY 613</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY514": {
+    "course_id": "PSY514",
+    "title": "PSY 514 Psychology of Child Abuse and Exploitation",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and 60 hours.</em>",
+    "desc": "Study of forensic issues related to child abuse and exploitation. Students will gain an understanding of the forensic and psychological issues that often arise during child abuse investigations. The Child Advocacy Center, Inc. will participate in the design of the course, thus the specific forensic issues discussed will remain current and may change based on the needs of the community. May be taught concurrently with <span data-link='PSY617'>PSY 617</span>. Cannot receive credit for both <span data-link='PSY514'>PSY 514</span> and <span data-link='PSY617'>PSY 617</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY519": {
+    "course_id": "PSY519",
+    "title": "PSY 519 Cognitive Development",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and <span data-link='PSY331'>PSY 331</span> and 3 additional hours of psychology.</em>",
+    "desc": "Study of cognitive development in children and adolescents. Topics to be included: perception, memory, visual imagery, problem solving, language development, cognitive style, social learning theory, information processing theory, and Piaget&apos;s theory. Applications in education, child rearing, and behavior management. May be taught concurrently with <span data-link='PSY619'>PSY 619</span>. Cannot receive credit for both <span data-link='PSY619'>PSY 619</span> and <span data-link='PSY519'>PSY 519</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY521": {
+    "course_id": "PSY521",
+    "title": "PSY 521 Physiological Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and 3 additional hours of psychology.</em>",
+    "desc": "Physiological correlates underlying behavior, including sensory and response mechanisms, central nervous system. May be taught concurrently with <span data-link='PSY622'>PSY 622</span>. Cannot receive credit for both <span data-link='PSY622'>PSY 622</span> and <span data-link='PSY521'>PSY 521</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY523": {
+    "course_id": "PSY523",
+    "title": "PSY 523 Psychology and Language",
+    "desc": "Recommended Prerequisite: 6 hours of Psychology. An examination into the nature of and research in human language and its relationship to psychology. Topics will include the biological bases of language, speech production and perception, word recognition, sentence processing, reading, discourse, dyslexia, grammar and the lexicon. This course will cover current theories on these topics and experimental paradigms analyzing language and psychology. May be taught concurrently with <span data-link='PSY623'>PSY 623</span>. Cannot receive credit for both <span data-link='PSY523'>PSY 523</span> and <span data-link='PSY623'>PSY 623</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY524": {
+    "course_id": "PSY524",
+    "title": "PSY 524 Honors Project in Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>; and <span data-link='PSY200'>PSY 200</span> or equivalent; and <span data-link='PSY302'>PSY 302</span>; and <span data-link='PSY510'>PSY 510</span>, and permission of sponsoring faculty member and department head; open to Honors College students only.</em>",
+    "desc": "Students will revise and expand their individual research project completed for <span data-link='PSY510'>PSY 510</span>. The final project from this course must be submitted to a student conference or student journal, as well as to the Honors College as the student&apos;s Honors Project. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY525": {
+    "course_id": "PSY525",
+    "title": "PSY 525 Motivation and Emotions",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and 3 additional hours of psychology.</em>",
+    "desc": "Psychological and physiological motives, needs, drives and instinctual mechanisms; emotional effects of these upon the organism. May be taught concurrently with <span data-link='PSY625'>PSY 625</span>. Cannot receive credit for both <span data-link='PSY625'>PSY 625</span> and <span data-link='PSY525'>PSY 525</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY527": {
+    "course_id": "PSY527",
+    "title": "PSY 527 Advanced Psychological Statistical Methods",
+    "req": "<em>Prerequisite: introductory statistics selected from: <span data-link='PSY200'>PSY 200</span>, 711; <span data-link='AGR330'>AGR 330</span>; <span data-link='MTH340'>MTH 340</span>; <span data-link='QBA237'>QBA 237</span>; <span data-link='REC328'>REC 328</span>; <span data-link='SOC302'>SOC 302</span>; or equivalent.</em>",
+    "desc": "A review of introductory statistics and investigation of research methods in behavioral sciences that require multivariate statistical models. This course takes an applied orientation and emphasizes the use of statistical packages. Topics include: linear models, principal components analysis, discriminant analysis, multiple regression analysis, multiple regression with categorical variables, and multi-factor ANOVA. May be taught concurrently with <span data-link='PSY627'>PSY 627</span>. Cannot receive credit for both <span data-link='PSY627'>PSY 627</span> and <span data-link='PSY527'>PSY 527</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY529": {
+    "course_id": "PSY529",
+    "title": "PSY 529 Psychological Tests and Measurements",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>; and <span data-link='PSY200'>PSY 200</span> or equivalent.</em>",
+    "desc": "Theory and techniques underlying measurement of human traits and abilities. Critical analysis of intellectual, achievement, interest and personality tests, including their development, application and potential abuses. May be taught concurrently with <span data-link='PSY629'>PSY 629</span>. Cannot receive credit for both <span data-link='PSY629'>PSY 629</span> and <span data-link='PSY529'>PSY 529</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY533": {
+    "course_id": "PSY533",
+    "title": "PSY 533 Psychological Issues in Religion",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Comprehensive overview of historical background, research methods, and contemporary issues involving behavior and religious beliefs. Psychological research in the areas of religious development and cognition will be included. May be taught concurrently with <span data-link='PSY633'>PSY 633</span>. Cannot receive credit for both <span data-link='PSY633'>PSY 633</span> and <span data-link='PSY533'>PSY 533</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY534": {
+    "course_id": "PSY534",
+    "title": "PSY 534 Psychology of Infancy",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and <span data-link='PSY331'>PSY 331</span>.</em>",
+    "desc": "Theory and research on the maturation and cognition of the human infant in the first two years, from a developmental psychometric perspective. General principles of the mental and motor assessment of the infant and interpretation will be emphasized through class demonstrations so that the student may understand the use of these procedures in interpreting development and research. May be taught concurrently with <span data-link='PSY634'>PSY 634</span>. Cannot receive credit for both <span data-link='PSY634'>PSY 634</span> and <span data-link='PSY534'>PSY 534</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY535": {
+    "course_id": "PSY535",
+    "title": "PSY 535 Discipline and Social Behavior in the Classroom",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>; and <span data-link='PSY360'>PSY 360</span> or <span data-link='PSY380'>PSY 380</span> or <span data-link='PSY385'>PSY 385</span> or <span data-link='PSY390'>PSY 390</span>.</em>",
+    "desc": "Provides a psychological perspective of individual and social factors necessary to develop an effective eclectic approach to discipline and an understanding of social behavior in the classroom. Includes an emphasis on personal, social, and motivational development. May be taught concurrently with <span data-link='PSY635'>PSY 635</span>. Cannot receive credit for both <span data-link='PSY635'>PSY 635</span> and <span data-link='PSY535'>PSY 535</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY550": {
+    "course_id": "PSY550",
+    "title": "PSY 550 Psychological Testing in Remedial Reading",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Techniques and skills in utilizing psychological tests as they pertain to diagnosing reading disabilities and prediction of success in remedial programs. Students receive supervised practice in administration. May be taught concurrently with <span data-link='PSY648'>PSY 648</span>. Cannot receive credit for both <span data-link='PSY648'>PSY 648</span> and <span data-link='PSY550'>PSY 550</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY555": {
+    "course_id": "PSY555",
+    "title": "PSY 555 Developing Sport Team Leaders",
+    "desc": "This e-course delivers leadership, team processes, and motivation principles to help coaches develop the leadership skills of sport team athletes. This course aligns sport program goals with educational goals by utilizing athletic settings to promote skills that student-athletes can apply on sport teams and in other group settings. Coaches will learn how to set specific leadership goals with team leader-athletes and will learn concrete and constructive ways to mentor leader-athletes. Coaches will use course principles to construct a plan for developing sport team leaders and for making &quot;team leadership&quot; a core team value. May be taught concurrently with <span data-link='PSY649'>PSY 649</span>. Cannot receive credit for both <span data-link='PSY649'>PSY 649</span> and <span data-link='PSY555'>PSY 555</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY556": {
+    "course_id": "PSY556",
+    "title": "PSY 556 Developing Sport Team Leaders Practicum",
+    "req": "<em>Prerequisite: <span data-link='PSY555'>PSY 555</span> or concurrent enrollment; and permission of instructor.</em>",
+    "desc": "Complementing <span data-link='PSY555'>PSY 555</span> Developing Sport Team Leadership, this course provides a 2-credit option for students to document the application of a leadership development plan on a sport team. This course reinforces the value of leadership and leadership development on sport teams by helping to make &quot;team leadership&quot; a core team value. Advancing this objective, students learn to align the values of sport teams with the broader values of educational institutions. Students taking this course must provide evidence that they have permission to implement a leadership development program on an organized sport team prior to enrolling in the class (hours the student spends with the team must exceed 90 hours). May be taught concurrently with <span data-link='PSY656'>PSY 656</span>. Cannot receive credit for both <span data-link='PSY656'>PSY 656</span> and <span data-link='PSY556'>PSY 556</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY557": {
+    "course_id": "PSY557",
+    "title": "PSY 557 Forensic Psychology: Child Abuse and the Law",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span> and 60 hours.</em>",
+    "desc": "Study of the legal issues related to child abuse and exploitation. Students will gain an understanding of the law pertaining to child cases and how interactions with children can bolster or diminish the quality of children&apos;s memory report as seen by the judicial system. The Greene County Prosecutor&apos;s Office will participate in the design of this course, thus the specific legal issues discussed will remain current and may change based on the needs of the community. May be taught concurrently with <span data-link='PSY657'>PSY 657</span>. Cannot receive credit for both <span data-link='PSY557'>PSY 557</span> and <span data-link='PSY657'>PSY 657</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY565": {
+    "course_id": "PSY565",
+    "title": "PSY 565 Psychological Effects of Dementia",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>, <span data-link='PSY365'>PSY 365</span>.</em>",
+    "desc": "Description of dementias, with particular references to Alzheimer&apos;s Disease and with emphasis on behavioral consequences for both patient and caregiver. Directed practicum. May be taught concurrently with <span data-link='PSY669'>PSY 669</span>. Cannot receive credit for both <span data-link='PSY669'>PSY 669</span> and <span data-link='PSY565'>PSY 565</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY597": {
+    "course_id": "PSY597",
+    "title": "PSY 597 Specialized Topics in Psychology",
+    "req": "<em>Prerequisite: 9 hours of Psychology.</em>",
+    "desc": "Specialized investigation into selected topics in psychology. Graduate students will be required to complete an extra project to be determined by the instructor. May be repeated to a maximum of 9 hours if topic is different. Variable content course. May be taught concurrently with <span data-link='PSY695'>PSY 695</span>. Cannot receive credit for both <span data-link='PSY695'>PSY 695</span> and <span data-link='PSY597'>PSY 597</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY602": {
+    "course_id": "PSY602",
+    "title": "PSY 602 Learning Theories",
+    "desc": "Recommended Prerequisite: <span data-link='PSY121'>PSY 121</span> and 3 additional hours of psychology. An introduction to contemporary theories about learning and behavior, emphasizing the experimental basis of these phenomena. May be taught concurrently with <span data-link='PSY502'>PSY 502</span>. Cannot receive credit for both <span data-link='PSY502'>PSY 502</span> and <span data-link='PSY602'>PSY 602</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY604": {
+    "course_id": "PSY604",
+    "title": "PSY 604 Forensic Child Psychology",
+    "desc": "Recommended Prerequisite: <span data-link='PSY121'>PSY 121</span>. Explores the basics of forensic psychology with emphasis on factors that affect children, how these factors are assessed and how communities intervene to reduce both child crime and child victimization. The class will involve text analysis as well as analysis of primary source readings. May be taught concurrently with <span data-link='PSY505'>PSY 505</span>. Cannot receive credit for both <span data-link='PSY505'>PSY 505</span> and <span data-link='PSY604'>PSY 604</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY606": {
+    "course_id": "PSY606",
+    "title": "PSY 606 Perception",
+    "desc": "Recommended Prerequisite: <span data-link='PSY121'>PSY 121</span> and 3 additional hours of psychology. Nature of perception, concept formation and role of language. May be taught concurrently with <span data-link='PSY506'>PSY 506</span>. Cannot receive credit for both <span data-link='PSY506'>PSY 506</span> and <span data-link='PSY606'>PSY 606</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY612": {
+    "course_id": "PSY612",
+    "title": "PSY 612 Personality Theory and Systems",
+    "desc": "Recommended Prerequisite: <span data-link='PSY121'>PSY 121</span> and <span data-link='PSY304'>PSY 304</span>. Current theories of personality, research background and historical development. May be taught concurrently with <span data-link='PSY512'>PSY 512</span>. Cannot receive credit for both <span data-link='PSY512'>PSY 512</span> and <span data-link='PSY612'>PSY 612</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY613": {
+    "course_id": "PSY613",
+    "title": "PSY 613 Neuropsychology",
+    "desc": "Introduction to the field of neuropsychology. Includes careers, history, behavioral changes after brain injury, assessment, and ethical considerations. May be taught concurrently with <span data-link='PSY513'>PSY 513</span>. Cannot receive credit for both <span data-link='PSY613'>PSY 613</span> and <span data-link='PSY513'>PSY 513</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY614": {
+    "course_id": "PSY614",
+    "title": "PSY 614 Introduction to Applied Behavior Analysis",
+    "desc": "Serves as an introduction to the field of applied behavior analysis. During this course, students are introduced to content areas contained in the Behavior Analysis Certification Board Task List. This includes core concepts such as reinforcement, punishment, stimulus control, and principles of shaping. Students will be introduced to functional assessments and functional analyses. Additional topics include verbal behavior and ethical considerations for behavior analysts. May be taught concurrently with <span data-link='PSY508'>PSY 508</span>. Cannot receive credit for both <span data-link='PSY614'>PSY 614</span> and <span data-link='PSY508'>PSY 508</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY617": {
+    "course_id": "PSY617",
+    "title": "PSY 617 Psychology of Child Abuse and Exploitation",
+    "desc": "Study of forensic issues related to child abuse and exploitation. Students will gain an understanding of the forensic and psychological issues that often arise during child abuse investigations. The Child Advocacy Center, Inc. will participate in the design of the course, thus the specific forensic issues discussed will remain current and may change based on the needs of the community. May be taught concurrently with <span data-link='PSY514'>PSY 514</span>. Cannot receive credit for both <span data-link='PSY617'>PSY 617</span> and <span data-link='PSY514'>PSY 514</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY619": {
+    "course_id": "PSY619",
+    "title": "PSY 619 Cognitive Development",
+    "desc": "Recommended Prerequisite: <span data-link='PSY121'>PSY 121</span> and <span data-link='PSY331'>PSY 331</span> and 3 additional hours of psychology. Study of cognitive development in children and adolescents. Topics to be included: perception, memory, visual imagery, problem solving, language development, cognitive style, social learning theory, information processing theory, and Piaget&apos;s theory. Applications in education, child rearing, and behavior management. May be taught concurrently with <span data-link='PSY519'>PSY 519</span>. Cannot receive credit for both <span data-link='PSY519'>PSY 519</span> and <span data-link='PSY619'>PSY 619</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY622": {
+    "course_id": "PSY622",
+    "title": "PSY 622 Physiological Psychology",
+    "desc": "Recommended Prerequisite: <span data-link='PSY121'>PSY 121</span> and 3 additional hours of psychology. Physiological correlates underlying behavior, including sensory and response mechanisms, central nervous system. May be taught concurrently with <span data-link='PSY521'>PSY 521</span>. Cannot receive credit for both <span data-link='PSY521'>PSY 521</span> and <span data-link='PSY622'>PSY 622</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY623": {
+    "course_id": "PSY623",
+    "title": "PSY 623 Psychology and Language",
+    "desc": "Recommended Prerequisite: 6 hours of Psychology. An examination into the nature of and research in human language and its relationship to psychology. Topics will include the biological bases of language, speech production and perception, word recognition, sentence processing, reading, discourse, dyslexia, grammar and the lexicon. This course will cover current theories on these topics and experimental paradigms analyzing language and psychology. May be taught concurrently with <span data-link='PSY523'>PSY 523</span>. Cannot receive credit for both <span data-link='PSY623'>PSY 623</span> and <span data-link='PSY523'>PSY 523</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY625": {
+    "course_id": "PSY625",
+    "title": "PSY 625 Motivation and Emotions",
+    "desc": "Recommended Prerequisite: <span data-link='PSY121'>PSY 121</span> and 3 additional hours of psychology. Psychological and physiological motives, needs, drives and instinctual mechanisms; emotional effects of these upon the organism. May be taught concurrently with <span data-link='PSY525'>PSY 525</span>. Cannot receive credit for both <span data-link='PSY525'>PSY 525</span> and <span data-link='PSY625'>PSY 625</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY627": {
+    "course_id": "PSY627",
+    "title": "PSY 627 Advanced Psychological Statistical Methods",
+    "desc": "Recommended Prerequisite: introductory statistics course selected from <span data-link='PSY200'>PSY 200</span>, 711; <span data-link='AGR330'>AGR 330</span>; <span data-link='ECO308'>ECO 308</span>; <span data-link='MTH340'>MTH 340</span>; <span data-link='QBA237'>QBA 237</span>; <span data-link='REC328'>REC 328</span>; <span data-link='SOC302'>SOC 302</span>; or equivalent. A review of introductory statistics and investigation of research methods in behavioral sciences that require multivariate statistical models. This course takes an applied orientation and emphasizes the use of statistical packages. Topics include: linear models, principal components analysis, discriminant analysis, multiple regression analysis, multiple regression with categorical variables, and multi-factor ANOVA. May be taught concurrently with <span data-link='PSY527'>PSY 527</span>. Cannot receive credit for both <span data-link='PSY527'>PSY 527</span> and <span data-link='PSY627'>PSY 627</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY629": {
+    "course_id": "PSY629",
+    "title": "PSY 629 Psychological Tests and Measurements",
+    "desc": "Recommended Prerequisite: <span data-link='PSY121'>PSY 121</span> and <span data-link='PSY200'>PSY 200</span> or equivalent. Theory and techniques underlying measurement of human traits and abilities. Critical analysis of intellectual, achievement, interest and personality tests, including their development, application and potential abuses. May be taught concurrently with <span data-link='PSY529'>PSY 529</span>. Cannot receive credit for both <span data-link='PSY529'>PSY 529</span> and <span data-link='PSY629'>PSY 629</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY633": {
+    "course_id": "PSY633",
+    "title": "PSY 633 Psychological Issues in Religion",
+    "desc": "Recommended Prerequisite: <span data-link='PSY121'>PSY 121</span> and <span data-link='REL100'>REL 100</span>. Comprehensive overview of historical background, research methods, and contemporary issues involving behavior and religious beliefs. Psychological research in the areas of religious development and cognition will be included. May be taught concurrently with <span data-link='PSY533'>PSY 533</span>. Cannot receive credit for both <span data-link='PSY533'>PSY 533</span> and <span data-link='PSY633'>PSY 633</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY634": {
+    "course_id": "PSY634",
+    "title": "PSY 634 Psychology of Infancy",
+    "desc": "Recommended Prerequisite: <span data-link='PSY121'>PSY 121</span> and <span data-link='PSY331'>PSY 331</span>. Theory and research on the maturation and cognition of the human infant in the first two years, from a developmental psychometric perspective. General principles of the mental and motor assessment of the infant and interpretation will be emphasized through class demonstrations so that the student may understand the use of these procedures in interpreting development and research. May be taught concurrently with <span data-link='PSY534'>PSY 534</span>. Cannot receive credit for both <span data-link='PSY634'>PSY 634</span> and <span data-link='PSY534'>PSY 534</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY635": {
+    "course_id": "PSY635",
+    "title": "PSY 635 Discipline and Social Behavior in the Classroom",
+    "desc": "Recommended Prerequisite: <span data-link='PSY121'>PSY 121</span>; and either <span data-link='PSY360'>PSY 360</span>, <span data-link='PSY380'>PSY 380</span>, <span data-link='PSY385'>PSY 385</span>, or <span data-link='PSY390'>PSY 390</span>. Provides a psychological perspective of individual and social factors necessary to develop an effective eclectic approach to discipline and an understanding of social behavior in the classroom. Includes an emphasis on personal, social, and motivational development. May be taught concurrently with <span data-link='PSY535'>PSY 535</span>. Cannot receive credit for both <span data-link='PSY535'>PSY 535</span> and <span data-link='PSY635'>PSY 635</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY648": {
+    "course_id": "PSY648",
+    "title": "PSY 648 Psychological Testing in Remedial Reading",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Techniques and skills in utilizing psychological tests as they pertain to diagnosing reading disabilities and prediction of success in remedial programs. Students receive supervised practice in administration. May be taught concurrently with <span data-link='PSY550'>PSY 550</span>. Cannot receive credit for both <span data-link='PSY550'>PSY 550</span> and <span data-link='PSY648'>PSY 648</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY649": {
+    "course_id": "PSY649",
+    "title": "PSY 649 Developing Sport Team Leaders",
+    "desc": "This online course delivers leadership, team processes, and motivation principles to help coaches develop the leadership skills of sport team athletes. This course aligns sport program goals with educational goals by utilizing athletic settings to promote skills that student-athletes can apply on sport teams and in other group settings. Coaches will learn how to set specific leadership goals with team leader-athletes and will learn concrete and constructive ways to mentor leader-athletes. Coaches will use course principles to construct a plan for developing sport team leaders and for making &quot;team leadership&quot; a core team value. May be taught concurrently with <span data-link='PSY555'>PSY 555</span>. Cannot receive credit for both <span data-link='PSY555'>PSY 555</span> and <span data-link='PSY649'>PSY 649</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY656": {
+    "course_id": "PSY656",
+    "title": "PSY 656 Developing Sport Team Leaders Practicum",
+    "req": "<em>Prerequisite: <span data-link='PSY649'>PSY 649</span> or concurrent enrollment.</em>",
+    "desc": "Complementing <span data-link='PSY649'>PSY 649</span> Developing Sport Team Leadership, this course provides a 2-credit option for students to document the application of a leadership development plan on a sport team. This course reinforces the value of leadership and leadership development on sport teams by helping to make &quot;team leadership&quot; a core team value. Advancing this objective, students learn to align the values of sport teams with the broader values of educational institutions. Students taking this course must provide evidence that they have permission to implement a leadership development program on an organized sport team prior to enrolling in the class (hours the student spends with the team must exceed 90 hours). May be taught concurrently with <span data-link='PSY556'>PSY 556</span>. Cannot receive credit for both <span data-link='PSY556'>PSY 556</span> and <span data-link='PSY656'>PSY 656</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY657": {
+    "course_id": "PSY657",
+    "title": "PSY 657 Forensic Psychology: Child Abuse and the Law",
+    "desc": "Study of the legal issues related to child abuse and exploitation. Students will gain an understanding of the law pertaining to child cases and how interactions with children can bolster or diminish the quality of children&apos;s memory report as seen by the judicial system. The Greene County Prosecutor&apos;s Office will participate in the design of this course, thus the specific legal issues discussed will remain current and may change based on the needs of the community. May be taught concurrently with <span data-link='PSY557'>PSY 557</span>. Cannot receive credit for both <span data-link='PSY657'>PSY 657</span> and <span data-link='PSY557'>PSY 557</span>. Identical with <span data-link='CRM657'>CRM 657</span>. Cannot receive credit for both <span data-link='PSY657'>PSY 657</span> and <span data-link='CRM657'>CRM 657</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY669": {
+    "course_id": "PSY669",
+    "title": "PSY 669 Psychological Effects of Dementia",
+    "desc": "Recommended Prerequisite: <span data-link='PSY121'>PSY 121</span> and <span data-link='PSY365'>PSY 365</span>. Description of dementias, with particular references to Alzheimer&apos;s Disease and with emphasis on behavioral consequences for both patient and caregiver. Directed practicum. May be taught concurrently with <span data-link='PSY565'>PSY 565</span>. Cannot receive credit for both <span data-link='PSY565'>PSY 565</span> and <span data-link='PSY669'>PSY 669</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY695": {
+    "course_id": "PSY695",
+    "title": "PSY 695 Specialized Topics in Psychology",
+    "desc": "Recommended Prerequisite: 9 hours of Psychology. Specialized investigation into selected topics in psychology. Graduate students will be required to complete an extra project to be determined by the instructor. May be repeated to a maximum of 9 hours if topic is different. Variable content course. May be taught concurrently with <span data-link='PSY597'>PSY 597</span>. Cannot receive credit for both <span data-link='PSY695'>PSY 695</span> and <span data-link='PSY597'>PSY 597</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY700": {
+    "course_id": "PSY700",
+    "title": "PSY 700 Problems of Psychology",
+    "desc": "Individual investigation into a problem or problems of concern to the student and deemed of significance by the instructor. Written report required. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY701": {
+    "course_id": "PSY701",
+    "title": "PSY 701 Symposium in Psychology",
+    "desc": "Specific topics selected to introduce graduate students to research and theory. May be repeated for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY703": {
+    "course_id": "PSY703",
+    "title": "PSY 703 Human Growth and Development",
+    "desc": "Depth investigation of growth and development during elementary school years. Experimental evidence and clinical evaluations used to supplement consideration of major theories of development. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY705": {
+    "course_id": "PSY705",
+    "title": "PSY 705 Psychology of Adolescence",
+    "desc": "Depth investigation of growth and development during the adolescent period. Experimental evidence and clinical evaluation used to supplement consideration of major theories of adolescence. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY707": {
+    "course_id": "PSY707",
+    "title": "PSY 707 Psychology of the Adult",
+    "desc": "Development of intellectual functions, personality, and social psychological processes across the adult life span will be emphasized. Normal as well as abnormal phenomena unique to young, middle-aged, and elderly adults will also be considered. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY708": {
+    "course_id": "PSY708",
+    "title": "PSY 708 Memory",
+    "desc": "Provides in-depth analyses of historical and current theories and associated research in higher mental cognition processing. Primary emphasis is on normal human adult functioning, although associated topics such as cognitive development, learning dysfunctions and skill enhancement will be considered. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY709": {
+    "course_id": "PSY709",
+    "title": "PSY 709 Psychological Evaluation of Pre-School Children",
+    "desc": "Program involving both theory and practice in psychological evaluation of pre-school children. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY710": {
+    "course_id": "PSY710",
+    "title": "PSY 710 Psychology of Education",
+    "desc": "Orientation to the use of psychology in education. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY711": {
+    "course_id": "PSY711",
+    "title": "PSY 711 Introductory Statistics for Education and Psychology",
+    "desc": "Statistical techniques used in education and psychology; overview of scaling techniques, sampling, descriptive techniques, inferential techniques (to include t and x2), reliability and validity. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY716": {
+    "course_id": "PSY716",
+    "title": "PSY 716 Personnel Psychology",
+    "desc": "A survey of the psychological principles, theory, and research related to personnel practices in organizations. Topics include job analysis, performance appraisal and criterion development, individual differences measurement, personnel selection, and reliability, validity, and utility analysis. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY718": {
+    "course_id": "PSY718",
+    "title": "PSY 718 Organizational Psychology",
+    "desc": "Recommended Prerequisite: <span data-link='PSY121'>PSY 121</span> and <span data-link='PSY304'>PSY 304</span>. A survey of the psychological principles, theory, and research related to behavior in organizations. Topics include work motivation, job satisfaction and performance, leadership and group processes, organizational design and development. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY720": {
+    "course_id": "PSY720",
+    "title": "PSY 720 Individual Intelligence Testing",
+    "req": "<em>Prerequisite: <span data-link='PSY629'>PSY 629</span> or <span data-link='COU701'>COU 701</span>.</em>",
+    "desc": "Analysis of individual tests of intelligence; Wechsler Scales and the Revised Stanford Binet. Students receive supervised practice in administration, scoring and interpretation of individual tests. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY721": {
+    "course_id": "PSY721",
+    "title": "PSY 721 Individual Intelligence Testing II",
+    "req": "<em>Prerequisite: <span data-link='PSY629'>PSY 629</span> or <span data-link='COU701'>COU 701</span>.</em>",
+    "desc": "Analysis of individual tests of intelligence; Stanford-Binet Fourth Edition and Kaufman Assessment Battery for Children. Students will receive supervised practice in administration, scoring, and interpretation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY730": {
+    "course_id": "PSY730",
+    "title": "PSY 730 Projective Techniques",
+    "req": "<em>Prerequisite: <span data-link='COU701'>COU 701</span> and <span data-link='PSY720'>PSY 720</span>.</em>",
+    "desc": "Introduction to theory of and basic underlying projective methods. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY740": {
+    "course_id": "PSY740",
+    "title": "PSY 740 Psychological Assessment",
+    "req": "<em>Prerequisite: admission to MS in Psychology program.</em>",
+    "desc": "Students of clinical psychology will be introduced to the process of psychological diagnosis. They will be expected to master the administration, scoring, and interpretation of individual instruments and become acquainted with the foundations and theory and research on which they rest. In addition the course will emphasize the differential applicability of tests and assessment techniques to a wide range of referral problems and the principles of clinical inference that may be used to interpret, integrate, and communicate their diagnostic findings. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY742": {
+    "course_id": "PSY742",
+    "title": "PSY 742 Practicum in Psychological Assessment",
+    "req": "<em>Prerequisite: <span data-link='PSY740'>PSY 740</span> and <span data-link='PSY750'>PSY 750</span> and permission of instructor.</em>",
+    "desc": "Supervised experience in assessment, diagnoses and report-writing with clients at a community mental health facility. Site arrangements must be made by the Practicum Coordinator during the preceding semester. Consists of a one-hour seminar on campus and 4 hours at the practicum site each week. May be repeated and a minimum grade of &quot;B&quot; must be maintained. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY745": {
+    "course_id": "PSY745",
+    "title": "PSY 745 Statistics and Research Design",
+    "desc": "Recommended Prerequisite: introductory statistics course from <span data-link='PSY200'>PSY 200</span>, 611; <span data-link='AGR330'>AGR 330</span>; <span data-link='ECO308'>ECO 308</span>; <span data-link='MTH340'>MTH 340</span>; <span data-link='QBA237'>QBA 237</span>; <span data-link='REC328'>REC 328</span>; <span data-link='SOC302'>SOC 302</span>; or equivalent. Use of the Analysis of Variance (ANOVA) Models and Multivariate Analysis in the design and analysis of psychological experiments. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY747": {
+    "course_id": "PSY747",
+    "title": "PSY 747 Single Subject Research Design in Applied Behavior Analysis",
+    "req": "<em>Prerequisite: admission to Applied Behavior Analysis program or permission of instructor.</em>",
+    "desc": "Provides instruction in the use of single subject design research methods, in both experimental and applied settings. Instruction provided in behavioral measurement via direct and indirect observation, the employment of group and individual (single-subject) time series designs, statistical approaches for within-group and single-subject design data analysis and interpretation, and use of data to evaluate interventions. The course also considers professional issues in the ethical conduct of research and practice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY750": {
+    "course_id": "PSY750",
+    "title": "PSY 750 Advanced Survey of Psychology",
+    "desc": "Reinforce breadth of knowledge of psychology in the areas of Biological bases of behavior, Sensation and Perception, Memory, Cognition, Motivation, Development and Social Psychology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY751": {
+    "course_id": "PSY751",
+    "title": "PSY 751 Seminar in Methods of Research",
+    "req": "<em>Prerequisite: <span data-link='PSY710'>PSY 710</span> and <span data-link='PSY711'>PSY 711</span>.</em>",
+    "desc": "Investigation of research methods employed in education and psychology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY752": {
+    "course_id": "PSY752",
+    "title": "PSY 752 Research Methods",
+    "req": "<em>Prerequisite: <span data-link='PSY745'>PSY 745</span>.</em>",
+    "desc": "Provides an understanding of the research methods employed in experimental and applied settings. Includes ethical considerations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY753": {
+    "course_id": "PSY753",
+    "title": "PSY 753 Program Evaluation",
+    "req": "<em>Prerequisite: <span data-link='PSY745'>PSY 745</span>.</em>",
+    "desc": "The application of research methods to the evaluation of programs and planned change interventions in organizations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY759": {
+    "course_id": "PSY759",
+    "title": "PSY 759 Teaching of Psychology",
+    "desc": "Must be taken prior to or concurrent with first teaching of any regular or laboratory section of any course. Preparation for teaching college courses, includes development of personal philosophies of teaching; suggestions for active student learning; maintaining student motivation; preparing assignments, in-class presentations, and exams; grading; and classroom management. Designed to help graduate students prepare for their first independent college teaching experiences. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY760": {
+    "course_id": "PSY760",
+    "title": "PSY 760 Clinical Communication Skills",
+    "req": "<em>Prerequisite: admission to MS in psychology.</em>",
+    "desc": "Introduction to the nature of the helping process with emphasis on strategies of behavior change, interpersonal communication, and development of basic helping skills. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY761": {
+    "course_id": "PSY761",
+    "title": "PSY 761 Ethical and Professional Issues",
+    "req": "<em>Prerequisite: admission to MS in Psychology or Applied Behavior Analysis.</em>",
+    "desc": "An exploration of ethical issues, including values, professional responsibilities, and professional ethics codes. Issues are explored both from ethical and legal perspectives. Current professional issues, such as changing modes of assessment and intervention, are examined. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY764": {
+    "course_id": "PSY764",
+    "title": "PSY 764 Group Psychotherapy",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "An extensive analysis of the factors contributing to the development and maintenance of therapeutic groups in a variety of settings. The prevention and education uses of small groups and small group processes will be included. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY765": {
+    "course_id": "PSY765",
+    "title": "PSY 765 Techniques of Individual Psychotherapy",
+    "req": "<em>Prerequisite: admission to MS in Psychology program.</em>",
+    "desc": "An in-depth investigation of major strategies of psychotherapy and their efficacy. Emphasis on theoretical bases and critical analysis of comparative research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY766": {
+    "course_id": "PSY766",
+    "title": "PSY 766 Psychopathology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Focus is on the differential diagnosis of psychological disorders, the appropriate use of current diagnostic systems, and relevant research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PSY767": {
+    "course_id": "PSY767",
+    "title": "PSY 767 Behavior Disorders of Childhood",
+    "req": "<em>Prerequisite: <span data-link='PSY766'>PSY 766</span>.</em>",
+    "desc": "Course focuses on assessment and treatment of common childhood behavior disorders. The course emphasizes 1) the study of biological, behavioral, cognitive, and systemic variables in the development of childhood behavior disorders; 2) training in multiaxial diagnostic assessment; and 3) interventions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY768": {
+    "course_id": "PSY768",
+    "title": "PSY 768 Personality and Social Development",
+    "desc": "A survey of the major theoretical and practical issues in the study of personality and social development. The course will focus on application of personality to universal human concerns. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY771": {
+    "course_id": "PSY771",
+    "title": "PSY 771 Organizational Health Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY718'>PSY 718</span>.</em>",
+    "desc": "An in-depth consideration of the psychological principles, theory, research, applications and problems associated with occupational stress, safety and health. Topics include personal, organizational, work-related and social antecedents to stress, as well as the short-term and long-term responses to stress. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY772": {
+    "course_id": "PSY772",
+    "title": "PSY 772 Performance Assessment",
+    "req": "<em>Prerequisite: <span data-link='PSY716'>PSY 716</span> and <span data-link='PSY745'>PSY 745</span>.</em>",
+    "desc": "An in-depth consideration of theory, research, applications and problems of performance assessment in organizations. Topics include criterion development and validation, models of effectiveness, performance appraisal, methods and sources of evaluation, performance feedback, team performance measurement, and biases in assessment. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY773": {
+    "course_id": "PSY773",
+    "title": "PSY 773 Human Factors",
+    "req": "<em>Prerequisite: <span data-link='PSY751'>PSY 751</span>.</em>",
+    "desc": "Provides an introduction to human factors engineering (ergonomics) primarily in the workplace. Involves emphasis on analyzing job requirements, human capabilities, human-machine interactions, and safety. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY774": {
+    "course_id": "PSY774",
+    "title": "PSY 774 Training and Development",
+    "req": "<em>Prerequisite: <span data-link='PSY716'>PSY 716</span> and <span data-link='PSY718'>PSY 718</span>.</em>",
+    "desc": "An in-depth consideration of theory, research, applications, and problems in the design, conduct and evaluation of training programs in organizational settings. Topics include needs assessment, theories of learning and motivation, transfer of training, and evaluation of training processes and outcomes. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY776": {
+    "course_id": "PSY776",
+    "title": "PSY 776 Personnel Selection, Placement and Classification",
+    "req": "<em>Prerequisite: <span data-link='PSY716'>PSY 716</span> and <span data-link='PSY745'>PSY 745</span>.</em>",
+    "desc": "An in-depth consideration of the theory, research, applications, and problems in matching of individual needs, preferences, skills and abilities with the needs and preferences of organizations. Topics include job analysis, theories of human performance, test development and use, alternative selection techniques, EEO law, criterion development, and validation of selection decisions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY777": {
+    "course_id": "PSY777",
+    "title": "PSY 777 Conceptual Foundations of Applied Behavioral Science",
+    "req": "<em>Prerequisite: admission to Applied Behavior Analysis program or permission of instructor.</em>",
+    "desc": "The course addresses the history of behavior analysis, philosophy of science, advanced behavioral principles and processes and their application to various content domains in the behavioral, social, and cognitive sciences (e.g., emotion, language, cognition, and culture). ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY778": {
+    "course_id": "PSY778",
+    "title": "PSY 778 Group Processes",
+    "req": "<em>Prerequisite: <span data-link='PSY718'>PSY 718</span>.</em>",
+    "desc": "An in-depth consideration of theory, research, applications, and problems in group processes in organizations. Topics include models and typologies of group performance, group decision making, group social influence and ecology, leadership, and team staffing and development. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY779": {
+    "course_id": "PSY779",
+    "title": "PSY 779 Topics in Industrial/Organizational Psychology",
+    "req": "<em>Prerequisite: <span data-link='PSY716'>PSY 716</span> and <span data-link='PSY718'>PSY 718</span>.</em>",
+    "desc": "Advanced study of selected topics in I/O psychology . Course requirements include extensive readings and a paper. May be repeated if different topics for a maximum of 9 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PSY780": {
+    "course_id": "PSY780",
+    "title": "PSY 780 Social Psychology",
+    "req": "<em>Prerequisite: admission to the MS in Psychology program.</em>",
+    "desc": "Advanced study of interactions and social cognition, including attitude change, person perception, and group dynamics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PSY796": {
+    "course_id": "PSY796",
+    "title": "PSY 796 Practicum",
+    "req": "<em>Prerequisite: admission to the MS in Psychology or Applied Behavior Analysis program.</em>",
+    "desc": "Offers an opportunity for the graduate student to gain additional training through field experiences in research, clinical or organizational settings. Such experience need not be confined to the campus. Variable content course. May be repeated for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY797": {
+    "course_id": "PSY797",
+    "title": "PSY 797 Directed Research",
+    "req": "<em>Prerequisite: admission to MS in Psychology or Applied Behavior Analysis program.</em>",
+    "desc": "Offers an opportunity for the graduate student to gain additional training through guided research. Such research need not be confined to the campus. May be repeated for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY798": {
+    "course_id": "PSY798",
+    "title": "PSY 798 Internship",
+    "req": "<em>Prerequisite: <span data-link='PSY796'>PSY 796</span> and permission.</em>",
+    "desc": "Supervised fieldwork in a professional psychology setting. Includes a seminar paper as a requirement. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PSY799": {
+    "course_id": "PSY799",
+    "title": "PSY 799 Thesis",
+    "req": "<em>Prerequisite: admission to MS in Psychology or Applied Behavior Analysis program.</em>",
+    "desc": "Independent research and study leading to the completion of the thesis. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

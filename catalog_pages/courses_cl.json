@@ -1,0 +1,2420 @@
+{
+  "COU700": {
+    "course_id": "COU700",
+    "title": "COU 700 Problems in Counseling",
+    "desc": "Individual investigation into a problem or problems of concern to the student and deemed of significance by the instructor. Written report required. May be repeated to 9 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COU701": {
+    "course_id": "COU701",
+    "title": "COU 701 Tests and Measurements for Counselors",
+    "desc": "A comprehensive study of instruments for measuring psychological traits, including group devices suitable for use in elementary and secondary schools, as well as individual instruments for use in both school and community agency settings. Basic statistical concepts and common terminology related to measurement are taught as a functional part of the course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU702": {
+    "course_id": "COU702",
+    "title": "COU 702 School Counseling Foundations and Ethics",
+    "desc": "Philosophy, organization, and practices of a counseling program in the elementary and secondary school. The school counselor&apos;s role as counselor, consultant, and coordinator, professional identity, and legal issues are included. Includes a significant focus on ethical standards and issues. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU703": {
+    "course_id": "COU703",
+    "title": "COU 703 Mental Health Counseling Foundations and Ethics",
+    "desc": "An introduction and overview of the history, philosophy, and function of the counselor in mental health and other community agency settings. Includes an examination of service population characteristics and treatment needs, intervention modalities and approaches, professional identity, and related topics. Includes a significant focus on ethical standards and issues. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU705": {
+    "course_id": "COU705",
+    "title": "COU 705 Orientation to Personal and Professional Development",
+    "desc": "This course is an experience in personal and group encountering and sensitivity. Its purpose is to assist students in discovering a more complete awareness, understanding, and acceptance of themselves and others as human beings. Primary emphasis will be upon students exploring self, values, needs, and personal characteristics. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU707": {
+    "course_id": "COU707",
+    "title": "COU 707 Human Development and Personality",
+    "desc": "Study of child, adolescent and adult psychological development theories, normal adjustment processes, personality structure, and abnormal behavior. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU708": {
+    "course_id": "COU708",
+    "title": "COU 708 Child Counseling Theories and Techniques",
+    "req": "<em>Prerequisite: admission to the Counseling program; and <span data-link='COU702'>COU 702</span> or <span data-link='COU703'>COU 703</span>; and <span data-link='COU705'>COU 705</span> and <span data-link='COU710'>COU 710</span> and <span data-link='COU711'>COU 711</span> or departmental permission.</em>",
+    "desc": "A consideration of major theories of counseling as they are related to counseling with elementary school-aged children. Emphasis is placed upon the counseling process as it affects the educational, personal, and social adjustment of children. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU710": {
+    "course_id": "COU710",
+    "title": "COU 710 The Helping Relationship",
+    "req": "<em>Prerequisite: admission to Counseling program or Student Affairs in Higher Education program; and concurrent enrollment in <span data-link='COU711'>COU 711</span>.</em>",
+    "desc": "Two training components are integrated to provide an intensive pre-practicum experience. The didactic component introduces basic skills of effective interpersonal communication and counseling. Participation in co-requisite laboratory (<span data-link='COU711'>COU 711</span>) provides supervised practice in the practical application of those skills in simulated counseling interviews. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU711": {
+    "course_id": "COU711",
+    "title": "COU 711 The Helping Relationship Lab",
+    "req": "<em>Prerequisite: admission to Counseling program or Student Affairs in Higher Education program.</em>",
+    "desc": "First enrollment must be concurrent with <span data-link='COU710'>COU 710</span>. Designed to accompany <span data-link='COU710'>COU 710</span>, this lab provides an opportunity for graduate students in counseling to practice basic counseling skills in role-played sessions with live observation, video-taped review and supervisory feedback. May be repeated to 3 hours. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU714": {
+    "course_id": "COU714",
+    "title": "COU 714 Diversity and Multicultural Issues in Counseling",
+    "req": "<em>Prerequisite: admission to Counseling program.</em>",
+    "desc": "An introduction to counseling theories, interventions and issues in working with clients from diverse, minority and ethnic cultures. Values, beliefs and norms of various cultures, including the student&apos;s, will be examined as they pertain to the counseling process. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU720": {
+    "course_id": "COU720",
+    "title": "COU 720 Substance Use and Addiction Issues in Counseling",
+    "desc": "Prerequisite; admission to Counseling program; and <span data-link='COU708'>COU 708</span> or <span data-link='COU751'>COU 751</span>; and <span data-link='COU710'>COU 710</span> and <span data-link='COU711'>COU 711</span>; or permission of the instructor. This course provides an overview of the biological, psychological, social and spiritual dimensions of substance use and dependency. Addictive behaviors are presented as part of the continuum of mental and emotional behavior, and the course will include co-occurring diagnoses and their associated interventions for counseling professionals. This includes diagnosis, treatment planning and implications for diverse populations. An integrated combination of lecture, case study, and field activities will be used. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU724": {
+    "course_id": "COU724",
+    "title": "COU 724 Appraisal and Clinical Interviewing",
+    "req": "<em>Prerequisite: admission to Counseling program; and <span data-link='COU710'>COU 710</span> and <span data-link='COU711'>COU 711</span>.</em>",
+    "desc": "Study of and practice in conducting clinical interviews, appraising and assessing level of functioning and mental status, and developing diagnoses of psychoemotional disorders. Includes assessment of learning and functioning of children. An introduction to counseling theories, interventions and issues in working with clients from diverse, minority and ethnic cultures. Values, beliefs and norms of various cultures, including the student&apos;s, will be examined as they pertain to the counseling process. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU733": {
+    "course_id": "COU733",
+    "title": "COU 733 Couple and Family Counseling",
+    "req": "<em>Prerequisite: admission to Counseling program; and <span data-link='COU710'>COU 710</span> and <span data-link='COU711'>COU 711</span>.</em>",
+    "desc": "An introduction to the major theories of couple and family counseling and their associated interventions. An integrated combination of lecture, discussion, demonstration and role-lay lab sessions will be used. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU751": {
+    "course_id": "COU751",
+    "title": "COU 751 Theories and Techniques of Counseling",
+    "req": "<em>Prerequisite: admission to Counseling program; and <span data-link='COU705'>COU 705</span>; and either <span data-link='COU702'>COU 702</span> or <span data-link='COU703'>COU 703</span> or departmental permission.</em>",
+    "desc": "Examination of various theoretical approaches to counseling; significance of theories in counseling practice. Overview of interventions and techniques associated with each theory. Students make an intensive investigation of a problem to be selected in counseling theory and methods. Report of the investigation required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU752": {
+    "course_id": "COU752",
+    "title": "COU 752 Career Development",
+    "req": "<em>Prerequisite: admission to Counseling program.</em>",
+    "desc": "A consideration of the various theories of career development and their implications in counseling for vocational career development and their implications in counseling for vocational adjustment. A study of the work ethic, the labor force, and the concept of career education. Designed to give students competence in collecting and using occupational and educational information in counseling related to career development and in developing career education programs. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COU753": {
+    "course_id": "COU753",
+    "title": "COU 753 Analysis of Childhood Learning and Adjustment",
+    "req": "<em>Prerequisite: admission to Counseling program; and <span data-link='SPE310'>SPE 310</span> or <span data-link='SPE340'>SPE 340</span> or <span data-link='SPE715'>SPE 715</span>; and <span data-link='COU701'>COU 701</span>.</em>",
+    "desc": "Acquaints student with various assessment and diagnostic procedures in evaluation of learning and adjustment problems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU756": {
+    "course_id": "COU756",
+    "title": "COU 756 Group Counseling",
+    "req": "<em>Prerequisite: admission to Counseling program.</em>",
+    "desc": "Acquaints counselors with group counseling theories and techniques. Includes an experiential group component. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU757": {
+    "course_id": "COU757",
+    "title": "COU 757 Elementary Group Counseling Through Play",
+    "req": "<em>Prerequisite: admission to Counseling program or permission of instructor; and <span data-link='COU705'>COU 705</span> and <span data-link='COU708'>COU 708</span> and <span data-link='COU710'>COU 710</span> and <span data-link='COU711'>COU 711</span> and <span data-link='COU782'>COU 782</span>.</em>",
+    "desc": "Introduction to group therapy methods and techniques appropriate to an elementary school setting. Emphasis is placed upon foundational group therapy skills in general, and on play therapy modalities in particular, that are appropriate for elementary-age children. Groups in an elementary setting, utilizing Missouri Comprehensive Guidance and play therapy and applications to diverse populations, will be emphasized. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU765": {
+    "course_id": "COU765",
+    "title": "COU 765 Research Seminar in Counseling",
+    "req": "<em>Prerequisite: admission to Counseling program; and <span data-link='SFR780'>SFR 780</span> or <span data-link='COU794'>COU 794</span>.</em>",
+    "desc": "The study, analysis, and discussion of special topics culminating in a substantial written report. Preparation of a Professional Portfolio. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU766": {
+    "course_id": "COU766",
+    "title": "COU 766 Psychopharmacology for Counselors",
+    "desc": "Seminar course designed to teach current and future counselors the fundamentals of psychopharmacological agents used in mental health. Students will learn the fundamentals of neuroanatomy and neurophysiology, and relevant aspects of neurochemistry. Once this foundation is formed, students will learn about the types of psychotropic medications commonly used for major mental health conditions, the nature of their actions, indications and contra-indications for use, common dosing guidelines, and side-effects and other related risks. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU780": {
+    "course_id": "COU780",
+    "title": "COU 780 Secondary School Counseling Practicum",
+    "req": "<em>Prerequisite: admission to Counseling program; and <span data-link='COU710'>COU 710</span> and <span data-link='COU714'>COU 714</span> and <span data-link='COU751'>COU 751</span> each with grade of B or better; and <span data-link='COU711'>COU 711</span>; and department approval for practicum.</em>",
+    "desc": "Supervised counseling with secondary school aged students and their families; observation, discussion, and evaluation of the counseling process. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COU781": {
+    "course_id": "COU781",
+    "title": "COU 781 Secondary School Counseling Internship",
+    "req": "<em>Prerequisite: admission to Counseling program; and either <span data-link='COU780'>COU 780</span> or <span data-link='COU784'>COU 784</span>; and either <span data-link='ELE302'>ELE 302</span> or <span data-link='SEC302'>SEC 302</span>; and department permission.</em>",
+    "desc": "Supervised experience in secondary school counseling at an approved school site. Minimum of 300 hours on-site. Students will receive individual supervision on-site, and small-group supervision from the department. May be repeated up to 9 hours. Graded Pass/Not Pass only. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 10
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COU782": {
+    "course_id": "COU782",
+    "title": "COU 782 Elementary School Counseling Practicum",
+    "req": "<em>Prerequisite: admission to Counseling program; and <span data-link='COU708'>COU 708</span> and <span data-link='COU710'>COU 710</span> and <span data-link='COU714'>COU 714</span> each with grade of B or better; and <span data-link='COU711'>COU 711</span>; and department approval for practicum.</em>",
+    "desc": "Supervised counseling with elementary school-aged children and their parents; observation, discussion, and evaluation of counseling sessions. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "COU783": {
+    "course_id": "COU783",
+    "title": "COU 783 Elementary School Counseling Internship",
+    "req": "<em>Prerequisite: admission to Counseling program; and <span data-link='COU782'>COU 782</span>; and either <span data-link='ELE302'>ELE 302</span> or <span data-link='SEC302'>SEC 302</span>; and department permission.</em>",
+    "desc": "Supervised experience in elementary school counseling at an approved school site. Minimum of 300 hours on-site. Students will receive individual onsite supervision, and small-group supervision from the department. May be repeated up to 9 hours. Graded Pass/Not Pass only. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 10
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COU784": {
+    "course_id": "COU784",
+    "title": "COU 784 Mental Health Counseling Practicum",
+    "req": "<em>Prerequisite: admission to Counseling program; and <span data-link='COU710'>COU 710</span> and <span data-link='COU714'>COU 714</span> and <span data-link='COU751'>COU 751</span> each with grade of B or better; and <span data-link='COU711'>COU 711</span>; and department approval for practicum.</em>",
+    "desc": "Supervised counseling experience of clients from the community; observation, discussion, and evaluation of counseling sessions. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU785": {
+    "course_id": "COU785",
+    "title": "COU 785 Mental Health Counseling Internship",
+    "req": "<em>Prerequisite: admission to Counseling program; and either <span data-link='COU780'>COU 780</span> or <span data-link='COU784'>COU 784</span>; and department permission.</em>",
+    "desc": "Supervised experiences (individual, family, group) in counseling at an approved community agency site. Minimum of 300 hours on-site. Students will receive individual supervision on-site, and small group supervision from the department. May be repeated to 9 hours. Graded Pass/Not Pass only. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU786": {
+    "course_id": "COU786",
+    "title": "COU 786 School Psychological Examiner Practicum",
+    "req": "<em>Prerequisite: <span data-link='COU701'>COU 701</span> and <span data-link='COU753'>COU 753</span> and <span data-link='PSY720'>PSY 720</span>.</em>",
+    "desc": "Supervised practicum in the administration and interpretation of individual intelligence tests, formal and informal diagnostic procedures and diagnostic interviewing techniques in an educational or clinical settings. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU787": {
+    "course_id": "COU787",
+    "title": "COU 787 Advanced Play Therapy Practicum",
+    "req": "<em>Prerequisite: admission to Counseling program; and <span data-link='COU702'>COU 702</span> or <span data-link='COU703'>COU 703</span>; and <span data-link='COU705'>COU 705</span> and <span data-link='COU708'>COU 708</span> and <span data-link='COU710'>COU 710</span> and <span data-link='COU711'>COU 711</span> and <span data-link='COU782'>COU 782</span>; or permission of instructor.</em>",
+    "desc": "This course is designed to provide an advanced counseling experience with elementary-aged children from the community. It serves as an integrative component to extend and amplify play therapy counseling skills, theory, and techniques learned in previous practica. Emphasis is placed on scheduling clients, completing case notes, advocating for clients, weekly supervisor and evaluation of counseling sessions. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU788": {
+    "course_id": "COU788",
+    "title": "COU 788 Introduction to Supervision, Consultation and Leadership",
+    "req": "<em>Prerequisite: <span data-link='COU710'>COU 710</span> and <span data-link='COU711'>COU 711</span>; and <span data-link='COU780'>COU 780</span> or <span data-link='COU782'>COU 782</span> or <span data-link='COU784'>COU 784</span>; and admission to Counseling EdS program or departmental permission.</em>",
+    "desc": "This course is designed to address fundamental theoretical and applied aspects of clinical supervision, consultation, and leadership. Supervision addresses the theory and practice of clinical supervision in counseling and psychotherapy and provides a supervised, practical experience of doing counseling supervision in an applied setting. Consultation focuses on providing consultation services in schools and other systems. Since counselors and psychotherapists are often called upon within schools and agencies to provide leadership, the leadership component of this course surveys the literature on leadership styles, roles, and emerging trends. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU789": {
+    "course_id": "COU789",
+    "title": "COU 789 Advanced Level: Play Therapy Supervisor",
+    "req": "<em>Prerequisite: admission to Counseling program; and <span data-link='COU702'>COU 702</span> or <span data-link='COU703'>COU 703</span>; and <span data-link='COU705'>COU 705</span> and <span data-link='COU708'>COU 708</span> and <span data-link='COU710'>COU 710</span> and <span data-link='COU711'>COU 711</span> and <span data-link='COU782'>COU 782</span>; or permission of instructor.</em>",
+    "desc": "This is a course with a practicum component on-site at the Center City Counseling Clinic. The purpose of the course is to provide supervisor training in the theory and practice of supervision with master&apos;s level play therapy students to include three core knowledge areas: supervision models, theories and techniques of clinical supervision of play therapy; legal and ethical issues related to supervision; and clinical issues related to supervision. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU790": {
+    "course_id": "COU790",
+    "title": "COU 790 Counseling Workshop",
+    "desc": "Improves skills and knowledge of counselors in specific areas. Each workshop considers a single topic in depth. 30 hours of participation equal one semester hour. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "COU794": {
+    "course_id": "COU794",
+    "title": "COU 794 Introduction to Research in Counseling",
+    "req": "<em>Prerequisite: admission to Counseling program.</em>",
+    "desc": "Introduction to research methods in counseling, including quantitative and qualitative methods, action research, and program evaluation approaches, particularly in service-delivery settings. An emphasis is placed on developing an understanding of foundational research methods that will allow students to be effective critical consumers of research in counseling and prepare them to design and implement sound program evaluations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU795": {
+    "course_id": "COU795",
+    "title": "COU 795 Topics in Counseling",
+    "desc": "Individual or group class designated to address specialized topics of interest to graduate students in counseling. May be repeated to 9 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "COU799": {
+    "course_id": "COU799",
+    "title": "COU 799 Thesis",
+    "desc": "Independent research and study connected with preparation of thesis. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "EAD745": {
+    "course_id": "EAD745",
+    "title": "EAD 745 Curriculum for Elementary Principals",
+    "desc": "This course is designed as an intermediate level course for the study of education program development, administration and supervision in accordance with the goals and outcomes as outlined by ELCC, ISLLC, MoSPE, as well as the EAD Knowledge Base. The course provides a broad overview of the essential elements of educational programs including curriculum, instruction, materials, and program evaluation recommended by the various learned societies for educational administration. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD746": {
+    "course_id": "EAD746",
+    "title": "EAD 746 Curricular for Secondary Principals",
+    "desc": "This course is designed as an intermediate level course for the study of education program development, administration and supervision in accordance with the goals and outcomes as outlined by ELCC, ISLLC, MoSPE, as well as the EAD Knowledge Base. The course provides a broad overview of the essential elements of educational programs including curriculum, instruction, materials, and program evaluation recommended by the various learned societies for educational administration. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD751": {
+    "course_id": "EAD751",
+    "title": "EAD 751 Foundations of Educational Leadership",
+    "desc": "An introductory course designed for the student considering a career in educational leadership. Explores the history, basic theories, and major areas of responsibility in school leadership. <span data-link='EAD751'>EAD 751</span> is the first course to be taken in an administration degree program. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD752": {
+    "course_id": "EAD752",
+    "title": "EAD 752 The Secondary School Principal",
+    "desc": "An examination of the leadership responsibilities of the secondary school principal. Instructional leadership, decision-making, problem solving, effective schools correlates, the change process, school culture, diversity and school improvement concepts will be emphasized. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD753": {
+    "course_id": "EAD753",
+    "title": "EAD 753 The Elementary School Principal",
+    "desc": "An examination of the leadership responsibilities of the elementary school principal. Instructional leadership, decision-making, problem solving, effective schools correlates, the change process, school culture, diversity and school improvement concepts will be emphasized. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD754": {
+    "course_id": "EAD754",
+    "title": "EAD 754 State and National School Leadership",
+    "desc": "Role and responsibilities of the local, state and federal agencies in school administration. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD759": {
+    "course_id": "EAD759",
+    "title": "EAD 759 Leadership Capstone",
+    "req": "<em>Prerequisite: <span data-link='EAD788'>EAD 788</span> or <span data-link='SFR780'>SFR 780</span>.</em>",
+    "desc": "The culminating course in the Educational Administration masters degree programs. The course results in the completion of the student&apos;s research major project; preparation and presentation of the student&apos;s graduation portfolio; and completion of departmental assessments. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD772": {
+    "course_id": "EAD772",
+    "title": "EAD 772 Internship-Onsite-Part 1",
+    "desc": "Problem-based field experiences encompassing building level, district level, or other specialized administrative or supervisor positions to emphasize the intern&apos;s knowledge, skills and sensitivity in working with diverse students. Students spend specified periods of time working with experienced administrative or supervisory personnel. May be repeated to a maximum of 10 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD780": {
+    "course_id": "EAD780",
+    "title": "EAD 780 Administration of Instructional Programs",
+    "desc": "An analysis of instructional programs and the role of the school administrator in developing learner-centered school cultures and supporting research-based instruction. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD781": {
+    "course_id": "EAD781",
+    "title": "EAD 781 Organizational Management",
+    "desc": "Emphasis is on basic administrative skills including fiscal management and building utilization as well as the skills and processes needed to collaboratively develop and maintain strategic plans. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD782": {
+    "course_id": "EAD782",
+    "title": "EAD 782 Internship-Onsite-Part 2",
+    "desc": "Problem-based field experiences encompassing building level, district level, or other specialized administrative or supervisory positions to emphasize the intern&apos;s knowledge, skills and sensitivity in working with diverse students. Students spend specified periods of time working with experienced administrative or supervisory personnel. May be repeated to a maximum of 10 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD783": {
+    "course_id": "EAD783",
+    "title": "EAD 783 Internship-Related Agencies",
+    "desc": "Problem-based field experiences with various external agencies that relate to the school administrator or supervisor (i.e. juvenile court, law enforcement, community support services, etc.) Supplemental course fee. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD784": {
+    "course_id": "EAD784",
+    "title": "EAD 784 Multicultural Issues Involving Human Relations and Collaborative Processes",
+    "desc": "Designed to develop skills in effective interpersonal skills, written and oral communication within a diverse cultural community. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD785": {
+    "course_id": "EAD785",
+    "title": "EAD 785 Legal and Ethical Contexts of Schooling",
+    "desc": "Explores the statutory and regulatory requirements as well as the ethical implications of policy initiatives inherent in the effective operation of a school. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD786": {
+    "course_id": "EAD786",
+    "title": "EAD 786 School Supervision and Performance Enhancement",
+    "desc": "Administrative functions related to human resource management and development as well as enhancing the performance of the instructional personnel. (i.e. recruitment, selection, retention, training, supervision, evaluation of staff.) ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD787": {
+    "course_id": "EAD787",
+    "title": "EAD 787 Administration of Special Programs",
+    "desc": "Designed to provide skills to establish, administer, and supervise special education services and other student programs. Programs in the area of special education, guidance, vocational education, early childhood as well as current state and federal programs affecting education are emphasized. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD788": {
+    "course_id": "EAD788",
+    "title": "EAD 788 Action Research in Educational Leadership",
+    "desc": "Introduction to the research designs and analysis techniques of action research. Student will engage in activities designed to examine current best practices in the school setting through a methodical, research-based orientation with the ultimate goal of assessing the effect of innovative practices on a variety of school variables. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD799": {
+    "course_id": "EAD799",
+    "title": "EAD 799 Thesis",
+    "req": "<em>Prerequisite: <span data-link='EAD788'>EAD 788</span> and <span data-link='SFR780'>SFR 780</span>.</em>",
+    "desc": "Independent research and study connected with preparation of thesis. May be repeated to a maximum of 6 hours credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD841": {
+    "course_id": "EAD841",
+    "title": "EAD 841 Advanced Issues in School Improvement",
+    "desc": "Designed as an advanced level course for the study of barriers to learning, strategies to reduce or eliminate those barriers, stakeholder involvement, advanced strategic planning techniques and program development, in accordance with the goals and outcomes of the I.S.L.L.C. standards and the EAD Knowledge Base. The major focus of this course is to provide the skills and knowledge appropriate to assisting the student in developing artifacts necessary for completion of his/her professional portfolio. This portfolio is needed for the renewal of the initial administrator certificate in the state of Missouri and other I.S.L.L.C. member states. The course provides an opportunity for students to identify significant barriers to learning within an educational setting, analyze the conditions of the educational setting and take specifics steps to eliminate the barriers and support student success. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD842": {
+    "course_id": "EAD842",
+    "title": "EAD 842 Modern Trends in Educational Administration",
+    "desc": "Designed as an advanced level course for the study of the larger contexts of education. Students will study state, multi-state and national trends/issues, analyze their effect upon local school programming and student learning, identify appropriate outside agencies for initiating collaborative relationships as well as identify adaptive leadership behaviors to respond to various trends/issues. The major focus of this course is to provide the skills and knowledge appropriate to assisting the student in developing artifacts necessary for completion of his/her professional portfolio. This portfolio is needed for the renewal of the initial administrator certificate in the state of Missouri and other L.S.L.L.C. member states. These goals and outcomes are based upon I.S.L.L.C. standards as well as the EAD Knowledge Base. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD843": {
+    "course_id": "EAD843",
+    "title": "EAD 843 School and Community Partnerships",
+    "desc": "Designed as an advanced level course for the study of establishing, nurturing and sustaining effective school-community partnership programs. Students will be exposed to content and will generate material that demonstrates the ability to develop partnerships with business, higher education and other community groups which supplements the learning environment and supports the overall mission of the school as outlined by goals and objectives of the I.S.L.L.C. standards as well as the EAD Knowledge Base. The major focus of this course is to provide the skills and knowledge appropriate to assisting the student in developing artifacts necessary for completion of his/her professional portfolio. This portfolio is needed for the renewal of the initial administrator certificate in the state of Missouri and other L.S.L.L.C. member states. The course provides a broad overview of the essential elements of educational partnership programs while working with social agencies and elementary grant writing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD844": {
+    "course_id": "EAD844",
+    "title": "EAD 844 Leadership in Professional Development",
+    "desc": "Designed as an advanced level course for the study of enhancing professional performance through effective staff development and performance enhancement efforts. Students will demonstrate the ability to collaborate professionally with staff to enhance performance and promote successful teaching and learning in accordance with the goals and outcomes as outlined by I.S.L.L.C. standards as well as the EAD Knowledge BASE. The course provides a broad overview of advanced elements of supervision including national teaching standards, adult learning theory, effective staff development and use of data to inform professional development efforts. The major focus of this course is to provide the skills and knowledge appropriate to assisting the student in developing artifacts necessary for completion of his/her professional portfolio. This portfolio is needed for the renewal of the initial administrator certificate in the state of Missouri and other L.S.L.L.C. member states. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD850": {
+    "course_id": "EAD850",
+    "title": "EAD 850 Politics of Education",
+    "desc": "Overview of the origins and the nature and impact of political forces surrounding and influencing schools. Students will study the increasingly complex political web of American education as well as research the continuing debate dealing with local control versus the expanding role of state and federal government. This course will help the student in educational administration analyze the various core constituencies of school politics, analyze the issues/demands made in the school community, and study the intervening variables associated with school issues as well as the decisions which must be made by school policy makers. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD858": {
+    "course_id": "EAD858",
+    "title": "EAD 858 School Personnel",
+    "desc": "This course will provide knowledge related to areas of personnel process such as: human resource planning, recruitment, selection, placement, induction, staff development, appraisal, compensation, negotiation, employment conditions, employee data, support staff, empowerment of staff, policies and procedures, and career paths. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD860": {
+    "course_id": "EAD860",
+    "title": "EAD 860 Field Study",
+    "req": "<em>Prerequisite: <span data-link='EAD895'>EAD 895</span>.</em>",
+    "desc": "This course involves the completion of field projects conducted in cooperation with a public school district or appropriate agency. Requires a formal investigation and survey of a recognized problem within a selected institution. The nature of the investigation may also be in-depth, independent research relevant to current practice in any facet of the educational process. The subject for investigation is selected by the student with approval of the advisory committee. An oral review of the project will be presented to a selected faculty committee. May be repeated but not to exceed a total of 6 hours. A maximum of 3 hours may be counted toward degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD861": {
+    "course_id": "EAD861",
+    "title": "EAD 861 Human Relations",
+    "desc": "Designed to upgrade educational leaders in human relations skills. Major focus will be on effective group processing and dynamics, understanding learning styles and cultural diversity issues, and facilitating skills for school improvement. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD862": {
+    "course_id": "EAD862",
+    "title": "EAD 862 The Superintendency",
+    "desc": "Analysis and discussion relating to current problems of school management involving decision making, data processing, operations, research, work and wages, unions and management, and purchasing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD863": {
+    "course_id": "EAD863",
+    "title": "EAD 863 Curriculum Design and Evaluation",
+    "desc": "A course designed to investigate and analyze current and innovative instructional programs. Special emphasis is given to national reports on educational practices and the development of a model school of the future. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD864": {
+    "course_id": "EAD864",
+    "title": "EAD 864 Diversity and Community Relations",
+    "desc": "An examination of the various strategies involved in establishing effective internal and external communications. The responsibilities of boards of education, administrative officials, staff personnel, students, and the community will be emphasized. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD865": {
+    "course_id": "EAD865",
+    "title": "EAD 865 School Law",
+    "desc": "Constitutional statutory and case law that relates to all staff personnel, students, school district and other allied governmental units is investigated, analyzed and discussed. Special emphasis is given to the study of contracts, dismissals, tenure, retirement, pupil injuries, liability of school personnel, school district and board member&apos;s legal rights and responsibilities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD866": {
+    "course_id": "EAD866",
+    "title": "EAD 866 Public School Finance",
+    "desc": "A study of school budgeting procedures, revenue and expenditure accounting, problems related to local, state and federal financing of public school operations. The Missouri Uniform Accounting System for Public Schools is utilized in the development of a major school finance project. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD867": {
+    "course_id": "EAD867",
+    "title": "EAD 867 School Plant Planning and Maintenance",
+    "desc": "Designed to familiarize students with the development of master plans and educational specifications for a school facility. Attention is given to site and building evaluations, barrier-free facilities, bond issues, remodeling, energy conservation, contractor and architectural responsibilities, and equipping and maintaining school plants. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD870": {
+    "course_id": "EAD870",
+    "title": "EAD 870 Specialized Topics in Educational Leadership",
+    "desc": "Designed to upgrade the school administrator or leader&apos;s knowledge and skills in specialized areas of current interest and need. Variable Content Course. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD882": {
+    "course_id": "EAD882",
+    "title": "EAD 882 Superintendency Internship-Part 1",
+    "desc": "Problem-based field experiences at the superintendency level to emphasize the intern&apos;s knowledge, skills and sensitivity in working with diverse students, staff and community. Students spend specified periods of time working with experienced administrative personnel. Supplemental course fee. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD883": {
+    "course_id": "EAD883",
+    "title": "EAD 883 Superintendency Internship-Part 2",
+    "desc": "Problem-based field experience at the superintendency level to emphasize the intern&apos;s knowledge, skills and sensitivity in working with diverse students, staff and community. Supplemental course fee. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EAD895": {
+    "course_id": "EAD895",
+    "title": "EAD 895 Research in Administrative Practice",
+    "desc": "The study of research in the field of educational administration. This course integrates research skills and professional administrative practices. Students interpret, evaluate and apply research skills enabling them to design a Field Study proposal which is required for the Specialist degree in Educational Administration. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EDD901": {
+    "course_id": "EDD901",
+    "title": "EDD 901 Leadership Theory and Practice",
+    "req": "<em>Prerequisite: admission to the Doctorate in Educational Leadership program.</em>",
+    "desc": "Advanced study of leadership theories, concepts, and inquiry as applies to educational organizations. The course will explore leadership theories, power and authority in organizations, leader effectiveness, and organizational reform. Emphasis will be placed on understanding leadership in organizations through application and extension of leadership theories in practice. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EDD902": {
+    "course_id": "EDD902",
+    "title": "EDD 902 Quantitative Methods in Educational Research I",
+    "req": "<em>Prerequisite: admission to the Doctorate in Educational Leadership program.</em>",
+    "desc": "This course focuses on types of regression analysis and includes the following topics: simple linear regression, multiple regression, and semi-partial correlation, regression with categorical variables, categorical and continuous variables within the same model, Multilevel analysis (Hierarchical linear modeling), and structural equations. The emphasis in this class is on conceptual and practical understanding, rather than on computation. Goals are for the students to: (a) understand the basic assumptions and models underlying regression analysis, (b) use a statistical analysis package to conduct regression analysis, (c) read and interpret the output from a statistical analysis package, and (d) use this output to write a results sections. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EDD903": {
+    "course_id": "EDD903",
+    "title": "EDD 903 Leadership Inquiry II",
+    "req": "<em>Prerequisite: admission to the Doctorate in Educational Leadership program.</em>",
+    "desc": "This course is part of the statewide collaborative doctoral program. This course will emphasize a wide range of instructional methodologies, cooperative activities, problem-based learning and practical application. The students will be able to design, conduct, and report research to address problems of practice using appropriate research methodologies. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EDD904": {
+    "course_id": "EDD904",
+    "title": "EDD 904 Content and Context of Learning",
+    "req": "<em>Prerequisite: admission to the Doctorate in Educational Leadership program.</em>",
+    "desc": "Students will develop the knowledge and skills for examining, designing, and implementing school and classroom conditions that support quality learning experiences for all students and personnel. This course theme is about learning, and those issues that enhance and detract from quality learning for all. Throughout the course, participants and instructors will model optimum learning conditions and strategies. Students will be asked to demonstrate a thorough understanding of those conditions and competencies through study, critique, development and implementation of authentic learning experiences for their colleagues. Resources to support the learning experiences will include audio-visual materials, readings, internet, and simulations. Authentic assessment will be used to determine each student&apos;s level of competence in the course content. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EDD905": {
+    "course_id": "EDD905",
+    "title": "EDD 905 Leadership Inquiry III",
+    "req": "<em>Prerequisite: admission to the Doctorate in Educational Leadership program.</em>",
+    "desc": "This one hour doctoral level seminar will focus on understanding key concepts and methodologies of data reporting in K-16 organizations and with members of that organization to address problems of practice. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EDD906": {
+    "course_id": "EDD906",
+    "title": "EDD 906 Educational Leadership Inquiry IV",
+    "req": "<em>Prerequisite: admission to the Doctorate in Educational Leadership program.</em>",
+    "desc": "The purpose of this advanced seminar is to deepen understanding of research by requiring students to make decisions about certain aspects of their dissertation research, following the dissertation-in-practice format. Specifically, the course will clarify the problem of practice, purpose of the study, research questions, framework, and study design. This course is also designed to provide scaffolding for the written comprehensive examination. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EDD907": {
+    "course_id": "EDD907",
+    "title": "EDD 907 Program Planning and Evaluation",
+    "req": "<em>Prerequisite: admission to the Doctorate in Educational Leadership program.</em>",
+    "desc": "Explores the theory and practice of evaluation of educational programs including evaluation models, research methods and design strategies to measure program outcomes, especially student and school performance. In addition, skills in program planning will be developed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "EDD908": {
+    "course_id": "EDD908",
+    "title": "EDD 908 Qualitative Tools for Applied Research in Educational Leadership",
+    "req": "<em>Prerequisite: admission to the Doctorate in Educational Leadership program.</em>",
+    "desc": "This course focuses on qualitative research theory, design and analysis. Students will learn how educational leaders can use qualitative research design to critically examine research questions in their practice. They will also learn to analyze educational issues and execute processes to effectively explore those issues using qualitative methods. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SAE721": {
+    "course_id": "SAE721",
+    "title": "SAE 721 Introduction to Student Affairs",
+    "desc": "An introductory course designed for the student pursuing a career in Student Affairs. This course explores the origin, history, philosophy, theory, and practice related to the Student Affairs profession. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SAE723": {
+    "course_id": "SAE723",
+    "title": "SAE 723 Student Development Theory",
+    "req": "<em>Prerequisite: admission to the Student Affairs in Higher Education program.</em>",
+    "desc": "Introduces the student to student development theories. A basic understanding allows the student to note application of these theories to practice. This will result in Student Affairs professional who can design approaches that work most effectively with students. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SAE726": {
+    "course_id": "SAE726",
+    "title": "SAE 726 Higher Education in the United States",
+    "req": "<em>Prerequisite: admission to the Student Affairs in Higher Education program.</em>",
+    "desc": "The historical development of American higher education will be presented. Political, social, economic, and intellectual issues will be examined from its inception to the present day for contemporary application. A focus will be on the matrix of trend, topics, and eras. An emphasis is placed on higher education in the post World War II era creating a solid background of higher education in the last 50 years. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SAE729": {
+    "course_id": "SAE729",
+    "title": "SAE 729 Foundations of Research",
+    "req": "<em>Prerequisite: admission to the Student Affairs in Higher Education program.</em>",
+    "desc": "Students will acquire and use research methods skills. These skills will be put to use in preparing a research proposal, reviewing empirically-based journal articles, formulating hypotheses, designing observational studies, and analyzing and interpreting data. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SAE732": {
+    "course_id": "SAE732",
+    "title": "SAE 732 Leadership and Administration in Higher Education",
+    "req": "<em>Prerequisite: admission to Student Affairs in Higher Education program.</em>",
+    "desc": "Students will be provided with the opportunity to develop a firm working concept of leadership theories and principles. Upon completion of the course, students should be able to identify and discuss the role of leadership in student affairs, and be able to apply those leadership principles to activities in their job. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SAE735": {
+    "course_id": "SAE735",
+    "title": "SAE 735 Governance and Finance in Higher Education",
+    "req": "<em>Prerequisite: admission to the Student Affairs in Higher Education program.</em>",
+    "desc": "Exposure of the student to theoretical and applied concepts of governance and finance structures in higher education. Emphasis will be on organizational structures, financial operations, terminology, successful administrative/management practices, and models prevalent in higher educational settings. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SAE738": {
+    "course_id": "SAE738",
+    "title": "SAE 738 Legal and Ethical Issues in Student Affairs",
+    "req": "<em>Prerequisite: admission to the Student Affairs in Higher Education program.</em>",
+    "desc": "Introduction to the basic and current legal and ethical concepts that face American colleges and universities today. Topics to be discussed include the basis from which higher education law is formed; current case, state, and regulatory laws; personnel issues; and risk management and liability issues for higher education. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SAE747": {
+    "course_id": "SAE747",
+    "title": "SAE 747 Supervised Practice",
+    "req": "<em>Prerequisite: admission to the Student Affairs in Higher Education program.</em>",
+    "desc": "Students will earn academic credit for completion of two practica working in Student Affairs departments. Knowledge accumulated in coursework will be applied to the work setting. Experiences are cooperatively planned and guided by university personnel. May be repeated one time for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SAE748": {
+    "course_id": "SAE748",
+    "title": "SAE 748 Special Projects: Reflective Moments in Higher Education and Student Affairs",
+    "req": "<em>Prerequisite: admission to the Student Affairs in Higher Education program.</em>",
+    "desc": "The primary objective of this class is to provide students who are full-time employees at either MSU or area institutions an alternative to the traditional 6-hour supervised practice requirement that most cohort students complete through <span data-link='SAE747'>SAE 747</span>, Supervised Practice. Similar to <span data-link='SAE747'>SAE 747</span>, Supervised Practice, students will complete two sections of the class (6 hours) distributed over two semesters. Under the direction of the instructor, students will complete an extensive seminar/degree paper that enhances the student&apos;s graduate program portfolio requirement. May be repeated one time to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "SAE749": {
+    "course_id": "SAE749",
+    "title": "SAE 749 Student Outcomes",
+    "req": "<em>Prerequisite: admission to the Student Affairs in Higher Education program.</em>",
+    "desc": "Fostering undergraduates&apos; success inside and outside of the classroom is a byproduct of academic and student affairs collaboration. The aim of the course is to help new professionals understand the outcomes of student success. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SAE755": {
+    "course_id": "SAE755",
+    "title": "SAE 755 Topical Seminar",
+    "req": "<em>Prerequisite: permission of SAE Program Director.</em>",
+    "desc": "This seminar seeks to provide students a curricular structure to assimilate emerging professional development practices in higher education and student affairs. Course will not count toward SAE degree requirements. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "SAE766": {
+    "course_id": "SAE766",
+    "title": "SAE 766 Research Methods and Data Analysis",
+    "req": "<em>Prerequisite: admission to the Student Affairs in Higher Education program.</em>",
+    "desc": "This course provides a review of the most commonly utilized research designs and methods and approaches to data analysis and reporting in Student Affairs. Students will learn how to utilize research studies in the academic and professional literature and how to prepare research proposals and conduct research within a college or university setting. Students completing the course should have an understanding of the factors which influence research quality, including reliability, validity and the use and misuse of statistics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "SAE767": {
+    "course_id": "SAE767",
+    "title": "SAE 767 Assessment and Evaluation",
+    "req": "<em>Prerequisite: admission to the Student Affairs in Higher Education program.</em>",
+    "desc": "This course provides a &quot;hands-on&quot; approach to assessment and evaluation of individual and program outcomes in Student Affairs, focusing on how to measure change in student knowledge, skills and behaviors and the effectiveness of programs in producing outcomes. The course will also address the relationship of assessment and evaluation to: strategic, division and program planning; benchmarking and program review; and the preparation of grant proposals. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SAE771": {
+    "course_id": "SAE771",
+    "title": "SAE 771 Capstone Seminar",
+    "req": "<em>Prerequisite: admission to Student Affairs in Higher Education program.</em>",
+    "desc": "This professional seminar is designed to promote the integration of the core curriculum and practitioner experiences of the master&apos;s program in student affairs administration, and to prepare students for the transition to a professional Student Affairs position following completion of the degree. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SPE300": {
+    "course_id": "SPE300",
+    "title": "SPE 300 Service Learning in Special Education",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in <span data-link='SPE310'>SPE 310</span> or <span data-link='SPE340'>SPE 340</span> or <span data-link='SPE715'>SPE 715</span>.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in Special Education to provide an integrated learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE306": {
+    "course_id": "SPE306",
+    "title": "SPE 306 Integrating the Arts for Students with Disabilities",
+    "req": "<em>Prerequisite: <span data-link='SPE310'>SPE 310</span> and <span data-link='SPE320'>SPE 320</span> and <span data-link='SPE345'>SPE 345</span> and <span data-link='SPE346'>SPE 346</span>; concurrent enrollment with <span data-link='SPE519'>SPE 519</span> or <span data-link='SPE521'>SPE 521</span> or <span data-link='SPE619'>SPE 619</span> or <span data-link='SPE621'>SPE 621</span> required.</em>",
+    "desc": "Focuses on integration of five primary art forms (i.e., literature, music, drama, movement, and art) into the content area curriculum. Emphasis will be upon the five primary art forms, how they relate to and enhance one another, and how they facilitate children&apos;s learning within the core subject areas. Activities, materials, and lessons in these areas will be developed with particular attention to developmentally appropriate methodology and appropriate modifications/ accommodations useful in making the arts accessible to students with disabilities. A series of five workshops will explore the theory, methodology, and activities for integrating the arts into the daily routine of the classroom. Field experiences are a part of the course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE310": {
+    "course_id": "SPE310",
+    "title": "SPE 310 Introduction to Special Education",
+    "req": "<em>Prerequisite: <span data-link='EDC150'>EDC 150</span>, and an initial Missouri State Board of Education entry examination must be taken.</em>",
+    "desc": "Focuses on the special education process as mandated by state and federal guidelines. Legislation, litigation, and service options pertaining to diverse populations will be stressed including those with disabilities, culturally diverse, and gifted. Emphasis will be placed on current issues in the field of special education. Students will participate in observations in appropriate school and agency settings. Required first portfolio checkpoint will occur in this course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE320": {
+    "course_id": "SPE320",
+    "title": "SPE 320 Introduction to Teaching Cross Categorical Special Education",
+    "req": "<em>Prerequisite: <span data-link='SPE310'>SPE 310</span>; and admission to Teacher Education Program.</em>",
+    "desc": "Focuses on students served in cross categorical special education settings as well as low incidence populations. Emphasis will be placed on theoretical perspectives, etiology, characteristics, and historical aspects pertaining to individuals with mental retardation/intellectual disabilities, developmental disabilities, behavior disorders/emotional disturbance, and learning disabilities. Introduction to lesson planning and development of individual education plans will be included. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE340": {
+    "course_id": "SPE340",
+    "title": "SPE 340 Educational Alternative for Exceptional Students",
+    "req": "<em>Prerequisite: admitted to Teacher Education Program.</em>",
+    "desc": "Provides an overview of characteristics and identification criteria for individuals with disabilities and gifted. Legislation and process pertaining to special education will be addressed along with a focus on teaching individuals with diversity in the elementary, middle, and secondary educational setting. Cannot be substituted for <span data-link='SPE310'>SPE 310</span> core requirement in the Special Education major or minor. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE345": {
+    "course_id": "SPE345",
+    "title": "SPE 345 Educational Evaluation of Exceptional Students",
+    "req": "<em>Prerequisite: <span data-link='SPE310'>SPE 310</span>; and concurrent enrollment in <span data-link='SPE346'>SPE 346</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "Focuses on mastery of psychometric principles as well as diagnostic and prescriptive teaching from performance based data. Federal and state process guidelines pertaining to multidisciplinary evaluation will be addressed. Emphasis will be placed on assessment of diverse individuals including those with disabilities, cultural, ethnic, and language differences. Content will address norm-referenced and curriculum-based assessment procedures, including curriculum-based measurement. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE346": {
+    "course_id": "SPE346",
+    "title": "SPE 346 Educational Evaluation of Exceptional Students Lab",
+    "req": "<em>Prerequisite: <span data-link='SPE310'>SPE 310</span>; and concurrent enrollment in <span data-link='SPE345'>SPE 345</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "Students will apply course content presented in <span data-link='SPE345'>SPE 345</span> through field based and lab activities including administration and scoring of standardized assessment instruments, development of alternative assessments, data analysis, and report writing. Lab experiences will be designed to meet specific competencies in either Early Childhood Special Education or Special Education K-12. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE450": {
+    "course_id": "SPE450",
+    "title": "SPE 450 Methods of Teaching Mathematics to Exceptional Individuals",
+    "req": "<em>Prerequisite: <span data-link='SPE345'>SPE 345</span> and <span data-link='SPE346'>SPE 346</span> and <span data-link='MTH320'>MTH 320</span> and admitted to Teacher Education Program.</em>",
+    "desc": "The focus of the course will include accommodating individual differences and diversifying instruction in the area of mathematics. Students will develop performance based assessment procedures, conduct error analyses, and apply mathematics skills in program planning for the diverse learner. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE460": {
+    "course_id": "SPE460",
+    "title": "SPE 460 Curriculum Materials for Exceptional Students",
+    "req": "<em>Prerequisite: <span data-link='SPE310'>SPE 310</span> and admitted to Teacher Education Program.</em>",
+    "desc": "This course examines curriculum materials for use with exceptional students in various remedial areas. Students will develop skills to analyze, select, utilize, and evaluate instructional guides and materials. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SPE480": {
+    "course_id": "SPE480",
+    "title": "SPE 480 Problems in Special Education",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "The student in consultation with the advisor or teacher selects a topic in special education for in-depth study and/or special investigation. Number of class hours determined by semester hours of credit. May be repeated to a maximum of 5 hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE491": {
+    "course_id": "SPE491",
+    "title": "SPE 491 Practicum-Teaching Individuals with Behavior Disorders/Emotional Disturbance",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='SPE581'>SPE 581</span> or <span data-link='SPE661'>SPE 661</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "Students will apply skills from introductory and specialized courses in settings with students with behavior disorders/emotional disturbance. Students will be involved in individual and small group instruction, review diagnostic data, develop and implement educational programs, as well as meet with the university supervisor and other practicum students to reflect on experiences. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SPE492": {
+    "course_id": "SPE492",
+    "title": "SPE 492 Practicum-Teaching Individuals with Learning Disabilities",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='SPE582'>SPE 582</span> or <span data-link='SPE662'>SPE 662</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "Students will apply skills from introductory and specialized courses in settings with students with learning disabilities. Students will be involved in individual small group instruction, develop and implement instructional lessons, and meet with the university supervisor and other practicum students to reflect on experiences. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE493": {
+    "course_id": "SPE493",
+    "title": "SPE 493 Practicum-Teaching Individuals with Mental Retardation/Developmental Disabilities",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='SPE583'>SPE 583</span> or <span data-link='SPE663'>SPE 663</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "Students will apply skills from introductory and specialized courses in settings with students with mental retardation and developmental disabilities. Students will be involved in individual and small group instruction, develop and implement educational programs, as well as meet with the university supervisor and other practicum students to reflect on experiences. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "SPE495": {
+    "course_id": "SPE495",
+    "title": "SPE 495 Supervised Teaching-Special Education",
+    "req": "<em>Prerequisite: <span data-link='SPE519'>SPE 519</span> or <span data-link='SPE619'>SPE 619</span>; and <span data-link='SPE521'>SPE 521</span> or <span data-link='SPE621'>SPE 621</span>; grade of C or better in all professional education courses; current pre-professional liability insurance; and approval for student teaching.</em>",
+    "desc": "Student observes, teaches and participates in professional activities under the direction of the cooperating teacher and the University supervisor. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final checkpoint criteria. Course will not count toward the major GPA. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE496": {
+    "course_id": "SPE496",
+    "title": "SPE 496 Supervised Teaching-Special Education",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='SPE495'>SPE 495</span>.</em>",
+    "desc": "Student observes, teaches, and participates in professional activities under the direction of the cooperating teacher and university supervisor. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final checkpoint criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE499": {
+    "course_id": "SPE499",
+    "title": "SPE 499 Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate masters-level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE502": {
+    "course_id": "SPE502",
+    "title": "SPE 502 Early Intervention for Young Children with Autism",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "This course constitutes the second and last segment of the Missouri Autism Institute for educators who are, or will be, working with young children birth to age six who experience symptoms of autism. May be taught concurrently with <span data-link='SPE602'>SPE 602</span>. Cannot receive credit for both <span data-link='SPE602'>SPE 602</span> and <span data-link='SPE502'>SPE 502</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE504": {
+    "course_id": "SPE504",
+    "title": "SPE 504 In-District Autism Consultant Training",
+    "req": "<em>Prerequisite: current Missouri teaching certification.</em>",
+    "desc": "Students will study advanced educational techniques of autism in general and educational methodologies specifically used with children with autism. Instruction will be provided in consultation and collaboration techniques. Students will demonstrate competence in educational report writing and in-service instruction. Personal professional development plans will be developed by each student, as well as a rating of personal competence. Students will be provided with resources for further study. May be taught concurrently with <span data-link='SPE604'>SPE 604</span>. Cannot receive credit for both <span data-link='SPE604'>SPE 604</span> and <span data-link='SPE504'>SPE 504</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE505": {
+    "course_id": "SPE505",
+    "title": "SPE 505 Braille Reading and Writing I",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This online course has been designed to enable teachers of children and youth with visual impairments develop basic competencies in reading and writing literary Braille, prepare correctly formatted Braille material, and have an awareness and basic understanding of the Nemeth codes for math and science for students grades K-12. Students will employ the use of the Perkins Braille Writer, slate and stylus, Perky Duck, and Duxbury translation software to produce high quality Braille material. Successful completion of this course should be regarded as only one step in a series of courses leading to certification in teaching students with visual impairments. An approved certification process must be completed in order to acquire basic and necessary competencies for work with children and youth with visual impairments. Finally, the course has been designed to help teachers develop an appreciation for the Braille system and the application of this system to all aspects of life for individuals with visual impairments. Instructor and/or site based facilitators will provide monthly face to face instruction to students whenever possible. Students must complete <span data-link='SPE505'>SPE 505</span> and <span data-link='SPE611'>SPE 611</span> to achieve mastery of literary Braille code. Note: Midterm and final examinations will be proctored. May be taught concurrently with <span data-link='SPE605'>SPE 605</span>. Cannot receive credit for both <span data-link='SPE605'>SPE 605</span> and <span data-link='SPE505'>SPE 505</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE506": {
+    "course_id": "SPE506",
+    "title": "SPE 506 Principles of Orientation and Mobility",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course focuses on the history, philosophy, and ethics of orientation and mobility. Participants will also consider various consumer driven approaches in orientation and mobility. The course will give the teacher of the visually impaired the ability to perform and monitor basic techniques of orientation and mobility as used by students who are blind, visually impaired, or multi-handicapped. Students will be required to create a video record of their blindfold and other sensory experiences to illustrate their skill development. Note: Midterm and final examinations will be proctored. May be taught concurrently with <span data-link='SPE606'>SPE 606</span>. Cannot receive credit for both <span data-link='SPE606'>SPE 606</span> and <span data-link='SPE506'>SPE 506</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SPE507": {
+    "course_id": "SPE507",
+    "title": "SPE 507 Services and Diversity in Blindness and Low Vision and Additional Disabilities",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "An introduction to educational programs and services, and diversity issues for persons with blindness or low vision, deaf-blindness and multiple disabilities. This course will provide teachers, paraprofessionals, rehabilitation professionals, counselors, social workers, psychologists, etc. with a foundation in the issues of diversity for persons with blindness or low vision, historical perspectives, developmental characteristics, resources, and legislation related to blindness and low vision and multiple disabilities. An emphasis will be placed on the implications of blindness or low vision, deaf-blindness and multiple disabilities on the development of the individual and on resources that enhance functioning. May be taught concurrently with <span data-link='SPE607'>SPE 607</span>. Cannot receive credit for both <span data-link='SPE607'>SPE 607</span> and <span data-link='SPE507'>SPE 507</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE508": {
+    "course_id": "SPE508",
+    "title": "SPE 508 Low Vision, Anatomy and Physiology of the Eye",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This online course will introduce teachers, rehabilitation specialists and others to practical applications of low vision techniques. The students will use low vision simulators to perceive, integrate and react to different environmental stimuli. Sections of the course will involve clinical low vision examinations. Analysis and application of the fundamental principles and theory of sensory information acquisition by the visually impaired or blind as it applies to the classroom teacher will be stressed. Also, the course will address a full array of eye diseases and conditions and the educational implications. Note: Midterm and final examinations will be proctored. May be taught concurrently with <span data-link='SPE608'>SPE 608</span>. Cannot receive credit for both <span data-link='SPE608'>SPE 608</span> and <span data-link='SPE508'>SPE 508</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE510": {
+    "course_id": "SPE510",
+    "title": "SPE 510 Physical and Health Needs of Students with Disabilities",
+    "req": "<em>Prerequisite: <span data-link='SPE345'>SPE 345</span> and <span data-link='SPE346'>SPE 346</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "Focuses on the role of the special educator in management of health related issues such as monitoring medication and providing services to individuals with specialized self care needs and those with chronic illness. Emphasis will be placed on collaboration with related services staff and medical personnel as well as the integration of the student with health care needs into school and community settings. May be taught concurrently with <span data-link='SPE613'>SPE 613</span>. Cannot receive credit for both <span data-link='SPE613'>SPE 613</span> and <span data-link='SPE510'>SPE 510</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE515": {
+    "course_id": "SPE515",
+    "title": "SPE 515 Foundations of Applied Behavior Analysis and Interventions for Teachers in Applied Settings",
+    "req": "<em>Prerequisite: admission to the Teacher Education Program.</em>",
+    "desc": "Focuses on the foundational principles of applied behavior analysis. Emphasis will be placed on the development of positive behavior support plans that proactively assist students with challenging behavior in applied and/or school settings. May be taught concurrently with <span data-link='SPE616'>SPE 616</span>. Cannot receive credit for both <span data-link='SPE616'>SPE 616</span> and <span data-link='SPE515'>SPE 515</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE516": {
+    "course_id": "SPE516",
+    "title": "SPE 516 Application of Applied Behavior Analysis and Interventions for Teachers in Applied Settings",
+    "req": "<em>Prerequisite: <span data-link='SPE515'>SPE 515</span>.</em>",
+    "desc": "Focuses on the application of applied behavior analysis principles within school-based settings. Students will complete functional analysis/assessment on children and youth with disabilities and employ science based instruction strategies is school settings. May be taught concurrently with <span data-link='SPE618'>SPE 618</span>. Cannot receive credit for both <span data-link='SPE618'>SPE 618</span> and <span data-link='SPE516'>SPE 516</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE517": {
+    "course_id": "SPE517",
+    "title": "SPE 517 Effective Practices in Special Education",
+    "req": "<em>Prerequisite: <span data-link='SPE310'>SPE 310</span> or <span data-link='SPE340'>SPE 340</span>; and <span data-link='SPE345'>SPE 345</span> and <span data-link='SPE346'>SPE 346</span>.</em>",
+    "desc": "Empirically based teaching practices with emphasis on reading and mathematics foundations to support special needs learners. Students will also gain knowledge of varied theoretical perspectives and instructional approaches including validated behavioral and cognitive based methods that support diverse learners. The content of the course will also include activities to support determination of present level of performance and placement in special and general education curricula per IDEA and other Federal mandates. May be taught concurrently with <span data-link='SPE617'>SPE 617</span>. Cannot receive credit for both <span data-link='SPE617'>SPE 617</span> and <span data-link='SPE517'>SPE 517</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE519": {
+    "course_id": "SPE519",
+    "title": "SPE 519 Methods of Teaching Students with Learning and Behavioral Disorders",
+    "req": "<em>Prerequisite: <span data-link='SPE320'>SPE 320</span> and <span data-link='SPE345'>SPE 345</span> and <span data-link='SPE346'>SPE 346</span> and <span data-link='SPE515'>SPE 515</span>; and concurrent enrollment in <span data-link='SPE520'>SPE 520</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "Focuses on the application of theoretical perspectives and research-based methods of teaching students with learning disabilities or emotional and behavior disturbances. Evaluation procedures appropriate to analysis of academic achievement, social behavior, monitoring achievement, and behavioral change will be emphasized along with educational programming that promotes increasing achievement levels, improved social development, and inclusion. May be taught concurrently with <span data-link='SPE619'>SPE 619</span>. Cannot receive credit for both <span data-link='SPE619'>SPE 619</span> and <span data-link='SPE519'>SPE 519</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE520": {
+    "course_id": "SPE520",
+    "title": "SPE 520 Practicum-Teaching Individuals with Learning and Behavioral Disorders",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='SPE519'>SPE 519</span> and admitted to Teacher Education Program.</em>",
+    "desc": "Students will apply skills from introductory and specialized courses in settings with students with learning disabilities and behavioral disorders. Students will be involved in individual and small group instruction, review diagnostic data, develop and implement educational programs, as well as meet with the university supervisor and other practicum students to reflect on experiences. May be taught concurrently with <span data-link='SPE620'>SPE 620</span>. Cannot receive credit for both <span data-link='SPE620'>SPE 620</span> and <span data-link='SPE520'>SPE 520</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE521": {
+    "course_id": "SPE521",
+    "title": "SPE 521 Methods of Teaching Individuals with Developmental Disabilities and Other Health Impairments",
+    "req": "<em>Prerequisite: <span data-link='SPE345'>SPE 345</span> and <span data-link='SPE346'>SPE 346</span>; and <span data-link='SPE515'>SPE 515</span> or concurrent enrollment in <span data-link='SPE515'>SPE 515</span>; and concurrent enrollment in <span data-link='SPE522'>SPE 522</span>; and admitted to Teacher Education Program.</em>",
+    "desc": "Stresses application of theoretical perspectives and research-based methods for individuals with developmental disabilities (i.e., mental retardation autism, Asperger syndrome, cerebral palsy) who may have associated orthopedic and health impairments (e.g., ADHD and epilepsy). Students will conduct an analysis of assessment data, apply data in the development of diagnostic conclusions and corresponding educational plans. Emphasis will be placed on evaluation, accommodations, and programming for integration in school, community, and vocational settings. May be taught concurrently with <span data-link='SPE621'>SPE 621</span>. Cannot receive credit for both <span data-link='SPE621'>SPE 621</span> and <span data-link='SPE521'>SPE 521</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE522": {
+    "course_id": "SPE522",
+    "title": "SPE 522 Practicum-Instruction of Students with Developmental Disabilities and Other Health Impairments",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='SPE521'>SPE 521</span> and admitted to Teacher Education Program.</em>",
+    "desc": "Students will apply skills from introductory and specialized courses in settings with students with developmental disabilities (e.g., mental retardation, autism, Asperger syndrome, cerebral palsy) and orthopedic and health impairments (e.g., ADHD, epilepsy). Students will be involved in individual and small group instruction, develop and implement educational programs, as well as meet with the university supervisor and other practicum students to reflect on experiences. May be taught concurrently with <span data-link='SPE622'>SPE 622</span>. Cannot receive credit for both <span data-link='SPE622'>SPE 622</span> and <span data-link='SPE522'>SPE 522</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE523": {
+    "course_id": "SPE523",
+    "title": "SPE 523 Curriculum and Methods in Early Childhood Special Education",
+    "req": "<em>Prerequisite: permission of area advisor in Special Education or Early Childhood.</em>",
+    "desc": "Focuses on major aspects in early childhood special education including legislation, litigation, and current issues in the field. Each area of development of young children with disabilities will be a part of the course with particular emphasis on adaptation of materials and curricula to meet the needs of these children. There will also be a focus on families and issues surrounding assessment and eligibility for special education programs. Reflection on current practices and services for young children with disabilities will be included. Thirty clock hours of field experience will be required. May be taught concurrently with <span data-link='SPE623'>SPE 623</span>. Cannot receive credit for both <span data-link='SPE623'>SPE 623</span> and <span data-link='SPE523'>SPE 523</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE525": {
+    "course_id": "SPE525",
+    "title": "SPE 525 Introduction to Teaching and Assessing Students with Autism Spectrum Disorders",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course will support individuals across various disciplines who wish to gain knowledge of identification, assessment, and programming for individuals on the Autism Spectrum. Conditions associated with ASD will be examined along with etiology, prevalence, and assessment issues. Students will apply knowledge through review of, and practice with, various norm referenced and informal instruments and rating scales specific to ASD. Emphasis will also be placed on validated programming for ASD. May be taught concurrently with <span data-link='SPE625'>SPE 625</span>. Cannot receive credit for both <span data-link='SPE625'>SPE 625</span> and <span data-link='SPE525'>SPE 525</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE526": {
+    "course_id": "SPE526",
+    "title": "SPE 526 Applied Behavioral Analysis for Developmental Disabilities and Autism Spectrum Disorders",
+    "req": "<em>Prerequisite: <span data-link='SPE515'>SPE 515</span>; and <span data-link='SPE516'>SPE 516</span> or <span data-link='PSY508'>PSY 508</span>.</em>",
+    "desc": "The evolution of science based practices for students with developmental disabilities and autism spectrum disorders are still emerging within the field of education. The purpose of this course is to train teachers and/or care providers to identify science based practices within applied behavior analysis and apply these principles to students with developmental disabilities and autism spectrum disorders within applied settings. This course will focus on the use of operant behavioral techniques with an emphasis on functional analysis and functional communication training. Students will conduct clinical and school-based assessments and interventions with school age children diagnosed with developmental disabilities and autism spectrum disorders. May be taught concurrently with <span data-link='SPE626'>SPE 626</span>. Cannot receive credit for both <span data-link='SPE626'>SPE 626</span> and <span data-link='SPE526'>SPE 526</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE527": {
+    "course_id": "SPE527",
+    "title": "SPE 527 Seminar in Developmental and Sensory Disabilities",
+    "req": "<em>Prerequisite: <span data-link='SPE507'>SPE 507</span> or <span data-link='SPE525'>SPE 525</span> or equivalent.</em>",
+    "desc": "This course is designed to provide practitioners with the knowledge and skills to implement research based practices for individuals with developmental disabilities including autism spectrum disorders (ASD). The course will also address issues specific to sensory integration, visual impairments, and significant cognitive delays. Students will examine in depth, approaches and models validated to support present level of performance needs for individuals with a variety of developmental and sensory requirements. Students will complete lecture hours where theoretical perspectives and the detailed components of various treatments are examined. In a corresponding field component, students will implement an applied project that will address the sensory, communication, learning, and social needs of a client who has been identified with multiple developmental delays. Measurement of outcomes specific to treatment plans will be a significant component of the applied activities. May be taught concurrently with <span data-link='SPE627'>SPE 627</span>. Cannot receive credit for both <span data-link='SPE627'>SPE 627</span> and <span data-link='SPE527'>SPE 527</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE550": {
+    "course_id": "SPE550",
+    "title": "SPE 550 Career/Vocational Education and Transition",
+    "req": "<em>Prerequisite: admitted to Teacher Education Program.</em>",
+    "desc": "Legislation and process pertaining to transition services for individuals with disabilities will be emphasized. Students will explore vocational service delivery options and the role of the multidisciplinary team in the development and implementation of appropriate life skill programming across the age span. May be taught concurrently with <span data-link='SPE650'>SPE 650</span>. Cannot receive credit for both <span data-link='SPE650'>SPE 650</span> and <span data-link='SPE550'>SPE 550</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE556": {
+    "course_id": "SPE556",
+    "title": "SPE 556 Topical Issues in Special Education",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "To develop understanding and skills in relevant areas of special education. Each offering concerns a single topic. Number of class hours determined by semester hours of credit. May be repeated to a maximum of 5 hours when topics change. Variable content course. May be taught concurrently with <span data-link='SPE656'>SPE 656</span>. Cannot receive credit for both <span data-link='SPE656'>SPE 656</span> and <span data-link='SPE556'>SPE 556</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE560": {
+    "course_id": "SPE560",
+    "title": "SPE 560 Working with Families of Exceptional Individuals",
+    "desc": "Recommended Prerequisite: <span data-link='SPE310'>SPE 310</span>. The relationship between families of children with special needs and various agencies is a central theme of this course. Techniques for working with a variety of families will be explored along with the impact of many ecological factors on families of students with disabilities. May be taught concurrently with <span data-link='SPE660'>SPE 660</span>. Cannot receive credit for both <span data-link='SPE660'>SPE 660</span> and <span data-link='SPE560'>SPE 560</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE581": {
+    "course_id": "SPE581",
+    "title": "SPE 581 Methods of Teaching Individuals with Behavior Disorders/Emotional Disturbance",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='SPE491'>SPE 491</span> and admitted to Teacher Education Program.</em>",
+    "desc": "This course will focus on application of theoretical perspectives and research-based methods of teaching students with emotional and behavior disturbances. Evaluation procedures appropriate to analysis of social behavior and monitoring behavioral change will be emphasized along with educational programming that promotes social development and inclusion. May be taught concurrently with <span data-link='SPE661'>SPE 661</span>. Cannot receive credit for both <span data-link='SPE661'>SPE 661</span> and <span data-link='SPE581'>SPE 581</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SPE582": {
+    "course_id": "SPE582",
+    "title": "SPE 582 Methods of Teaching Individuals with Learning Disabilities",
+    "req": "<em>Prerequisite: <span data-link='SPE345'>SPE 345</span> and <span data-link='SPE346'>SPE 346</span> and concurrent enrollment in <span data-link='SPE492'>SPE 492</span> and admitted to Teacher Education Program.</em>",
+    "desc": "Students will apply theoretical perspectives and research based methods in the development of diagnostic reports and educational plans for students with Learning Disabilities. Emphasis will be placed on the educator as a collaborator and advocate for provision of services in integrated settings; and on the educator as a specialist in evaluation, curricular accommodation, and modification. May be taught concurrently with <span data-link='SPE662'>SPE 662</span>. Cannot receive credit for both <span data-link='SPE662'>SPE 662</span> and <span data-link='SPE582'>SPE 582</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE583": {
+    "course_id": "SPE583",
+    "title": "SPE 583 Methods of Teaching Individuals with Mental Retardation/Developmental Disabilities",
+    "req": "<em>Prerequisite: <span data-link='SPE345'>SPE 345</span> and <span data-link='SPE346'>SPE 346</span> and concurrent enrollment in <span data-link='SPE493'>SPE 493</span> and admitted to Teacher Education Program.</em>",
+    "desc": "The course will stress application of theoretical perspectives and research-based methods for individuals with mental retardation and developmental disabilities. Students will conduct an analysis of assessment data, apply data in the development of diagnostic conclusions and corresponding educational plans. Emphasis will be placed on evaluation and programming for integration in school, community, and vocational settings. May be taught concurrently with <span data-link='SPE663'>SPE 663</span>. Cannot receive credit for both <span data-link='SPE663'>SPE 663</span> and <span data-link='SPE583'>SPE 583</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "SPE584": {
+    "course_id": "SPE584",
+    "title": "SPE 584 Language Development of Exceptional Students",
+    "req": "<em>Prerequisite: <span data-link='SPE345'>SPE 345</span> and <span data-link='SPE346'>SPE 346</span> and admitted to Teacher Education Program.</em>",
+    "desc": "Language development and intervention for exceptional individuals. Language assessment and curriculum development for individuals with disabilities, as well as for individuals who are culturally and ethnically diverse, will be addressed. May be taught concurrently with <span data-link='SPE664'>SPE 664</span>. Cannot receive credit for both <span data-link='SPE664'>SPE 664</span> and <span data-link='SPE584'>SPE 584</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE587": {
+    "course_id": "SPE587",
+    "title": "SPE 587 Introduction to the Education of Students with Behavior Disorders",
+    "req": "<em>Prerequisite: <span data-link='SPE310'>SPE 310</span> and admitted to Teacher Education Program.</em>",
+    "desc": "Students will acquire knowledge of identification, classification, diagnostic, and educational planning procedures based on the predominant conceptual models. Required for certification as teacher of students with behavior disorders. May be taught concurrently with <span data-link='SPE667'>SPE 667</span>. Cannot receive credit for both <span data-link='SPE667'>SPE 667</span> and <span data-link='SPE587'>SPE 587</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE590": {
+    "course_id": "SPE590",
+    "title": "SPE 590 Approaches in Mainstreaming Exceptional Students",
+    "req": "<em>Prerequisite: <span data-link='SPE310'>SPE 310</span> or <span data-link='SPE340'>SPE 340</span> and admitted to Teacher Education Program.</em>",
+    "desc": "Application of methods for modifying instructional materials and curriculum to help special education and regular classroom teachers meet the demands of mainstreaming. May be taught concurrently with <span data-link='SPE670'>SPE 670</span>. Cannot receive credit for both <span data-link='SPE670'>SPE 670</span> and <span data-link='SPE590'>SPE 590</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE591": {
+    "course_id": "SPE591",
+    "title": "SPE 591 Clinical Practicum in Special Education",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course is open to professionals with teaching certification or students pursuing a minor requiring credit hours in addition to <span data-link='SPE491'>SPE 491</span>, 492, or 493. Students will collect data, develop and implement individual educational programs, and submit an extensive written report. Assignments will be based on area of certification. In addition, this course is utilized for credit hours toward an Internship in Orientation and Mobility and Internship in Visual Impairment. See instructor for specific requirements. May be taught concurrently with <span data-link='SPE671'>SPE 671</span>. Cannot receive credit for both <span data-link='SPE671'>SPE 671</span> and <span data-link='SPE591'>SPE 591</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE602": {
+    "course_id": "SPE602",
+    "title": "SPE 602 Early Intervention for Young Children with Autism",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course constitutes the second and last segment of the Missouri Autism Institute for educators who are, or will be, working with young children birth to age six who experience symptoms of autism. May be taught concurrently with <span data-link='SPE502'>SPE 502</span>. Cannot receive credit for both <span data-link='SPE502'>SPE 502</span> and <span data-link='SPE602'>SPE 602</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE604": {
+    "course_id": "SPE604",
+    "title": "SPE 604 In-District Autism Consultant Training",
+    "req": "<em>Prerequisite: current Missouri teaching certification or permission of department head.</em>",
+    "desc": "Students will study advanced educational techniques of autism in general and educational methodologies specifically used with children with autism. Instruction will be provided in consultation and collaboration techniques. Students will demonstrate competence in educational report writing and in-service instruction. Personal professional development plans will be developed by each student, as well as a rating of personal competence. Students will be provided with resources for further study. May be taught concurrently with <span data-link='SPE504'>SPE 504</span>. Cannot receive credit for both <span data-link='SPE504'>SPE 504</span> and <span data-link='SPE604'>SPE 604</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE605": {
+    "course_id": "SPE605",
+    "title": "SPE 605 Braille Reading and Writing I",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This online course has been designed to enable teachers of children and youth with visual impairments develop basic competencies in reading and writing literary Braille, prepare correctly formatted Braille material, and have an awareness and basic understanding of the Nemeth codes for math and science for students grades K-12. Students will employ the use of the Perkins Braille Writer, slate and stylus, Perky Duck, and Duxbury translation software to produce high quality Braille material. Successful completion of this course should be regarded as only one step in a series of courses leading to certification in teaching students with visual impairments. An approved certification process must be completed in order to acquire basic and necessary competencies for work with children and youth with visual impairments. Finally, the course has been designed to help teachers develop an appreciation for the Braille system and the application of this system to all aspects of life for individuals with visual impairments. Instructor and/or site based facilitators will provide monthly face to face instruction to students whenever possible. Students must complete <span data-link='SPE505'>SPE 505</span> and <span data-link='SPE611'>SPE 611</span> to achieve mastery of literary Braille code. Note: Midterm and final examinations will be proctored. Supplemental course fee. May be taught concurrently with <span data-link='SPE505'>SPE 505</span>. Cannot receive credit for both <span data-link='SPE505'>SPE 505</span> and <span data-link='SPE605'>SPE 605</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE606": {
+    "course_id": "SPE606",
+    "title": "SPE 606 Principles of Orientation and Mobility",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This online course focuses on the history, philosophy, and ethics of orientation and mobility. Participants will also consider various consumer driven approaches in orientation and mobility. The course will give the teacher of the visually impaired the ability to perform and monitor basic techniques of orientation and mobility as used by students who are blind, visually impaired, or multi-handicapped. Students will be required to create a video record of their blindfold and other sensory experiences to illustrate their skill development. Note: Midterm and final examinations will be proctored. May be taught concurrently with <span data-link='SPE506'>SPE 506</span>. Cannot receive credit for both <span data-link='SPE506'>SPE 506</span> and <span data-link='SPE606'>SPE 606</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SPE607": {
+    "course_id": "SPE607",
+    "title": "SPE 607 Services and Diversity in Blindness and Low Vision and Additional Disabilities",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "An introduction to educational programs and services, and diversity issues for persons with blindness or low vision, deaf-blindness and multiple disabilities. This course will provide teachers, paraprofessionals, rehabilitation professionals, counselors, social workers, psychologists, etc. with a foundation in the issues of diversity for persons with blindness and low vision, historical perspectives, developmental characteristics, resources, and legislation related to severe and multiple disabilities. An emphasis will be placed on the implications of blindness or low vision, deaf-blindness and multiple disabilities on the development of the individual and on resources that enhance functioning. May be taught concurrently with <span data-link='SPE507'>SPE 507</span>. Cannot receive credit for both <span data-link='SPE507'>SPE 507</span> and <span data-link='SPE607'>SPE 607</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE608": {
+    "course_id": "SPE608",
+    "title": "SPE 608 Low Vision, Anatomy and Physiology of the Eye",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This online course will introduce teachers, rehabilitation specialists and others to practical applications of low vision techniques. The students will use low vision simulators to perceive, integrate and react to different environmental stimuli. Sections of the course will involve clinical low vision examinations. Analysis and application of the fundamental principles and theory of sensory information acquisition by the visually impaired or blind as it applies to the classroom teacher will be stressed. Also, the course will address a full array of eye diseases and conditions and the educational implications. Note: Midterm and final examinations will be proctored. May be taught concurrently with <span data-link='SPE508'>SPE 508</span>. Cannot receive credit for both <span data-link='SPE508'>SPE 508</span> and <span data-link='SPE608'>SPE 608</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "SPE613": {
+    "course_id": "SPE613",
+    "title": "SPE 613 Physical and Health Needs of Students with Disabilities",
+    "req": "<em>Prerequisite: <span data-link='SPE715'>SPE 715</span>.</em>",
+    "desc": "Focuses on the role of the special educator in management of health related issues such as monitoring medication and providing services to individuals with specialized self care needs and those with chronic illness. Emphasis will be placed on collaboration with related services staff and medical personnel as well as the integration of the student with health care needs into school and community settings. May be taught concurrently with <span data-link='SPE510'>SPE 510</span>. Cannot receive credit for both <span data-link='SPE510'>SPE 510</span> and <span data-link='SPE613'>SPE 613</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE616": {
+    "course_id": "SPE616",
+    "title": "SPE 616 Foundations of Applied Behavior Analysis and Interventions for Teachers in Applied Settings",
+    "req": "<em>Prerequisite: admission to the Special Education Program.</em>",
+    "desc": "Focuses on the foundational principles of applied behavior analysis. Emphasis will be placed on the development of positive behavior support plans that proactively assist students with challenging behavior in applied and/or school settings. May be taught concurrently with <span data-link='SPE515'>SPE 515</span>. Cannot receive credit for both <span data-link='SPE616'>SPE 616</span> and <span data-link='SPE515'>SPE 515</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE617": {
+    "course_id": "SPE617",
+    "title": "SPE 617 Effective Practices in Special Education",
+    "req": "<em>Prerequisite: <span data-link='SPE715'>SPE 715</span> and <span data-link='SPE782'>SPE 782</span> and <span data-link='SPE792'>SPE 792</span>.</em>",
+    "desc": "Empirically based teaching practices with emphasis on reading and mathematics foundations to support special needs learners. Students will also gain knowledge of varied theoretical perspectives and instructional approaches including validated behavioral and cognitive based methods that support diverse learners. The content of the course will also include activities to support determination of present level of performance and placement in special and general education curricula per IDEA and other Federal mandates. May be taught concurrently with <span data-link='SPE517'>SPE 517</span>. Cannot receive credit for both <span data-link='SPE517'>SPE 517</span> and <span data-link='SPE617'>SPE 617</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE618": {
+    "course_id": "SPE618",
+    "title": "SPE 618 Application of Applied Behavior Analysis and Interventions for Teachers in Applied Settings",
+    "req": "<em>Prerequisite: <span data-link='SPE616'>SPE 616</span>.</em>",
+    "desc": "Focuses on the application of applied behavior analysis principles within school-based settings. Students will complete functional analysis/assessment on children and youth with disabilities and employ science based instruction strategies in school settings. May be taught concurrently with <span data-link='SPE516'>SPE 516</span>. Cannot receive credit for both <span data-link='SPE516'>SPE 516</span> and <span data-link='SPE618'>SPE 618</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE619": {
+    "course_id": "SPE619",
+    "title": "SPE 619 Methods of Teaching Students with Learning and Behavioral Disorders",
+    "req": "<em>Prerequisite: <span data-link='SPE320'>SPE 320</span> and <span data-link='SPE345'>SPE 345</span> and <span data-link='SPE346'>SPE 346</span> and <span data-link='SPE616'>SPE 616</span>; and concurrent enrollment in <span data-link='SPE620'>SPE 620</span>; and Teacher Certification students must be admitted to Teacher Education Program.</em>",
+    "desc": "Focuses on the application of theoretical perspectives and research-based methods of teaching students with learning disabilities or emotional and behavior disturbances. Evaluation procedures appropriate to analysis of academic achievement, social behavior, monitoring achievement, and behavioral change will be emphasized along with educational programming that promotes increasing achievement levels, improved social development, and inclusion. May be taught concurrently with <span data-link='SPE519'>SPE 519</span>. Cannot receive credit for both <span data-link='SPE519'>SPE 519</span> and <span data-link='SPE619'>SPE 619</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE620": {
+    "course_id": "SPE620",
+    "title": "SPE 620 Practicum-Teaching Individuals with Learning and Behavioral Disorders",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='SPE619'>SPE 619</span>; and Teacher Certification students must be admitted to Teacher Education Program.</em>",
+    "desc": "Students will apply skills from introductory and specialized courses in settings with students with learning disabilities and behavioral disorders. Students will be involved in individual and small group instruction, review diagnostic data, develop and implement educational programs, as well as meet with the university supervisor and other practicum students to reflect on experiences. May be taught concurrently with <span data-link='SPE520'>SPE 520</span>. Cannot receive credit for both <span data-link='SPE520'>SPE 520</span> and <span data-link='SPE620'>SPE 620</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE621": {
+    "course_id": "SPE621",
+    "title": "SPE 621 Methods of Teaching Individuals with Developmental Disabilities and Other Health Impairments",
+    "req": "<em>Prerequisite: <span data-link='SPE345'>SPE 345</span> and <span data-link='SPE346'>SPE 346</span>; and <span data-link='SPE616'>SPE 616</span> or concurrent enrollment; and concurrent enrollment in <span data-link='SPE622'>SPE 622</span>; and Teacher Certification students must be admitted to Teacher Education Program.</em>",
+    "desc": "Stresses application of theoretical perspectives and research-based methods for individuals with developmental disabilities (i.e., mental retardation autism, Asperger syndrome, cerebral palsy) who may have associated orthopedic and health impairments (e.g., ADHD and epilepsy). Students will conduct an analysis of assessment data, apply data in the development of diagnostic conclusions and corresponding educational plans. Emphasis will be placed on evaluation, accommodations, and programming for integration in school, community, and vocational settings. May be taught concurrently with <span data-link='SPE521'>SPE 521</span>. Cannot receive credit for both <span data-link='SPE521'>SPE 521</span> and <span data-link='SPE621'>SPE 621</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE622": {
+    "course_id": "SPE622",
+    "title": "SPE 622 Practicum-Instruction of Students with Developmental Disabilities and Other Health Impairments",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='SPE621'>SPE 621</span> and Teacher Certification students must be admitted to Teacher Education Program.</em>",
+    "desc": "Students will apply skills from introductory and specialized courses in settings with students with developmental disabilities (e.g., mental retardation, autism, Asperger syndrome, cerebral palsy) and orthopedic and health impairments (e.g., ADHD, epilepsy). Students will be involved in individual and small group instruction, develop and implement educational programs, as well as meet with the university supervisor and other practicum students to reflect on experiences. May be taught concurrently with <span data-link='SPE522'>SPE 522</span>. Cannot receive credit for both <span data-link='SPE522'>SPE 522</span> and <span data-link='SPE622'>SPE 622</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE623": {
+    "course_id": "SPE623",
+    "title": "SPE 623 Curriculum and Methods in Early Childhood Special Education",
+    "req": "<em>Prerequisite: permission of area advisor in Special Education or Early Childhood Education.</em>",
+    "desc": "Focuses on major aspects in early childhood special education including legislation, litigation, and current issues in the field. Each area of development of young children with disabilities will be a part of the course with particular emphasis on adaptation of materials and curricula to meet the needs of these children. There will also be a focus on families and issues surrounding assessment and eligibility for special education programs. Reflection on current practices and services for young children with disabilities will be included. Thirty clock hours of field experience will be required. May be taught concurrently with <span data-link='SPE523'>SPE 523</span>. Cannot receive credit for both <span data-link='SPE523'>SPE 523</span> and <span data-link='SPE623'>SPE 623</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE625": {
+    "course_id": "SPE625",
+    "title": "SPE 625 Introduction to Teaching and Assessing Students with Autism Spectrum Disorders",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course will support individuals across various disciplines who wish to gain knowledge of identification, assessment, and programming for individuals on the Autism Spectrum. Conditions associated with ASD will be examined along with etiology, prevalence, and assessment issues. Students will apply knowledge through review of, and practice with, various norm referenced and informal instruments and rating scales specific to ASD. Emphasis will also be placed on validated programming for ASD. May be taught concurrently with <span data-link='SPE525'>SPE 525</span>. Cannot receive credit for both <span data-link='SPE525'>SPE 525</span> and <span data-link='SPE625'>SPE 625</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE626": {
+    "course_id": "SPE626",
+    "title": "SPE 626 Applied Behavioral Analysis for Developmental Disabilities and Autism Spectrum Disorders",
+    "req": "<em>Prerequisite: <span data-link='SPE616'>SPE 616</span> or <span data-link='SPE515'>SPE 515</span>.</em>",
+    "desc": "The evolution of science based practices for students with developmental disabilities and autism spectrum disorders are still emerging within the field of education. The purpose of this course is to train teachers and/or care providers to identify science based practices within applied behavior analysis and apply these principles to students with developmental disabilities and autism spectrum disorders within applied settings. This course will focus on the use of operant behavioral techniques with an emphasis on functional analysis and functional communication training. Students will conduct clinical and school-based assessments and interventions with school age children diagnosed with developmental disabilities and autism spectrum disorders. May be taught concurrently with <span data-link='SPE526'>SPE 526</span>. Cannot receive credit for both <span data-link='SPE526'>SPE 526</span> and <span data-link='SPE626'>SPE 626</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE627": {
+    "course_id": "SPE627",
+    "title": "SPE 627 Seminar in Developmental and Sensory Disabilities",
+    "req": "<em>Prerequisite: <span data-link='SPE607'>SPE 607</span> or <span data-link='SPE625'>SPE 625</span> or equivalent.</em>",
+    "desc": "This course is designed to provide practitioners with the knowledge and skills to implement research based practices for individuals with developmental disabilities including autism spectrum disorders (ASD). The course will also address issues specific to sensory integration, visual impairments, and significant cognitive delays. Students will examine in depth, approaches and models validated to support present level of performance needs for individuals with a variety of developmental and sensory requirements. Students will complete lecture hours where theoretical perspectives and the detailed components of various treatments are examined. In a corresponding field component, students will implement an applied project that will address the sensory, communication, learning, and social needs of a client who has been identified with multiple developmental delays. Measurement of outcomes specific to treatment plans will be a significant component of the applied activities. May be taught concurrently with <span data-link='SPE527'>SPE 527</span>. Cannot receive credit for both <span data-link='SPE527'>SPE 527</span> and <span data-link='SPE627'>SPE 627</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE650": {
+    "course_id": "SPE650",
+    "title": "SPE 650 Career/Vocational Education and Transition",
+    "req": "<em>Prerequisite: Teacher Certification students must be admitted to Teacher Education Program.</em>",
+    "desc": "Legislation and process pertaining to transition services for individuals with disabilities will be emphasized. Students will explore vocational service delivery options and the role of the multidisciplinary team in the development and implementation of appropriate life skill programming across the age span. May be taught concurrently with <span data-link='SPE550'>SPE 550</span>. Cannot receive credit for both <span data-link='SPE550'>SPE 550</span> and <span data-link='SPE650'>SPE 650</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE656": {
+    "course_id": "SPE656",
+    "title": "SPE 656 Topical Issues in Special Education",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "To develop understanding and skills in relevant areas of special education. Each offering concerns a single topic. Number of class hours determined by semester hours of credit. May be repeated to a maximum of 5 hours when topics change. Variable Content Course. May be taught concurrently with <span data-link='SPE556'>SPE 556</span>. Cannot receive credit for both <span data-link='SPE556'>SPE 556</span> and <span data-link='SPE656'>SPE 656</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE660": {
+    "course_id": "SPE660",
+    "title": "SPE 660 Working with Families of Exceptional Individuals",
+    "desc": "Recommended Prerequisite: <span data-link='SPE715'>SPE 715</span>. The relationship between families of children with special needs and various agencies is a central theme of this course. Techniques for working with a variety of families will be explored along with the impact of many ecological factors on families of students with disabilities. May be taught concurrently with <span data-link='SPE560'>SPE 560</span>. Cannot receive credit for both <span data-link='SPE560'>SPE 560</span> and <span data-link='SPE660'>SPE 660</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE661": {
+    "course_id": "SPE661",
+    "title": "SPE 661 Methods of Teaching Individuals with Behavior Disorders/Emotional Disturbance",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='SPE491'>SPE 491</span>; and Teacher Certification students must be admitted to Teacher Education Program.</em>",
+    "desc": "This course will focus on application of theoretical perspectives and research-based methods of teaching students with emotional and behavior disturbances. Evaluation procedures appropriate to analysis of social behavior and monitoring behavioral change will be emphasized along with educational programming that promotes social development and inclusion. May be taught concurrently with <span data-link='SPE581'>SPE 581</span>. Cannot receive credit for both <span data-link='SPE581'>SPE 581</span> and <span data-link='SPE661'>SPE 661</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SPE662": {
+    "course_id": "SPE662",
+    "title": "SPE 662 Methods of Teaching Individuals with Learning Disabilities",
+    "req": "<em>Prerequisite: <span data-link='SPE345'>SPE 345</span> and <span data-link='SPE346'>SPE 346</span>; and concurrent enrollment in <span data-link='SPE492'>SPE 492</span>; and Teacher Certification students must be admitted to Teacher Education Program.</em>",
+    "desc": "Students will apply theoretical perspectives and research based methods in the development of diagnostic reports and educational plans for students with Learning Disabilities. Emphasis will be placed on the educator as a collaborator and advocate for provision of services in integrated settings; and on the educator as a specialist in evaluation, curricular accommodation, and modification. May be taught concurrently with <span data-link='SPE582'>SPE 582</span>. Cannot receive credit for both <span data-link='SPE582'>SPE 582</span> and <span data-link='SPE662'>SPE 662</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE663": {
+    "course_id": "SPE663",
+    "title": "SPE 663 Methods of Teaching Individuals with Mental Retardation/Developmental Disabilities",
+    "req": "<em>Prerequisite: <span data-link='SPE345'>SPE 345</span> and <span data-link='SPE346'>SPE 346</span>; and concurrent enrollment in <span data-link='SPE493'>SPE 493</span>; and Teacher Certification students must be admitted to Teacher Education Program.</em>",
+    "desc": "The course will stress application of theoretical perspectives and research-based methods for individuals with mental retardation and developmental disabilities. Students will conduct an analysis of assessment data, apply data in the development of diagnostic conclusions and corresponding educational plans. Emphasis will be placed on evaluation and programming for integration in school, community, and vocational settings. May be taught concurrently with <span data-link='SPE583'>SPE 583</span>. Cannot receive credit for both <span data-link='SPE583'>SPE 583</span> and <span data-link='SPE663'>SPE 663</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "SPE664": {
+    "course_id": "SPE664",
+    "title": "SPE 664 Language Development of Exceptional Students",
+    "req": "<em>Prerequisite: <span data-link='SPE715'>SPE 715</span>.</em>",
+    "desc": "Language development and intervention for exceptional individuals. Language assessment and curriculum development for individuals with disabilities, as well as for individuals who are culturally and ethnically diverse, will be addressed. May be taught concurrently with <span data-link='SPE584'>SPE 584</span>. Cannot receive credit for both <span data-link='SPE584'>SPE 584</span> and <span data-link='SPE664'>SPE 664</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "SPE667": {
+    "course_id": "SPE667",
+    "title": "SPE 667 Introduction to the Education of Students with Behavior Disorders",
+    "req": "<em>Prerequisite: <span data-link='SPE310'>SPE 310</span> and Teacher Education students must be admitted to Teacher Education Program.</em>",
+    "desc": "Students will acquire knowledge of identification, classification, diagnostic, and educational planning procedures based on the predominant conceptual models. Required for certification as teacher of students with behavior disorders. May be taught concurrently with <span data-link='SPE587'>SPE 587</span>. Cannot receive credit for both <span data-link='SPE587'>SPE 587</span> and <span data-link='SPE667'>SPE 667</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE670": {
+    "course_id": "SPE670",
+    "title": "SPE 670 Approaches in Mainstreaming Exceptional Students",
+    "req": "<em>Prerequisite: <span data-link='SPE310'>SPE 310</span> or <span data-link='SPE340'>SPE 340</span> and Teacher Certification students must be admitted to Teacher Education Program.</em>",
+    "desc": "Application of methods for modifying instructional materials and curriculum to help special education and regular classroom teachers meet the demands of mainstreaming. May be taught concurrently with <span data-link='SPE590'>SPE 590</span>. Cannot receive credit for both <span data-link='SPE590'>SPE 590</span> and <span data-link='SPE670'>SPE 670</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE671": {
+    "course_id": "SPE671",
+    "title": "SPE 671 Clinical Practicum in Special Education",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course is open to professionals with teaching certification or students pursuing a minor requiring credit hours in addition to <span data-link='SPE491'>SPE 491</span>, 492, or 493. Students will collect data, develop and implement individual educational programs, and submit an extensive written report. Assignments will be based on area of certification. In addition, this course is utilized for credit hours toward an Internship in Orientation and Mobility and Internship in Visual Impairment. See instructor for specific requirements. May be taught concurrently with <span data-link='SPE591'>SPE 591</span>. Cannot receive credit for both <span data-link='SPE591'>SPE 591</span> and <span data-link='SPE671'>SPE 671</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE709": {
+    "course_id": "SPE709",
+    "title": "SPE 709 Methods of Teaching Students with Visual Impairments and Multiple Disabilities",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This online course is one of six courses offered to provide prospective teachers of children and youth with visual impairments (including those with multiple disabilities) competency-based training for work with this population in K-12 schools. Provides students with the pedagogical preparation to effectively teach Braille reading and writing, organize activities to promote literacy development, utilize assistive technology (including voice output and other computer based applications), teach compensatory skills and strategies for mathematics, development of listening skills, as well as other instructional adaptations for the curricular areas of language arts, science, and social studies. In addition, the course focuses on the teaching of social skills needed for success in education and employment. Participants will demonstrate the ability to assess, adapt, evaluate and teach academic subjects and specialized curricula for students with visual impairments, including those with multiple disabilities. Note: midterm and final examinations will be proctored. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SPE710": {
+    "course_id": "SPE710",
+    "title": "SPE 710 Problems in Special Education",
+    "desc": "Major issues in the field of special education designed to meet individual student needs. May be repeated to a total of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE711": {
+    "course_id": "SPE711",
+    "title": "SPE 711 Braille Reading and Writing II",
+    "req": "<em>Prerequisite: <span data-link='SPE505'>SPE 505</span> or <span data-link='SPE605'>SPE 605</span>.</em>",
+    "desc": "This advanced, online course in Braille reading and writing will focus on competencies in reading and writing literary Braille and the Nemeth Codes for science and mathematics. Participants will also demonstrate the ability to teach basic assistive devices, and to provide instruction in tactile graphics. An introduction to the transcription in Braille code for music and foreign languages will also be presented. Instructor and/or site based facilitators will provide monthly face to face instruction to students whenever possible. Note: midterm and final examinations will be proctored. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SPE712": {
+    "course_id": "SPE712",
+    "title": "SPE 712 Instructional Techniques and Strategies of Orientation and Mobility",
+    "req": "<em>Prerequisite: <span data-link='SPE506'>SPE 506</span> or <span data-link='SPE606'>SPE 606</span>; and <span data-link='SPE508'>SPE 508</span> or <span data-link='SPE608'>SPE 608</span>.</em>",
+    "desc": "Provides participants with the techniques and strategies used by individuals who are blind or visually impaired for independent orientation and mobility. Participants will apply the strategies of orientation and mobility techniques while using blindfolds and low vision simulators. The application of skills will be completed in indoor environments as well as residential, business, rural, and commercial areas. ",
+    "hours": {
+      "credit": 6,
+      "lecture": 6
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "SPE714": {
+    "course_id": "SPE714",
+    "title": "SPE 714 Professional Issues and Assessment in Orientation and Mobility with Diverse Populations",
+    "req": "<em>Prerequisite: <span data-link='SPE505'>SPE 505</span> or <span data-link='SPE605'>SPE 605</span>; and <span data-link='SPE506'>SPE 506</span> or <span data-link='SPE606'>SPE 606</span>; and <span data-link='SPE508'>SPE 508</span> or <span data-link='SPE608'>SPE 608</span>; and <span data-link='SPE712'>SPE 712</span>.</em>",
+    "desc": "This online course will provide participants with the overall philosophy of orientation and mobility including: the Code of Ethics and Certification standards. Current literature and issues pertinent to the profession of orientation and mobility will be discussed. This will include issues impacting programming with students with multiple disabilities, the development and administration of an effective orientation and mobility instructional program, assessment procedures, and research approaches. Note: midterm and final examinations will be proctored. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE715": {
+    "course_id": "SPE715",
+    "title": "SPE 715 Foundations in Special Education",
+    "desc": "Focuses on legislation and litigation in the area of Education and Special Education and will include an overview of categorical disabilities including identification, etiology, and prevalence. The integration of individuals with disabilities across educational and community settings will be stressed along with an overview of programming validated to support specialized populations including those with disabilities and cultural and linguistic differences. In addition, the course will focus on strategies to support individuals identified as gifted as well as individuals identified at risk for school failure. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "SPE730": {
+    "course_id": "SPE730",
+    "title": "SPE 730 Health, Functional, and Psychosocial Aspects of Disability",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course presents an interdisciplinary approach to the study of disability in education and rehabilitation. It includes information on disabilities such as traumatic brain injury, orthopedic, neuromuscular, sensory, learning, cardiovascular, psychiatric, and other selected disabilities and health conditions, including multiple disabilities. Emphasis is placed upon the characteristics of disabilities and resulting functional effects on persons with additional emphasis on the effects of multiple disabilities. This course also provides an understanding of the psychosocial and environmental factors that impact the integration into society by individuals with disabilities. It examines the philosophy of rehabilitation, major classifications and paradigms, common stereotypes, personal and societal attitudes and measurement, theories of adjustment, psychosocial losses, issues relating to sexuality, personal adjustment training, the role of the family, and the use of effective interaction skills. This course is offered online. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SPE733": {
+    "course_id": "SPE733",
+    "title": "SPE 733 Methods of Teaching Independent Living Skills to Persons with Blindness or Low Vision",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Introduction to methodologies, concepts, and techniques to teach persons with blindness or low vision the skills and knowledge needed to function independently in diverse settings. This course provides learners with instruction and laboratory practice in methodologies for teaching skills for independent living, including areas within the expanded core curriculum. Topics include: concept and motor development, spatial organization and orientation, personal management, home management, medical management, communication, and recreation and leisure. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "SPE750": {
+    "course_id": "SPE750",
+    "title": "SPE 750 Practicum-Visual Impairment",
+    "req": "<em>Prerequisite: <span data-link='SPE605'>SPE 605</span> and <span data-link='SPE606'>SPE 606</span> and <span data-link='SPE607'>SPE 607</span> and <span data-link='SPE608'>SPE 608</span> and <span data-link='SPE709'>SPE 709</span> and <span data-link='SPE711'>SPE 711</span>; and permission of instructor.</em>",
+    "desc": "This course serves as a supervised internship working with children with blindness or low vision, under the direction of a cooperating Teacher of Children with Visual Impairments and University Supervisor. Students observe, teach, and participate in professional activities in teaching children with blindness or low vision. Students work with individuals or groups during which they are provided the opportunity to apply principles and methods of teaching children with visual impairments and additional disabilities, including behavior management, instructional planning, and evaluation. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE760": {
+    "course_id": "SPE760",
+    "title": "SPE 760 Internship-Orientation and Mobility",
+    "req": "<em>Prerequisite: <span data-link='SPE606'>SPE 606</span> and <span data-link='SPE608'>SPE 608</span> and <span data-link='SPE712'>SPE 712</span> and <span data-link='SPE714'>SPE 714</span> or concurrent enrollment in <span data-link='SPE714'>SPE 714</span>; and admitted to the Special Education/Orientation and Mobility program; and permission of instructor.</em>",
+    "desc": "This course requires a supervised internship experience in an organization or school that serves individuals with blindness or low vision, during which the opportunity is provided for practical application of principles and methods of instruction in orientation and mobility; including techniques of safe, and independent travel. Completion of 350 hours of supervised fieldwork by a certified orientation and mobility specialist (COMS). Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE779": {
+    "course_id": "SPE779",
+    "title": "SPE 779 Application of Technology in Special Education",
+    "req": "<em>Prerequisite: admission to the graduate program in Special Education.</em>",
+    "desc": "This course is designed to provide teachers with an in depth treatment of the research, theory, and application of computers and related technologies in the instruction of children and adults with learning, behavior, sensory, motor and communication disabilities. Students will incorporate the principles of reflective practice as it pertains to the assessment, selection of devices, and evaluation of assistive technologies for individuals with disabilities. The General Learning Outcomes 5, 9, and 10 presented in the Conceptual Framework of the Professional Education Unit (PEU) are the over arching tenets which guided the development and ongoing revisions to this course. Students acquire competencies related to the use of assistive devices and emerging technologies through participation in a 60 hour comprehensive field based experience in conjunction with schools and other agencies which serve individuals with disabilities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "SPE780": {
+    "course_id": "SPE780",
+    "title": "SPE 780 Contemporary Issues in Special Education",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Analysis of trends, issues, and research in the field of special education will be reviewed and discussed. A comprehensive overview of local, state, and federal legislation and the impact on our public school special educational programs for children with disabilities will be discussed and analyzed. Historical and current litigation involving children with disabilities will be reviewed and discussed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE781": {
+    "course_id": "SPE781",
+    "title": "SPE 781 Educational Consultation",
+    "req": "<em>Prerequisite: admission to the graduate program in Special Education.</em>",
+    "desc": "Seeks to develop students&apos; skills in collaboration consultation. Emphasis will be placed on the development of innovative service delivery options, personnel training, and development of communication skills. Students will apply theory to practice in a field experience. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE782": {
+    "course_id": "SPE782",
+    "title": "SPE 782 Advanced Diagnosis and Remediation of Students with Mild to Moderate Disabilities",
+    "req": "<em>Prerequisite: admission to the graduate program in Special Education.</em>",
+    "desc": "Students will observe and participate in a variety of assessment and multidisciplinary team activities. Development of leadership skills will be stressed through participation in clinical field experiences involving standardized and performance evaluation of students with learning disabilities, analysis and synthesis of assessment data in clinical staffings, and development of educational programs. Students enrolled in this course should have prior knowledge of assessment including administration, scoring, and interpretation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE783": {
+    "course_id": "SPE783",
+    "title": "SPE 783 Advanced Assessment to Support Individuals with Developmental and Sensory Disabilities",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Students will observe and participate in a variety of assessment and multidisciplinary team activities. Development of leadership skills will be stressed through participation in field experiences involving norm referenced and curriculum based evaluation of individuals with various sensory and developmental disabilities. Analysis and synthesis of assessment data in clinical staffings and development of individual educational plans will be required.. Students enrolled in this course should have prior knowledge of assessment including administration, scoring, and interpretation. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE784": {
+    "course_id": "SPE784",
+    "title": "SPE 784 Advanced Procedures in Teaching Students with Mild to Moderate Disabilities",
+    "req": "<em>Prerequisite: <span data-link='SPE780'>SPE 780</span> and <span data-link='SPE782'>SPE 782</span> and <span data-link='SPE792'>SPE 792</span>; and <span data-link='SPE616'>SPE 616</span> or <span data-link='PSY614'>PSY 614</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='SPE517'>SPE 517</span> or <span data-link='SPE617'>SPE 617</span>. The primary purpose of the course is to provide students with the knowledge and skills necessary for development and application of curricula appropriate to the needs of individuals with mild to moderate disabilities. Emphasis will be placed on the philosophical basis of curricula as well as principles of curricula design. Students will apply knowledge and skills in 60 hours of required field experiences. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SPE785": {
+    "course_id": "SPE785",
+    "title": "SPE 785 Advanced Procedures in Development Disabilities",
+    "req": "<em>Prerequisite: admission to the graduate program in Special Education; and <span data-link='SPE783'>SPE 783</span>.</em>",
+    "desc": "The primary purpose of the course is to provide students with the knowledge and skills necessary for development and application of curricula and methods appropriate to the needs of individuals with mental retardation and other developmental disabilities. Emphasis will be placed on the empirical basis of the procedures and on life referenced programming. Students will apply knowledge and skills in field based activities supervised by the instructor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE787": {
+    "course_id": "SPE787",
+    "title": "SPE 787 Advanced Behavioral Analysis and Intervention",
+    "req": "<em>Prerequisite: admission to the graduate program in Special Education; and <span data-link='SPE780'>SPE 780</span> and <span data-link='SPE782'>SPE 782</span> and <span data-link='SPE792'>SPE 792</span>; and <span data-link='SPE784'>SPE 784</span> or <span data-link='SPE785'>SPE 785</span>; and <span data-link='SFR780'>SFR 780</span>.</em>",
+    "desc": "Study of human behavior. The goal of applied behavior analysis is to seek understanding and improvement of human behavior. The goals of this class is to prepare graduate students to be contributing professionals in the area of applied behavior analysis; specifically, to become reflective behaviorists. Students will learn to identify, measure, and record the occurrence and nonoccurrence of behavior. Students will be expected to implement applied behavioral strategies and learn how to evaluate the success of single-subject studies as part of a 60 hour field experience. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SPE788": {
+    "course_id": "SPE788",
+    "title": "SPE 788 Research Seminar in Special Education",
+    "req": "<em>Prerequisite: admission to the graduate program in Special Education; and <span data-link='SPE780'>SPE 780</span>; and <span data-link='SPE782'>SPE 782</span> or <span data-link='SPE783'>SPE 783</span>; and <span data-link='SPE784'>SPE 784</span> or <span data-link='SPE785'>SPE 785</span>; and <span data-link='SFR780'>SFR 780</span>.</em>",
+    "desc": "An in-depth study of a chosen topic in special education leading to the guided development and completion of an extensive research paper or major creative work. Graduate students are expected to complete a 60 hour field experience associated with the summer project. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SPE789": {
+    "course_id": "SPE789",
+    "title": "SPE 789 Practicum-The Exceptional Child",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Student observes, teaches, and/or participates in professional activities in Special Education under the direction of a cooperating supervisor and University supervisor. Students will work with individuals or groups demonstrating effective teaching and behavior management techniques, as well as expertise in instructional planning and evaluation. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "SPE790": {
+    "course_id": "SPE790",
+    "title": "SPE 790 Educational Workshop",
+    "desc": "Workshop to upgrade understandings and skills concerned with the improvement of elementary or secondary teaching procedures, curriculum, supervision, administration or guidance. Each workshop will be concerned with a single topic. Number of class hours determined by length of workshop. May be repeated to a maximum of 5 hours. 30 clock hours equal 1 semester hour. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE791": {
+    "course_id": "SPE791",
+    "title": "SPE 791 Clinical Practicum for Special Needs Populations",
+    "req": "<em>Prerequisite: <span data-link='SPE625'>SPE 625</span> and <span data-link='SPE783'>SPE 783</span> and <span data-link='SPE785'>SPE 785</span>; and permission of instructor.</em>",
+    "desc": "This course will involve experience in a supervised, clinical setting with individuals diagnosed with various disabilities. Emphasis will be placed on developmental disabilities and challenging behaviors. Students will conduct assessment specific to their credentials and training to include learning assessment, autism specific instruments, and communication assessment. Emphasis will be placed on conducting functional behavioral assessment and utilizing data across domains to develop research based programs. Students will participate in a multidisciplinary assessment model to include families and professionals from a variety of disciplines. Preparation and submission of reports that are research based and that are of a high professional quality will be a required course outcome. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 12
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SPE792": {
+    "course_id": "SPE792",
+    "title": "SPE 792 Advanced Diagnosis and Remediation of Students with Disabilities Lab",
+    "req": "<em>Prerequisite: admission to the graduate program in Special Education; and concurrent enrollment with <span data-link='SPE782'>SPE 782</span> or <span data-link='SPE783'>SPE 783</span>.</em>",
+    "desc": "Students will conduct standardized and informal assessments in the field as part of a 60 hour practicum/lab experience and develop a comprehensive case history. Emphasis will be placed on development of validated educational programs. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SPE799": {
+    "course_id": "SPE799",
+    "title": "SPE 799 Thesis",
+    "req": "<em>Prerequisite: admission to the graduate program in Special Education or Applied Behavior Analysis; and <span data-link='SFR780'>SFR 780</span> and <span data-link='SPE780'>SPE 780</span> and <span data-link='SPE787'>SPE 787</span> and <span data-link='SPE789'>SPE 789</span>; and <span data-link='SPE782'>SPE 782</span> or <span data-link='SPE783'>SPE 783</span>; and <span data-link='SPE784'>SPE 784</span> or <span data-link='SPE785'>SPE 785</span>.</em>",
+    "desc": "Independent research and study connected with preparation of thesis. May be repeated to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

@@ -1,0 +1,668 @@
+{
+  "SWK200": {
+    "course_id": "SWK200",
+    "title": "SWK 200 Introduction to Social Work",
+    "desc": "This course is an introduction to the values, knowledge, and skills that guide the profession of social work. Examines practice interventions at the individual, family, group, organization and community levels. The fields and settings for social work practice are discussed. A grade of &quot;C&quot; or better is required for admission to the BSW program. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "SWK213": {
+    "course_id": "SWK213",
+    "title": "SWK 213 Social Welfare Policy and Services I",
+    "req": "<em>Prerequisite: &quot;C&quot; or better in <span data-link='SWK200'>SWK 200</span> or concurrent enrollment.</em>",
+    "desc": "This course examines the historical development and philosophical orientation of social welfare policy and services in the United States as well as introduces students to the development of social work as a profession. The course focuses on selected major social welfare policies and programs and the philosophical, economic, social and political forces that shape their development. A grade of &quot;C&quot; or better is required for admission to the BSW program. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "SWK219": {
+    "course_id": "SWK219",
+    "title": "SWK 219 Human Diversity",
+    "req": "<em>General Education Course (Focus on Cultural Competence).</em>",
+    "desc": "Content and skill development pertinent to working with diverse racial, cultural, ethnic, and other populations such as persons with physical disabilities and mental illnesses. This course is designed primarily to inform and sensitize individuals for effective interventions within a heterogeneous society. A grade of &quot;C&quot; or better is required for admission to the BSW program. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "SWK300": {
+    "course_id": "SWK300",
+    "title": "SWK 300 Service Learning in Social Work",
+    "req": "<em>Prerequisite: 30 hours and concurrent enrollment in a social work course designated as a service learning offering (<span data-link='SWK200'>SWK 200</span>, <span data-link='SWK219'>SWK 219</span>, or <span data-link='SWK306'>SWK 306</span>).</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization or human/social service agency. Approved settings will focus on populations-at-risk, diverse populations and groups that have experienced social and economic injustice. A list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SWK306": {
+    "course_id": "SWK306",
+    "title": "SWK 306 Interviewing Skills in Generalist Social Work Practice",
+    "req": "<em>Prerequisite: admission to the BSW program.</em>",
+    "desc": "An introduction to basic interviewing skills based upon the purpose of and plan for the interview in the context of generalist social work practice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK307": {
+    "course_id": "SWK307",
+    "title": "SWK 307 Social Work Practice with Individuals",
+    "req": "<em>Prerequisite: admission to the BSW program; and <span data-link='SWK306'>SWK 306</span>.</em>",
+    "desc": "Basic principles, practice theories and skill for beginning generalist practice with individuals. Integrates practice theory and intervention skills within the context of the Generalist Intervention/Problem-Solving model. The class emphasizes personal awareness, professional growth, critical thinking and skills practice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SWK313": {
+    "course_id": "SWK313",
+    "title": "SWK 313 Social Justice",
+    "req": "<em>Prerequisite: admission to the BSW program; and <span data-link='ECO155'>ECO 155</span> or <span data-link='ECO165'>ECO 165</span> or concurrent enrollment in <span data-link='ECO155'>ECO 155</span> or <span data-link='ECO165'>ECO 165</span>; and <span data-link='PLS101'>PLS 101</span>.</em>",
+    "desc": "The primary subject matter of this course is social and economic inequality in United States society. Students are introduced to the patterns and processes of social and economic inequality in its major forms: class, race/ethnicity, gender, and sexual and political orientation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK314": {
+    "course_id": "SWK314",
+    "title": "SWK 314 Social Welfare Policy and Services II",
+    "req": "<em>Prerequisite: admission to the BSW program; and <span data-link='SWK213'>SWK 213</span>.</em>",
+    "desc": "An introduction to the analytic, interactional, value clarification and political strategies necessary for policy analysis and implementation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SWK320": {
+    "course_id": "SWK320",
+    "title": "SWK 320 Services for Women",
+    "desc": "Examination of the multiple problems women experience, and needed community resources. Areas of study broadly include women and health, violence against women, women and socio-economic status. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK325": {
+    "course_id": "SWK325",
+    "title": "SWK 325 Human Behavior and the Social Environment I",
+    "req": "<em>Prerequisite: admission to the BSW program; <span data-link='PSY121'>PSY 121</span> and <span data-link='SOC150'>SOC 150</span> or concurrent enrollment in <span data-link='PSY121'>PSY 121</span> and <span data-link='SOC150'>SOC 150</span>; and <span data-link='BIO101'>BIO 101</span> and 111, or <span data-link='BMS100'>BMS 100</span> or <span data-link='BMS105'>BMS 105</span> or <span data-link='BMS110'>BMS 110</span>.</em>",
+    "desc": "An introduction to the dynamics of human behavior and the effects of the social environment on the development of individuals and families. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK326": {
+    "course_id": "SWK326",
+    "title": "SWK 326 Human Behavior and the Social Environment II",
+    "req": "<em>Prerequisite: admission to the BSW program; and <span data-link='SWK325'>SWK 325</span>.</em>",
+    "desc": "Exploration of a broad systems&apos; approach to the generalist practice of social work. Focuses on the theories that support social work practice with groups, organizations, and communities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SWK330": {
+    "course_id": "SWK330",
+    "title": "SWK 330 Substance Abuse Interventions",
+    "desc": "Examinations of the problems of alcohol and chemical dependence. Areas of study broadly include definitions, prevalence, etiology, policies, effects on family and society, and prevention and treatment approaches. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK365": {
+    "course_id": "SWK365",
+    "title": "SWK 365 Families in Later Life",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>; and <span data-link='CFD155'>CFD 155</span> or <span data-link='CFD163'>CFD 163</span> or 30 hours.</em>",
+    "desc": "Examination of the structure and function of families in later life. Topics of interest include demographic trends impacting the structure of the family, marriage, sibling relations, parent-adult child relations, grandparenthood, widowhood, and retirement. The application of family theories and their relevance to later life families will be discussed. Identical with <span data-link='CFD365'>CFD 365</span>, <span data-link='GER365'>GER 365</span>, and <span data-link='PSY366'>PSY 366</span>. Can only receive credit for one of the following: <span data-link='CFD365'>CFD 365</span>, <span data-link='GER365'>GER 365</span>, <span data-link='PSY366'>PSY 366</span> or <span data-link='SWK365'>SWK 365</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK370": {
+    "course_id": "SWK370",
+    "title": "SWK 370 Child Welfare Services",
+    "desc": "Develop beginning competence in assessing types and benefits of different child welfare services, (i.e., foster care, adoptions, institutionalization); examination of the impact of public policies and social work practice on children and families. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK397": {
+    "course_id": "SWK397",
+    "title": "SWK 397 Special Topics",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Selected topics of contemporary interest in social work such as changing social welfare policy, specialized fields of social work, models of practice and future trends in social work. May be repeated to a total of 6 hours as topics change. Variable Content Course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SWK418": {
+    "course_id": "SWK418",
+    "title": "SWK 418 Methods of Social Research in Social Work Practice",
+    "req": "<em>Prerequisite: admission to the BSW program; <span data-link='SWK307'>SWK 307</span> and <span data-link='SWK314'>SWK 314</span> and <span data-link='SWK326'>SWK 326</span>; and one of the following statistics courses: <span data-link='SOC302'>SOC 302</span>, <span data-link='PSY200'>PSY 200</span>, <span data-link='AGR330'>AGR 330</span>, <span data-link='MTH340'>MTH 340</span>, <span data-link='QBA237'>QBA 237</span>, <span data-link='REC328'>REC 328</span>, or concurrent enrollment.</em>",
+    "desc": "The application and use of the social scientific method for conducting research and applying research to social work practice including, but not limited to, single subject research design, treatment intervention evaluation, and program evaluation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK420": {
+    "course_id": "SWK420",
+    "title": "SWK 420 Social Work Practice with Groups and Families",
+    "req": "<em>Prerequisite: admission to the BSW program; and <span data-link='SWK307'>SWK 307</span> and <span data-link='SWK314'>SWK 314</span> and <span data-link='SWK326'>SWK 326</span>.</em>",
+    "desc": "Offers basic principles of group and family (G/F) interventions with a generalist practice foundation. Contrasts G/F with other forms of social work practice. Reviews skills required to conduct clinical and task groups. Overviews skills needed to work with families. Emphasizes cultural diversity and ethical parameters when offering G/F services. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK430": {
+    "course_id": "SWK430",
+    "title": "SWK 430 Social Work Practice in Communities and Organizations",
+    "req": "<em>Prerequisite: admission to the BSW program; and <span data-link='SWK307'>SWK 307</span> and <span data-link='SWK314'>SWK 314</span> and <span data-link='SWK326'>SWK 326</span>.</em>",
+    "desc": "Problem assessment and practice interventions with macrosystems. Examines strategies and techniques for social work practice with organizations and communities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK470": {
+    "course_id": "SWK470",
+    "title": "SWK 470 Community Resources for Older Adults",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Covers the services, programs and institutions involved in providing services to older adults in the United States, with a focus on community-based services. Typical needs, issues, concerns and desires of older persons are identified and corresponding community-based services to address these needs are discussed. Emerging issues and developments in the field of gerontology will also be discussed as they relate to community services and resources. Site visits to agencies and organizations serving older adults will enhance students&apos; familiarity with resources to improve the quality of life and well-being of aging members in our society. Identical with <span data-link='GER470'>GER 470</span>. Cannot receive credit for both <span data-link='SWK470'>SWK 470</span> and <span data-link='GER470'>GER 470</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK480": {
+    "course_id": "SWK480",
+    "title": "SWK 480 Social Work Integrative Seminar",
+    "req": "<em>Prerequisite: admission to the BSW program; and <span data-link='SWK418'>SWK 418</span> and <span data-link='SWK420'>SWK 420</span> and <span data-link='SWK430'>SWK 430</span>; and concurrent enrollment in <span data-link='SWK490'>SWK 490</span>.</em>",
+    "desc": "In conjunction with <span data-link='SWK490'>SWK 490</span>, this course satisfies the Public Affairs Capstone Experience. Examines student experiences, problems, and questions related to the practicum. Integrates theory, knowledge, social work values and skills from previous social work courses to prepare generalist social work practitioners. Failure to pass this course will result in failure to pass <span data-link='SWK490'>SWK 490</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SWK490": {
+    "course_id": "SWK490",
+    "title": "SWK 490 Practicum in Social Work",
+    "req": "<em>Prerequisite: admission to the BSW program; and <span data-link='SWK418'>SWK 418</span> and <span data-link='SWK420'>SWK 420</span> and <span data-link='SWK430'>SWK 430</span>; and concurrent enrollment in <span data-link='SWK480'>SWK 480</span>.</em>",
+    "desc": "In conjunction with <span data-link='SWK480'>SWK 480</span>, this course satisfies the Public Affairs Capstone Experience. An educationally directed social work practice experience with individuals, groups, families, communities and organizations in a social service agency. Students are required to complete a minimum of 450 hours. Failure to pass this course will result in failure to pass <span data-link='SWK480'>SWK 480</span>. Supplemental course fee. Graded Pass/Not Pass only. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 9,
+      "lab": 32
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SWK496": {
+    "course_id": "SWK496",
+    "title": "SWK 496 Directed Readings in Social Work",
+    "req": "<em>Prerequisite: 6 hours of social work and permission.</em>",
+    "desc": "Readings designed to supplement material introduced in previous social work courses. Includes a wide selection from literature in the field. May be repeated to a total of 9 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SWK502": {
+    "course_id": "SWK502",
+    "title": "SWK 502 Rural Health",
+    "req": "<em>Prerequisite: junior standing.</em>",
+    "desc": "This course offers a study of health care delivery in rural communities. It includes theoretical foundations, cultural considerations and specific characteristics of rural environments and people. Local and international perspectives will be explored. This course has a community experience component. Identical with <span data-link='NUR502'>NUR 502</span>. Cannot receive credit for both <span data-link='SWK502'>SWK 502</span> and <span data-link='NUR502'>NUR 502</span>. May be taught concurrently with <span data-link='SWK602'>SWK 602</span>. Cannot receive credit for both <span data-link='SWK602'>SWK 602</span> and <span data-link='SWK502'>SWK 502</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SWK544": {
+    "course_id": "SWK544",
+    "title": "SWK 544 Family Health and Family Violence",
+    "desc": "Enhances students&apos; understanding of the theories, policies, practices, and interventions related to family violence. May be taught concurrently with <span data-link='SWK741'>SWK 741</span>. Cannot receive credit for both <span data-link='SWK544'>SWK 544</span> and <span data-link='SWK741'>SWK 741</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SWK558": {
+    "course_id": "SWK558",
+    "title": "SWK 558 Tropical Health for International Workers",
+    "desc": "This non-clinical course will provide the student with the ability to assess tropical health risks in a remote setting, to take steps to protect the individual and the community from common threats, and to communicate health information to a diverse community in a culturally appropriate and effective manner. The course will be taught at the Yachana ecolodge on the Napo river in Ecuador, providing students with the opportunity to become familiar with the health risks of a remote tropical environment and to interact with the culture of an indigenous population in the setting of a public health program. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "SWK595": {
+    "course_id": "SWK595",
+    "title": "SWK 595 Grant Writing in the Health and Human Services",
+    "req": "<em>Prerequisite: junior standing; and permission of instructor.</em>",
+    "desc": "This online course offers an interdisciplinary approach to understanding grant writing and how health and human service professionals can collaborate for successful proposal writing. Course will focus on practical skills needed to develop proposals, budgets, and evaluation plans. Attention will be given to preparing a competitive grant proposal. This course will cover the basics of proposals - purpose statements, background and justification, aims or objectives, personnel, time line, methods, budget, and evaluation, and how to effectively manage grants once they are funded. Grant writing is related to health and human services that stress access to and availability of resources. The needs of culturally diverse groups or communities will be discussed in this course, along with the particulars of proposals that may be most effective in meeting such needs. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SWK597": {
+    "course_id": "SWK597",
+    "title": "SWK 597 Special Topics",
+    "req": "<em>Prerequisite: junior standing.</em>",
+    "desc": "Selected topic of advanced content in social work, relevant to fields of practice or practice methodologies. May be repeated to a total of 6 hours as topics change. May be taught concurrently with <span data-link='SWK699'>SWK 699</span>. Cannot receive credit for both <span data-link='SWK699'>SWK 699</span> and <span data-link='SWK597'>SWK 597</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SWK598": {
+    "course_id": "SWK598",
+    "title": "SWK 598 Ethical Dimensions of Social Work",
+    "req": "<em>Prerequisite: junior standing.</em>",
+    "desc": "Examines the ethical dimensions of social work in the context of ethical issues related to practice; including tensions intrinsic to the mission of social work, and examination of various philosophical frameworks and codes of ethics, analysis of larger systems that create and sanction specific values and ethics, legal issues, and decision-making strategies. May be taught concurrently with <span data-link='SWK698'>SWK 698</span>. Cannot receive credit for both <span data-link='SWK698'>SWK 698</span> and <span data-link='SWK598'>SWK 598</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SWK599": {
+    "course_id": "SWK599",
+    "title": "SWK 599 Health Literacy in the Human Services",
+    "req": "<em>Prerequisite: junior standing and permission of instructor.</em>",
+    "desc": "This online course offers an interdisciplinary approach to understanding functional health literacy and how the public&apos;s literacy skills affect interactions with health and human services professionals. Includes an examination of the data for national and international literacy levels and populations at risk for low literacy; research on health literacy; assessment tools; and practical techniques for addressing literacy issues in spoken and written communications at the practitioner and organizational levels. Identical with <span data-link='BMS599'>BMS 599</span>. Cannot receive credit for both <span data-link='SWK599'>SWK 599</span> and <span data-link='BMS599'>BMS 599</span>. May be taught concurrently with <span data-link='SWK696'>SWK 696</span>. Cannot receive credit for both <span data-link='SWK599'>SWK 599</span>/696 and <span data-link='BMS599'>BMS 599</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SWK602": {
+    "course_id": "SWK602",
+    "title": "SWK 602 Rural Health",
+    "desc": "This course offers a study of health care delivery in rural communities. It includes theoretical foundations, cultural considerations and specific characteristics of rural environments and people. Local and international perspectives will be explored. This course has a community experience component. Identical with <span data-link='NUR502'>NUR 502</span>. Cannot receive credit for both <span data-link='SWK502'>SWK 502</span> and <span data-link='NUR502'>NUR 502</span>. May be taught concurrently with <span data-link='SWK502'>SWK 502</span>. Cannot receive credit for both <span data-link='SWK502'>SWK 502</span> and <span data-link='SWK602'>SWK 602</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SWK695": {
+    "course_id": "SWK695",
+    "title": "SWK 695 Forensics Social Work",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course teaches social workers to work in legal settings (e.g., criminal court, civil court, juvenile court, family court, prisons, jails). A broad range of topics is discussed that give students exposure to various types of forensic social work. This course is designed to assist students in preparing for various practice settings where social work and the law intersect. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SWK696": {
+    "course_id": "SWK696",
+    "title": "SWK 696 Health Literacy in the Human Services",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This online course offers an interdisciplinary approach to understanding functional health literacy and how the public&apos;s literacy skills affect interactions with health and human services professionals. Includes an examination of the data for national and international literacy levels and populations at risk for low literacy; research on health literacy; assessment tools; and practical techniques for addressing literacy issues in spoken and written communications at the practitioner and organizational levels. May be taught concurrently with <span data-link='SWK696'>SWK 696</span>. Cannot receive credit for both <span data-link='SWK696'>SWK 696</span> and <span data-link='SWK599'>SWK 599</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SWK698": {
+    "course_id": "SWK698",
+    "title": "SWK 698 Ethical Dimensions of Social Work",
+    "desc": "Examines the ethical dimensions of social work in the context of ethical issues related to practice; including tensions intrinsic to the mission of social work, and examination of various philosophical frameworks and codes of ethics, analysis of larger systems that create and sanction specific values and ethics, legal issues, and decision-making strategies. May be taught concurrently with <span data-link='SWK598'>SWK 598</span>. Cannot receive credit for both <span data-link='SWK598'>SWK 598</span> and <span data-link='SWK698'>SWK 698</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SWK699": {
+    "course_id": "SWK699",
+    "title": "SWK 699 Special Topics",
+    "desc": "Selected topic of advanced content in social work, relevant to fields of practice or practice methodologies. May be repeated to a total of 6 hours as topics change. May be taught concurrently with <span data-link='SWK597'>SWK 597</span>. Cannot receive credit for both <span data-link='SWK597'>SWK 597</span> and <span data-link='SWK699'>SWK 699</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SWK705": {
+    "course_id": "SWK705",
+    "title": "SWK 705 Human Behavior and Social Environment",
+    "req": "<em>Prerequisite: admission to MSW program.</em>",
+    "desc": "Content on life span development and the influence of various systems on the individual. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK710": {
+    "course_id": "SWK710",
+    "title": "SWK 710 Foundations in Social Work Practice with Individuals",
+    "req": "<em>Prerequisite: admission to MSW program.</em>",
+    "desc": "Within a generalist framework, course provides an ethically-based, theory-driven, culturally competent approach to delivering professional social work services to individuals with varied issues and practice settings. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK715": {
+    "course_id": "SWK715",
+    "title": "SWK 715 Social Welfare Policy and Services",
+    "req": "<em>Prerequisite: admission to MSW program or permission.</em>",
+    "desc": "Covers the historical development, philosophical orientation, and analysis of social welfare policy and services in the United States. Examines social welfare policy in multiple areas. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK725": {
+    "course_id": "SWK725",
+    "title": "SWK 725 Foundations in Social Work Practice with Families and Groups",
+    "req": "<em>Prerequisite: admission to MSW program.</em>",
+    "desc": "Within a generalist framework, this course focuses on basic skills and concepts related to social work practice with groups and families. Topics include the basic skills required to facilitate group process and tasks, contrast between non-kin groups and family sessions, and strategies for working with families. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK726": {
+    "course_id": "SWK726",
+    "title": "SWK 726 Foundations in Social Work Practice with Communities and Organizations",
+    "req": "<em>Prerequisite: admission to MSW program.</em>",
+    "desc": "Uses social work methods to focus on the dynamics associated with organizational and community generalist practice. This course provides a knowledge base (i.e., theory, research, and practice wisdom), values, and practice skills for the generalist social work profession. Concentration will be on social work practice occurring with organizations and communities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SWK730": {
+    "course_id": "SWK730",
+    "title": "SWK 730 Perspectives in Human Diversity and Societal Systems",
+    "desc": "Theoretical perspectives and research findings on various populations at risk and the role of societal institutions in perpetuating social and economic injustice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SWK740": {
+    "course_id": "SWK740",
+    "title": "SWK 740 Social Work Field Practicum I",
+    "req": "<em>Prerequisite: admission to MSW program; and completion of, or concurrent enrollment with, all other foundation courses.</em>",
+    "desc": "Supervised social work experience in a social agency in the community with accompanying field instructional seminar. Seminar enhances student&apos;s integration of coursework learning practice and skills; examines student experiences in field agency. Students must complete 450 hours in placement; practicum liability insurance fee required. Supplemental course fee. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SWK741": {
+    "course_id": "SWK741",
+    "title": "SWK 741 Family Health and Family Violence",
+    "desc": "Enhances students&apos; understanding of the theories, policies, practices, and interventions related to family violence. May be taught concurrently with <span data-link='SWK544'>SWK 544</span>. Cannot receive credit for both <span data-link='SWK741'>SWK 741</span> and <span data-link='SWK544'>SWK 544</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SWK742": {
+    "course_id": "SWK742",
+    "title": "SWK 742 Family Health and Substance Abuse",
+    "desc": "This course provides an opportunity for the students to understand the problems of alcohol and drug use and dependence, and their impact on family health. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SWK743": {
+    "course_id": "SWK743",
+    "title": "SWK 743 Management and Program Development in Human Service",
+    "desc": "Develop knowledge and skills for effective supervisors and administrators in human service organizations. Students will also learn grant proposal writing and develop an understanding of their management style and philosophy. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SWK746": {
+    "course_id": "SWK746",
+    "title": "SWK 746 Foundations in Social Work Research",
+    "req": "<em>Prerequisite: admission to MSW program; and Advanced Standing or completion of all foundation coursework; or permission of department.</em>",
+    "desc": "Teaches foundational knowledge and skills in key social work research methods; reviews research concepts and tools most frequently encountered by the family-focused social work practitioner. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "SWK750": {
+    "course_id": "SWK750",
+    "title": "SWK 750 Human Behavior and Family Systems",
+    "req": "<em>Prerequisite: admission to MSW program; and Advanced Standing or completion of all foundation coursework.</em>",
+    "desc": "Examines the family within an ecosystemic context and provides key perspectives related to family development and how individual family member development affects and is affected by the family system. Also provides key foundations in Family Health Social Work Practice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "SWK754": {
+    "course_id": "SWK754",
+    "title": "SWK 754 Perspectives on Individual and Family Health Assessment",
+    "req": "<em>Prerequisite: <span data-link='SWK750'>SWK 750</span>; and admission to MSW program.</em>",
+    "desc": "Advanced topics related to individual and family-based assessment systems and tools. Provides basic awareness of when to use various individually-focused assessment (e.g., DSM-IV) and family focused assessment (e.g., FAD). ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK755": {
+    "course_id": "SWK755",
+    "title": "SWK 755 Family Health Social Work Practice I",
+    "req": "<em>Prerequisite: <span data-link='SWK750'>SWK 750</span>; and admission to MSW program.</em>",
+    "desc": "Key theories and skills related to advanced social work practice with couples and families. Incorporates role-plays and/or class exercises to practice key family interaction skills. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK756": {
+    "course_id": "SWK756",
+    "title": "SWK 756 Family Health Social Work Practice II",
+    "req": "<em>Prerequisite: <span data-link='SWK754'>SWK 754</span> and <span data-link='SWK755'>SWK 755</span>; and admission to MSW program.</em>",
+    "desc": "Advanced assessment and family-centered practice interventions related to the family health perspective. Discusses problem identification and intervention for family-focused practice issues; also advanced practice theory integration and application. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SWK760": {
+    "course_id": "SWK760",
+    "title": "SWK 760 Family Health Policy",
+    "req": "<em>Prerequisite: <span data-link='SWK750'>SWK 750</span>; and admission to MSW program.</em>",
+    "desc": "Assists students in understanding how policies affecting family health are designed. Provides an analysis of the family health care delivery systems in the United States and other countries. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SWK780": {
+    "course_id": "SWK780",
+    "title": "SWK 780 Social Work Field Practicum II",
+    "req": "<em>Prerequisite: admission to MSW program; and field coordinator approval; and completion of, or concurrent enrollment in, all other concentration courses.</em>",
+    "desc": "Supervised social work experience in a social service agency in the community with accompanying field instructional seminar. Seminar enhances student&apos;s integration of coursework learning and practice skills; examines student experiences in field agency. Students must complete 525 hours in placement; practicum liability insurance fee required. Supplemental course fee. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SWK797": {
+    "course_id": "SWK797",
+    "title": "SWK 797 Applications in Social Work Research",
+    "req": "<em>Prerequisite: <span data-link='SWK746'>SWK 746</span>; and admission to MSW program.</em>",
+    "desc": "Teaches advanced knowledge and skills in key social work research methods; reviews key research applications in social work practice settings, including evaluation of practice and program evaluation. Integration between research projects and student&apos;s professional interests in the field are encouraged. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  }
+}

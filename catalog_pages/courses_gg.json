@@ -1,0 +1,2263 @@
+{
+  "GRY100": {
+    "course_id": "GRY100",
+    "title": "GRY 100 World Regional Geography",
+    "req": "<em>General Education Course (Focus on Cultural Competence).</em>",
+    "desc": "An examination of the world&apos;s geographic regions focusing on the location of Earth&apos;s major physical features, human populations and cultures, and their interaction. Topics include natural systems, globalization, ethnic and geopolitical conflicts, and human impacts upon the environment. This course provides both an introduction to geography as a discipline and a basic geographic foundation for those interested in current international issues, politics, history and public affairs. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY108": {
+    "course_id": "GRY108",
+    "title": "GRY 108 Principles of Sustainability",
+    "req": "<em>General Education Course (Focus on Social and Behavioral Sciences).</em>",
+    "desc": "An introduction to the multidisciplinary concept of &quot;sustainability,&quot; including the difficulty of defining sustainability and implementing sustainable development programs. Emphasis is placed on understanding basic environmental and social processes and patterns and how they relate to current events. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY135": {
+    "course_id": "GRY135",
+    "title": "GRY 135 Principles of Weather and Climate",
+    "req": "<em>General Education Course (Focus on Physical Sciences).</em>",
+    "desc": "An introductory survey of the earth&apos;s weather and climate. A description of the physical processes of the atmosphere is followed by a survey of the world&apos;s varied climatic regions. The laboratory involves the preparation and interpretation of meteorological data and the classification of climates. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY142": {
+    "course_id": "GRY142",
+    "title": "GRY 142 Introductory Physical Geography",
+    "req": "<em>General Education Course (Focus on Physical Sciences).</em>",
+    "desc": "A study of the earth&apos;s natural systems including weather and climate, rocks and minerals, landforms and processes of landform development, biogeography, water resources and soils. Map fundamentals and the interrelationships of the geographic factors of the natural environment are emphasized. Students who take <span data-link='GRY240'>GRY 240</span> and <span data-link='GRY142'>GRY 142</span> may receive credit for only one of these courses. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY143": {
+    "course_id": "GRY143",
+    "title": "GRY 143 Physical Geography Laboratory",
+    "desc": "Laboratory instruction in the earth&apos;s natural systems including weather and climate, rocks and minerals, landforms and processes of landform development, biogeography, water resources and soils. Map fundamentals and the interrelationships of the geographic factors of the natural environment are emphasized. This course is open only to transfer students who have already completed a 3-credit course equivalent to the lecture portion of <span data-link='GRY142'>GRY 142</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY197": {
+    "course_id": "GRY197",
+    "title": "GRY 197 Selected Topics in Geography I",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Course devoted to a single topic that can vary from semester to semester depending on student and faculty interest. Topics are limited to those requiring no prior geography background. Examples: Geography of the Home Community, Geography of Energy Resources, Geography of Sport. Students should check the semester class schedule to determine the topic title for any given semester. May be repeated to a total of 5 hours credit. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY240": {
+    "course_id": "GRY240",
+    "title": "GRY 240 Earth Science for Teachers",
+    "req": "<em>Prerequisite: 30 hours; open only to Early Childhood, Elementary, and Middle School majors.</em>",
+    "desc": "A course designed to give students an understanding of the processes of science and the basic concepts of earth science using the inquiry approach in hands-on laboratory activities. Content includes maps, earth in space, weather and climate, soils and vegetation, rocks and minerals, landforms, processes of landform development, water resources, environmental relationship to the physical setting. Does not apply toward the major in Secondary Education. Students who take <span data-link='GRY240'>GRY 240</span> and <span data-link='GRY142'>GRY 142</span> may receive credit for only one of these courses. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY275": {
+    "course_id": "GRY275",
+    "title": "GRY 275 Introduction to Plane Surveying",
+    "req": "<em>Prerequisite: <span data-link='MTH138'>MTH 138</span> or <span data-link='MTH181'>MTH 181</span> or <span data-link='MTH261'>MTH 261</span> or <span data-link='MTH287'>MTH 287</span>.</em>",
+    "desc": "Fundamental concepts and practices of land surveying. Practical exercises comparable to those used at Missouri University of Science and Technology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GRY300": {
+    "course_id": "GRY300",
+    "title": "GRY 300 Geography of the United States",
+    "desc": "Physical and cultural regions of the United States, including their characteristics and resource utilization. Topics include landforms, climates, natural resources, economic activities, and cultural and political patterns. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GRY301": {
+    "course_id": "GRY301",
+    "title": "GRY 301 Geography of the Ozarks",
+    "desc": "Physical and cultural geography of the Ozarks. Surveys basic geology, landforms, soils, vegetation and the geography of settlement, population, major economic activities, lifestyles and the cultural landscape. Emphasis on historical development and spatial distributions. Field trip required. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY305": {
+    "course_id": "GRY305",
+    "title": "GRY 305 Selected World Regions",
+    "desc": "An in-depth study of selected regions of the world. Examples: Tropical Areas, Arid Regions, Polar Regions, Pacific Islands, Australia and New Zealand. Surveys geology, landforms, soil, vegetation, climate, settlement, population, economic activities and the cultural landscape. The course will be devoted to a single region that can vary from semester to semester. Students should check the current registration schedule to determine the topic title for any given semester. Since topics vary, the course may be repeated with permission. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY308": {
+    "course_id": "GRY308",
+    "title": "GRY 308 Geography of World Tourism",
+    "desc": "A systematic description and analysis of the world&apos;s major tourism destination regions with special emphasis on World Heritage sites. Case studies will examine the role local communities play in the sustainable development of sites with special natural and/or cultural value. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY310": {
+    "course_id": "GRY310",
+    "title": "GRY 310 Fundamentals of Tourism",
+    "desc": "Tourism is analyzed from the academic perspective. This course incorporates concepts, principles, and theories from disciplines such as psychology, economics, and marketing that greatly influence the industry. The course covers the destination, marketing, demand, and transportation. It connects the geographical elements and the impact of tourism, while also analyzing the government regulations that attempt to mitigate negative results. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GRY315": {
+    "course_id": "GRY315",
+    "title": "GRY 315 Service Learning in Geography",
+    "req": "<em>Prerequisite: 30 hours and concurrent enrollment in a Geography course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in Geography to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY316": {
+    "course_id": "GRY316",
+    "title": "GRY 316 Geography of Global Health and Disease",
+    "desc": "An examination of global health and disease patterns from a geographic perspective. Part of the course focuses on disease and the impacts of globalization, economic development, land use, pollution, climate change, and cultural beliefs and practices. The rest of the course examines traditional and western health care systems and the distribution of health care resources. Topics include global pandemics, emerging diseases, health care accessibility, and disease mapping. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GRY318": {
+    "course_id": "GRY318",
+    "title": "GRY 318 Geography of the National Parks",
+    "desc": "A survey of the U.S. National Park system and national and international protected areas. Topics include natural and cultural heritage, park management, and the role of interpretation in creating a unique sense of place. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GRY320": {
+    "course_id": "GRY320",
+    "title": "GRY 320 Cultural Geography",
+    "desc": "Geographic exploration of material and nonmaterial elements of culture, focusing on spatial patterns, regional similarities, unique places, and the changing imprint on the natural landscape. Specific topics include settlement, agriculture, language, religion, foodways, music, sport, and their spatial interrelationships. Discussions and readings will encompass global, national, and local scales. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GRY321": {
+    "course_id": "GRY321",
+    "title": "GRY 321 Economic Geography",
+    "req": "<em>Prerequisite: 30 hours.</em>",
+    "desc": "Location, distribution and extent of world economic activity. Topics include resource extraction, agriculture, manufacturing, retailing, and services. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GRY322": {
+    "course_id": "GRY322",
+    "title": "GRY 322 Urban Geography",
+    "desc": "With an emphasis on patterns, this course documents the growth of cities, the reasons for that growth, presents models of urban structure, describes transportation systems, residential concentration, and commercial activities. Finally, current urban problems are identified. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GRY323": {
+    "course_id": "GRY323",
+    "title": "GRY 323 World Political Geography",
+    "desc": "Survey of the field of political geography based on the concept of the State. Major topics include territoriality, the development and decline of the nation-state, frontiers and borderlands, colonialism, historical and contemporary geopolitics, and international environmental laws. Modern political issues dealing with ethnicity, sovereignty, ecology, and energy will be discussed from a geographic perspective. This is an upper-division geography course, and students are encouraged to have completed <span data-link='GRY100'>GRY 100</span> (World Regional Geography) prior to taking this course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GRY328": {
+    "course_id": "GRY328",
+    "title": "GRY 328 Principles of Geotourism",
+    "req": "<em>Prerequisite: <span data-link='GRY308'>GRY 308</span> and <span data-link='GRY310'>GRY 310</span>.</em>",
+    "desc": "From landscapes, habitats and species to global events such as the Olympics, the ways in which humans interact, impact and explore the world leave indelible &quot;footprints&quot;. The students will be introduced to some of the key concepts and methods used to investigate and make sense of the role, significance and impact of tourism that sustains or enhances the geographical character of a place--its environment, culture, aesthetics, heritage, and the well-being of its residents. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GRY348": {
+    "course_id": "GRY348",
+    "title": "GRY 348 Geomorphology",
+    "req": "<em>Prerequisite: <span data-link='GRY142'>GRY 142</span> or <span data-link='GLG110'>GLG 110</span> or both <span data-link='GLG171'>GLG 171</span> and <span data-link='GLG172'>GLG 172</span>.</em>",
+    "desc": "Geomorphology is the study of the origin, composition, and spatial distribution of surface landforms and their formative processes such as tectonic forces, chemical and physical weathering, and erosion and deposition of by water, wind, and ice. Emphasis is on geomorphic processes and landform development, methods of landform analysis, and environmental management. Case study approach is used to apply geomorphic concepts to understanding environmental hazards and sustainability and the role of humans as geomorphic agents. Field trips required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GRY351": {
+    "course_id": "GRY351",
+    "title": "GRY 351 Conservation of Natural Resources",
+    "req": "<em>Prerequisite: 30 hours.</em>",
+    "desc": "An examination of the dynamic interplay between physical, economic, social, and political factors affecting the major natural resource issues facing the world today. A presentation of the laws of the natural environment followed by an analysis of conservation issues and problems that occur in response to human use of the natural environment. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY353": {
+    "course_id": "GRY353",
+    "title": "GRY 353 Geographic Field Studies",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Field methods in physical and cultural geography involving the collection and analysis of data. Fields trips required. Graded Pass/Not Pass only. Supplemental course fee. Variable content course; because destinations vary, the course may be repeated to a total of 4 hours. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY360": {
+    "course_id": "GRY360",
+    "title": "GRY 360 Interpretation of Aerial Photography",
+    "req": "<em>Prerequisite: 30 hours.</em>",
+    "desc": "Detection, identification, and analysis of objects or features from film and digital aerial photography and other types of high resolution remotely sensed images. Laboratory emphasizes manual and digital image interpretation for land cover mapping, forestry, agriculture, geology, and planning applications. Field trip is required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GRY363": {
+    "course_id": "GRY363",
+    "title": "GRY 363 Introduction to Geographic Information Science",
+    "req": "<em>Prerequisite: 30 hours.</em>",
+    "desc": "Introduction to the foundations of geographic information systems (GIS), digital cartography, global positioning systems (GPS), and remote sensing used in academia, government agencies, and private industries. Topics include maps, data collection, data processing, and data analysis and display. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY367": {
+    "course_id": "GRY367",
+    "title": "GRY 367 Research Methods in Geography and Planning",
+    "req": "<em>Prerequisite: <span data-link='MTH340'>MTH 340</span> or <span data-link='AGR330'>AGR 330</span> or <span data-link='PSY200'>PSY 200</span> or <span data-link='QBA237'>QBA 237</span> or <span data-link='REC328'>REC 328</span> or <span data-link='SOC302'>SOC 302</span>.</em>",
+    "desc": "With emphasis on applications of descriptive and inferential statistics this course will introduce methods of sampling procedures, collecting, organizing, interpreting and analyzing data related to geography and planning. This course will also include computer applications. Cannot receive credit for both <span data-link='GRY367'>GRY 367</span> and <span data-link='PLN367'>PLN 367</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY375": {
+    "course_id": "GRY375",
+    "title": "GRY 375 Advanced Plane Surveying",
+    "req": "<em>Prerequisite: <span data-link='GRY275'>GRY 275</span>.</em>",
+    "desc": "Office and field techniques used in route surveying including circular, transitional and parabolic curves. Topographic mapping applications, slope stake and earthwork computations. Field astronomy, state plane coordinates, boundary control and USPLS surveys. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY377": {
+    "course_id": "GRY377",
+    "title": "GRY 377 Legal Aspects of Boundary Surveying",
+    "req": "<em>Prerequisite: <span data-link='GRY375'>GRY 375</span>.</em>",
+    "desc": "The legal principles of surveying: Missouri surveying law, Boundary Control, and the role of the surveyor within the judicial frame work of the court system. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY379": {
+    "course_id": "GRY379",
+    "title": "GRY 379 Surveying Computations",
+    "req": "<em>Prerequisite: <span data-link='GRY375'>GRY 375</span>.</em>",
+    "desc": "Computations in horizontal control networks, projections including Universal Transverse Mercator and State Plane Coordinates, Practical Astronomy, and Global Positioning Systems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY397": {
+    "course_id": "GRY397",
+    "title": "GRY 397 Selected Topics in Geography II",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Course devoted to a single topic that can vary from semester to semester depending upon student and faculty interest. Topics generally require previous training in geography. Examples: Geography of Water Resources, Tornadoes and other Violent Storms. Students should check the current registration schedule to determine the topic title for any given semester. Since credit and topics vary, this course may be repeated, with permission, to a total of 5 hours credit. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY399": {
+    "course_id": "GRY399",
+    "title": "GRY 399 Internship in Geography",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Work experience in geography. Students have periodic conferences with geosciences department faculty and supervisory personnel of the employing business or agency. May be repeated to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY410": {
+    "course_id": "GRY410",
+    "title": "GRY 410 The Geotourism Industry",
+    "req": "<em>Prerequisite: <span data-link='GRY328'>GRY 328</span>.</em>",
+    "desc": "This course includes the asset theory of tourism, cost-benefit analysis, tax policy impacts, and other economic and statistical aspects of tourism, approached from the elements in the Geotourism perspective. The course will examine research designed to determine economic impacts of the Geotourism industry, and study sustainability issues associated with tourism development. Attention paid to the conflicting agenda of society&apos;s various stakeholders and the need to reconcile environmental, economic and sociocultural concerns. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GRY470": {
+    "course_id": "GRY470",
+    "title": "GRY 470 International Field Study in Geography",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Focuses on a geography issue or issues affecting an international geographic location. Travel to field location outside the United States is required. In order to apply geographic theory to practical settings the collection and analysis of field data is required. Graded Pass/Not Pass only. Variable content course; because destinations vary, the course may be repeated to a total of 4 hours. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY495": {
+    "course_id": "GRY495",
+    "title": "GRY 495 Undergraduate Research in Geography",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Enrichment through guided but independent, original research in geography and geography related subject areas. May be repeated for a total of 6 credit hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY496": {
+    "course_id": "GRY496",
+    "title": "GRY 496 Readings in Geography",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Selected readings and reports on geographical literature. May be repeated to a total of 4 hours. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY497": {
+    "course_id": "GRY497",
+    "title": "GRY 497 Special Topics in Geography",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Open to departmental majors and minors. Outstanding students obtain additional experience through guided independent study in geography. May be repeated to a total of 5 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY498": {
+    "course_id": "GRY498",
+    "title": "GRY 498 Placement Seminar in Geography, Geospatial Sciences and Planning",
+    "req": "<em>Prerequisite: 90 hours.</em>",
+    "desc": "Readings and discussion of current trends in geography, geospatial sciences, and planning with consideration given to future employment. A senior assessment evaluation is included in this course. Public Affairs Capstone Experience course. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY507": {
+    "course_id": "GRY507",
+    "title": "GRY 507 Geography of Subsaharan Africa",
+    "desc": "An in-depth geographic study of Africa south of the Sahara Desert. Surveys physical and political geography, climate, tribalism, religion, demography, natural resources, transportation, industry and economic activities of African states South of the Sahara. Students are required to complete one research project. May be taught concurrently with <span data-link='GRY607'>GRY 607</span>. Cannot receive credit for both <span data-link='GRY607'>GRY 607</span> and <span data-link='GRY507'>GRY 507</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY510": {
+    "course_id": "GRY510",
+    "title": "GRY 510 Applications in Sustainable Geotourism",
+    "req": "<em>Prerequisite: <span data-link='GRY410'>GRY 410</span>.</em>",
+    "desc": "This course will explore environmentally and socially responsible tourism strategies and innovations, and provide tools needed by private and public tourism entities to work together. The principles of Geotourism will be applied in a practicum to a local, regional or national community. Students will work as a team and individually to develop a tourism policy and plan based on Geotourism parameters. May be taught concurrently with <span data-link='GRY610'>GRY 610</span>. Cannot receive credit for both <span data-link='GRY510'>GRY 510</span> and <span data-link='GRY610'>GRY 610</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GRY525": {
+    "course_id": "GRY525",
+    "title": "GRY 525 Environmental Hazards",
+    "req": "<em>Prerequisite: <span data-link='GRY142'>GRY 142</span> or both <span data-link='GRY135'>GRY 135</span> and <span data-link='GLG110'>GLG 110</span>.</em>",
+    "desc": "Identification, recognition, and impact of hazards. Physical exposure to hazards and human vulnerability in LDCs and MDCs. Disaster trends and patterns. Behavioral and structural paradigms of hazards. EM-DAT: international disaster database. Statistical methods used in risk assessments. Risk perception, communication, and disaster management. Tectonic, mass movement, atmospheric, hydrological, biophysical, and technological hazards: analysis, preparedness, and mitigation. May be taught concurrently with <span data-link='GRY625'>GRY 625</span>. Cannot receive credit for both <span data-link='GRY625'>GRY 625</span> and <span data-link='GRY525'>GRY 525</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GRY535": {
+    "course_id": "GRY535",
+    "title": "GRY 535 Global Climate and Weather Cycles",
+    "req": "<em>Prerequisite: <span data-link='GRY135'>GRY 135</span>; and <span data-link='MTH340'>MTH 340</span> or <span data-link='AGR330'>AGR 330</span> or <span data-link='PSY200'>PSY 200</span> or <span data-link='QBA237'>QBA 237</span> or <span data-link='REC328'>REC 328</span>.</em>",
+    "desc": "Energy and mass exchanges. Global atmospheric circulation; surface and upper-air flows. Index cycle: zonal and meridional atmospheric circulations. Teleconnections and atmospheric oscillations: NAO, PNA, PDO, AO, ENSO, and AMO. Interactions between atmospheric oscillations and surface climatic variables in the United States and around the world. Weather cycles, natural climatic variability and climate change. Drought indices. Spatial and temporal statistical domains used in climatic data analysis. May be taught concurrently with <span data-link='GRY635'>GRY 635</span>. Cannot receive credit for both <span data-link='GRY635'>GRY 635</span> and <span data-link='GRY535'>GRY 535</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY545": {
+    "course_id": "GRY545",
+    "title": "GRY 545 Global Environmental Change",
+    "desc": "Energy and mass fluxes and storages in the interlinked physical components of the ecosphere. Chemistry of the global atmosphere. Role of the oceans and thermohaline circulation. Land use and land cover influences on terrestrial ecosystems. Concepts of environmental cycles, thresholds, resilience, recovery and response times. Understanding past environmental changes. Causes, mechanisms and likely impacts of natural and anthropogenically-induced changes on the global environment. Predictive models on global environmental change. May be taught concurrently with <span data-link='GRY645'>GRY 645</span>. Cannot receive credit for both <span data-link='GRY545'>GRY 545</span> and <span data-link='GRY645'>GRY 645</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY550": {
+    "course_id": "GRY550",
+    "title": "GRY 550 Fluvial Geomorphology",
+    "desc": "Study of the formation, composition, distribution of fluvial landforms. Emphasis is on channel hydrology, quantification of geomorphic relationships, reach and watershed-scale processes, sediment transport, water and sediment contamination, and management applications to streams in the Ozarks Region as well as other places. Field work may be required. May be taught concurrently with <span data-link='GRY650'>GRY 650</span>. Cannot receive credit for both <span data-link='GRY550'>GRY 550</span> and <span data-link='GRY650'>GRY 650</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GRY596": {
+    "course_id": "GRY596",
+    "title": "GRY 596 Topical Issues in Education",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Selected topics in geography and earth science to upgrade understandings and skills in improvement of elementary or secondary teaching. Each course is concerned with a single topic or subject matter area. Number of class hours determined by semester hours of credit. May be repeated to a total of 5 hours credit. Variable content course. May be taught concurrently with <span data-link='GRY696'>GRY 696</span>. Cannot receive credit for both <span data-link='GRY696'>GRY 696</span> and <span data-link='GRY596'>GRY 596</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY597": {
+    "course_id": "GRY597",
+    "title": "GRY 597 Special Topics in Geography",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Selected topics in geography. Special topics will be included in the class schedule for each term. Field trips may be required. Number of class hours determined by semester hours of credit. May be repeated to a maximum of 6 hours credit. Variable content course. May be taught concurrently with <span data-link='GRY697'>GRY 697</span>. Cannot receive credit for both <span data-link='GRY697'>GRY 697</span> and <span data-link='GRY597'>GRY 597</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY599": {
+    "course_id": "GRY599",
+    "title": "GRY 599 Research in Geography",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Enrichment through guided but independent, original research in geography and geography related subject areas. May be repeated for a total of 6 credit hours. May be taught concurrently with <span data-link='GRY698'>GRY 698</span>. Cannot receive credit for both <span data-link='GRY698'>GRY 698</span> and <span data-link='GRY599'>GRY 599</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY607": {
+    "course_id": "GRY607",
+    "title": "GRY 607 Geography of Subsaharan Africa",
+    "desc": "An in-depth geographic study of Africa south of the Sahara Desert. Surveys physical and political geography, climate, tribalism, religion, demography, natural resources, transportation, industry and economic activities of African states South of the Sahara. Students are required to complete two research projects. May be taught concurrently with <span data-link='GRY507'>GRY 507</span>. Cannot receive credit for both <span data-link='GRY507'>GRY 507</span> and <span data-link='GRY607'>GRY 607</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY610": {
+    "course_id": "GRY610",
+    "title": "GRY 610 Applications in Sustainable Geotourism",
+    "desc": "Recommended Prerequisite: <span data-link='GRY410'>GRY 410</span>. This course will explore environmentally and socially responsible tourism strategies and innovations, and provide tools needed by private and public tourism entities to work together. The principles of Geotourism will be applied in a practicum to a local, regional or national community. Students will work as a team and individually to develop a tourism policy and plan based on Geotourism parameters. May be taught concurrently with <span data-link='GRY510'>GRY 510</span>. Cannot receive credit for both <span data-link='GRY610'>GRY 610</span> and <span data-link='GRY510'>GRY 510</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GRY625": {
+    "course_id": "GRY625",
+    "title": "GRY 625 Environmental Hazards",
+    "desc": "Recommended Prerequisite: <span data-link='GRY142'>GRY 142</span>; or both <span data-link='GRY135'>GRY 135</span> and <span data-link='GLG110'>GLG 110</span>. Identification, recognition, and impact of hazards. Physical exposure to hazards and human vulnerability in LDCs and MDCs. Disaster trends and patterns. Behavioral and structural paradigms of hazards. EM-DAT: international disaster database. Statistical methods used in risk assessments. Risk perception, communication, and disaster management. Tectonic, mass movement, atmospheric, hydrological, biophysical, and technological hazards: analysis, preparedness, and mitigation. May be taught concurrently with <span data-link='GRY525'>GRY 525</span>. Cannot receive credit for both <span data-link='GRY525'>GRY 525</span> and <span data-link='GRY625'>GRY 625</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GRY635": {
+    "course_id": "GRY635",
+    "title": "GRY 635 Global Climate and Weather Cycles",
+    "desc": "Recommended Prerequisite: <span data-link='GRY135'>GRY 135</span>; and <span data-link='MTH340'>MTH 340</span> or <span data-link='AGR330'>AGR 330</span> or <span data-link='ECO308'>ECO 308</span> or <span data-link='PSY200'>PSY 200</span> or <span data-link='QBA237'>QBA 237</span> or <span data-link='REC328'>REC 328</span> or <span data-link='SOC302'>SOC 302</span>. Energy and mass exchanges. Global atmospheric circulation; surface and upper-air flows. Index cycle: zonal and meridional atmospheric circulations. Teleconnections and atmospheric oscillations: NAO, PNA, PDO, AO, ENSO, and AMO. Interactions between atmospheric oscillations and surface climatic variables in the United States and around the world. Weather cycles, natural climatic variability and climate change. Drought indices. Spatial and temporal statistical domains used in climatic data analysis. May be taught concurrently with <span data-link='GRY535'>GRY 535</span>. Cannot receive credit for both <span data-link='GRY535'>GRY 535</span> and <span data-link='GRY635'>GRY 635</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY645": {
+    "course_id": "GRY645",
+    "title": "GRY 645 Global Environmental Change",
+    "desc": "Recommended Prerequisite: <span data-link='GRY142'>GRY 142</span> or both <span data-link='GRY135'>GRY 135</span> and <span data-link='GLG110'>GLG 110</span>. Energy and mass fluxes and storages in the interlinked physical components of the ecosphere. Chemistry of the global atmosphere. Role of the oceans and thermohaline circulation. Land use and land cover influences on terrestrial ecosystems. Concepts of environmental cycles, thresholds, resilience, recovery and response times. Understanding past environmental changes. Causes, mechanisms and likely impacts of natural and anthropogenically-induced changes on the global environment. Predictive models on global environmental change. May be taught concurrently with <span data-link='GRY545'>GRY 545</span>. Cannot receive credit for both <span data-link='GRY545'>GRY 545</span> and <span data-link='GRY645'>GRY 645</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY650": {
+    "course_id": "GRY650",
+    "title": "GRY 650 Fluvial Geomorphology",
+    "desc": "Study of the formation, composition, distribution of fluvial landforms. Emphasis is on channel hydrology, quantification of geomorphic relationships, reach and watershed-scale processes, sediment transport, water and sediment contamination, and management applications to streams in the Ozarks Region as well as other places. Field work may be required. May be taught concurrently with <span data-link='GRY550'>GRY 550</span>. Cannot receive credit for both <span data-link='GRY550'>GRY 550</span> and <span data-link='GRY650'>GRY 650</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GRY696": {
+    "course_id": "GRY696",
+    "title": "GRY 696 Topical Issues in Education",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Selected topics in geography and earth science to upgrade understandings and skills in improvement of elementary or secondary teaching. Each course is concerned with a single topic or subject matter area. Number of class hours determined by semester hours of credit. Variable content course. May be repeated to a total of 5 hours credit. May be taught concurrently with <span data-link='GRY596'>GRY 596</span>. Cannot receive credit for both <span data-link='GRY596'>GRY 596</span> and <span data-link='GRY696'>GRY 696</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY697": {
+    "course_id": "GRY697",
+    "title": "GRY 697 Special Topics in Geography",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Selected topics in geography. Special topics will be included in the class schedule for each term. Field trips may be required. Number of class hours determined by semester hours of credit. Variable content course. May be repeated to a maximum of 6 hours credit. May be taught concurrently with <span data-link='GRY597'>GRY 597</span>. Cannot receive credit for both <span data-link='GRY597'>GRY 597</span> and <span data-link='GRY697'>GRY 697</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY698": {
+    "course_id": "GRY698",
+    "title": "GRY 698 Research in Geography",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Enrichment through guided but independent, original research in geography and geography related subject areas. May be repeated for a total of 6 credit hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GRY700": {
+    "course_id": "GRY700",
+    "title": "GRY 700 Cultural Geography for Secondary Teachers I",
+    "desc": "Population and the spatial imprint of man on the landscape in terms of settlement, economic activities, institutions; methods and materials of the high school geography project; other current curriculum materials. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY703": {
+    "course_id": "GRY703",
+    "title": "GRY 703 Cultural Geography for Secondary Teachers II",
+    "req": "<em>Prerequisite: <span data-link='GRY700'>GRY 700</span>.</em>",
+    "desc": "Continuation of <span data-link='GRY700'>GRY 700</span>. Contemporary problems in land use, urbanization and planning for optimum use of resources; methods and materials of the high school geography project; other current curriculum materials. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY730": {
+    "course_id": "GRY730",
+    "title": "GRY 730 Weather Elements for Secondary Teachers",
+    "desc": "Physical processes of the earth&apos;s atmosphere, use of weather instruments and interpretation of weather maps. Applied aspects of weather and climate and their effects on man&apos;s activities. Emphasis on current curriculum materials for secondary schools. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY731": {
+    "course_id": "GRY731",
+    "title": "GRY 731 Environmental Assessment",
+    "desc": "The procedures and processes of environmental assessment. Soils, hydrology, climate, biogeography and geomorphology will be examined in an environmental assessment context. Environmental assessment is a prerequisite for satisfying the National Environmental Policy Act (NEPA) requirements. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GRY740": {
+    "course_id": "GRY740",
+    "title": "GRY 740 Selected Topics in Earth Science",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Students cooperatively select from general subject areas in earth science more specific areas to explore. Topics are studied consecutively during the semester. Subject areas from which the topic selections will be made are included in the class schedule for each term the course is offered. Variable content course. Since topics vary, the course may be repeated for a total of 6 hours. Identical with <span data-link='GLG765'>GLG 765</span>. Cannot receive credit for more than 6 hours of <span data-link='GRY740'>GRY 740</span> and <span data-link='GLG765'>GLG 765</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY748": {
+    "course_id": "GRY748",
+    "title": "GRY 748 Physiography and Resource Conservation",
+    "desc": "Landforms, economic minerals, soils, climate, water resources and closely related aspects of the natural environment as they relate to man&apos;s inhabitation and use of the earth; map reading and simple map construction; methods and materials for secondary schools. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY751": {
+    "course_id": "GRY751",
+    "title": "GRY 751 Topics in Advanced Physical Geography",
+    "desc": "Critical review of recent advances and trends in applied and/or theoretical physical geography. Course will involve the study of seminal and recent journal articles and presentation of a research paper. Course content may vary among the subfields of physical geography including geomorphology, hydrology, water resources, soil geography climatology, and biogeography. Field trips may be required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY779": {
+    "course_id": "GRY779",
+    "title": "GRY 779 Research in Geography",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Enrichment through guided but independent, original research in geography and geography related subject areas. May be repeated for a total of 3 credit hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GRY799": {
+    "course_id": "GRY799",
+    "title": "GRY 799 Thesis",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Independent research and study connected with preparation of thesis. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GLG110": {
+    "course_id": "GLG110",
+    "title": "GLG 110 Principles of Geology",
+    "req": "<em>General Education Course (Focus on Physical Sciences).</em>",
+    "desc": "How Earth works. The building blocks of Earth: minerals and rocks. Earth&apos;s dynamic interior: plate tectonics, earthquakes, volcanism, and mountain building. Surface processes associated with streams, ground water, glaciers, wind, and shorelines. Laboratory instruction in identification of common minerals and rocks, the use of topographic maps, and landform identification from topographic maps. Optional weekend field trips. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GLG115": {
+    "course_id": "GLG115",
+    "title": "GLG 115 Life of the Past",
+    "req": "<em>General Education Course (Focus on Life Sciences).</em>",
+    "desc": "Addresses the origin, evolution, and extinction of life forms within the 3.5 billion year history of life on earth. Topics of discussion will include the basic principles of evolution, stratigraphy, and plate tectonics. Optional fossil collecting field trip. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GLG171": {
+    "course_id": "GLG171",
+    "title": "GLG 171 Environmental Geology",
+    "req": "<em>General Education Course (Focus on Physical Sciences).</em>",
+    "desc": "Treats those aspects of geology that interface directly with humanity. Key concepts of Earth processes and how they relate to geologic hazards, mineral and energy resources, and sustainability. Human dependence on geologic resources is examined and related to issues confronting society. Optional field trips. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GLG172": {
+    "course_id": "GLG172",
+    "title": "GLG 172 Physical Geology Laboratory",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Laboratory instruction in identification and classification of common minerals and rocks; introduction to the identification of landforms as interpreted from topographic maps. This course number allows students who have already had <span data-link='GLG171'>GLG 171</span> to take a laboratory section of <span data-link='GLG110'>GLG 110</span> as a stand-alone one credit course. <span data-link='GLG171'>GLG 171</span> plus <span data-link='GLG172'>GLG 172</span> will substitute for <span data-link='GLG110'>GLG 110</span> in the requirements for all geology programs and in the prerequisites for all upper division geology courses. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GLG197": {
+    "course_id": "GLG197",
+    "title": "GLG 197 Popular Topics in Geology",
+    "desc": "Course devoted to a single topic that can vary from semester to semester depending on student and faculty interest. Topics are limited to those requiring no prior geology background. Examples: Earthquakes and Volcanoes, Rocks and Minerals, Caves and Karst, etc. Students should check the current registration schedule to determine the topic title for any given semester. Variable content course. Because topics vary, this course may be repeated, with permission of the instructor to a total of 10 credits. Cannot be counted toward any major or minor in Geology. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG314": {
+    "course_id": "GLG314",
+    "title": "GLG 314 Historical Geology",
+    "req": "<em>Prerequisite: <span data-link='GLG110'>GLG 110</span> or both <span data-link='GLG171'>GLG 171</span> and <span data-link='GLG172'>GLG 172</span>.</em>",
+    "desc": "Geological history of the earth with emphasis on North America; origin and evolution of animal and plant life on earth. One Saturday field trip required. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GLG318": {
+    "course_id": "GLG318",
+    "title": "GLG 318 Physical Oceanography",
+    "req": "<em>Prerequisite: <span data-link='GLG110'>GLG 110</span> or both <span data-link='GLG171'>GLG 171</span> and <span data-link='GLG172'>GLG 172</span>.</em>",
+    "desc": "A comprehensive study of the physical ocean; including the origin and nature of tides, waves, and ocean currents; marine geology, resources and pollution. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG326": {
+    "course_id": "GLG326",
+    "title": "GLG 326 Marine Science I: Oceanography",
+    "req": "<em>Prerequisite: <span data-link='MTH135'>MTH 135</span> and <span data-link='CHM160'>CHM 160</span> and <span data-link='CHM170'>CHM 170</span> and <span data-link='CHM171'>CHM 171</span> and <span data-link='BIO101'>BIO 101</span> and 111.</em>",
+    "desc": "Integrates physical, chemical, biological, and geological oceanography to provide a multidisciplinary approach to the fundamentals of oceanography. (Must be taken at Gulf Coast Research Laboratory, Ocean Springs, Mississippi). ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "GLG327": {
+    "course_id": "GLG327",
+    "title": "GLG 327 Marine Science I: Oceanography Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='GLG326'>GLG 326</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='GLG326'>GLG 326</span>. Field and laboratory activities. (Must be taken at Gulf Coast Research Laboratory, Ocean Springs, Mississippi). ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "GLG330": {
+    "course_id": "GLG330",
+    "title": "GLG 330 Service Learning in Geology",
+    "req": "<em>Prerequisite: 30 hours and permission and concurrent registration in a Geology course designated as a service geology offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in geology to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignment will vary depending on the specific course topic and learning objectives; students should investigate possible placements, available through the Department of Geography, Geology and Planning and the Office of Citizenship and Service Learning prior to registration. May be repeated. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GLG332": {
+    "course_id": "GLG332",
+    "title": "GLG 332 Mineralogy",
+    "req": "<em>Prerequisite: <span data-link='GLG110'>GLG 110</span> or both <span data-link='GLG171'>GLG 171</span> and <span data-link='GLG172'>GLG 172</span>; and <span data-link='CHM160'>CHM 160</span>; and <span data-link='MTH135'>MTH 135</span> or <span data-link='MTH138'>MTH 138</span> or <span data-link='MTH261'>MTH 261</span> or <span data-link='MTH287'>MTH 287</span>.</em>",
+    "desc": "Origin, classification, description, and identification of ore minerals and rock-forming minerals. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GLG333": {
+    "course_id": "GLG333",
+    "title": "GLG 333 Petrology",
+    "req": "<em>Prerequisite: <span data-link='GLG332'>GLG 332</span>.</em>",
+    "desc": "Origin, classification, and identification of common rocks. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='GLG413'>GLG 413</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG340": {
+    "course_id": "GLG340",
+    "title": "GLG 340 Structural Geology",
+    "req": "<em>Prerequisite: <span data-link='GLG314'>GLG 314</span> and <span data-link='GLG333'>GLG 333</span> or concurrent enrollment; and either <span data-link='MTH138'>MTH 138</span> or <span data-link='MTH181'>MTH 181</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='PHY123'>PHY 123</span> or <span data-link='PHY203'>PHY 203</span>. Elementary theory of stress and strain, rock behavior, continuous structures, fracture theory, discontinuous structures and kinematics of plate motion. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='GLG413'>GLG 413</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG350": {
+    "course_id": "GLG350",
+    "title": "GLG 350 Speleology",
+    "req": "<em>Prerequisite: <span data-link='GLG110'>GLG 110</span> or <span data-link='GLG171'>GLG 171</span>.</em>",
+    "desc": "Caves, karst and cavernous terrain, their origin, geologic environment and evolution. Field trips and field research required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GLG358": {
+    "course_id": "GLG358",
+    "title": "GLG 358 Writing II: Reporting Geological Information",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> or equivalent, and 30 hours, and <span data-link='GLG314'>GLG 314</span>; and either <span data-link='GLG318'>GLG 318</span> or <span data-link='GLG332'>GLG 332</span>. General Education Course (Focus on Written Communication and Integrative and Applied Learning).</em>",
+    "desc": "Techniques and strategies for locating and accessing technical geological information. Preparation of technical reports and presentations on geologic topics with emphasis on the styles and formats of the Geological Society of America and the United States Geological Survey. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GLG360": {
+    "course_id": "GLG360",
+    "title": "GLG 360 Directed Field Trips",
+    "req": "<em>Prerequisite: <span data-link='GLG110'>GLG 110</span> or both <span data-link='GLG171'>GLG 171</span> and <span data-link='GLG172'>GLG 172</span>, and permission.</em>",
+    "desc": "Geologic field trips to areas of special interest. Because credit hours and destinations vary, the course may be repeated to a total of 8 hours. However, no more than 4 hours may count toward any Geology major. Variable content course. Graded Pass/Not Pass only. Supplemental course fee. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG397": {
+    "course_id": "GLG397",
+    "title": "GLG 397 Selected Topics in Geology",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Course devoted to a single topic which may vary from semester to semester depending upon student and faculty interest. Since credit and topics vary, this course may be repeated, with permission, to a total of 5 hours credit. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG399": {
+    "course_id": "GLG399",
+    "title": "GLG 399 Internship in Geology",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Work experience in geology. Students have periodic conferences with geology faculty and supervisory personnel of the employing business or agency. May be repeated to a maximum of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GLG412": {
+    "course_id": "GLG412",
+    "title": "GLG 412 Field Geology of the Midcontinent Region",
+    "req": "<em>Prerequisite: <span data-link='GLG314'>GLG 314</span>; and either <span data-link='GLG318'>GLG 318</span> or <span data-link='GLG333'>GLG 333</span> or concurrent enrollment.</em>",
+    "desc": "Regional geology of the Midcontinent including the Ozark, Wichita, Arbuckle, Ouachita and Boston Mountains, and associated basins. Introduction to geologic field methods including the use of aerial photograph and geologic maps, cross-sections, and block diagrams in the interpretation of regional geologic history. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG413": {
+    "course_id": "GLG413",
+    "title": "GLG 413 Field Geology",
+    "req": "<em>Prerequisite: <span data-link='GLG314'>GLG 314</span>; and a grade of &quot;C&quot; or better in both <span data-link='GLG333'>GLG 333</span> and <span data-link='GLG340'>GLG 340</span>.</em>",
+    "desc": "Use of brunton compass, jacob staff, and tape in field methods; aerial photographs and topographic maps in mapping sedimentary, igneous, and metamorphic rocks; demonstration of lithostratigraphic succession and correlation in the field; preparation of geological reports from field data. Taught at off campus field station. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "GLG415": {
+    "course_id": "GLG415",
+    "title": "GLG 415 Invertebrate Paleontology",
+    "req": "<em>Prerequisite: <span data-link='GLG314'>GLG 314</span>.</em>",
+    "desc": "Morphology and taxonomy of invertebrate fossils. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG498": {
+    "course_id": "GLG498",
+    "title": "GLG 498 Seminar in Geology",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Lectures and discussions of topics in geology. May be repeated for 4 hours. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG499": {
+    "course_id": "GLG499",
+    "title": "GLG 499 Research in Geology",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Outstanding student obtains enrichment through guided, but independent, original research in geology and geology related subject areas. May be repeated at the discretion of the geology staff to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GLG523": {
+    "course_id": "GLG523",
+    "title": "GLG 523 Coastal Marine Geology",
+    "req": "<em>Prerequisite: 6 hours of geology; and concurrent enrollment in <span data-link='GLG524'>GLG 524</span>.</em>",
+    "desc": "A study of inshore and nearshore geologic processes, sedimentation patterns and landform development. Concurrent enrollment in <span data-link='GLG524'>GLG 524</span> required. Must be taken at Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='GLG623'>GLG 623</span>. Cannot receive credit for both <span data-link='GLG623'>GLG 623</span> and <span data-link='GLG523'>GLG 523</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "GLG524": {
+    "course_id": "GLG524",
+    "title": "GLG 524 Coastal Marine Geology Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='GLG523'>GLG 523</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='GLG523'>GLG 523</span>. Field and laboratory activities. Must be taken at Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='GLG624'>GLG 624</span>. Cannot receive credit for both <span data-link='GLG624'>GLG 624</span> and <span data-link='GLG524'>GLG 524</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "GLG530": {
+    "course_id": "GLG530",
+    "title": "GLG 530 Optical Mineralogy",
+    "req": "<em>Prerequisite: <span data-link='GLG333'>GLG 333</span>.</em>",
+    "desc": "Essentials of optical crystallography; the use of the petrographic microscope in the identification of rock-forming minerals, both in oil-immersion grain mounts and in thin sections. May be taught concurrently with <span data-link='GLG630'>GLG 630</span>. Cannot receive credit for both <span data-link='GLG630'>GLG 630</span> and <span data-link='GLG530'>GLG 530</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG540": {
+    "course_id": "GLG540",
+    "title": "GLG 540 X-Ray Mineralogy",
+    "req": "<em>Prerequisite: <span data-link='GLG332'>GLG 332</span>.</em>",
+    "desc": "Principles and techniques of x-ray mineralogy; the use of x-ray powder diffraction in the identification and characterization of minerals and related crystalline phases. May be taught concurrently with <span data-link='GLG640'>GLG 640</span>. Cannot receive credit for both <span data-link='GLG640'>GLG 640</span> and <span data-link='GLG540'>GLG 540</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG547": {
+    "course_id": "GLG547",
+    "title": "GLG 547 Water Resources",
+    "req": "<em>Prerequisite: <span data-link='BIO122'>BIO 122</span> or <span data-link='GLG110'>GLG 110</span> or <span data-link='GRY142'>GRY 142</span>; and <span data-link='CHM160'>CHM 160</span> and <span data-link='CHM161'>CHM 161</span>; and <span data-link='MTH135'>MTH 135</span>.</em>",
+    "desc": "An interdisciplinary study of freshwater resource development, including environmental impacts of humans on hydrology and water quality, conflicts among users, and politics at local and global scales. Identical with <span data-link='BIO547'>BIO 547</span>. Cannot receive credit for both <span data-link='GLG547'>GLG 547</span> and <span data-link='BIO547'>BIO 547</span>. May be taught concurrently with <span data-link='GLG647'>GLG 647</span>. Cannot receive credit for both <span data-link='GLG547'>GLG 547</span> and <span data-link='GLG647'>GLG 647</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG570": {
+    "course_id": "GLG570",
+    "title": "GLG 570 Principles of Stratigraphy",
+    "req": "<em>Prerequisite: <span data-link='GLG314'>GLG 314</span> and <span data-link='GLG333'>GLG 333</span>.</em>",
+    "desc": "Principles underlying the deposition of sediments; environmental control of lithofacies and biofacies; recognition of ancient depositional environments by key indicators and modern analogs. May be taught concurrently with <span data-link='GLG670'>GLG 670</span>. Cannot receive credit for both <span data-link='GLG670'>GLG 670</span> and <span data-link='GLG570'>GLG 570</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GLG572": {
+    "course_id": "GLG572",
+    "title": "GLG 572 Geohydrology",
+    "req": "<em>Prerequisite: <span data-link='GLG314'>GLG 314</span>; and either <span data-link='MTH261'>MTH 261</span> or <span data-link='MTH287'>MTH 287</span>.</em>",
+    "desc": "Aquifer properties; elementary theory of groundwater flow through a porous medium; well and aquifer relationships. Laboratories include ground-water case studies and Hydrologic Investigation Atlas interpretations. Taught concurrently with <span data-link='GLG672'>GLG 672</span>. Cannot receive credit for both <span data-link='GLG572'>GLG 572</span> and <span data-link='GLG672'>GLG 672</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG573": {
+    "course_id": "GLG573",
+    "title": "GLG 573 Engineering Geology",
+    "req": "<em>Prerequisite: <span data-link='GLG333'>GLG 333</span> and either <span data-link='MTH261'>MTH 261</span> or <span data-link='MTH287'>MTH 287</span>.</em>",
+    "desc": "Engineering properties of rocks and soils; fundamentals of engineering geology field investigations; application of properties and fundamentals to engineering problems concerning slope stability, groundwater, industrial contamination, urban public works, and karst areas. Laboratories include engineering classification of soils, hydraulic conductivity testing, and public works design and management. Field trip to observe engineering problems of karst required. May be taught concurrently with <span data-link='GLG673'>GLG 673</span>. Cannot receive credit for both <span data-link='GLG573'>GLG 573</span> and <span data-link='GLG673'>GLG 673</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG574": {
+    "course_id": "GLG574",
+    "title": "GLG 574 Petroleum Geology",
+    "req": "<em>Prerequisite: <span data-link='GLG314'>GLG 314</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='GLG333'>GLG 333</span> and <span data-link='GLG570'>GLG 570</span>. Origin of hydrocarbons in sedimentary successions; petroleum systems, sequence stratigraphic concepts; basin analysis; petroleum exploration techniques, including well log and seismic interpretation; techniques for resource exploitation and an introduction to petroleum production. May be taught concurrently with <span data-link='GLG674'>GLG 674</span>. Cannot receive credit for both <span data-link='GLG574'>GLG 574</span> and <span data-link='GLG674'>GLG 674</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG580": {
+    "course_id": "GLG580",
+    "title": "GLG 580 Geochemistry",
+    "req": "<em>Prerequisite: <span data-link='GLG332'>GLG 332</span>.</em>",
+    "desc": "Topics include the dominant chemical reactions in natural waters, equilibrium conditions between mineral precipitation and dissolution, and characteristics of contaminated groundwater. Field trips required. Taught concurrently with <span data-link='GLG680'>GLG 680</span>. Cannot receive credit for both <span data-link='GLG580'>GLG 580</span> and <span data-link='GLG680'>GLG 680</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GLG581": {
+    "course_id": "GLG581",
+    "title": "GLG 581 Geochemical Techniques",
+    "req": "<em>Prerequisite: <span data-link='GLG332'>GLG 332</span>.</em>",
+    "desc": "Geochemical techniques and procedures used in ore exploration, point and nonpoint contamination and other environmental studies. Analyses of trace elements in rocks, soils, plants and waters using inductively coupled plasma methods. Also use of GPS to locate sample sites and ArcView to prepare maps. Field trips required. May be taught concurrently with <span data-link='GLG681'>GLG 681</span>. Cannot receive credit for both <span data-link='GLG681'>GLG 681</span> and <span data-link='GLG581'>GLG 581</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG590": {
+    "course_id": "GLG590",
+    "title": "GLG 590 Applied Geophysics",
+    "req": "<em>Prerequisite: either <span data-link='PHY124'>PHY 124</span> or <span data-link='PHY204'>PHY 204</span>; and either <span data-link='MTH280'>MTH 280</span> or <span data-link='MTH288'>MTH 288</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='GLG340'>GLG 340</span>. Application of geophysical methods in solving geologic problems. Techniques covered include seismic refraction and reflection, gravity, magnetics, direct current and electromagnetic resistivity. Field trips required. May be taught concurrently with <span data-link='GLG690'>GLG 690</span>. Cannot receive credit for both <span data-link='GLG690'>GLG 690</span> and <span data-link='GLG590'>GLG 590</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG594": {
+    "course_id": "GLG594",
+    "title": "GLG 594 Global Tectonics",
+    "req": "<em>Prerequisite: <span data-link='GLG314'>GLG 314</span>.</em>",
+    "desc": "The fundamental basis of plate tectonics. Topics covered include geophysical methods, plate motion theory, fundamental properties of plate boundaries, formation of sedimentary basins and orogenic belts. May be taught concurrently with <span data-link='GLG694'>GLG 694</span>. Cannot receive credit for both <span data-link='GLG594'>GLG 594</span> and <span data-link='GLG694'>GLG 694</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG597": {
+    "course_id": "GLG597",
+    "title": "GLG 597 Selected Topics in Geology",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Detailed treatment of various advanced topics in geology which may vary from year to year. Some typical topics: geologic instrumentation, selenology, sedimentology, and crystallography. Since credit and topics vary, the course may be repeated for a total of 6 hours. Variable content course. May be taught concurrently with <span data-link='GLG697'>GLG 697</span>. Cannot receive credit for both <span data-link='GLG697'>GLG 697</span> and <span data-link='GLG597'>GLG 597</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG623": {
+    "course_id": "GLG623",
+    "title": "GLG 623 Coastal Marine Geology",
+    "req": "<em>Prerequisite: permission; and concurrent enrollment in <span data-link='GLG624'>GLG 624</span>.</em>",
+    "desc": "A study of inshore and nearshore geologic processes, sedimentation patterns and landform development. Must be taken at Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='GLG523'>GLG 523</span>. Cannot receive credit for both <span data-link='GLG523'>GLG 523</span> and <span data-link='GLG623'>GLG 623</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "GLG624": {
+    "course_id": "GLG624",
+    "title": "GLG 624 Coastal Marine Geology Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='GLG623'>GLG 623</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='GLG623'>GLG 623</span>. Field and laboratory activities. Must be taken at Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='GLG524'>GLG 524</span>. Cannot receive credit for both <span data-link='GLG524'>GLG 524</span> and <span data-link='GLG624'>GLG 624</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "GLG630": {
+    "course_id": "GLG630",
+    "title": "GLG 630 Optical Mineralogy",
+    "desc": "Recommended Prerequisite: <span data-link='GLG333'>GLG 333</span>. Essentials of optical crystallography; the use of the petrographic microscope in the identification of rock-forming minerals, both in oil-immersion grain mounts and in thin sections. May be taught concurrently with <span data-link='GLG530'>GLG 530</span>. Cannot receive credit for both <span data-link='GLG530'>GLG 530</span> and <span data-link='GLG630'>GLG 630</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG640": {
+    "course_id": "GLG640",
+    "title": "GLG 640 X-Ray Mineralogy",
+    "desc": "Recommended Prerequisite: <span data-link='GLG332'>GLG 332</span>. Principles and techniques of x-ray mineralogy; the use of x-ray powder diffraction in the identification and characterization of minerals and related crystalline phases. May be taught concurrently with <span data-link='GLG540'>GLG 540</span>. Cannot receive credit for both <span data-link='GLG540'>GLG 540</span> and <span data-link='GLG640'>GLG 640</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG647": {
+    "course_id": "GLG647",
+    "title": "GLG 647 Water Resources",
+    "desc": "Recommended Prerequisite: <span data-link='BIO122'>BIO 122</span> or <span data-link='GLG110'>GLG 110</span> or <span data-link='GRY142'>GRY 142</span>; and <span data-link='CHM160'>CHM 160</span> and <span data-link='CHM161'>CHM 161</span>; and <span data-link='MTH135'>MTH 135</span>. An interdisciplinary study of freshwater resource development, including environmental impacts of humans on hydrology and water quality, conflicts among users, and politics at local and global scales. Identical with <span data-link='BIO647'>BIO 647</span>. Cannot receive credit for both <span data-link='GLG647'>GLG 647</span> and <span data-link='BIO647'>BIO 647</span>. May be taught concurrently with <span data-link='GLG547'>GLG 547</span>. Cannot receive credit for both <span data-link='GLG647'>GLG 647</span> and <span data-link='GLG547'>GLG 547</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG670": {
+    "course_id": "GLG670",
+    "title": "GLG 670 Principles of Stratigraphy",
+    "desc": "Recommended Prerequisite: <span data-link='GLG314'>GLG 314</span> and <span data-link='GLG333'>GLG 333</span>. Principles underlying the deposition of sediments; environmental control of lithofacies and biofacies; recognition of ancient depositional environments by key indicators and modern analogs. May be taught concurrently with <span data-link='GLG570'>GLG 570</span>. Cannot receive credit for both <span data-link='GLG570'>GLG 570</span> and <span data-link='GLG670'>GLG 670</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GLG672": {
+    "course_id": "GLG672",
+    "title": "GLG 672 Geohydrology",
+    "desc": "Recommended Prerequisite: <span data-link='GLG314'>GLG 314</span>; and either <span data-link='MTH261'>MTH 261</span> or <span data-link='MTH287'>MTH 287</span>. Aquifer properties; elementary theory of groundwater flow through a porous medium; well and aquifer relationships. Laboratories include ground-water case studies and Hydrologic Investigation Atlas interpretations. Field trips required. Taught concurrently with <span data-link='GLG572'>GLG 572</span>. Cannot receive credit for both <span data-link='GLG572'>GLG 572</span> and <span data-link='GLG672'>GLG 672</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG673": {
+    "course_id": "GLG673",
+    "title": "GLG 673 Engineering Geology",
+    "desc": "Recommended Prerequisite: <span data-link='GLG333'>GLG 333</span>. Engineering properties of rocks and soils; fundamentals of engineering geology field investigations; application of properties and fundamentals to engineering problems concerning slope stability, groundwater, industrial contamination, urban public works, and karst areas. Laboratories include engineering classification of soils, hydraulic conductivity testing, and public works design and management. Field trip to observe engineering problems of karst required. May be taught concurrently with <span data-link='GLG573'>GLG 573</span>. Cannot receive credit for both <span data-link='GLG673'>GLG 673</span> and <span data-link='GLG573'>GLG 573</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG674": {
+    "course_id": "GLG674",
+    "title": "GLG 674 Petroleum Geology",
+    "desc": "Recommended Prerequisite: <span data-link='GLG314'>GLG 314</span> and <span data-link='GLG333'>GLG 333</span> and <span data-link='GLG570'>GLG 570</span>. Origin of hydrocarbons in sedimentary successions; petroleum systems, sequence stratigraphic concepts; basin analysis; petroleum exploration techniques, including well log and seismic interpretation; techniques for resource exploitation and an introduction to petroleum production. May be taught concurrently with <span data-link='GLG574'>GLG 574</span>. Cannot receive credit for both <span data-link='GLG674'>GLG 674</span> and <span data-link='GLG574'>GLG 574</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG680": {
+    "course_id": "GLG680",
+    "title": "GLG 680 Geochemistry",
+    "desc": "Recommended Prerequisite: <span data-link='GLG332'>GLG 332</span>. Topics include the dominant chemical reactions in natural waters, equilibrium conditions between mineral precipitation and dissolution, and characteristics of contaminated groundwater. Field trips required. Taught concurrently with <span data-link='GLG580'>GLG 580</span>. Cannot receive credit for both <span data-link='GLG580'>GLG 580</span> and <span data-link='GLG680'>GLG 680</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GLG681": {
+    "course_id": "GLG681",
+    "title": "GLG 681 Geochemical Techniques",
+    "desc": "Recommended Prerequisite: <span data-link='GLG332'>GLG 332</span>. Geochemical techniques and procedures used in ore exploration, point and nonpoint contamination and other environmental studies. Analyses of trace elements in rocks, soils, plants and waters using inductively coupled plasma methods. Also use of GPS to locate sample sites and ArcView to prepare maps. Field trips required. May be taught concurrently with <span data-link='GLG581'>GLG 581</span>. Cannot receive credit for both <span data-link='GLG581'>GLG 581</span> and <span data-link='GLG681'>GLG 681</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG690": {
+    "course_id": "GLG690",
+    "title": "GLG 690 Applied Geophysics",
+    "desc": "Recommended Prerequisite: <span data-link='GLG340'>GLG 340</span>; and either <span data-link='PHY124'>PHY 124</span> or <span data-link='PHY204'>PHY 204</span>; and either <span data-link='MTH280'>MTH 280</span> or <span data-link='MTH288'>MTH 288</span>. Application of geophysical methods in solving geologic problems. Techniques covered include seismic refraction and reflection, gravity, magnetics, direct current and electromagnetic resistivity. Field trips required. May be taught concurrently with <span data-link='GLG590'>GLG 590</span>. Cannot receive credit for both <span data-link='GLG590'>GLG 590</span> and <span data-link='GLG690'>GLG 690</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG694": {
+    "course_id": "GLG694",
+    "title": "GLG 694 Global Tectonics",
+    "desc": "Recommended Prerequisite: <span data-link='GLG314'>GLG 314</span>. The fundamental basis of plate tectonics. Topics covered include geophysical methods, plate motion theory, fundamental properties of plate boundaries, formation of sedimentary basins and orogenic belts. May be taught concurrently with <span data-link='GLG594'>GLG 594</span>. Cannot receive credit for both <span data-link='GLG694'>GLG 694</span> and <span data-link='GLG594'>GLG 594</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GLG697": {
+    "course_id": "GLG697",
+    "title": "GLG 697 Selected Topics in Geology",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Detailed treatment of various advanced topics in geology which may vary from year to year. Some typical topics: geologic instrumentation, selenology, sedimentology, and crystallography. Variable content course. May be repeated for a total of 6 hours. May be taught concurrently with <span data-link='GLG597'>GLG 597</span>. Cannot receive credit for both <span data-link='GLG597'>GLG 597</span> and <span data-link='GLG697'>GLG 697</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG701": {
+    "course_id": "GLG701",
+    "title": "GLG 701 Geology for Secondary Teachers I",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Earth materials, geological processes, geological history and the geological environments. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG702": {
+    "course_id": "GLG702",
+    "title": "GLG 702 Geology for Secondary Teachers II",
+    "req": "<em>Prerequisite: <span data-link='GLG701'>GLG 701</span>.</em>",
+    "desc": "Continuation of <span data-link='GLG701'>GLG 701</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG713": {
+    "course_id": "GLG713",
+    "title": "GLG 713 Field Geology for Secondary Teachers",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Field work; identification and correlation of rock units; determination of depositional environments from fossils and other indicators. Students are required to make a collection of specimens from rock formations in the study area. May be repeated to a total of 6 hours when destination varies. Supplemental course fee. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG751": {
+    "course_id": "GLG751",
+    "title": "GLG 751 Seminar in Geology",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Preparation of an extensive paper on selected topics to be read before staff seminars. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG765": {
+    "course_id": "GLG765",
+    "title": "GLG 765 Selected Topics in Earth Science",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Students cooperatively select from general subject areas in earth science more specific areas to explore. Topics are studied consecutively during the semester. Subject areas from which the topic selections are made are included in the class schedule for each term the course is offered. Variable content course. Since topics vary, the course may be repeated for a total of 6 hours. Identical to <span data-link='GRY740'>GRY 740</span>. Cannot receive credit for more than 6 hours of <span data-link='GLG755'>GLG 755</span> and <span data-link='GRY740'>GRY 740</span> combined. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG779": {
+    "course_id": "GLG779",
+    "title": "GLG 779 Research/Geological Sciences",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Original research supervised by the geology staff, involving special areas of the geological sciences. May be repeated to a total of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GLG796": {
+    "course_id": "GLG796",
+    "title": "GLG 796 Science Internship",
+    "desc": "Completion of an internship project (80 hours/credit hour) at a discipline-related business, nonprofit organization, or government agency, approved and supervised by both the departmental and internship advisors. Includes a formal report in the appropriate professional format, and an oral presentation at an approved venue. Graded Pass/Not Pass only. No more than 6 hours may count toward a masters degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "GLG799": {
+    "course_id": "GLG799",
+    "title": "GLG 799 Thesis",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Independent research and study connected with preparation of thesis. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GEO551": {
+    "course_id": "GEO551",
+    "title": "GEO 551 Remote Sensing",
+    "req": "<em>Prerequisite: <span data-link='GRY360'>GRY 360</span>.</em>",
+    "desc": "Introduction to environmental studies through the application of remotely sensed imagery and geospatial technologies. The course covers principles of remote sensing, interactions of electromagnetic energy with the atmosphere and earth&apos;s surface, satellite systems and sensors (electro-optical, thermal, radar and LiDAR). Emphasis is placed on regional and global monitoring, land cover mapping, forestry, agriculture, geology, planning and oceanography. Laboratory emphasizes interpretation of remotely sensed imagery and introduction to digital image processing including enhancements, corrections and classification routines. May be taught concurrently with <span data-link='GEO651'>GEO 651</span>. Cannot receive credit for both <span data-link='GEO651'>GEO 651</span> and <span data-link='GEO551'>GEO 551</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GEO561": {
+    "course_id": "GEO561",
+    "title": "GEO 561 Intermediate Geographic Information Science",
+    "req": "<em>Prerequisite: <span data-link='GRY363'>GRY 363</span>.</em>",
+    "desc": "Principles and applications of Geographic Information Systems (GIS) software. Examines the nature and accuracy of spatially referenced data, as well as methods of data capture, storage, retrieval, visualization and output. May be taught concurrently with <span data-link='GEO661'>GEO 661</span>. Cannot receive credit for both <span data-link='GEO661'>GEO 661</span> and <span data-link='GEO561'>GEO 561</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GEO562": {
+    "course_id": "GEO562",
+    "title": "GEO 562 Internet Geospatial Science",
+    "req": "<em>Prerequisite: <span data-link='GEO561'>GEO 561</span>.</em>",
+    "desc": "Basic understanding of the contemporary standards for using the Internet to distribute and utilize geospatial data. Students will develop and implement both single or multiple source geospatial portals. A major part of the course will examine user interaction design for geospatial data in both a wired and wireless environment. May be taught concurrently with <span data-link='GEO662'>GEO 662</span>. Cannot receive credit for both <span data-link='GEO662'>GEO 662</span> and <span data-link='GEO562'>GEO 562</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GEO566": {
+    "course_id": "GEO566",
+    "title": "GEO 566 Advanced Geographic Information Science",
+    "req": "<em>Prerequisite: <span data-link='GEO561'>GEO 561</span>.</em>",
+    "desc": "A theoretical and practical examination of analytical methods use in GIS, including vector and raster models, spatial overlay, incorporation of field data, analysis of surfaces, interpolation, TINs and network analysis. May be taught concurrently with <span data-link='GEO666'>GEO 666</span>. Cannot receive credit for both <span data-link='GEO666'>GEO 666</span> and <span data-link='GEO566'>GEO 566</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GEO568": {
+    "course_id": "GEO568",
+    "title": "GEO 568 Thematic Cartography",
+    "req": "<em>Prerequisite: <span data-link='GEO561'>GEO 561</span>.</em>",
+    "desc": "Theoretical and applied aspects of map design in thematic mapping, animated mapping, interactive and web mapping. Emphasis will be applying computer-assisted mapping techniques of the problems of effective and efficient communication of spatial data. Field trip is required. May be taught concurrently with <span data-link='GEO668'>GEO 668</span>. Cannot receive credit for both <span data-link='GEO568'>GEO 568</span> and <span data-link='GEO668'>GEO 668</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GEO572": {
+    "course_id": "GEO572",
+    "title": "GEO 572 Introduction to Photogrammetry and LiDAR Technology",
+    "desc": "Recommended Prerequisite: <span data-link='GRY360'>GRY 360</span>. Course covers basic concepts of photogrammetry and LiDAR techniques such as stereo feature extraction, orthophoto, LiDAR point cloud visualization and DEM/DTM generation. Laboratory emphasizes geospatial stereo feature extraction using digital photogrammetry software, ArcGIS and Matlab toolboxes. May be taught concurrently with <span data-link='GEO572'>GEO 572</span>. Cannot receive credit for both <span data-link='GEO572'>GEO 572</span> and <span data-link='GEO672'>GEO 672</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GEO573": {
+    "course_id": "GEO573",
+    "title": "GEO 573 Geographic Information Science Programming",
+    "req": "<em>Prerequisite: <span data-link='GEO561'>GEO 561</span>; and either <span data-link='CIS202'>CIS 202</span> or <span data-link='CSC121'>CSC 121</span> or <span data-link='CSC125'>CSC 125</span>.</em>",
+    "desc": "Course devoted to theories and processes of analytical and automated Geographic Information Science (GIS). Principal topics covered are spatial programming, geographic data storage, computer map rendering, application customization and automation and human interface development of GIS. Advanced GIS and programming skills for professional development are emphasized. May be taught concurrently with <span data-link='GEO673'>GEO 673</span>. Cannot receive credit for both <span data-link='GEO673'>GEO 673</span> and <span data-link='GEO573'>GEO 573</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GEO575": {
+    "course_id": "GEO575",
+    "title": "GEO 575 GPS Surveying and Mapping",
+    "req": "<em>Prerequisite: 30 hours.</em>",
+    "desc": "Theory and operation of global positioning systems (GPS) hardware and software. Including mission planning, measurement of point, line and area features, differential correction techniques and waypoint navigation. Field exercises required. May be taught concurrently with <span data-link='GEO675'>GEO 675</span>. Cannot receive credit for both <span data-link='GEO675'>GEO 675</span> and <span data-link='GEO575'>GEO 575</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GEO578": {
+    "course_id": "GEO578",
+    "title": "GEO 578 Remote Sensing Digital Image Processing",
+    "req": "<em>Prerequisite: <span data-link='GEO551'>GEO 551</span> or <span data-link='GEO566'>GEO 566</span> or <span data-link='GEO572'>GEO 572</span>.</em>",
+    "desc": "Advanced application of remote sensing digital image processing in areas of interest such as land use/land cover mapping, agriculture, forestry, resource planning and geology. Course covers image visualization, image correction, classification algorithms and change detection methods. Laboratory emphasizes advanced image processing techniques using ENVI software. May be taught concurrently with <span data-link='GEO678'>GEO 678</span>. Cannot receive credit for both <span data-link='GEO678'>GEO 678</span> and <span data-link='GEO578'>GEO 578</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GEO651": {
+    "course_id": "GEO651",
+    "title": "GEO 651 Remote Sensing",
+    "desc": "Recommended Prerequisite: <span data-link='GRY360'>GRY 360</span>. Introduction to environmental studies through the application of remotely sensed imagery and geospatial technologies. The course covers principles of remote sensing, interactions of electromagnetic energy with the atmosphere and earth&apos;s surface, satellite systems and sensors (electro-optical, thermal, radar and LiDAR). Emphasis is placed on regional and global monitoring, land cover mapping, forestry, agriculture, geology, planning and oceanography. Laboratory emphasizes interpretation of remotely sensed imagery and introduction to digital image processing including enhancements, corrections and classification routines. May be taught concurrently with <span data-link='GEO551'>GEO 551</span>. Cannot receive credit for both <span data-link='GEO551'>GEO 551</span> and <span data-link='GEO651'>GEO 651</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GEO661": {
+    "course_id": "GEO661",
+    "title": "GEO 661 Intermediate Geographic Information Science",
+    "desc": "Recommended Prerequisite: <span data-link='GRY363'>GRY 363</span>. Principles and applications of Geographic Information Systems (GIS) software. Examines the nature and accuracy of spatially referenced data, as well as methods of data capture, storage, retrieval, visualization and output. May be taught concurrently with <span data-link='GEO561'>GEO 561</span>. Cannot receive credit for both <span data-link='GEO561'>GEO 561</span> and <span data-link='GEO661'>GEO 661</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GEO662": {
+    "course_id": "GEO662",
+    "title": "GEO 662 Internet Geospatial Science",
+    "desc": "Recommended Prerequisite: <span data-link='GEO561'>GEO 561</span> or <span data-link='GEO661'>GEO 661</span>. Basic understanding of the contemporary standards for using the Internet to distribute and utilize geospatial data. Students will develop and implement both single or multiple source geospatial portals. A major part of the course will examine user interaction design for geospatial data in both a wired and wireless environment. May be taught concurrently with <span data-link='GEO562'>GEO 562</span>. Cannot receive credit for both <span data-link='GEO562'>GEO 562</span> and <span data-link='GEO662'>GEO 662</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GEO666": {
+    "course_id": "GEO666",
+    "title": "GEO 666 Advanced Geographic Information Science",
+    "desc": "Recommended Prerequisite: <span data-link='GEO561'>GEO 561</span> or <span data-link='GEO661'>GEO 661</span>. A theoretical and practical examination of analytical methods use in GIS, including vector and raster models, spatial overlay, incorporation of field data, analysis of surfaces, interpolation, TINs and network analysis. May be taught concurrently with <span data-link='GEO566'>GEO 566</span>. Cannot receive credit for both <span data-link='GEO566'>GEO 566</span> and <span data-link='GEO666'>GEO 666</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GEO668": {
+    "course_id": "GEO668",
+    "title": "GEO 668 Thematic Cartography",
+    "desc": "Recommended Prerequisite: <span data-link='GEO561'>GEO 561</span> or <span data-link='GEO661'>GEO 661</span>. Theoretical and applied aspects of map design in thematic mapping, animated mapping, interactive and web mapping. Emphasis will be applying computer-assisted mapping techniques of the problems of effective and efficient communication of spatial data. Field trip is required. May be taught concurrently with <span data-link='GEO568'>GEO 568</span>. Cannot receive credit for both <span data-link='GEO668'>GEO 668</span> and <span data-link='GEO568'>GEO 568</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GEO672": {
+    "course_id": "GEO672",
+    "title": "GEO 672 Introduction to Photogrammetry and LiDAR Technology",
+    "desc": "Recommended Prerequisite: <span data-link='GRY360'>GRY 360</span>. Course covers basic concepts of photogrammetry and LiDAR techniques such as stereo feature extraction, orthophoto, LiDAR point cloud visualization and DEM/DTM generation. Laboratory emphasizes geospatial stereo feature extraction using digital photogrammetry software, ArcGIS and Matlab toolboxes. May be taught concurrently with <span data-link='GEO572'>GEO 572</span>. Cannot receive credit for both <span data-link='GEO572'>GEO 572</span> and <span data-link='GEO672'>GEO 672</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GEO673": {
+    "course_id": "GEO673",
+    "title": "GEO 673 Geographic Information Science Programming",
+    "desc": "Recommended Prerequisite: <span data-link='GEO561'>GEO 561</span> or <span data-link='GEO661'>GEO 661</span>, and either <span data-link='CIS202'>CIS 202</span> or <span data-link='CSC121'>CSC 121</span> or <span data-link='CSC125'>CSC 125</span>. Course devoted to theories and processes of analytical and automated Geographic Information Science (GIS). Principal topics covered are spatial programming, geographic data storage, computer map rendering, application customization and automation and human interface development of GIS. Advanced GIS and programming skills for professional development are emphasized. May be taught concurrently with <span data-link='GEO573'>GEO 573</span>. Cannot receive credit for both <span data-link='GEO573'>GEO 573</span> and <span data-link='GEO673'>GEO 673</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GEO675": {
+    "course_id": "GEO675",
+    "title": "GEO 675 GPS Surveying and Mapping",
+    "desc": "Theory and operation of global positioning systems (GPS) hardware and software. Including mission planning, measurement of point, line and area features, differential correction techniques and waypoint navigation. Field exercises required. May be taught concurrently with <span data-link='GEO575'>GEO 575</span>. Cannot receive credit for both <span data-link='GEO575'>GEO 575</span> and <span data-link='GEO675'>GEO 675</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GEO678": {
+    "course_id": "GEO678",
+    "title": "GEO 678 Remote Sensing Digital Image Processing",
+    "req": "<em>Prerequisite: <span data-link='GEO551'>GEO 551</span> or <span data-link='GEO651'>GEO 651</span> or <span data-link='GEO566'>GEO 566</span> or <span data-link='GEO666'>GEO 666</span> or <span data-link='GEO572'>GEO 572</span> or <span data-link='GEO672'>GEO 672</span>.</em>",
+    "desc": "Advanced application of remote sensing digital image processing in areas of interest such as land use/land cover mapping, agriculture, forestry, resource planning and geology. Course covers image visualization, image correction, classification algorithms and change detection methods. Laboratory emphasizes advanced image processing techniques using ENVI software. May be taught concurrently with <span data-link='GEO578'>GEO 578</span>. Cannot receive credit for both <span data-link='GEO578'>GEO 578</span> and <span data-link='GEO678'>GEO 678</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GEO700": {
+    "course_id": "GEO700",
+    "title": "GEO 700 Introduction to Graduate Study in Geospatial Science",
+    "desc": "Orientation to graduate study in geospatial sciences and development of a research proposal. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GEO701": {
+    "course_id": "GEO701",
+    "title": "GEO 701 Research Methods in Geospatial Science",
+    "req": "<em>Prerequisite: <span data-link='GEO700'>GEO 700</span>.</em>",
+    "desc": "Methods of collecting, organization, and analyzing data pertinent to graduate study in Geospatial Science. Emphasis will be on the application of univariate and multivariate statistical techniques and other quantitative techniques pertinent to mathematically and statistically modeling geospatial problems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GEO755": {
+    "course_id": "GEO755",
+    "title": "GEO 755 Applications of Digital Cartography, Analytical Photogrammetry, and Remote Sensing",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Advanced application of aerial photography and digital imagery, analytical photogrammetry, remote sensing, digital cartography and other geospatial technologies in areas of interest such as land use/land cover mapping, landscape ecology, agriculture, forestry, resource planning, geology, and soils. Since credit and topics vary, the course may be repeated for a maximum of 7 hours with permission. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GEO770": {
+    "course_id": "GEO770",
+    "title": "GEO 770 Advanced Field and Laboratory Methods",
+    "desc": "Advanced training in laboratory and field methods in geography and geology. Topics will vary due to faculty expertise or student interest. Examples include watershed monitoring techniques, geochemical techniques, and field studies in remote areas. Field trips are required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GEO780": {
+    "course_id": "GEO780",
+    "title": "GEO 780 Research Paper in Geospatial Sciences",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Extensive research paper on selected topic to be presented orally at a departmental seminar or professional meeting. Exclusively used to satisfy requirements for non-thesis option. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLN100": {
+    "course_id": "PLN100",
+    "title": "PLN 100 Understanding Cities",
+    "req": "<em>Prerequisite: 12 hours. General Education Course (Focus on Public Issues).</em>",
+    "desc": "This course provides an introduction to understanding metropolitan issues from a variety of viewpoints. This course will explore questions such as: What is a city? What is the relationship between the natural and built environments? How do people perceive cities? What are their current issues and problems? How will cities respond to a changing world economy and the globalization of culture? This course will help students recognize community needs and how to contribute knowledge and work within the community to meet those needs. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLN367": {
+    "course_id": "PLN367",
+    "title": "PLN 367 Planning Methods",
+    "req": "<em>Prerequisite: <span data-link='SOC302'>SOC 302</span>.</em>",
+    "desc": "Introduces data collection, sampling methods, statistical procedures and analysis, changing demographic characteristics, economic analysis, population projection methodologies and computer application in data analysis. Cannot receive credit for both <span data-link='PLN367'>PLN 367</span> and <span data-link='GRY367'>GRY 367</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLN371": {
+    "course_id": "PLN371",
+    "title": "PLN 371 History and Introduction to Planning",
+    "desc": "This course provides an introduction to planning and a critical analysis of past and present planning concepts in terms of social, economic, political, and urban design aspects. It examines the development of urban form in different eras as well as the history and forces behind the development of the planning profession in the United States. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLN372": {
+    "course_id": "PLN372",
+    "title": "PLN 372 Planning Theory and Ethics",
+    "req": "<em>Prerequisite: <span data-link='PLN371'>PLN 371</span>.</em>",
+    "desc": "This course aims to introduce students to the theories of city and regional planning. Specifically, it examines the need for theory in planning and overviews the evolution of planning paradigms from the beginning of the 20th century to the present. Additionally, the following issues are investigated: why plan; how to planners plan; how can planning be achieved in a pluralistic society; what are the values and ethics of planners? Finally, a major aim is for students to appreciate the link between theory and praxis. Field trip required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLN397": {
+    "course_id": "PLN397",
+    "title": "PLN 397 Selected Topics in Planning",
+    "desc": "Course devoted to a single topic which may vary from semester to semester depending upon student and faculty interest. Since credit and topics vary, this course may be repeated, with permission, to a total of 5 hours credit. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLN400": {
+    "course_id": "PLN400",
+    "title": "PLN 400 Communication Techniques in Planning",
+    "desc": "Focuses on the oral, written, graphic and computer techniques used by planners in communicating with the public and elected officials. Emphasis is on visual analysis, graphic design, planning graphics, diagramming, photo editing techniques, spreadsheets, report writing, and the developing of a portfolio. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLN505": {
+    "course_id": "PLN505",
+    "title": "PLN 505 Social Planning",
+    "desc": "This course will address planning practice in relation to values of justice, equity, fairness, and efficiency. In particular the course will focus upon inclusion of different community groups within the planning decision making process. A field project is required. May be taught concurrently with <span data-link='PLN605'>PLN 605</span>. Cannot receive credit for both <span data-link='PLN505'>PLN 505</span> and <span data-link='PLN605'>PLN 605</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLN570": {
+    "course_id": "PLN570",
+    "title": "PLN 570 Planning Law",
+    "desc": "Study of the legal foundations of land use controls. Topics include historic legal cases establishing government intervention in private development zoning, subdivision, growth management, individual liberty, environmental regulation and the general welfare concept. May be taught concurrently with <span data-link='PLN670'>PLN 670</span>. Cannot receive credit for both <span data-link='PLN570'>PLN 570</span> and <span data-link='PLN670'>PLN 670</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLN571": {
+    "course_id": "PLN571",
+    "title": "PLN 571 Land Use Planning",
+    "req": "<em>Prerequisite: <span data-link='PLN371'>PLN 371</span> or <span data-link='PLN372'>PLN 372</span> or <span data-link='FIN266'>FIN 266</span>.</em>",
+    "desc": "Focuses on conceptual and analytical techniques of land use planning, including land use analysis, planning studies and procedures, and synthesis of planning elements through comprehensive plan development. May be taught concurrently with <span data-link='PLN671'>PLN 671</span>. Cannot receive credit for both <span data-link='PLN571'>PLN 571</span> and <span data-link='PLN671'>PLN 671</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLN572": {
+    "course_id": "PLN572",
+    "title": "PLN 572 Community Planning Practicum",
+    "req": "<em>Prerequisite: <span data-link='PLN571'>PLN 571</span>.</em>",
+    "desc": "Focuses on the process of plan preparation and is intended to provide experience in the application of planning principles and analytical techniques learned in other program courses to an actual planning problem. Students will work on an individual basis and as part of a team in preparing a final report. Field problems will vary. May be taught concurrently with <span data-link='PLN672'>PLN 672</span>. Cannot receive credit for both <span data-link='PLN572'>PLN 572</span> and <span data-link='PLN672'>PLN 672</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLN573": {
+    "course_id": "PLN573",
+    "title": "PLN 573 Urban Design and Preservation",
+    "req": "<em>Prerequisite: <span data-link='PLN271'>PLN 271</span> and <span data-link='GRY322'>GRY 322</span>.</em>",
+    "desc": "Elements of urban design and preservation in relation to social, economic, and political forces; the role of the urban designer in the planning process. May be taught concurrently with <span data-link='PLN673'>PLN 673</span>. Cannot receive credit for both <span data-link='PLN673'>PLN 673</span> and <span data-link='PLN573'>PLN 573</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLN574": {
+    "course_id": "PLN574",
+    "title": "PLN 574 Open Space Planning",
+    "desc": "Principles and methods of open space planning. Students will learn about the relationship between open space and the quality of life in cities and will obtain a foundation for conducting open space planning projects. Class format includes lecture, seminar and studio. Field problem required. May be taught concurrently with <span data-link='PLN574'>PLN 574</span>. Cannot receive credit for both <span data-link='PLN574'>PLN 574</span> and <span data-link='PLN674'>PLN 674</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLN576": {
+    "course_id": "PLN576",
+    "title": "PLN 576 Site Planning Studio",
+    "req": "<em>Prerequisite: <span data-link='PLN271'>PLN 271</span> an <span data-link='PLN372'>PLN 372</span>.</em>",
+    "desc": "Lecture-studio focusing on the principles and processes of urban design and site specific design requirements. Students will design site plans for specific uses such as subdivisions, shopping centers and parks for public presentation. May be taught concurrently with <span data-link='PLN676'>PLN 676</span>. Cannot receive credit for both <span data-link='PLN676'>PLN 676</span> and <span data-link='PLN576'>PLN 576</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLN596": {
+    "course_id": "PLN596",
+    "title": "PLN 596 Research in Planning",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Enrichment through guided but independent, original research in planning and planning related subject areas. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='PLN696'>PLN 696</span>. Cannot receive credit for both <span data-link='PLN696'>PLN 696</span> and <span data-link='PLN596'>PLN 596</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLN597": {
+    "course_id": "PLN597",
+    "title": "PLN 597 Selected Topics in Planning",
+    "desc": "Detailed treatment of various advanced topics in planning which may vary from semester to semester. Some typical topics: Economic Development Planning, Rural and Small Town Planning, Housing in America. Since credit and topics vary, the course may be repeated to a total of 6 hours. Variable content course. May be taught concurrently with <span data-link='PLN697'>PLN 697</span>. Cannot receive credit for both <span data-link='PLN697'>PLN 697</span> and <span data-link='PLN597'>PLN 597</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLN599": {
+    "course_id": "PLN599",
+    "title": "PLN 599 Internship in Urban and Regional Planning",
+    "req": "<em>Prerequisite: 90 hours and <span data-link='PLN571'>PLN 571</span>.</em>",
+    "desc": "Work in community or regional planning agency. Students are monitored by Planning faculty and supervisory personnel of the planning agency. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='PLN699'>PLN 699</span>. Cannot receive credit for both <span data-link='PLN699'>PLN 699</span> and <span data-link='PLN599'>PLN 599</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLN605": {
+    "course_id": "PLN605",
+    "title": "PLN 605 Social Planning",
+    "desc": "This course will address planning practice in relation to values of justice, equity, fairness, and efficiency. In particular the course will focus upon inclusion of different community groups within the planning decision making process. A field project is required. May be taught concurrently with <span data-link='PLN505'>PLN 505</span>. Cannot receive credit for both <span data-link='PLN605'>PLN 605</span> and <span data-link='PLN505'>PLN 505</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLN670": {
+    "course_id": "PLN670",
+    "title": "PLN 670 Planning Law",
+    "desc": "Study of the legal foundations of land use controls. Topics include historic legal cases establishing government intervention in private development zoning, subdivision, growth management, individual liberty, environmental regulation and the general welfare concept. May be taught concurrently with <span data-link='PLN570'>PLN 570</span>. Cannot receive credit for both <span data-link='PLN570'>PLN 570</span> and <span data-link='PLN670'>PLN 670</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLN671": {
+    "course_id": "PLN671",
+    "title": "PLN 671 Land Use Planning",
+    "desc": "Recommended Prerequisite: <span data-link='PLN271'>PLN 271</span> or <span data-link='PLN372'>PLN 372</span> or <span data-link='FIN266'>FIN 266</span>. Focuses on conceptual and analytical techniques of land use planning, including land use analysis, planning studies and procedures, and synthesis of planning elements through comprehensive plan development. May be taught concurrently with <span data-link='PLN571'>PLN 571</span>. Cannot receive credit for both <span data-link='PLN571'>PLN 571</span> and <span data-link='PLN671'>PLN 671</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLN672": {
+    "course_id": "PLN672",
+    "title": "PLN 672 Community Planning Practicum",
+    "req": "<em>Prerequisite: <span data-link='PLN571'>PLN 571</span> or <span data-link='PLN671'>PLN 671</span>.</em>",
+    "desc": "Focuses on the process of plan preparation and is intended to provide experience in the application of planning principles and analytical techniques learned in other program courses to an actual planning problem. Students will work on an individual basis and as part of a team in preparing a final report. Field problems will vary. May be taught concurrently with <span data-link='PLN572'>PLN 572</span>. Cannot receive credit for both <span data-link='PLN572'>PLN 572</span> and <span data-link='PLN672'>PLN 672</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLN673": {
+    "course_id": "PLN673",
+    "title": "PLN 673 Urban Design and Preservation",
+    "desc": "Recommended Prerequisite: <span data-link='PLN271'>PLN 271</span> and <span data-link='GRY322'>GRY 322</span>. Elements of urban design and preservation in relation to social, economic, and political forces; the role of the urban designer in the planning process. May be taught concurrently with <span data-link='PLN573'>PLN 573</span>. Cannot receive credit for both <span data-link='PLN573'>PLN 573</span> and <span data-link='PLN673'>PLN 673</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLN674": {
+    "course_id": "PLN674",
+    "title": "PLN 674 Open Space Planning",
+    "desc": "Principles and methods of open space planning. Students will learn about the relationship between open space and the quality of life in cities and will obtain a foundation for conducting open space planning projects. Class format includes lecture, seminar and studio. Field problem required. May be taught concurrently with <span data-link='PLN574'>PLN 574</span>. Cannot receive credit for both <span data-link='PLN574'>PLN 574</span> and <span data-link='PLN674'>PLN 674</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PLN676": {
+    "course_id": "PLN676",
+    "title": "PLN 676 Site Planning Studio",
+    "desc": "Recommended Prerequisite: <span data-link='PLN271'>PLN 271</span> and <span data-link='PLN372'>PLN 372</span>. Lecture-studio focusing on the principles and processes of urban design and site specific design requirements. Students will design site plans for specific uses such as subdivisions, shopping centers and parks for public presentation. May be taught concurrently with <span data-link='PLN576'>PLN 576</span>. Cannot receive credit for both <span data-link='PLN576'>PLN 576</span> and <span data-link='PLN676'>PLN 676</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PLN696": {
+    "course_id": "PLN696",
+    "title": "PLN 696 Research in Planning",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Enrichment through guided but independent, original research in planning and planning related subject areas. May be repeated to a total of 6 credit hours. May be taught concurrently with <span data-link='PLN596'>PLN 596</span>. Cannot receive credit for both <span data-link='PLN596'>PLN 596</span> and <span data-link='PLN696'>PLN 696</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLN697": {
+    "course_id": "PLN697",
+    "title": "PLN 697 Selected Topics in Planning",
+    "desc": "Detailed treatment of various advanced topics in planning which may vary from semester to semester. Some typical topics: Economic Development Planning, Rural and Small Town Planning, Housing in America. Variable content course. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='PLN597'>PLN 597</span>. Cannot receive credit for both <span data-link='PLN597'>PLN 597</span> and <span data-link='PLN697'>PLN 697</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PLN699": {
+    "course_id": "PLN699",
+    "title": "PLN 699 Internship in Urban and Regional Planning",
+    "desc": "Recommended Prerequisite: <span data-link='PLN571'>PLN 571</span>. Work in community or regional planning agency. Students are monitored by Planning faculty and supervisory personnel of the planning agency. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='PLN599'>PLN 599</span>. Cannot receive credit for both <span data-link='PLN599'>PLN 599</span> and <span data-link='PLN699'>PLN 699</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PLN704": {
+    "course_id": "PLN704",
+    "title": "PLN 704 Community Resource Planning",
+    "desc": "Explanation of community growth and change. Review of public and private agency programs. Topics may focus on small towns and rural areas as well as urban and metropolitan areas. Since credit and topics vary, the course may be repeated for a maximum of 7 hours with permission. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

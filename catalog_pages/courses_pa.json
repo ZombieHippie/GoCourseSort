@@ -1,0 +1,1015 @@
+{
+  "AST110": {
+    "course_id": "AST110",
+    "title": "AST 110 Astronomical Observations",
+    "desc": "An introductory laboratory course stressing the techniques of astronomical observation and analysis of observed data. Students will have an opportunity to use telescopes and instruments at the Baker Observatory. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AST111": {
+    "course_id": "AST111",
+    "title": "AST 111 Astronomical Frontiers",
+    "desc": "A general interest course which will explore in detail, but nonmathematically, current subject areas of astronomy and astrophysics, such as quasars, black holes, and the origin of the universe, which attract the greatest attention in the media and among the general public. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AST113": {
+    "course_id": "AST113",
+    "title": "AST 113 Modern Astronomy",
+    "req": "<em>General Education Course (Focus on Physical Sciences).</em>",
+    "desc": "An introduction to our present knowledge of the nature of the universe, the galaxies, the stars, and the planets. A description of the natural laws and physical observations which are leading us to an understanding of our place in the cosmos. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AST114": {
+    "course_id": "AST114",
+    "title": "AST 114 Survey of Astronomy",
+    "req": "<em>General Education Course (Focus on Physical Sciences).</em>",
+    "desc": "Historical and descriptive aspects of astronomy; topics of current interest related to space science. Cannot receive credit for both <span data-link='AST114'>AST 114</span> and 115. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AST115": {
+    "course_id": "AST115",
+    "title": "AST 115 Basic Astronomy",
+    "req": "<em>General Education Course (Focus on Physical Sciences).</em>",
+    "desc": "Historical and descriptive aspects of astronomy; topics of current interest related to space science. Laboratory consists of observations with telescopes and of experiments pertinent to the field. Cannot receive credit for both <span data-link='AST114'>AST 114</span> and 115. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AST311": {
+    "course_id": "AST311",
+    "title": "AST 311 Astronomical Techniques",
+    "req": "<em>Prerequisite: <span data-link='MTH135'>MTH 135</span>; and either <span data-link='AST114'>AST 114</span> or <span data-link='AST115'>AST 115</span>.</em>",
+    "desc": "Intermediate level course; actual techniques of astronomical observation, methods of analysis of these observations, possible interpretations of acquired data. In laboratory, each student obtains observations for study in spectroscopy, photometry, photography, and CCD imaging. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AST313": {
+    "course_id": "AST313",
+    "title": "AST 313 The New Solar Systems",
+    "req": "<em>Prerequisite: <span data-link='AST114'>AST 114</span> or <span data-link='AST115'>AST 115</span>; <span data-link='MTH138'>MTH 138</span> or above.</em>",
+    "desc": "A modern inquiry of the planets, comets, asteroids, and other members of our solar system and the planets of other stellar systems, based on recent interplanetary explorations and Earth-based observations. Cannot receive credit for both <span data-link='AST313'>AST 313</span> and <span data-link='AST513'>AST 513</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AST315": {
+    "course_id": "AST315",
+    "title": "AST 315 The Lives and Deaths of Stars",
+    "req": "<em>Prerequisite: <span data-link='AST114'>AST 114</span> or 115; and <span data-link='MTH138'>MTH 138</span> or above.</em>",
+    "desc": "The structure of stars, processes at work in stellar atmospheres, the formation process, and the evolution of stars into white dwarfs, neutron stars, or black holes. Cannot receive credit for both <span data-link='AST315'>AST 315</span> and <span data-link='AST515'>AST 515</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AST317": {
+    "course_id": "AST317",
+    "title": "AST 317 Our Universe, the Final Frontier",
+    "req": "<em>Prerequisite: <span data-link='AST114'>AST 114</span> or <span data-link='AST115'>AST 115</span>; and <span data-link='MTH138'>MTH 138</span> or above.</em>",
+    "desc": "Modern views on the structure of the Universe: its past, present, and future. Topics include the structure and content of our Galaxy and other galaxies, clusters of galaxies, the Big Bang theory (including Inflation), and the eventual fate of our Universe. Cannot receive credit for both <span data-link='AST317'>AST 317</span> and <span data-link='AST517'>AST 517</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AST513": {
+    "course_id": "AST513",
+    "title": "AST 513 Solar and Extra-Solar Systems",
+    "req": "<em>Prerequisite: <span data-link='AST114'>AST 114</span> or 115; and <span data-link='MTH303'>MTH 303</span>.</em>",
+    "desc": "Formation of planetary systems, planetary dynamics, and comparative planetology. Project required. Cannot receive credit for both <span data-link='AST313'>AST 313</span> and <span data-link='AST513'>AST 513</span>. May be taught concurrently with <span data-link='AST613'>AST 613</span>. Cannot receive credit for both <span data-link='AST613'>AST 613</span> and <span data-link='AST513'>AST 513</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AST515": {
+    "course_id": "AST515",
+    "title": "AST 515 Stellar Structure and Evolution",
+    "req": "<em>Prerequisite: <span data-link='AST114'>AST 114</span> or 115; and <span data-link='MTH303'>MTH 303</span>.</em>",
+    "desc": "Basic concepts of stellar structure, atmospheres, and evolution. Project required. Cannot receive credit for both <span data-link='AST315'>AST 315</span> and <span data-link='AST515'>AST 515</span>. May be taught concurrently with <span data-link='AST615'>AST 615</span>. Cannot receive credit for both <span data-link='AST615'>AST 615</span> and <span data-link='AST515'>AST 515</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AST517": {
+    "course_id": "AST517",
+    "title": "AST 517 Galaxies and Cosmology",
+    "req": "<em>Prerequisite: <span data-link='AST114'>AST 114</span> or 115; and <span data-link='MTH303'>MTH 303</span>.</em>",
+    "desc": "Study of galaxies and the Universe. Topics include the structure and content of our Galaxy and other galaxies, clusters of galaxies, the Big Bang theory (including Inflation), and the eventual fate of our Universe. Project required. Cannot receive credit for both <span data-link='AST317'>AST 317</span> and <span data-link='AST517'>AST 517</span>. May be taught concurrently with <span data-link='AST617'>AST 617</span>. Cannot receive credit for both <span data-link='AST617'>AST 617</span> and <span data-link='AST517'>AST 517</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AST613": {
+    "course_id": "AST613",
+    "title": "AST 613 Solar and Extra-Solar Systems",
+    "req": "<em>Prerequisite: <span data-link='AST114'>AST 114</span> or <span data-link='AST115'>AST 115</span>; and <span data-link='MTH303'>MTH 303</span>.</em>",
+    "desc": "Formation of planetary systems, planetary dynamics, and comparative planetology. Project required. Cannot receive credit for both <span data-link='AST313'>AST 313</span> and <span data-link='AST613'>AST 613</span>. May be taught concurrently with <span data-link='AST513'>AST 513</span>. Cannot receive credit for both <span data-link='AST513'>AST 513</span> and <span data-link='AST613'>AST 613</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AST615": {
+    "course_id": "AST615",
+    "title": "AST 615 Stellar Structure and Evolution",
+    "req": "<em>Prerequisite: <span data-link='AST114'>AST 114</span> or <span data-link='AST115'>AST 115</span>; and <span data-link='MTH303'>MTH 303</span>.</em>",
+    "desc": "Basic concepts of stellar structure, atmospheres, and evolution. Project required. Cannot receive credit for both <span data-link='AST315'>AST 315</span> and <span data-link='AST615'>AST 615</span>. May be taught concurrently with <span data-link='AST515'>AST 515</span>. Cannot receive credit for both <span data-link='AST515'>AST 515</span> and <span data-link='AST615'>AST 615</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AST617": {
+    "course_id": "AST617",
+    "title": "AST 617 Galaxies and Cosmology",
+    "req": "<em>Prerequisite: <span data-link='AST114'>AST 114</span> or <span data-link='AST115'>AST 115</span>; and <span data-link='MTH303'>MTH 303</span>.</em>",
+    "desc": "Study of galaxies and the Universe. Topics include the structure and content of our Galaxy and other galaxies, clusters of galaxies, the Big Bang theory (including Inflation), and the eventual fate of our Universe. Project required. Cannot receive credit for both <span data-link='AST317'>AST 317</span> and <span data-link='AST617'>AST 617</span>. May be taught concurrently with <span data-link='AST517'>AST 517</span>. Cannot receive credit for both <span data-link='AST517'>AST 517</span> and <span data-link='AST617'>AST 617</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AST711": {
+    "course_id": "AST711",
+    "title": "AST 711 Astronomy for Teachers",
+    "desc": "Theory and techniques of observational astronomy. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MAT509": {
+    "course_id": "MAT509",
+    "title": "MAT 509 Special Topics in Materials Science",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Variable content, variable credit course. Topics to be chosen from current areas of interest in Materials Science. May be repeated to a total of 6 hours with a different topic. May be taught concurrently with <span data-link='MAT609'>MAT 609</span>. Cannot receive credit for both <span data-link='MAT609'>MAT 609</span> and <span data-link='MAT509'>MAT 509</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MAT540": {
+    "course_id": "MAT540",
+    "title": "MAT 540 Thermodynamics of Materials",
+    "req": "<em>Prerequisite: <span data-link='PHY343'>PHY 343</span> or <span data-link='CHM506'>CHM 506</span>.</em>",
+    "desc": "Review of classical thermodynamics, equilibrium in thermodynamic systems, the statistical interpretation of entropy, unary and multi-component systems, thermodynamics of phase diagrams and phase equilibrium. May be taught concurrently with <span data-link='MAT640'>MAT 640</span>. Cannot receive credit for both <span data-link='MAT540'>MAT 540</span> and <span data-link='MAT640'>MAT 640</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MAT550": {
+    "course_id": "MAT550",
+    "title": "MAT 550 Introduction to Materials Science",
+    "req": "<em>Prerequisite: <span data-link='PHY375'>PHY 375</span> or <span data-link='CHM507'>CHM 507</span>.</em>",
+    "desc": "Investigation of the relationships that exist between the structure, properties, processing and performance of materials. Different types of materials will be studied with a special emphasis on polymers and semiconductors. Structure-property correlations, including electronic, thermal, and mechanical properties, will be presented for these materials. May be taught concurrently with <span data-link='MAT651'>MAT 651</span>. Cannot receive credit for both <span data-link='MAT550'>MAT 550</span> and <span data-link='MAT651'>MAT 651</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MAT580": {
+    "course_id": "MAT580",
+    "title": "MAT 580 Structure of Solids",
+    "req": "<em>Prerequisite: <span data-link='PHY575'>PHY 575</span> or <span data-link='CHM507'>CHM 507</span>.</em>",
+    "desc": "Review of quantum mechanics, followed by an in-depth study of crystal structures, energy band structures in solids, lattice dynamics, and a survey of the physical properties of solids. May be taught concurrently with <span data-link='MAT681'>MAT 681</span>. Cannot receive credit for both <span data-link='MAT580'>MAT 580</span> and <span data-link='MAT681'>MAT 681</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MAT609": {
+    "course_id": "MAT609",
+    "title": "MAT 609 Special Topics in Materials Science",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Variable content course. Topics to be chosen from current areas of interest in Materials Science. May be repeated to a total of 6 hours with a different topic. May be taught concurrently with <span data-link='MAT509'>MAT 509</span>. Cannot receive credit for both <span data-link='MAT509'>MAT 509</span> and <span data-link='MAT609'>MAT 609</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MAT640": {
+    "course_id": "MAT640",
+    "title": "MAT 640 Thermodynamics of Materials",
+    "req": "<em>Prerequisite: <span data-link='PHY343'>PHY 343</span> or <span data-link='CHM506'>CHM 506</span> or <span data-link='CHM606'>CHM 606</span>.</em>",
+    "desc": "Review of classical thermodynamics, equilibrium in thermodynamic systems, the statistical interpretation of entropy, unary and multi-component systems, thermodynamics of phase diagrams and phase equilibrium. May be taught concurrently with <span data-link='MAT540'>MAT 540</span>. Cannot receive credit for both <span data-link='MAT540'>MAT 540</span> and <span data-link='MAT640'>MAT 640</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MAT651": {
+    "course_id": "MAT651",
+    "title": "MAT 651 Introduction to Materials Science",
+    "req": "<em>Prerequisite: <span data-link='PHY375'>PHY 375</span> or <span data-link='CHM507'>CHM 507</span> or <span data-link='CHM607'>CHM 607</span>.</em>",
+    "desc": "Investigation of the relationships that exist between the structure, properties, processing and performance of materials. Different types of materials will be studied with a special emphasis on polymers and semiconductors. Structure-property correlations, including electronic, thermal, and mechanical properties, will be presented for these materials. May be taught concurrently with <span data-link='MAT550'>MAT 550</span>. Cannot receive credit for both <span data-link='MAT550'>MAT 550</span> and <span data-link='MAT651'>MAT 651</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MAT681": {
+    "course_id": "MAT681",
+    "title": "MAT 681 Structure of Solids",
+    "req": "<em>Prerequisite: <span data-link='PHY375'>PHY 375</span> or <span data-link='CHM507'>CHM 507</span> or <span data-link='CHM607'>CHM 607</span>.</em>",
+    "desc": "Review of quantum mechanics, followed by an in-depth study of crystal structures, energy band structures in solids, lattice dynamics, and a survey of the physical properties of solids. May be taught concurrently with <span data-link='MAT580'>MAT 580</span>. Cannot receive credit for both <span data-link='MAT580'>MAT 580</span> and <span data-link='MAT681'>MAT 681</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MAT720": {
+    "course_id": "MAT720",
+    "title": "MAT 720 Advanced Quantum Mechanics",
+    "desc": "Advanced topics in quantum mechanics including variational methods, approximation techniques, time-independent and time-dependent perturbation theory, second quantization, and the interactions of light with matter. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MAT750": {
+    "course_id": "MAT750",
+    "title": "MAT 750 Experimental Design",
+    "desc": "Laboratory techniques necessary for the development of instrumentation. Topics will include elementary computer interfacing, prototype design, mechanical and electronic construction, and reliability testing. The student will develop, design and build a test instrument and study each of the above topics during this process. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MAT758": {
+    "course_id": "MAT758",
+    "title": "MAT 758 Optoelectronic Materials",
+    "desc": "Course includes the study of advanced electronic properties of materials, lattice dynamics, and a survey of the optical-electronic interactions in materials. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MAT760": {
+    "course_id": "MAT760",
+    "title": "MAT 760 Experiments in Physical Characterization",
+    "req": "<em>Prerequisite: <span data-link='MAT651'>MAT 651</span>.</em>",
+    "desc": "Laboratory techniques in electronic, optical, and thermal characterization of materials. Students will become familiar with equipment and procedures used in research and commercial laboratories. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MAT770": {
+    "course_id": "MAT770",
+    "title": "MAT 770 Vapor Synthesis of Materials",
+    "desc": "Experimental techniques in the vapor deposition of thin film materials used in the electronics industry. Some modification of the resulting films including chemical doping and ion implantation will also be studied. Experimental methods including computer control and analysis will be studied. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MAT780": {
+    "course_id": "MAT780",
+    "title": "MAT 780 Polymer Preparation and Characterization",
+    "desc": "Preparation of polymers, including the techniques of condensation polymerization, free radical polymerization, and if time permits, plasma polymerization. Characterization experiments will be viscosity measurements, differential scanning calorimetry, and thermal gravimetric analysis. Film preparation including spin coating, aspiration, and doctor blade systems will also be investigated. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MAT790": {
+    "course_id": "MAT790",
+    "title": "MAT 790 Statistical Applications in Materials Science",
+    "desc": "Selective topics in materials science important to the design, testing, fabrication, and manufacture of materials whose underlying theme is mathematical modeling based in statistical methods. The topics include mass transport in solids, atomic diffusion on surfaces, adsorption and desorption on surfaces, epitaxial growth, degradation of materials, queuing theory, and operations research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MAT796": {
+    "course_id": "MAT796",
+    "title": "MAT 796 Science Internship",
+    "desc": "Completion of an internship project (480 hours) at a discipline-related business, nonprofit organization, or government agency, approved and supervised by both the departmental and internship advisors. Includes a formal report in the appropriate professional format, and an oral presentation at an approved venue. Graded Pass/Not Pass only. No more than 6 hours may count toward a masters degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "MAT798": {
+    "course_id": "MAT798",
+    "title": "MAT 798 Seminar in Materials Science",
+    "req": "<em>Prerequisite: candidate for the MS degree in Materials Science.</em>",
+    "desc": "Selected topics in materials science of a theoretical, experimental, or applied nature with an emphasis on recent developments and their impact. May be repeated for a maximum of 4 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MAT799": {
+    "course_id": "MAT799",
+    "title": "MAT 799 Research in Materials Science",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Supervised research in areas of materials science. May be repeated, but no more than 12 hours may be counted toward the MS degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHY100": {
+    "course_id": "PHY100",
+    "title": "PHY 100 Survey of Physics with Laboratory",
+    "req": "<em>General Education Course (Focus on Physical Sciences).</em>",
+    "desc": "Description of nature as seen by physicists; effects this description and new scientific discoveries will have on society. Laboratories consist of discussions of current relations between science and society, demonstration of precise experimental apparatus, some actual involvement with the experimental method. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PHY101": {
+    "course_id": "PHY101",
+    "title": "PHY 101 Physics by Inquiry for Educators",
+    "req": "<em>Prerequisite: open only to Early Childhood, Elementary, Middle School, and Special Education majors. General Education Course (Focus on Physical Sciences).</em>",
+    "desc": "Laboratory experiences model inquiry teaching methods appropriate for use in early childhood, elementary and middle school science lessons. Science content includes mechanics, optics, heat, electricity and magnetism, properties of materials. Students will increase their understanding of the nature of science. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHY123": {
+    "course_id": "PHY123",
+    "title": "PHY 123 Introduction to Physics I",
+    "req": "<em>Prerequisite: <span data-link='MTH287'>MTH 287</span> or eligibility for enrollment in <span data-link='MTH261'>MTH 261</span>. General Education Course (Focus on Physical Sciences).</em>",
+    "desc": "An introduction to physical theories covering the content areas of mechanics, fluids, sound, and thermodynamics. A knowledge of the laws of Physics will help the student better understand the world and how these laws can be used to make informed decisions to improve society. A grade of &quot;C&quot; or better is required in this course to take <span data-link='PHY124'>PHY 124</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHY124": {
+    "course_id": "PHY124",
+    "title": "PHY 124 Introduction to Physics II",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='PHY123'>PHY 123</span>.</em>",
+    "desc": "A continuation of <span data-link='PHY123'>PHY 123</span> in the content areas of electricity and magnetism, electronics, and optics. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHY131": {
+    "course_id": "PHY131",
+    "title": "PHY 131 Mini Physics",
+    "desc": "A course whose various sections treat physics or astronomy from a contemporary, historical and/or theoretical point of view. Students should check the current registration schedule to determine the topic associated with each section being offered. Course may be repeated, provided topic and title are different, to a total of 5 hours. Variable content course. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHY141": {
+    "course_id": "PHY141",
+    "title": "PHY 141 Mini Physics Laboratory",
+    "desc": "A laboratory course explaining the use of scientific equipment and experimental procedures. Students should check the current registration schedule to determine the topic and titles for any given semester. Since the content of this course varies from semester to semester, it may be repeated, provided the topic title is different, to a total of 5 hours. Variable content course. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHY152": {
+    "course_id": "PHY152",
+    "title": "PHY 152 Introductory Circuits-Survey of Electronics",
+    "req": "<em>Prerequisite: <span data-link='MTH138'>MTH 138</span> or <span data-link='MTH181'>MTH 181</span>.</em>",
+    "desc": "Introduction and survey of Kirkoff&apos;s current and voltage laws, network analysis, and Thevenin&apos;s and Norton&apos;s theorems for complex impedances. Transfer functions, passive and active filters, and signal processing. Amplifiers, logic, number systems, and mixed-signal electronics. Laboratory experiences will feature oscilloscope measurements and analysis and introduction to circuit modeling software. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PHY203": {
+    "course_id": "PHY203",
+    "title": "PHY 203 Foundations of Physics I",
+    "req": "<em>Prerequisite: <span data-link='MTH261'>MTH 261</span> (completed); or <span data-link='MTH261'>MTH 261</span> (concurrent enrollment) and ACT mathematics score equal to more than 29. General Education Course (Focus on Physical Sciences).</em>",
+    "desc": "Students must be skilled in using the Microsoft Excel spreadsheet program (see the Department of Physics, Astronomy, and Materials Science for a list of required spreadsheet skills). First of two semesters in basic calculus physics. Lecture and laboratory topics covered include mechanics, waves, and thermodynamics. A grade of &quot;C&quot; or better is required in this course to take <span data-link='PHY204'>PHY 204</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 3,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHY204": {
+    "course_id": "PHY204",
+    "title": "PHY 204 Foundations of Physics II",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='PHY203'>PHY 203</span>; and; either <span data-link='MTH280'>MTH 280</span> or <span data-link='MTH288'>MTH 288</span> or concurrent enrollment in <span data-link='MTH280'>MTH 280</span>.</em>",
+    "desc": "Students must be skilled in using the Microsoft Excel spreadsheet program (see the Department of Physics, Astronomy, and Materials Science for a list of required spreadsheet skills). Continuation of <span data-link='PHY203'>PHY 203</span> with lecture and laboratories covering electricity, magnetism, and optics. Supplemental course fee. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 3,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHY220": {
+    "course_id": "PHY220",
+    "title": "PHY 220 Introduction to Structure and Logic of Digital Computers",
+    "req": "<em>Prerequisite: eligibility for <span data-link='MTH261'>MTH 261</span>.</em>",
+    "desc": "Introduction to the internal structures of digital computers; design of gates, flipflops, registers, and memories to perform operations on numerical and other data represented in binary form. Laboratory uses logical blocks for experiments with combinational and sequential networks and simple digital systems. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHY233": {
+    "course_id": "PHY233",
+    "title": "PHY 233 Engineering Statics",
+    "req": "<em>Prerequisite: <span data-link='PHY203'>PHY 203</span>.</em>",
+    "desc": "Application of mechanics to equilibrium problems; topics include principles of center of mass, resultant force, friction, moment of inertia, torque, etc. Course does not satisfy any requirement for a physics major or minor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PHY252": {
+    "course_id": "PHY252",
+    "title": "PHY 252 Introduction to Circuit Analysis",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span>.</em>",
+    "desc": "A study of Kirkoff&apos;s current and voltage laws, resistive circuits with DC sources, network analysis by node voltages and mesh currents, Thevenin&apos;s and Norton&apos;s theorems, and first order circuits. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PHY291": {
+    "course_id": "PHY291",
+    "title": "PHY 291 Introduction to Computational Physics",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span>.</em>",
+    "desc": "Numerical and computer methods related to physics modeling and data analysis. Introduction of physics applications using symbolic, matrix, and spreadsheet software including programming. Programming applied directly to physical simulations. Recent advances in physics-related computing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PHY300": {
+    "course_id": "PHY300",
+    "title": "PHY 300 Service Learning in Physics",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a Physics course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in Physics to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHY324": {
+    "course_id": "PHY324",
+    "title": "PHY 324 Instrumental/Computer Interfacing",
+    "req": "<em>Prerequisite: <span data-link='PHY152'>PHY 152</span>; and <span data-link='CSC125'>CSC 125</span> or other language by permission.</em>",
+    "desc": "An introduction to computer architecture, machine/assembly language programming, and peripheral interfacing. Topics include microprocessor operation, addressing modes, memory organization, microprocessor buses, reset and interrupts, parallel I/O, serial I/O, timers, and analog/digital conversions. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHY333": {
+    "course_id": "PHY333",
+    "title": "PHY 333 Intermediate Mechanics",
+    "req": "<em>Prerequisite: <span data-link='PHY203'>PHY 203</span> and <span data-link='PHY391'>PHY 391</span> and <span data-link='MTH303'>MTH 303</span>.</em>",
+    "desc": "Classical mechanics of particles. Topics include kinematics, dynamics, oscillations, central forces, conservation theorems, scattering, and an introduction to the Lagrangian and Hamiltonian formulations of mechanics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PHY343": {
+    "course_id": "PHY343",
+    "title": "PHY 343 Thermal Physics",
+    "req": "<em>Prerequisite: <span data-link='PHY203'>PHY 203</span>; and <span data-link='MTH302'>MTH 302</span> or concurrent enrollment.</em>",
+    "desc": "The macroscopic laws of thermodynamics and the microscopic foundation for those laws. Topics include the microcanonical, canonical, and grand canonical ensembles; Maxwell-Boltzmann, Fermi-Dirac, and Bose-Einstein statistics; equation of state, thermodynamic potentials, Maxwell&apos;s relations, and phase transitions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PHY351": {
+    "course_id": "PHY351",
+    "title": "PHY 351 Circuit, Signals, and Controls",
+    "req": "<em>Prerequisite: <span data-link='PHY152'>PHY 152</span>.</em>",
+    "desc": "Review of circuits. Transfer functions, passive and active filters, and signal processing. Amplifiers including classes, operational, differential and instrumentation, logic, number systems, and mixed-signal electronics. Digital and analog experimental sensing and control. Further use of circuit modeling software. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PHY353": {
+    "course_id": "PHY353",
+    "title": "PHY 353 Electricity and Magnetism",
+    "req": "<em>Prerequisite: <span data-link='PHY204'>PHY 204</span> and <span data-link='PHY391'>PHY 391</span>.</em>",
+    "desc": "An introduction to the theory of electric and magnetic fields and their sources. Topics include electrostatic and magnetostatic fields in a vacuum, electric potential, magnetic vector potential, electromagnetic fields, and Maxwell&apos;s equations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PHY373": {
+    "course_id": "PHY373",
+    "title": "PHY 373 Radiation Physics",
+    "req": "<em>Prerequisite: <span data-link='PHY124'>PHY 124</span> or <span data-link='PHY204'>PHY 204</span>.</em>",
+    "desc": "Theory of and measurement techniques for electromagnetic and particulate radiation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PHY375": {
+    "course_id": "PHY375",
+    "title": "PHY 375 Modern Physics",
+    "req": "<em>Prerequisite: <span data-link='PHY204'>PHY 204</span>; and <span data-link='MTH302'>MTH 302</span> or concurrent enrollment.</em>",
+    "desc": "An introduction to the major developments in physics during the twentieth century. Topics include the special theory of relativity, the experimental basis for quantum mechanics, wave-particle duality, introductory quantum mechanics of one-dimensional systems, nuclear physics, and elementary particle physics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PHY385": {
+    "course_id": "PHY385",
+    "title": "PHY 385 Experiments in Modern Physics",
+    "req": "<em>Prerequisite: <span data-link='PHY375'>PHY 375</span>.</em>",
+    "desc": "A study of basic experimental techniques, data analysis, and analysis of experimental errors. Laboratory experiments chosen from physical phenomena discovered in the twentieth century and may include photoelectric effect, Hall effect, Frank-Hertz experiment, electron spin resonance, and others. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PHY386": {
+    "course_id": "PHY386",
+    "title": "PHY 386 Undergraduate Research I",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "An introduction to research that requires the selection of a suitable research project, completing a written feasibility study for the proposed project, and making all necessary preparations for the actual pursuit of the project in <span data-link='PHY486'>PHY 486</span>. Graded Pass/Not Pass only. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHY390": {
+    "course_id": "PHY390",
+    "title": "PHY 390 Interdisciplinary Topics in Physics",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Topics of interdisciplinary nature; usually team-taught by members of the disciplines involved. Typical topics chosen from: space physics (e.g. lunar studies), chemical physics (e.g. spectroscopy), biophysics, geophysics, mathematical physics, etc. Since credit and topics vary, the course may be repeated to a total of 6 hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHY391": {
+    "course_id": "PHY391",
+    "title": "PHY 391 Mathematics for Science and Engineering I",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span>.</em>",
+    "desc": "A study of mathematical techniques widely used in science and engineering. Topics covered include series solutions to differential equations, Fourier series and transforms, vector calculus, matrix algebra, complex functions, and partial differential equations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PHY392": {
+    "course_id": "PHY392",
+    "title": "PHY 392 Mathematics for Science and Engineering II",
+    "req": "<em>Prerequisite: <span data-link='PHY391'>PHY 391</span>.</em>",
+    "desc": "A continuation of <span data-link='PHY391'>PHY 391</span> with topics selected from complex integration, numerical solutions to differential equations, special functions, probability distribution functions, and group theory. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHY399": {
+    "course_id": "PHY399",
+    "title": "PHY 399 Cooperative Education in Physics",
+    "req": "<em>Prerequisite: acceptance into the Cooperative Education Program and permission.</em>",
+    "desc": "The opportunity to earn academic credit in a planned learning process that integrates academic training with a supervised work experience. This is a variable content course that may be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHY409": {
+    "course_id": "PHY409",
+    "title": "PHY 409 Selected Topics in Physics",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Advanced topics in physics which may vary from year to year. Some typical topics: solid state, nuclear structure, plasmas, fluids, astrophysics, applied group theory. Inter-disciplinary topics such as atmospheric physics and spectroscopy might also be offered. Since credit and topics vary, the course may be repeated to a total of 6 hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHY476": {
+    "course_id": "PHY476",
+    "title": "PHY 476 Introduction to Nuclear and Particle Physics",
+    "req": "<em>Prerequisite: <span data-link='PHY375'>PHY 375</span> and <span data-link='PHY391'>PHY 391</span> and <span data-link='MTH303'>MTH 303</span>.</em>",
+    "desc": "Studies subatomic structure, basic constituents and their mutual interactions. Topics include nuclei, radioactivity, interactions of radiation with matter, particle detection, accelerators, nuclear models and reactions, and classification and interactions of quarks and other elementary particles. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PHY486": {
+    "course_id": "PHY486",
+    "title": "PHY 486 Undergraduate Research II",
+    "req": "<em>Prerequisite: <span data-link='PHY386'>PHY 386</span>.</em>",
+    "desc": "A continuation of <span data-link='PHY386'>PHY 386</span> in which the feasibility study from <span data-link='PHY386'>PHY 386</span> and the research project outcome are to be combined in a written report following a format required for journal publication. An oral presentation of this work will be reviewed by the faculty. Graded Pass/Not Pass only. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PHY495": {
+    "course_id": "PHY495",
+    "title": "PHY 495 Readings in Physics",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Independent reading; topics not offered in regular courses. Course may be repeated to a total of 4 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHY499": {
+    "course_id": "PHY499",
+    "title": "PHY 499 Honors Project in Physics",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Enrollment limited to students of distinguished capability and industry. Students must consult with the physics and astronomy staff concerning their proposed problem prior to enrollment for this course. This course may be repeated to a total of 5 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHY501": {
+    "course_id": "PHY501",
+    "title": "PHY 501 Physics and Astronomy By Inquiry",
+    "req": "<em>Prerequisite: 70 hours including <span data-link='PHY101'>PHY 101</span>.</em>",
+    "desc": "This course is a continuation of <span data-link='PHY101'>PHY 101</span>. Additional topics in mechanics, optics, heat, electricity and magnetism will be covered. The course will also include an introduction to Astronomy. Concepts will be explored using the inquiry approach. Will not count towards a major or minor in physics. May be taught concurrently with <span data-link='PHY602'>PHY 602</span>. Cannot receive credit for both <span data-link='PHY501'>PHY 501</span> and <span data-link='PHY602'>PHY 602</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PHY509": {
+    "course_id": "PHY509",
+    "title": "PHY 509 Special Topics in Physics and Astronomy",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Variable content, variable credit course. Topics to be chosen from current areas of interest. May be repeated to a total of 6 hours with different topic. May be taught concurrently with <span data-link='PHY609'>PHY 609</span>. Cannot receive credit for both <span data-link='PHY609'>PHY 609</span> and <span data-link='PHY509'>PHY 509</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHY575": {
+    "course_id": "PHY575",
+    "title": "PHY 575 Quantum Mechanics",
+    "req": "<em>Prerequisite: <span data-link='PHY375'>PHY 375</span> or <span data-link='CHM507'>CHM 507</span>.</em>",
+    "desc": "A mathematical development of the principles of quantum mechanics and their application to selected systems. Topics include Schrodinger&apos;s equation, operators, Heisenberg uncertainty principle, angular momentum, and applications, including the hydrogen atom. May be taught concurrently with <span data-link='PHY675'>PHY 675</span>. Cannot receive credit for both <span data-link='PHY575'>PHY 575</span> and <span data-link='PHY675'>PHY 675</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PHY602": {
+    "course_id": "PHY602",
+    "title": "PHY 602 Physics and Astronomy By Inquiry",
+    "req": "<em>Prerequisite: <span data-link='PHY101'>PHY 101</span>.</em>",
+    "desc": "This course is a continuation of <span data-link='PHY101'>PHY 101</span>. Additional topics in mechanics, optics, heat, electricity and magnetism will be covered. The course will also include an introduction to Astronomy. Concepts will be explored using the inquiry approach. Will not count towards a major or minor in physics. May be taught concurrently with <span data-link='PHY501'>PHY 501</span>. Cannot receive credit for both <span data-link='PHY501'>PHY 501</span> and <span data-link='PHY602'>PHY 602</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PHY609": {
+    "course_id": "PHY609",
+    "title": "PHY 609 Special Topics in Physics and Astronomy",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Variable content, variable credit course. Topics to be chosen from current areas of interest. May be repeated to a total of 6 hours with different topic. May be taught concurrently with <span data-link='PHY509'>PHY 509</span>. Cannot receive credit for both <span data-link='PHY609'>PHY 609</span> and <span data-link='PHY509'>PHY 509</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHY675": {
+    "course_id": "PHY675",
+    "title": "PHY 675 Quantum Mechanics",
+    "req": "<em>Prerequisite: <span data-link='PHY375'>PHY 375</span> or <span data-link='CHM607'>CHM 607</span>.</em>",
+    "desc": "A mathematical development of the principles of quantum mechanics and their application to selected systems. Topics include Schrodinger&apos;s equation, operators, Heisenberg uncertainty principle, angular momentum, and applications, including the hydrogen atom. May be taught concurrently with <span data-link='PHY575'>PHY 575</span>. Cannot receive credit for both <span data-link='PHY575'>PHY 575</span> and <span data-link='PHY675'>PHY 675</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PHY701": {
+    "course_id": "PHY701",
+    "title": "PHY 701 Workshop on Topical Issues in Science Education",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Workshop to upgrade understanding of selected topics in science, and improve elementary, middle school and/or secondary science teaching. Each workshop will include performance and analysis of appropriate investigations to enhance understanding of the selected topics. Number of class hours determined by semester hours of credit. Variable content course. May be repeated to a maximum of 6 hours provided the topics are different. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHY785": {
+    "course_id": "PHY785",
+    "title": "PHY 785 Physics Laboratory for Teachers",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Performance and analysis of secondary laboratory experiments in physics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHY790": {
+    "course_id": "PHY790",
+    "title": "PHY 790 Seminar in Physics",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Extensive paper on agreed topic in physics or astronomy to be read before staff seminars. May be repeated to a total of 4 hours. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PHY796": {
+    "course_id": "PHY796",
+    "title": "PHY 796 Science Internship",
+    "desc": "Completion of an internship project (80 hours/credit hour) at a discipline-related business, nonprofit organization, or government agency, approved and supervised by both the departmental and internship advisors. Includes a formal report in the appropriate professional format, and an oral presentation at an approved venue. Graded Pass/Not Pass only. No more than 6 hours may count toward a masters degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "PHY799": {
+    "course_id": "PHY799",
+    "title": "PHY 799 Research in Natural and Applied Sciences",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Supervised research in the natural and applied sciences. May be repeated, but no more than 12 hours may be counted toward the masters degree. Cannot be applied toward the MS degree in Materials Science. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

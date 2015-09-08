@@ -1,0 +1,1342 @@
+{
+  "MTH101": {
+    "course_id": "MTH101",
+    "title": "MTH 101 Intermediate Algebra A",
+    "desc": "This course is recommended for students who have not mastered algebra concepts needed for college algebra. Topics will include linear and quadratic equations, absolute value equations and inequalities, linear and nonlinear inequalities, properties of exponents, rectangular coordinate systems, lines, circles, parabolas, systems of equations, polynomials and rational expressions, and functions. Cannot receive credit toward graduation for both <span data-link='MTH101'>MTH 101</span> and <span data-link='MTH103'>MTH 103</span>. Cannot count toward a mathematics major or minor. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='MTH130'>MTH 130</span>, <span data-link='MTH135'>MTH 135</span>, or <span data-link='MTH138'>MTH 138</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH103": {
+    "course_id": "MTH103",
+    "title": "MTH 103 Intermediate Algebra",
+    "req": "<em>Prerequisite: appropriate placement score.</em>",
+    "desc": "This course is recommended for students who have not mastered algebra concepts needed for college algebra. Topics will include linear and quadratic equations, absolute value equations and inequalities, linear and nonlinear inequalities, properties of exponents, rectangular coordinate systems, lines, circles, parabolas, systems of equations, polynomials and rational expressions, and functions. Cannot receive credit toward graduation for both the <span data-link='MTH101'>MTH 101</span>-102 sequence and <span data-link='MTH103'>MTH 103</span>. Cannot count toward a mathematics major or minor. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='MTH130'>MTH 130</span>, <span data-link='MTH135'>MTH 135</span>, or <span data-link='MTH138'>MTH 138</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH121": {
+    "course_id": "MTH121",
+    "title": "MTH 121 Multicultural Views of History and Mathematics",
+    "desc": "This course explores the impact of major historical events, the mores of various societies, and basic human nature on the development of mathematical knowledge. Parallels will be drawn to events in today&apos;s world to determine how each individual can foster the global advancement of knowledge. The level of mathematical and historical knowledge expected on incoming students does not exceed the level of traditional high school courses. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH130": {
+    "course_id": "MTH130",
+    "title": "MTH 130 Contemporary Mathematics",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='MTH101'>MTH 101</span> or <span data-link='MTH103'>MTH 103</span>, or approved score on a departmental placement test. General Education Course (Focus on Quantitative Literacy).</em>",
+    "desc": "This is a problem solving and applications of mathematics course. Topics to be studied will include, but not limited to: the art of problem solving, geometry, probability, statistics, and mathematics of finance. Cannot count toward a mathematics major or minor. Cannot be taken Pass/Not Pass. <span data-link='MTH130'>MTH 130</span> does not meet the prerequisite for <span data-link='MTH135'>MTH 135</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH135": {
+    "course_id": "MTH135",
+    "title": "MTH 135 College Algebra",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='MTH101'>MTH 101</span> or <span data-link='MTH103'>MTH 103</span>, or appropriate placement score, Note: <span data-link='MTH130'>MTH 130</span> does not meet the prerequisite for <span data-link='MTH135'>MTH 135</span>. General Education Course (Focus on Quantitative Literacy).</em>",
+    "desc": "Contents include the study of linear and quadratic equations; inequalities and their applications; polynomial, rational, exponential and logarithmic functions; and systems of equations. Cannot receive credit toward graduation for both <span data-link='MTH135'>MTH 135</span> and <span data-link='MTH138'>MTH 138</span>. Cannot count toward a mathematics major or minor. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='MTH181'>MTH 181</span>, <span data-link='MTH285'>MTH 285</span>, or <span data-link='MTH287'>MTH 287</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH138": {
+    "course_id": "MTH138",
+    "title": "MTH 138 Pre-Calculus Mathematics",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='MTH101'>MTH 101</span> or <span data-link='MTH103'>MTH 103</span> (Recommended: &quot;B&quot; grade or better in <span data-link='MTH101'>MTH 101</span> or <span data-link='MTH103'>MTH 103</span>), or appropriate placement score. General Education Course (Focus on Quantitative Literacy).</em>",
+    "desc": "Selected topics in algebra and trigonometry to prepare the student for calculus. Cannot receive credit toward graduation for both <span data-link='MTH138'>MTH 138</span> and <span data-link='MTH135'>MTH 135</span>. Cannot count toward a mathematics major or minor. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='MTH261'>MTH 261</span>, 287, <span data-link='CSC125'>CSC 125</span> or 131. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH181": {
+    "course_id": "MTH181",
+    "title": "MTH 181 Trigonometry",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='MTH135'>MTH 135</span> or appropriate placement score. General Education Course (Focus on Quantitative Literacy).</em>",
+    "desc": "Triangle trigonometry and its applications; trigonometric and inverse trigonometric functions; trigonometric identities and equations; Rational, exponential and logarithmic functions. Cannot receive credit toward graduation for both <span data-link='MTH181'>MTH 181</span> and <span data-link='MTH138'>MTH 138</span>. Cannot count toward a mathematics major or minor. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='MTH287'>MTH 287</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH215": {
+    "course_id": "MTH215",
+    "title": "MTH 215 Discrete Mathematics",
+    "req": "<em>Prerequisite: <span data-link='MTH138'>MTH 138</span> or approved calculus course or appropriate placement score.</em>",
+    "desc": "Topics include: logic, mathematical reasoning, basic counting, discrete probability, matrices, recursion, sets and relations, graphs and trees. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH261": {
+    "course_id": "MTH261",
+    "title": "MTH 261 Analytic Geometry and Calculus I",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='MTH138'>MTH 138</span> or <span data-link='MTH181'>MTH 181</span> or appropriate placement score. General Education Course (Focus on Quantitative Literacy).</em>",
+    "desc": "Analytic geometry of the plane, limits, continuity, differentiation with applications, introductory integration with applications. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='MTH280'>MTH 280</span> or 288. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH280": {
+    "course_id": "MTH280",
+    "title": "MTH 280 Analytic Geometry and Calculus II",
+    "req": "<em>Prerequisite: &quot;C&quot; or better in <span data-link='MTH261'>MTH 261</span>.</em>",
+    "desc": "Applications of integration, integration techniques, indeterminate forms, improper integrals, sequences, series, conic sections, parametrization, polar coordinates. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH285": {
+    "course_id": "MTH285",
+    "title": "MTH 285 Calculus for Business and the Social Sciences",
+    "req": "<em>Prerequisite: &quot;C&quot; or better in <span data-link='MTH135'>MTH 135</span>, or appropriate placement score.</em>",
+    "desc": "Short review of algebra; absolute value and inequalities followed by elements of geometry, limits, the derivative, anti-derivative, and their applications. Cannot receive credit toward graduation for both <span data-link='MTH285'>MTH 285</span> and <span data-link='MTH261'>MTH 261</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH287": {
+    "course_id": "MTH287",
+    "title": "MTH 287 Computational Calculus with Analytic Geometry I",
+    "req": "<em>Prerequisite: &quot;C&quot; or better in <span data-link='MTH135'>MTH 135</span> or <span data-link='MTH138'>MTH 138</span>, or an approved score on a department placement test. General Education Course (Focus on Quantitative Literacy).</em>",
+    "desc": "Introduction to the concepts and methods of analytic geometry and differential and integral calculus with emphasis on applications in the natural sciences and technology. Cannot receive credit toward graduation for both <span data-link='MTH287'>MTH 287</span> and <span data-link='MTH261'>MTH 261</span>. Cannot receive credit for both <span data-link='MTH287'>MTH 287</span> and <span data-link='MTH285'>MTH 285</span>. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='MTH288'>MTH 288</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MTH288": {
+    "course_id": "MTH288",
+    "title": "MTH 288 Computational Calculus II",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='MTH261'>MTH 261</span> or <span data-link='MTH287'>MTH 287</span>.</em>",
+    "desc": "Continuation of <span data-link='MTH287'>MTH 287</span>. Cannot receive credit toward graduation for both <span data-link='MTH288'>MTH 288</span> and <span data-link='MTH280'>MTH 280</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MTH299": {
+    "course_id": "MTH299",
+    "title": "MTH 299 Introductory Topics in Mathematics",
+    "desc": "Variable content course with topics that can change from semester to semester. Topics will be identified by title in the schedule of classes. The course may be repeated if a different topic is offered. Cannot count toward a mathematics major or minor or General Education requirement. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH300": {
+    "course_id": "MTH300",
+    "title": "MTH 300 Service Learning in Mathematics",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a Mathematics course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in mathematics to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH302": {
+    "course_id": "MTH302",
+    "title": "MTH 302 Multivariate Calculus",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span>.</em>",
+    "desc": "Vector algebra and calculus, solid analytic geometry, partial differentiation, multiple integration, vector fields. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH303": {
+    "course_id": "MTH303",
+    "title": "MTH 303 Differential Equations",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span>.</em>",
+    "desc": "Ordinary differential equations; their solutions and applications. Introduction to operators and the Laplace transformation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH315": {
+    "course_id": "MTH315",
+    "title": "MTH 315 Algebraic Structures",
+    "req": "<em>Prerequisite: <span data-link='MTH261'>MTH 261</span>.</em>",
+    "desc": "Sets, logic, quantifiers, functions, relations, matrices, elementary number theory, induction, recursion, combinatorics, with emphasis on reading and writing proofs and the development of mathematical maturity. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH320": {
+    "course_id": "MTH320",
+    "title": "MTH 320 Foundations of Mathematics for Teachers",
+    "req": "<em>Prerequisite: completion of General Education mathematics requirement with grade of &quot;C&quot; or better; <span data-link='MTH130'>MTH 130</span> recommended.</em>",
+    "desc": "This course centers around the structure and properties of the real number system and its subsets. Numeration systems, patterns of numbers, models and algorithms for operations, number theory, probability, and statistics will be studied. Problem solving and communication are continuing themes of this course. Manipulatives (including Base-10 Blocks, Cuisenaire Rods, Number Cubes, and Colored Counters), calculators, and computer software (including a statistical package, spreadsheet and word processor) are used extensively as tools to develop mathematical concepts. Cannot be used as a mathematics elective for the mathematics major or minor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH340": {
+    "course_id": "MTH340",
+    "title": "MTH 340 Statistical Methods",
+    "req": "<em>Prerequisite: completion of General Education mathematics requirement or appropriate placement score.</em>",
+    "desc": "Statistics, elementary probability, estimation and tests of simple hypotheses involving both large and small sample methods, linear correlation. Cannot count toward mathematics major or minor. Cannot receive credit toward a degree for more than one of the following courses: <span data-link='AGR330'>AGR 330</span>, <span data-link='MTH340'>MTH 340</span>, <span data-link='PSY200'>PSY 200</span>, <span data-link='QBA237'>QBA 237</span>, <span data-link='REC328'>REC 328</span>, <span data-link='SOC302'>SOC 302</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH343": {
+    "course_id": "MTH343",
+    "title": "MTH 343 Foundations of Probability and Statistics for Teachers",
+    "req": "<em>Prerequisite: &quot;C&quot; or better in <span data-link='MTH320'>MTH 320</span>.</em>",
+    "desc": "This course includes the collection, display, analysis, and misuse of data, measures of central tendency and variation; counting techniques including permutations and combinations; elementary probability, and an informal introduction to correlation and regression. Problem solving and communication skills are continuing themes. This is an activity-based course with extensive use of manipulatives, models and technology. It cannot be used as a mathematics elective for a mathematics major or minor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH345": {
+    "course_id": "MTH345",
+    "title": "MTH 345 Statistics for Scientists and Engineers",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span> or <span data-link='MTH288'>MTH 288</span>.</em>",
+    "desc": "Topics include events, probability, random variables, discrete and continuous density functions, expectations, sampling distributions, central limit theorem, estimation, confidence intervals, tests or hypotheses. Computer statistical packages will be used for simulation study and data analysis. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH360": {
+    "course_id": "MTH360",
+    "title": "MTH 360 Foundations of Geometry for Teachers",
+    "req": "<em>Prerequisite: &quot;C&quot; or better in <span data-link='MTH320'>MTH 320</span>.</em>",
+    "desc": "This course includes the study of synthetic, analytic, vector and transformational geometries through properties of geometric figures, measurement, construction, conjecture and proof, and tessellations. Problem solving and communication are continuing themes of this course. Manipulatives (including MIRA, Geoboard, Tangrams, Attribute Blocks and compass), calculators, and computer software (including Logo, Geometer&apos;s Sketchpad and a word processor) are used extensively as tools to develop geometric concepts. Cannot be used as a mathematics elective for the mathematics major or minor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH377": {
+    "course_id": "MTH377",
+    "title": "MTH 377 Mathematical Processes",
+    "req": "<em>Prerequisite: <span data-link='MTH135'>MTH 135</span> or <span data-link='MTH138'>MTH 138</span>; and <span data-link='MTH340'>MTH 340</span> or <span data-link='MTH343'>MTH 343</span>.</em>",
+    "desc": "This course examines both finite and infinite mathematical processes used when solving problems involving discrete or continuous data. As an activity-base and laboratory-centered course, these processes are to be explored in the context of real-world applications. Communication of mathematical concepts and solutions to problems using technology, as well as paper and pencil procedures, is a continuing theme. This course is for the middle school education major who chooses mathematics as an area of subject matter concentration and elementary education majors with an emphasis area in mathematics. The course connects experiences from the concepts of numbers, algebra, geometry, and data analysis to those of the calculus. This course cannot be used as a mathematics elective for the mathematics major or minor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MTH409": {
+    "course_id": "MTH409",
+    "title": "MTH 409 Teaching and Learning of Mathematics I",
+    "req": "<em>Prerequisite: <span data-link='SEC302'>SEC 302</span> and 15 hours of college mathematics, and admission to the Teacher Education Program.</em>",
+    "desc": "Develops foundation for reflective decision-making when teaching algebra to emphasize problem solving, communication, reasoning and proof, connections, and representations. The incorporation of appropriate classroom technology will be stressed. Credited only on the BSEd (Middle School/Secondary). A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='MTH493'>MTH 493</span>. Cannot be taken Pass/Not Pass. Cannot count toward the major GPA. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MTH410": {
+    "course_id": "MTH410",
+    "title": "MTH 410 Teaching and Learning of Mathematics II, with Practicum",
+    "req": "<em>Prerequisite: <span data-link='MTH409'>MTH 409</span>, and admission to the Teacher Education Program.</em>",
+    "desc": "Focus on developing the reflective decisionmaker&apos;s appropriate use of current technologies, classroom management techniques and assessment processes in teaching geometry. Some attention devoted to advanced algebra, trigonometry, discrete mathematics and calculus topics. All students will complete a field experience in a mathematics classroom. Credited only on the BSEd (Secondary). A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='MTH493'>MTH 493</span>. Cannot be taken Pass/Not Pass. Cannot count toward the major GPA. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MTH421": {
+    "course_id": "MTH421",
+    "title": "MTH 421 Numerical Analysis I",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='CSC125'>CSC 125</span> or <span data-link='CSC130'>CSC 130</span>. Solution of systems of linear and nonlinear equations, interpolation, integration, approximation, matrix computations. Problem solution will include the use of software. Identical with <span data-link='CSC421'>CSC 421</span>. Cannot receive credit for both <span data-link='MTH421'>MTH 421</span> and <span data-link='CSC421'>CSC 421</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH422": {
+    "course_id": "MTH422",
+    "title": "MTH 422 Numerical Analysis II",
+    "req": "<em>Prerequisite: <span data-link='MTH303'>MTH 303</span> and <span data-link='MTH421'>MTH 421</span>.</em>",
+    "desc": "Solution of initial and boundary value problems in ordinary and partial differential equations, simulation, and optimization. Problem solution will include the use of software. Identical with <span data-link='CSC422'>CSC 422</span>. Cannot receive credit for both <span data-link='MTH422'>MTH 422</span> and <span data-link='CSC422'>CSC 422</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH450": {
+    "course_id": "MTH450",
+    "title": "MTH 450 Theory of Interest",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span>.</em>",
+    "desc": "A thorough treatment of the mathematical theory of interest with some discussion of economic aspects such as inflation, risk and uncertainty, and yield curves. Topics include: Annuities, yield rates, amortization, bonds, and sinking funds. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MTH460": {
+    "course_id": "MTH460",
+    "title": "MTH 460 College Geometry",
+    "req": "<em>Prerequisite: <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "This course examines concepts not usually included in a high school plane geometry course: axiomatic structure, finite geometries; Euclidean geometry axioms, historical development and relationships between various geometries, transformations in two and three dimensions, groups of transformations, convexity, linear programming, geometry of polygons and circles, the nine-point circle, constructions, and an introduction to non-Euclidean geometry. These topics will be developed within a problem solving context and will emphasize construction and communication of mathematical ideas including argument and proof. A dynamic geometry software package, such as Geometer&apos;s Sketchpad, will be used as a tool to develop geometric concepts. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH479": {
+    "course_id": "MTH479",
+    "title": "MTH 479 Mathematical Tools and Structures",
+    "req": "<em>Prerequisite: <span data-link='MTH343'>MTH 343</span> or <span data-link='MTH360'>MTH 360</span>.</em>",
+    "desc": "Recommended Prerequisite: 15 hours of elementary or middle school mathematics. This course is designed to coordinate, connect and extend the mathematical experiences of the student who is preparing to teach mathematics in the middle school. Specific course content will include all of the following: an in-depth overview of problem solving and the nature of proof in mathematics and the mathematics classroom; history of the development of mathematics; a variety of mathematical topics such as algebraic structures, discrete mathematics, fractals and chaos, etc.; examination and exploration of mathematical topics that are appropriate and necessary for middle school students to ensure their efficient transition into secondary mathematics. A constant awareness of the use and impact of technology upon the mathematician and the mathematics classroom is explored and integrated throughout the course. The course experience is culminated in the final project, which will be an original, independent investigating of some relevant mathematical topic of interest to the student. This course cannot be used as a mathematics elective for the mathematics major or minor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MTH493": {
+    "course_id": "MTH493",
+    "title": "MTH 493 Supervised Teaching (Secondary Mathematics)",
+    "req": "<em>Prerequisite: <span data-link='MTH409'>MTH 409</span>; <span data-link='MTH410'>MTH 410</span>; a grade of &quot;C&quot; or better in all professional education courses; current pre-professional liability insurance; and approval for supervised teaching.</em>",
+    "desc": "Student observes then teaches mathematics classes under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH494": {
+    "course_id": "MTH494",
+    "title": "MTH 494 Supervised Teaching (Secondary Mathematics)",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='MTH493'>MTH 493</span>.</em>",
+    "desc": "Student observes then teaches under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH496": {
+    "course_id": "MTH496",
+    "title": "MTH 496 Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate masters-level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH497": {
+    "course_id": "MTH497",
+    "title": "MTH 497 Topics",
+    "req": "<em>Prerequisite: 90 hours.</em>",
+    "desc": "Recommended Prerequisite: completion of or concurrent enrollment in all mathematics courses required for the mathematics major. A written paper on a mathematical topic will be required. The student will be exposed to elementary research topics and to professional opportunities including graduate programs, employment by business, industry and government, and teaching options. Each student will be required to take the mathematics major assessment exam. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH503": {
+    "course_id": "MTH503",
+    "title": "MTH 503 Advanced Calculus I",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Concepts of limit, continuity, differentiation, Riemann integration, sequences and series, other related topics. May be taught concurrently with <span data-link='MTH603'>MTH 603</span>. Cannot receive credit for both <span data-link='MTH603'>MTH 603</span> and <span data-link='MTH503'>MTH 503</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH504": {
+    "course_id": "MTH504",
+    "title": "MTH 504 Advanced Calculus II",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span> and <span data-link='MTH503'>MTH 503</span>.</em>",
+    "desc": "This is a continuation of <span data-link='MTH503'>MTH 503</span>, including sequences and series of functions, uniform convergence, multivariate calculus, and other selected topics. May be taught concurrently with <span data-link='MTH604'>MTH 604</span>. Cannot receive credit for both <span data-link='MTH604'>MTH 604</span> and <span data-link='MTH504'>MTH 504</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH506": {
+    "course_id": "MTH506",
+    "title": "MTH 506 Theory of Functions of a Complex Variable",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Theory of elementary functions-polynomial, trigonometric, exponential, hyperbolic, logarithmic-of a complex variable; their derivatives, integrals; power series; other selected topics. May be taught concurrently with <span data-link='MTH605'>MTH 605</span>. Cannot receive credit for both <span data-link='MTH605'>MTH 605</span> and <span data-link='MTH506'>MTH 506</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH507": {
+    "course_id": "MTH507",
+    "title": "MTH 507 Introduction to Partial Differential Equations",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span> and <span data-link='MTH303'>MTH 303</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Introduction to linear first and second order partial differential equations, including some formal methods of finding general solutions; the Cauchy problem for such equations, existence theorems, formal methods of finding the solution, and the role of characteristics; the classical boundary and initial value problems for the wave equation, heat equation and the boundary value problems for Laplace&apos;s equation. May be taught concurrently with <span data-link='MTH607'>MTH 607</span>. Cannot receive credit for both <span data-link='MTH607'>MTH 607</span> and <span data-link='MTH507'>MTH 507</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH532": {
+    "course_id": "MTH532",
+    "title": "MTH 532 Introduction to Abstract Algebra",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "It is recommended that students not take <span data-link='MTH532'>MTH 532</span> before taking <span data-link='MTH533'>MTH 533</span>. Theory of groups, rings, integral domains, fields, polynomials. May be taught concurrently with <span data-link='MTH631'>MTH 631</span>. Cannot receive credit for both <span data-link='MTH631'>MTH 631</span> and <span data-link='MTH532'>MTH 532</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MTH533": {
+    "course_id": "MTH533",
+    "title": "MTH 533 Linear Algebra I",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Vector spaces, linear independence, inner product spaces, linear transformations, Eigenvectors, diagonalization. May be taught concurrently with <span data-link='MTH633'>MTH 633</span>. Cannot receive credit for both <span data-link='MTH633'>MTH 633</span> and <span data-link='MTH533'>MTH 533</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH534": {
+    "course_id": "MTH534",
+    "title": "MTH 534 Linear Algebra II",
+    "req": "<em>Prerequisite: <span data-link='MTH533'>MTH 533</span>.</em>",
+    "desc": "Topics include eigenvalue problems; Jordan normal form, linear functionals, bilinear forms, quadratic forms, orthogonal and unitary transformations, Markov processes, and other topics selected by the instructor. May be taught concurrently with <span data-link='MTH634'>MTH 634</span>. Cannot receive credit for both <span data-link='MTH634'>MTH 634</span> and <span data-link='MTH534'>MTH 534</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH536": {
+    "course_id": "MTH536",
+    "title": "MTH 536 Theory of Numbers",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Factorization, Euler totient function, congruences, primitive roots, quadratic residues and reciprocity law. May be taught concurrently with <span data-link='MTH636'>MTH 636</span>. Cannot receive credit for both <span data-link='MTH636'>MTH 636</span> and <span data-link='MTH536'>MTH 536</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH537": {
+    "course_id": "MTH537",
+    "title": "MTH 537 Applied Abstract Algebra",
+    "req": "<em>Prerequisite: <span data-link='MTH532'>MTH 532</span> or <span data-link='MTH533'>MTH 533</span>.</em>",
+    "desc": "Topics typically include finite fields, block designs, error-correcting codes (nonlinear, linear, cyclic, BCH, and Reed-Solomon codes), cryptography, and computer implementation of these applications. May be taught concurrently with <span data-link='MTH637'>MTH 637</span>. Cannot receive credit for both <span data-link='MTH637'>MTH 637</span> and <span data-link='MTH537'>MTH 537</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH540": {
+    "course_id": "MTH540",
+    "title": "MTH 540 Statistical Theory I",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Random variables, discrete and continuous probability functions, expectation, moment-generating functions, transformation of variables. May be taught concurrently with <span data-link='MTH640'>MTH 640</span>. Cannot receive credit for both <span data-link='MTH640'>MTH 640</span> and <span data-link='MTH540'>MTH 540</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MTH541": {
+    "course_id": "MTH541",
+    "title": "MTH 541 Statistical Theory II",
+    "req": "<em>Prerequisite: <span data-link='MTH540'>MTH 540</span> or equivalent.</em>",
+    "desc": "Estimation, complete and sufficient statistics, maximum likelihood estimation, hypothesis testing, nonparametric statistics. May be taught concurrently with <span data-link='MTH643'>MTH 643</span>. Cannot receive credit for both <span data-link='MTH643'>MTH 643</span> and <span data-link='MTH541'>MTH 541</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MTH543": {
+    "course_id": "MTH543",
+    "title": "MTH 543 Stochastic Modeling",
+    "req": "<em>Prerequisite: <span data-link='MTH540'>MTH 540</span>.</em>",
+    "desc": "This course will study applications of probability and statistics from a modeling point of view. Topics include generating functions, branching processes, discrete time Markov chains, classification of states, estimation of transition probabilities, continuous time Markov Chains, Poisson processes, birth and death processes, renewal theory, queuing systems, Brownian motion, and stationary processes. Computer statistical packages will be used. May be taught concurrently with <span data-link='MTH653'>MTH 653</span>. Cannot receive credit for both <span data-link='MTH653'>MTH 653</span> and <span data-link='MTH543'>MTH 543</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MTH545": {
+    "course_id": "MTH545",
+    "title": "MTH 545 Applied Statistics",
+    "req": "<em>Prerequisite: 60 credit hours and completion of General Education Mathematics Requirement.</em>",
+    "desc": "A course on statistical concepts, methods and data analysis with emphasis on assumptions and effects on violating those assumptions. Computer statistical packages will be used. Topics include statistical models, random sampling, normal distribution, estimation, confidence intervals, tests and inferences in single and two populations, and n-way analysis of variance. May be taught concurrently with <span data-link='MTH645'>MTH 645</span>. Cannot receive credit for both <span data-link='MTH645'>MTH 645</span> and <span data-link='MTH545'>MTH 545</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MTH546": {
+    "course_id": "MTH546",
+    "title": "MTH 546 Analysis of Variance and Design of Experiments",
+    "req": "<em>Prerequisite: <span data-link='MTH345'>MTH 345</span> or <span data-link='MTH541'>MTH 541</span> or <span data-link='MTH545'>MTH 545</span>.</em>",
+    "desc": "Topics include analysis of variance, estimation of variance components, randomized incomplete blocks, Latin squares, factorial nested, split-plot designs, fixed, random and mixed models. May be taught concurrently with <span data-link='MTH646'>MTH 646</span>. Cannot receive credit for both <span data-link='MTH646'>MTH 646</span> and <span data-link='MTH546'>MTH 546</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH547": {
+    "course_id": "MTH547",
+    "title": "MTH 547 Applied Regression Analysis",
+    "req": "<em>Prerequisite: <span data-link='MTH345'>MTH 345</span> or <span data-link='MTH541'>MTH 541</span> or <span data-link='MTH545'>MTH 545</span>.</em>",
+    "desc": "Topics include fitting a straight line, matrix models, residuals, selecting best equation, multiple regression, and nonlinear estimation. May be taught concurrently with <span data-link='MTH647'>MTH 647</span>. Cannot receive credit for both <span data-link='MTH647'>MTH 647</span> and <span data-link='MTH547'>MTH 547</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH548": {
+    "course_id": "MTH548",
+    "title": "MTH 548 Applied Time Series Analysis",
+    "req": "<em>Prerequisite: <span data-link='MTH540'>MTH 540</span>; and <span data-link='MTH345'>MTH 345</span> or <span data-link='MTH541'>MTH 541</span> or <span data-link='MTH545'>MTH 545</span>.</em>",
+    "desc": "This course will study the analysis of data observed at different points of time. Topics include stationary and non-stationary time series models, linear time series models, autoregressive models, autocorrelations, partial autocorrelations, moving average models, ARMA models, ARIMA models, forecasting, prediction limits, model specification, least square estimation, and seasonal time series models. Computer statistical packages will be used. May be taught concurrently with <span data-link='MTH648'>MTH 648</span>. Cannot receive credit for both <span data-link='MTH648'>MTH 648</span> and <span data-link='MTH548'>MTH 548</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MTH567": {
+    "course_id": "MTH567",
+    "title": "MTH 567 Introduction to Non-Euclidean Geometry",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Development of non-Euclidean geometries; intensive study of hyperbolic geometry. May be taught concurrently with <span data-link='MTH667'>MTH 667</span>. Cannot receive credit for both <span data-link='MTH667'>MTH 667</span> and <span data-link='MTH567'>MTH 567</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MTH570": {
+    "course_id": "MTH570",
+    "title": "MTH 570 Combinatorial Analysis",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "An introduction to combinatorial analysis including enumeration methods, combinatorial identities with applications to the calculus of finite differences and difference equations. May be taught concurrently with <span data-link='MTH670'>MTH 670</span>. Cannot receive credit for both <span data-link='MTH670'>MTH 670</span> and <span data-link='MTH570'>MTH 570</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH575": {
+    "course_id": "MTH575",
+    "title": "MTH 575 History of Mathematics",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Development of mathematics through the calculus; solution of problems of historical interest, problems which use historically significant techniques; problems whose solutions illuminate significant mathematical characteristics of elementary mathematics. May be taught concurrently with <span data-link='MTH675'>MTH 675</span>. Cannot receive credit for both <span data-link='MTH675'>MTH 675</span> and <span data-link='MTH575'>MTH 575</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH580": {
+    "course_id": "MTH580",
+    "title": "MTH 580 Applied Mathematics",
+    "req": "<em>Prerequisite: <span data-link='MTH303'>MTH 303</span> and <span data-link='MTH533'>MTH 533</span>.</em>",
+    "desc": "An introduction to several areas of applied mathematics including control theory, optimization, modeling of population dynamics, modeling of mathematical economics, minimax and game theory, and calculus of variations. May be taught concurrently with <span data-link='MTH680'>MTH 680</span>. Cannot receive credit for both <span data-link='MTH680'>MTH 680</span> and <span data-link='MTH580'>MTH 580</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH582": {
+    "course_id": "MTH582",
+    "title": "MTH 582 Introductory Topology",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Properties of abstract metric and topological spaces; discussion of concepts of compactness and connectedness. May be taught concurrently with <span data-link='MTH682'>MTH 682</span>. Cannot receive credit for both <span data-link='MTH682'>MTH 682</span> and <span data-link='MTH582'>MTH 582</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH596": {
+    "course_id": "MTH596",
+    "title": "MTH 596 Readings",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Periodic conferences with an advisor are required. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='MTH696'>MTH 696</span>. Cannot receive credit for both <span data-link='MTH696'>MTH 696</span> and <span data-link='MTH596'>MTH 596</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH603": {
+    "course_id": "MTH603",
+    "title": "MTH 603 Advanced Calculus I",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Concepts of limit, continuity, differentiation, Riemann integration, sequences and series, other related topics. May be taught concurrently with <span data-link='MTH503'>MTH 503</span>. Cannot receive credit for both <span data-link='MTH503'>MTH 503</span> and <span data-link='MTH603'>MTH 603</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH604": {
+    "course_id": "MTH604",
+    "title": "MTH 604 Advanced Calculus II",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span>; and <span data-link='MTH503'>MTH 503</span> or <span data-link='MTH603'>MTH 603</span>.</em>",
+    "desc": "This is a continuation of <span data-link='MTH603'>MTH 603</span>, including sequences and series of functions, uniform convergence, multivariate calculus, and other selected topics. May be taught concurrently with <span data-link='MTH504'>MTH 504</span>. Cannot receive credit for both <span data-link='MTH504'>MTH 504</span> and <span data-link='MTH604'>MTH 604</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH605": {
+    "course_id": "MTH605",
+    "title": "MTH 605 Theory of Functions of a Complex Variable",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Theory of elementary functions-polynomial, trigonometric, exponential, hyperbolic, logarithmic-of a complex variable; their derivatives, integrals; power series; other selected topics. May be taught concurrently with <span data-link='MTH506'>MTH 506</span>. Cannot receive credit for both <span data-link='MTH506'>MTH 506</span> and <span data-link='MTH605'>MTH 605</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH607": {
+    "course_id": "MTH607",
+    "title": "MTH 607 Introduction to Partial Differential Equations",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span> and <span data-link='MTH303'>MTH 303</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Introduction to linear first and second order partial differential equations, including some formal methods of finding general solutions; the Cauchy problem for such equations, existence theorems, formal methods of finding the solution, and the role of characteristics; the classical boundary and initial value problems for the wave equation, heat equation and the boundary value problems for Laplace&apos;s equation. May be taught concurrently with <span data-link='MTH507'>MTH 507</span>. Cannot receive credit for both <span data-link='MTH507'>MTH 507</span> and <span data-link='MTH607'>MTH 607</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH631": {
+    "course_id": "MTH631",
+    "title": "MTH 631 Introduction to Abstract Algebra",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Theory of groups, rings, integral domains, fields, polynomials. May be taught concurrently with <span data-link='MTH532'>MTH 532</span>. Cannot receive credit for both <span data-link='MTH532'>MTH 532</span> and <span data-link='MTH631'>MTH 631</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MTH633": {
+    "course_id": "MTH633",
+    "title": "MTH 633 Linear Algebra I",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Vector spaces, linear independence, inner product spaces, linear transformations, Eigenvectors, diagonalization. May be taught concurrently with <span data-link='MTH533'>MTH 533</span>. Cannot receive credit for both <span data-link='MTH533'>MTH 533</span> and <span data-link='MTH633'>MTH 633</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH634": {
+    "course_id": "MTH634",
+    "title": "MTH 634 Linear Algebra II",
+    "req": "<em>Prerequisite: <span data-link='MTH533'>MTH 533</span> or <span data-link='MTH633'>MTH 633</span>.</em>",
+    "desc": "Topics include eigenvalue problems; Jordan normal form, linear functionals, bilinear forms, quadratic forms, orthogonal and unitary transformations, Markov processes, and other topics selected by the instructor. May be taught concurrently with <span data-link='MTH534'>MTH 534</span>. Cannot receive credit for both <span data-link='MTH534'>MTH 534</span> and <span data-link='MTH634'>MTH 634</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH636": {
+    "course_id": "MTH636",
+    "title": "MTH 636 Theory of Numbers",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Factorization, Euler totient function, congruences, primitive roots, quadratic residues and reciprocity law. May be taught concurrently with <span data-link='MTH536'>MTH 536</span>. Cannot receive credit for both <span data-link='MTH536'>MTH 536</span> and <span data-link='MTH636'>MTH 636</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH637": {
+    "course_id": "MTH637",
+    "title": "MTH 637 Applied Abstract Algebra",
+    "req": "<em>Prerequisite: <span data-link='MTH532'>MTH 532</span> or <span data-link='MTH632'>MTH 632</span> or <span data-link='MTH533'>MTH 533</span> or <span data-link='MTH633'>MTH 633</span>.</em>",
+    "desc": "Topics typically include finite fields, block designs, error-correcting codes (nonlinear, linear, cyclic, BCH, and Reed-Solomon codes), cryptography, and computer implementation of these applications. May be taught concurrently with <span data-link='MTH537'>MTH 537</span>. Cannot receive credit for both <span data-link='MTH537'>MTH 537</span> and <span data-link='MTH637'>MTH 637</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH640": {
+    "course_id": "MTH640",
+    "title": "MTH 640 Statistical Theory I",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Random variables, discrete and continuous probability functions, expectation, moment-generating functions, transformation of variables. May be taught concurrently with <span data-link='MTH540'>MTH 540</span>. Cannot receive credit for both <span data-link='MTH540'>MTH 540</span> and <span data-link='MTH640'>MTH 640</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MTH643": {
+    "course_id": "MTH643",
+    "title": "MTH 643 Statistical Theory II",
+    "req": "<em>Prerequisite: <span data-link='MTH540'>MTH 540</span> or <span data-link='MTH640'>MTH 640</span> or equivalent.</em>",
+    "desc": "Estimation, complete and sufficient statistics, maximum likelihood estimation, hypothesis testing, nonparametric statistics. May be taught concurrently with <span data-link='MTH541'>MTH 541</span>. Cannot receive credit for both <span data-link='MTH541'>MTH 541</span> and <span data-link='MTH643'>MTH 643</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MTH645": {
+    "course_id": "MTH645",
+    "title": "MTH 645 Applied Statistics",
+    "desc": "A course on statistical concepts, methods and data analysis with emphasis on assumptions and effects on violating those assumptions. Computer statistical packages will be used. Topics include statistical models, random sampling, normal distribution, estimation, confidence intervals, tests and inferences in single and two populations, and n-way analysis of variance. May be taught concurrently with <span data-link='MTH545'>MTH 545</span>. Cannot receive credit for both <span data-link='MTH545'>MTH 545</span> and <span data-link='MTH645'>MTH 645</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MTH646": {
+    "course_id": "MTH646",
+    "title": "MTH 646 Analysis of Variance and Design of Experiments",
+    "req": "<em>Prerequisite: <span data-link='MTH345'>MTH 345</span> or <span data-link='MTH541'>MTH 541</span> or <span data-link='MTH643'>MTH 643</span> or <span data-link='MTH545'>MTH 545</span> or <span data-link='MTH645'>MTH 645</span>.</em>",
+    "desc": "Topics include analysis of variance, estimation of variance components, randomized incomplete blocks, Latin squares, factorial nested, split-plot designs, fixed, random and mixed models. May be taught concurrently with <span data-link='MTH546'>MTH 546</span>. Cannot receive credit for both <span data-link='MTH546'>MTH 546</span> and <span data-link='MTH646'>MTH 646</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH647": {
+    "course_id": "MTH647",
+    "title": "MTH 647 Applied Regression Analysis",
+    "req": "<em>Prerequisite: <span data-link='MTH345'>MTH 345</span> or <span data-link='MTH541'>MTH 541</span> or <span data-link='MTH643'>MTH 643</span> or <span data-link='MTH545'>MTH 545</span> or <span data-link='MTH645'>MTH 645</span>.</em>",
+    "desc": "Topics include fitting a straight line, matrix models, residuals, selecting best equation, multiple regression, and nonlinear estimation. May be taught concurrently with <span data-link='MTH547'>MTH 547</span>. Cannot receive credit for both <span data-link='MTH547'>MTH 547</span> and <span data-link='MTH647'>MTH 647</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH648": {
+    "course_id": "MTH648",
+    "title": "MTH 648 Applied Time Series Analysis",
+    "req": "<em>Prerequisite: <span data-link='MTH540'>MTH 540</span> or <span data-link='MTH640'>MTH 640</span>; and <span data-link='MTH345'>MTH 345</span> or <span data-link='MTH541'>MTH 541</span> or <span data-link='MTH643'>MTH 643</span> or <span data-link='MTH545'>MTH 545</span> or <span data-link='MTH645'>MTH 645</span>.</em>",
+    "desc": "This course will study the analysis of data observed at different points of time. Topics include stationary and non-stationary time series models, linear time series models, autoregressive models, autocorrelations, partial autocorrelations, moving average models, ARMA models, ARIMA models, forecasting, prediction limits, model specification, least square estimation, and seasonal time series models. Computer statistical packages will be used. May be taught concurrently with <span data-link='MTH548'>MTH 548</span>. Cannot receive credit for both <span data-link='MTH548'>MTH 548</span> and <span data-link='MTH648'>MTH 648</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MTH653": {
+    "course_id": "MTH653",
+    "title": "MTH 653 Stochastic Modeling",
+    "req": "<em>Prerequisite: <span data-link='MTH540'>MTH 540</span> or <span data-link='MTH640'>MTH 640</span>.</em>",
+    "desc": "This course will study applications of probability and statistics from a modeling point of view. Topics include generating functions, branching processes, discrete time Markov chains, classification of states, estimation of transition probabilities, continuous time Markov Chains, Poisson processes, birth and death processes, renewal theory, queuing systems, Brownian motion, and stationary processes. Computer statistical packages will be used. May be taught concurrently with <span data-link='MTH543'>MTH 543</span>. Cannot receive credit for both <span data-link='MTH543'>MTH 543</span> and <span data-link='MTH653'>MTH 653</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MTH667": {
+    "course_id": "MTH667",
+    "title": "MTH 667 Introduction to Non-Euclidean Geometry",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Development of non-Euclidean geometries; intensive study of hyperbolic geometry. May be taught concurrently with <span data-link='MTH567'>MTH 567</span>. Cannot receive credit for both <span data-link='MTH567'>MTH 567</span> and <span data-link='MTH667'>MTH 667</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MTH670": {
+    "course_id": "MTH670",
+    "title": "MTH 670 Combinatorial Analysis",
+    "req": "<em>Prerequisite: <span data-link='MTH280'>MTH 280</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "An introduction to combinatorial analysis including enumeration methods, combinatorial identities with applications to the calculus of finite differences and difference equations. May be taught concurrently with <span data-link='MTH570'>MTH 570</span>. Cannot receive credit for both <span data-link='MTH570'>MTH 570</span> and <span data-link='MTH670'>MTH 670</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH675": {
+    "course_id": "MTH675",
+    "title": "MTH 675 History of Mathematics",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Development of mathematics through the calculus; solution of problems of historical interest, problems which use historically significant techniques; problems whose solutions illuminate significant mathematical characteristics of elementary mathematics. May be taught concurrently with <span data-link='MTH575'>MTH 575</span>. Cannot receive credit for both <span data-link='MTH575'>MTH 575</span> and <span data-link='MTH675'>MTH 675</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH680": {
+    "course_id": "MTH680",
+    "title": "MTH 680 Applied Mathematics",
+    "req": "<em>Prerequisite: <span data-link='MTH303'>MTH 303</span>; and <span data-link='MTH533'>MTH 533</span> or <span data-link='MTH633'>MTH 633</span>.</em>",
+    "desc": "An introduction to several areas of applied mathematics including control theory, optimization, modeling of population dynamics, modeling of mathematical economics, minimax and game theory, and calculus of variations. May be taught concurrently with <span data-link='MTH580'>MTH 580</span>. Cannot receive credit for both <span data-link='MTH580'>MTH 580</span> and <span data-link='MTH680'>MTH 680</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH682": {
+    "course_id": "MTH682",
+    "title": "MTH 682 Introductory Topology",
+    "req": "<em>Prerequisite: <span data-link='MTH302'>MTH 302</span> and <span data-link='MTH315'>MTH 315</span>.</em>",
+    "desc": "Properties of abstract metric and topological spaces; discussion of concepts of compactness and connectedness. May be taught concurrently with <span data-link='MTH582'>MTH 582</span>. Cannot receive credit for both <span data-link='MTH582'>MTH 582</span> and <span data-link='MTH682'>MTH 682</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH696": {
+    "course_id": "MTH696",
+    "title": "MTH 696 Readings",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Periodic conferences with an advisor are required. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='MTH596'>MTH 596</span>. Cannot receive credit for both <span data-link='MTH596'>MTH 596</span> and <span data-link='MTH696'>MTH 696</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH701": {
+    "course_id": "MTH701",
+    "title": "MTH 701 Real Analysis",
+    "req": "<em>Prerequisite: <span data-link='MTH503'>MTH 503</span> or <span data-link='MTH603'>MTH 603</span>.</em>",
+    "desc": "Topics include countable and uncountable sets, convergence, Lebesgue measure on the real line, the development of the Lebesgue integral, the fundamental theorem of calculus and Lp spaces. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH702": {
+    "course_id": "MTH702",
+    "title": "MTH 702 Real and Abstract Analysis",
+    "req": "<em>Prerequisite: <span data-link='MTH701'>MTH 701</span>.</em>",
+    "desc": "A study of the theory of abstract measures and integration, and an introduction to functional analysis. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH706": {
+    "course_id": "MTH706",
+    "title": "MTH 706 Complex Analysis",
+    "req": "<em>Prerequisite: <span data-link='MTH503'>MTH 503</span> or <span data-link='MTH603'>MTH 603</span>.</em>",
+    "desc": "Analytic functions, power series, Cauchy&apos;s theorem and its applications, residues. Selected topics from conformal mapping, analytic continuation, harmonic functions, Fourier series, and Dirichlet problems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH710": {
+    "course_id": "MTH710",
+    "title": "MTH 710 Contemporary Mathematics for Secondary Teachers",
+    "req": "<em>Prerequisite: <span data-link='MTH460'>MTH 460</span>; and <span data-link='MTH533'>MTH 533</span> or <span data-link='MTH633'>MTH 633</span>.</em>",
+    "desc": "Reports, research, and recent trends in secondary mathematics; recently developed programs in algebra and geometry. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH721": {
+    "course_id": "MTH721",
+    "title": "MTH 721 Theory of Ordinary Differential Equations I",
+    "req": "<em>Prerequisite: <span data-link='MTH303'>MTH 303</span>; and <span data-link='MTH503'>MTH 503</span> or <span data-link='MTH603'>MTH 603</span>.</em>",
+    "desc": "Existence and uniqueness theorems for first order differential equations; system of linear and nonlinear differential equations; continuous dependence of solutions on initial conditions and parameters; behavior of solutions of equations with constant coefficients, study of Lyapunov&apos;s theorems on stability; introduction to boundary value problems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH722": {
+    "course_id": "MTH722",
+    "title": "MTH 722 Theory of Ordinary Differential Equations II",
+    "req": "<em>Prerequisite: <span data-link='MTH721'>MTH 721</span>.</em>",
+    "desc": "Theory and application of boundary value problems; periodic solutions; linear systems with periodic coefficients (Floquet theory); two dimensional (autonomous) systems limit cycles. Differential equations under Caratheodory conditions; theory of differential and integral inequalities and other selected topics, if time permits. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH730": {
+    "course_id": "MTH730",
+    "title": "MTH 730 Abstract Algebra I",
+    "req": "<em>Prerequisite: <span data-link='MTH532'>MTH 532</span> or <span data-link='MTH631'>MTH 631</span>; and <span data-link='MTH533'>MTH 533</span> or <span data-link='MTH633'>MTH 633</span>.</em>",
+    "desc": "Topics from group theory will include Cayley&apos;s Theorem, finite abelian groups, Cauchy&apos;s Theorem, the Sylow Theorems, and free groups. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH732": {
+    "course_id": "MTH732",
+    "title": "MTH 732 Abstract Algebra II",
+    "req": "<em>Prerequisite: <span data-link='MTH730'>MTH 730</span>.</em>",
+    "desc": "Topics from ring theory will include the Chinese Remainder Theorem, Euclidean domains, rings of fractions, PID&apos;s and UFD&apos;s, and polynomial rings. Topics from field theory will include splitting fields, Galois Theory, separability, normality, and finite fields. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH741": {
+    "course_id": "MTH741",
+    "title": "MTH 741 Statistical Inference I",
+    "req": "<em>Prerequisite: <span data-link='MTH540'>MTH 540</span> or <span data-link='MTH640'>MTH 640</span> or equivalent.</em>",
+    "desc": "Formulation of statistical models, sufficiency and exponential families, methods of estimation, optimality theory. Uniformly minimum variance unbiased estimators, Fisher information, Cramer/Rao inequality, large sample theory, Bayes procedures and minimax procedures. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH742": {
+    "course_id": "MTH742",
+    "title": "MTH 742 Statistical Inference II",
+    "req": "<em>Prerequisite: <span data-link='MTH741'>MTH 741</span>.</em>",
+    "desc": "Confidence intervals and regions, hypothesis testing, the Neyman-Pearson framework, uniformly most powerful tests, likelihood ratio criteria, power functions, similar regions, invariant tests, distribution free tests. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH750": {
+    "course_id": "MTH750",
+    "title": "MTH 750 Number and Operations for Elementary Mathematics Specialists",
+    "req": "<em>Prerequisite: Two years teaching experience and permission of program coordinator; and concurrently enrollment in <span data-link='ELE730'>ELE 730</span>.</em>",
+    "desc": "This course is designed to develop an understanding of the learning and teaching of pre-number concepts, counting and cardinality, and numbers and operations in base ten. Emphasis will be given to how children think about and learn these concepts and how they fit into the elementary school curriculum. This course cannot be used within the MS Mathematics program or the MSEd Secondary Education (Mathematics) program. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH752": {
+    "course_id": "MTH752",
+    "title": "MTH 752 Rational Numbers and Proportional Thinking for Elementary Mathematics Specialists",
+    "req": "<em>Prerequisite: <span data-link='MTH750'>MTH 750</span> and permission of program coordinator; and concurrent enrollment in <span data-link='ELE732'>ELE 732</span>.</em>",
+    "desc": "This course is designed to develop an understanding of the learning and teaching of rational numbers and ratio and proportional relationships. Emphasis will be given to how children think about and learn these concepts and how they fit into the elementary school curriculum. This course cannot be used within the MS Mathematics program or the MSEd Secondary Education (Mathematics) program. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH754": {
+    "course_id": "MTH754",
+    "title": "MTH 754 Algebraic Reasoning for Elementary Mathematics Specialist",
+    "req": "<em>Prerequisite: two years teaching experience and permission of program coordinator; and concurrently enrollment in <span data-link='ELE734'>ELE 734</span>.</em>",
+    "desc": "This course will focus on the content and complexities of teaching and assessing algebraic reasoning in grade 1-6 settings. Course content will include examination of representation and analysis of mathematical situations and structures. Attention will be given to patterns, functions, and the transition from arithmetic to algebra. This course cannot be used within the MS Mathematics program or the MSEd Secondary Education (Mathematics) program. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH758": {
+    "course_id": "MTH758",
+    "title": "MTH 758 Data and Probability for Elementary Mathematics Specialist",
+    "req": "<em>Prerequisite: two years teaching experience and permission of program coordinator.</em>",
+    "desc": "This course is designed to develop understanding of probabilistic reasoning and the collection, exploration, and analysis of data. Emphasis will be given to how children think and learn about these concepts and how they fit into the elementary school curriculum. This course cannot be used within the MS Mathematics program or the MSEd Secondary Education (Mathematics) program. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH760": {
+    "course_id": "MTH760",
+    "title": "MTH 760 Geometry and Measurement for Elementary Mathematics Specialist",
+    "req": "<em>Prerequisite: two years teaching experience and permission of program coordinator; and concurrently enrollment in <span data-link='ELE738'>ELE 738</span>.</em>",
+    "desc": "This course is designed to develop an understanding of the teaching and learning of geometry and measurement. Emphasis will be given to how children think about and learn these concepts and how they fit into an elementary curriculum. This course cannot be used within the MS Mathematics program or the MSEd Secondary Education (Mathematics) program. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH781": {
+    "course_id": "MTH781",
+    "title": "MTH 781 Topology",
+    "desc": "Point set topology in abstract spaces. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH791": {
+    "course_id": "MTH791",
+    "title": "MTH 791 Seminar I",
+    "desc": "Seminar in Mathematics. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH792": {
+    "course_id": "MTH792",
+    "title": "MTH 792 Seminar II",
+    "desc": "Seminar in Mathematics. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH796": {
+    "course_id": "MTH796",
+    "title": "MTH 796 Science Internship",
+    "desc": "Completion of an internship project (at least 80 hours per credit hour) at a discipline-related business, nonprofit organization, or government agency, approved and supervised by both the departmental and internship advisors. Includes a formal report in the appropriate professional format, and an oral presentation at an approved venue. Graded Pass/Not Pass only. No more than 6 hours may count toward a masters degree. This course may only be counted toward the PSM designation of the MNAS degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "MTH797": {
+    "course_id": "MTH797",
+    "title": "MTH 797 Topics",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Material covered determined by the interests and backgrounds of the students. May be repeated for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MTH798": {
+    "course_id": "MTH798",
+    "title": "MTH 798 Research",
+    "desc": "Supervised research in special areas of mathematics. May be repeated. Cannot be counted toward the MSEd degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MTH799": {
+    "course_id": "MTH799",
+    "title": "MTH 799 Projects",
+    "desc": "Independent research for thesis preparation. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  }
+}

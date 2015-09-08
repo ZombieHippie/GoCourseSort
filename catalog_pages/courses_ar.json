@@ -1,0 +1,1877 @@
+{
+  "ART98": {
+    "course_id": "ART98",
+    "title": "ART 98 Topics in Art and Design",
+    "desc": "A variable content course consisting of lectures and/or studio projects. Cannot be used to fulfill a major requirement in the Art and Design Department. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART100": {
+    "course_id": "ART100",
+    "title": "ART 100 Two-Dimensional Design",
+    "desc": "Elements and principles of two-dimensional design. Experience with a variety of media and subject matter. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART101": {
+    "course_id": "ART101",
+    "title": "ART 101 Three-Dimensional Design",
+    "req": "<em>Prerequisite: <span data-link='ART100'>ART 100</span>.</em>",
+    "desc": "Elements and principles of three dimensional design. Experience with a variety of media and subject matter. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART110": {
+    "course_id": "ART110",
+    "title": "ART 110 Two-Dimensional Design for Digital Media",
+    "desc": "Elements and principles of two-dimensional design. Computers will be used extensively in this class. Will not count toward the BA in Art or Design, BFA in Art or Design, or the BSEd in Art and Design. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ART115": {
+    "course_id": "ART115",
+    "title": "ART 115 Drawing I",
+    "desc": "Basic elements and principles of drawing. A problematic approach to the process of seeing and drawing through an applied investigation of natural and man-made forms. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART200": {
+    "course_id": "ART200",
+    "title": "ART 200 Art in Context",
+    "req": "<em>General Education Course (Focus on the Arts).</em>",
+    "desc": "In this art appreciation course students will learn how to look at objects of art and to appreciate the value such objects hold in society. This course introduces the elements of art and the principles of design and is intended to enhance an interest, appreciation, and understanding of the visual arts in the context of their cultures. Does not count toward fulfilling any requirement for majors or minors in the Department of Art and Design. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART202": {
+    "course_id": "ART202",
+    "title": "ART 202 Intermediate Design",
+    "req": "<em>Prerequisite: <span data-link='ART100'>ART 100</span> and <span data-link='ART101'>ART 101</span> and <span data-link='ART115'>ART 115</span>.</em>",
+    "desc": "A presentation in greater depth of major theories of art and design with emphasis on color theory and systems. Structured studio design problems applying and investigating such theories. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART210": {
+    "course_id": "ART210",
+    "title": "ART 210 Introduction to Digital Arts",
+    "req": "<em>Prerequisite: <span data-link='ART100'>ART 100</span> or <span data-link='ART110'>ART 110</span>; and <span data-link='CIS101'>CIS 101</span> or <span data-link='CSC101'>CSC 101</span> or <span data-link='CSC111'>CSC 111</span>.</em>",
+    "desc": "Exploration of digital art forms, focusing on the interrelationship of the digital technology on art and culture. The goal of the course is to weave technical skills into creative vision. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART212": {
+    "course_id": "ART212",
+    "title": "ART 212 Ceramics I",
+    "desc": "An introduction to handbuilding, wheel and firing processes, including raku. Fundamentals of ceramic materials, equipment, and preparation of clay and glazes. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART215": {
+    "course_id": "ART215",
+    "title": "ART 215 Drawing II",
+    "req": "<em>Prerequisite: <span data-link='ART115'>ART 115</span>.</em>",
+    "desc": "Continuation of drawing fundamentals in greater depth and exploration of additional media. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART223": {
+    "course_id": "ART223",
+    "title": "ART 223 Metals-Jewelry I",
+    "desc": "Introduction to non-ferrous metal fabrication processes including piercing, soldering and finishing. Fundamentals of tools, materials, and jewelry concepts. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART225": {
+    "course_id": "ART225",
+    "title": "ART 225 Painting I",
+    "req": "<em>Prerequisite: <span data-link='ART100'>ART 100</span> and <span data-link='ART115'>ART 115</span> and <span data-link='ART215'>ART 215</span>.</em>",
+    "desc": "Basic investigation of materials, techniques, and visual concepts important to the process of painting. Emphasis on understanding visual elements through work which includes study from the still-life and model. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART226": {
+    "course_id": "ART226",
+    "title": "ART 226 Watercolor for the Non-Art Majors",
+    "desc": "To acquaint the student with the essential characteristics of the materials used in watercolor painting and to familiarize the student with the techniques used in applying transparent pigment to various prepared surfaces. This course will not fulfill the requirements for a major or a minor in art. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART230": {
+    "course_id": "ART230",
+    "title": "ART 230 Computer Animation I",
+    "req": "<em>Prerequisite: <span data-link='ART100'>ART 100</span> or <span data-link='ART110'>ART 110</span>.</em>",
+    "desc": "Exploration of visual expression through the use of sequential images. Experience with a wide range of digital processes. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ART235": {
+    "course_id": "ART235",
+    "title": "ART 235 Sculpture I",
+    "req": "<em>Prerequisite: <span data-link='ART101'>ART 101</span>.</em>",
+    "desc": "Development of fundamental and personal concepts concerning subject matter as related to sculpture. Experience with a wide range of media and techniques. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART242": {
+    "course_id": "ART242",
+    "title": "ART 242 Printmaking I",
+    "req": "<em>Prerequisite: <span data-link='ART100'>ART 100</span> and <span data-link='ART115'>ART 115</span> and <span data-link='ART215'>ART 215</span>.</em>",
+    "desc": "Beginning problems in printmaking. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART243": {
+    "course_id": "ART243",
+    "title": "ART 243 Relief Print",
+    "req": "<em>Prerequisite: <span data-link='ART215'>ART 215</span>.</em>",
+    "desc": "An exploration of the relief processes through the mediums of linocut and woodcut. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART253": {
+    "course_id": "ART253",
+    "title": "ART 253 Fibers",
+    "req": "<em>Prerequisite: <span data-link='ART100'>ART 100</span>.</em>",
+    "desc": "Introduction to two and three-dimensional fiber techniques and structures. Emphasis will be placed on using a variety of techniques in the execution of assigned problems. Experimental use of materials will be encouraged. May be repeated to a total of 9 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ART255": {
+    "course_id": "ART255",
+    "title": "ART 255 Photography I",
+    "req": "<em>Prerequisite: <span data-link='ART100'>ART 100</span>.</em>",
+    "desc": "Basic course in black and white photography. Includes camera controls and darkroom work. Photography as visual expression. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART271": {
+    "course_id": "ART271",
+    "title": "ART 271 History of Western Art I",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>. General Education Course (Focus on Humanities).</em>",
+    "desc": "A survey of Western art and the cultures that produced it from Prehistory through the Gothic period. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART272": {
+    "course_id": "ART272",
+    "title": "ART 272 History of Western Art II",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>. General Education Course (Focus on Humanities).</em>",
+    "desc": "A survey of Western art and the cultures that produced it from the Gothic Period to the Second World War. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART273": {
+    "course_id": "ART273",
+    "title": "ART 273 Survey of the Art of Africa, Oceania, and the Americas",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>. General Education Course (Focus on Humanities).</em>",
+    "desc": "A survey of the art and architecture produced by the cultures of Africa, Oceania, and the Americas. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART274": {
+    "course_id": "ART274",
+    "title": "ART 274 Survey of Asian Art",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span>. General Education Course (Focus on Humanities).</em>",
+    "desc": "A survey of the art objects and the cultures which produced them, primarily those of India, China, and Japan. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART300": {
+    "course_id": "ART300",
+    "title": "ART 300 Fundamentals of Collaboration in Electronic Arts",
+    "req": "<em>Prerequisite: permission of the instructor based on passing Candidacy Review in Electronic Arts.</em>",
+    "desc": "Exploration of aesthetic and communication issues involved in producing work in interdisciplinary electronic media. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ART301": {
+    "course_id": "ART301",
+    "title": "ART 301 Introduction to Video Game Design",
+    "req": "<em>Prerequisite: 30 hours; and eligible for Writing II; and permission of instructor.</em>",
+    "desc": "An introduction to the main elements of video game design (including setting, story, goals, narrative, mechanics, and level design) and the structure and responsibilities of a game development team. The emphasis will be on game designs that could be implemented by a small team within one year. Students will design a game and create a design document. Identical with <span data-link='CSC301'>CSC 301</span>. Cannot receive credit for both <span data-link='ART301'>ART 301</span> and <span data-link='CSC301'>CSC 301</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART302": {
+    "course_id": "ART302",
+    "title": "ART 302 Introductory Video Game Development for Artists and Animators",
+    "req": "<em>Prerequisite: ART/<span data-link='CSC301'>CSC 301</span> and <span data-link='ART330'>ART 330</span>.</em>",
+    "desc": "Hands-on introduction to video game development software, emphasizing the process to prepare and import 3D assets from previously learned software packages. Students may collaborate with <span data-link='CSC303'>CSC 303</span> students to experience industry-typical workflow between designers, artists and programmers. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART310": {
+    "course_id": "ART310",
+    "title": "ART 310 Time-Based Digital Arts",
+    "req": "<em>Prerequisite: <span data-link='ART210'>ART 210</span>.</em>",
+    "desc": "This course explores video art, focusing on production and theory with an emphasis on creative expression. Alternative means of moving image can be explored as well. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ART312": {
+    "course_id": "ART312",
+    "title": "ART 312 Ceramics II",
+    "req": "<em>Prerequisite: <span data-link='ART101'>ART 101</span> and <span data-link='ART212'>ART 212</span>.</em>",
+    "desc": "A continued investigation of the potter&apos;s wheel as a tool to create ceramic forms. Greater exploration of surface enhancement materials, and processes including basic glaze chemistry and firing operations. Evidence of expanded individuality in the understanding of advanced technique and sensitivity to form expected. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART313": {
+    "course_id": "ART313",
+    "title": "ART 313 Ceramics III",
+    "req": "<em>Prerequisite: <span data-link='ART312'>ART 312</span>.</em>",
+    "desc": "Advanced studio and firing responsibilities. Must be repeated to a total of 6 hours. The first three credit hours: a continued investigation of hand-building techniques as a way to create ceramic forms and exploring further development of surface treatments. When repeated, the second three credit hours: advanced problems associated with clay and form and surface treatment. Evidence of expanded individuality in the understanding of advanced technique and sensitivity of form expected. Must be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART314": {
+    "course_id": "ART314",
+    "title": "ART 314 Special Topics in Ceramics",
+    "req": "<em>Prerequisite: <span data-link='ART212'>ART 212</span>.</em>",
+    "desc": "Specialized studies in ceramics to include subjects in such areas as raku, salt firing, kiln building, glaze formulations, handbuilding, etc. Subject of course to be selected by the instructor. May be repeated to a total of 12 hours when course content changes. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART315": {
+    "course_id": "ART315",
+    "title": "ART 315 Drawing III",
+    "req": "<em>Prerequisite: <span data-link='ART215'>ART 215</span>.</em>",
+    "desc": "Problems of greater visual and conceptual complexity. More emphasis given to development of individual qualities. May be repeated to a total of 9 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART316": {
+    "course_id": "ART316",
+    "title": "ART 316 Life Drawing",
+    "req": "<em>Prerequisite: <span data-link='ART215'>ART 215</span>.</em>",
+    "desc": "Drawing the human figure with emphasis on anatomy, structure, and form. May be repeated to a total of 9 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART322": {
+    "course_id": "ART322",
+    "title": "ART 322 Jewelry and Metalsmithing",
+    "req": "<em>Prerequisite: <span data-link='ART101'>ART 101</span> and <span data-link='ART223'>ART 223</span>.</em>",
+    "desc": "Further exploration of metal fabrication processes. Introduction to jewelry scale casting and to silversmithing techniques. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ART323": {
+    "course_id": "ART323",
+    "title": "ART 323 Jewelry, Metals, and Enameling",
+    "req": "<em>Prerequisite: <span data-link='ART101'>ART 101</span> or concurrent enrollment; and <span data-link='ART223'>ART 223</span>.</em>",
+    "desc": "Further exploration of metal fabrication and smithing processes. Introduction to enameling and other color techniques on metal. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ART324": {
+    "course_id": "ART324",
+    "title": "ART 324 Metals and Jewelry III",
+    "req": "<em>Prerequisite: <span data-link='ART322'>ART 322</span> and <span data-link='ART323'>ART 323</span>.</em>",
+    "desc": "Advanced problems in metals. Greater exploration of materials and techniques with an emphasis on individual problem-solving. May be repeated to a total of 12 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART325": {
+    "course_id": "ART325",
+    "title": "ART 325 Painting II",
+    "req": "<em>Prerequisite: <span data-link='ART225'>ART 225</span>.</em>",
+    "desc": "Problems of greater visual and conceptual complexity. More emphasis given to development of individual qualities. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART326": {
+    "course_id": "ART326",
+    "title": "ART 326 Painting with Water-Based Media",
+    "req": "<em>Prerequisite: <span data-link='ART225'>ART 225</span>.</em>",
+    "desc": "A course which introduces and explores one or more water-based media such as watercolor, gouache, casein and acrylic. Media emphasis to be determined by the instructor. May be repeated to a total of 9 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART330": {
+    "course_id": "ART330",
+    "title": "ART 330 Computer Animation II",
+    "req": "<em>Prerequisite: <span data-link='ART230'>ART 230</span>.</em>",
+    "desc": "Further exploration of visual expression in animation. Advanced techniques in the manipulating of forms and animation. Advanced techniques in the manipulating of forms and surfaces within the digital 3D environment. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ART331": {
+    "course_id": "ART331",
+    "title": "ART 331 Computer Animation III",
+    "req": "<em>Prerequisite: <span data-link='ART330'>ART 330</span> and permission of instructor.</em>",
+    "desc": "Priority will be given to those students who have successfully completed the Computer Animation Emphasis Candidacy Review for the BFA in Art or the BS in Electronic Arts. Further exploration of visual expression in animation. Advanced techniques in animating within the digital 3D environment. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ART335": {
+    "course_id": "ART335",
+    "title": "ART 335 Sculpture II",
+    "req": "<em>Prerequisite: <span data-link='ART235'>ART 235</span>.</em>",
+    "desc": "Individual problems and concepts in organizing mass and space utilizing a range of techniques and media, including metal casting and welding, carving, plastics, and fibers. May be repeated to a total of 9 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART336": {
+    "course_id": "ART336",
+    "title": "ART 336 Figure Modeling",
+    "req": "<em>Prerequisite: <span data-link='ART100'>ART 100</span> and <span data-link='ART101'>ART 101</span> and <span data-link='ART215'>ART 215</span>.</em>",
+    "desc": "Modeling the human figure with emphasis on anatomy, structure and form by exploring the usage of clay, wax or plaster. May be repeated to a total of 9 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART342": {
+    "course_id": "ART342",
+    "title": "ART 342 Printmaking II",
+    "req": "<em>Prerequisite: <span data-link='ART242'>ART 242</span>.</em>",
+    "desc": "Advanced problems in printmaking. May be repeated to a total of 9 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART343": {
+    "course_id": "ART343",
+    "title": "ART 343 Lithography",
+    "req": "<em>Prerequisite: <span data-link='ART242'>ART 242</span>.</em>",
+    "desc": "Exploration of stone lithography as an expressive means toward creating hand-pulled prints. May be repeated to a total of 9 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART354": {
+    "course_id": "ART354",
+    "title": "ART 354 Medium Format Photography",
+    "req": "<em>Prerequisite: <span data-link='ART255'>ART 255</span>.</em>",
+    "desc": "An investigation of technical and aesthetic issues of medium format photography. Emphasis on the development of expressive photographic images. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART355": {
+    "course_id": "ART355",
+    "title": "ART 355 Large Format Photography",
+    "req": "<em>Prerequisite: <span data-link='ART255'>ART 255</span>.</em>",
+    "desc": "An investigation of technical and aesthetic issues of large format photography. Emphasis on the development of expressive photographic images. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART356": {
+    "course_id": "ART356",
+    "title": "ART 356 Color Photography",
+    "req": "<em>Prerequisite: <span data-link='ART255'>ART 255</span>.</em>",
+    "desc": "An investigation of technical and aesthetic issues of color photography. Emphasis on the development of expressive photographic images. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART357": {
+    "course_id": "ART357",
+    "title": "ART 357 Special Topics in Photography",
+    "req": "<em>Prerequisite: <span data-link='ART255'>ART 255</span> and permission.</em>",
+    "desc": "Alternative photographic approaches to broaden the photographic experience. Subject of course to be selected by the instructor. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART358": {
+    "course_id": "ART358",
+    "title": "ART 358 Studio Photography",
+    "req": "<em>Prerequisite: <span data-link='ART355'>ART 355</span> and <span data-link='ART359'>ART 359</span>.</em>",
+    "desc": "An investigation of technical, aesthetic, and conceptual issues of studio photography with emphasis on the portrait and the still-life. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ART359": {
+    "course_id": "ART359",
+    "title": "ART 359 Digital Photography",
+    "req": "<em>Prerequisite: <span data-link='ART356'>ART 356</span>.</em>",
+    "desc": "An investigation of technical and aesthetic issues of digital photography including the use of a digital camera, film scanning, software, and digital output. The development of expressive photographic images, an exploration of the potentials of the medium, and the evolution of a body of work are emphasized. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ART360": {
+    "course_id": "ART360",
+    "title": "ART 360 Introduction to Art Education",
+    "req": "<em>Prerequisite: <span data-link='ART100'>ART 100</span> and <span data-link='ART101'>ART 101</span> and <span data-link='ART215'>ART 215</span>.</em>",
+    "desc": "Introduction to the field of art education and the role of visual arts in education; survey of issues, theories, and trends; review of content, materials, and approaches through discussion, research, studio experiences, critical writing, observation of classes, and analysis of models for teaching art in elementary and secondary schools. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ART366": {
+    "course_id": "ART366",
+    "title": "ART 366 Elementary Art Education",
+    "req": "<em>Prerequisite: <span data-link='ART360'>ART 360</span>.</em>",
+    "desc": "Overview of artistic growth of children; survey of philosophies, issues, methods, materials, resources, processes, and strategies for teaching art and integrating it into the school curriculum; unit and lesson planning, assessment, and evaluation. Lecture, discussion, studio, and classroom observations. Credited only for BSEd. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ART374": {
+    "course_id": "ART374",
+    "title": "ART 374 Art of India",
+    "req": "<em>Prerequisite: <span data-link='ART274'>ART 274</span>.</em>",
+    "desc": "Survey of the major art and architecture monuments of India and the cultural context from which they were produced. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART377": {
+    "course_id": "ART377",
+    "title": "ART 377 History of Graphic and Applied Design",
+    "req": "<em>Prerequisite: <span data-link='ART271'>ART 271</span> or <span data-link='ART272'>ART 272</span> or <span data-link='ART274'>ART 274</span>.</em>",
+    "desc": "An historical and critical examination of design from its beginnings to the present with emphasis on communication design in the industrial and post-industrial periods. Will not count as Art History elective for the BFA in Art. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ART378": {
+    "course_id": "ART378",
+    "title": "ART 378 Women and Art",
+    "req": "<em>Prerequisite: <span data-link='ART271'>ART 271</span> or <span data-link='ART272'>ART 272</span>.</em>",
+    "desc": "The course examines women&apos;s roles and contributions in the history of art and culture. May be counted toward the Gender Studies minor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART381": {
+    "course_id": "ART381",
+    "title": "ART 381 The Art of the United States of America",
+    "req": "<em>Prerequisite: <span data-link='ART272'>ART 272</span>.</em>",
+    "desc": "The art of the United States from its pre-Revolutionary days to the present. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART382": {
+    "course_id": "ART382",
+    "title": "ART 382 Survey of Islamic Art",
+    "req": "<em>Prerequisite: <span data-link='ART271'>ART 271</span>, <span data-link='ART273'>ART 273</span> or <span data-link='ART274'>ART 274</span>.</em>",
+    "desc": "A survey of the art produced in the lands under the influence of the Islamic religion. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART385": {
+    "course_id": "ART385",
+    "title": "ART 385 Art of the Americas",
+    "req": "<em>Prerequisite: <span data-link='ART273'>ART 273</span>.</em>",
+    "desc": "A survey of the art and architecture of North America, Mesoamerica, Central America, and South America and the cultures that produced it. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART386": {
+    "course_id": "ART386",
+    "title": "ART 386 Art of Africa",
+    "req": "<em>Prerequisite: <span data-link='ART273'>ART 273</span>.</em>",
+    "desc": "A survey of the art and architecture of Africa and the cultures that produced it. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART387": {
+    "course_id": "ART387",
+    "title": "ART 387 History of Photography",
+    "req": "<em>Prerequisite: <span data-link='ART272'>ART 272</span>.</em>",
+    "desc": "The development and history of photography as an artistic medium. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART388": {
+    "course_id": "ART388",
+    "title": "ART 388 The Museum: History and Perspectives",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> and permission of instructor.</em>",
+    "desc": "This course offers a broad introduction to the museum as a cultural site and museum studies as a discipline with focus on theoretical issues. Identical with <span data-link='MST388'>MST 388</span>. Cannot receive credit for both <span data-link='ART388'>ART 388</span> and <span data-link='MST388'>MST 388</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART390": {
+    "course_id": "ART390",
+    "title": "ART 390 Art History Teaching Assistant",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Under the direct guidance of the professor, the student will assist the professor in teaching, supervising, and/or grading course materials. May be repeated to a total of 3 hours. Graded Pass/Not Pass only. Does not count toward the BA or BSEd in Art and Design or BFA in Art or BFA in Design. ",
+    "hours": {},
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART399": {
+    "course_id": "ART399",
+    "title": "ART 399 Individual Instruction",
+    "req": "<em>Prerequisite: senior or postbaccalaureate standing; 12 sequential hours in same studio area and permission of instructor.</em>",
+    "desc": "Independent work on special projects approved by studio advisor. Repeatable to a total of 6 hours in any studio area. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART401": {
+    "course_id": "ART401",
+    "title": "ART 401 Teaching of Art",
+    "req": "<em>Prerequisite: <span data-link='ART366'>ART 366</span>; and <span data-link='EDC350'>EDC 350</span> or concurrent enrollment; and admitted to teacher education program.</em>",
+    "desc": "Artistic and aesthetic growth of adolescents; survey of philosophies, issues, methods, materials, resources, processes, and strategies for teaching art in secondary schools; observation; unit and lesson planning; microteaching. Credited only on BSEd (Secondary). A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='ART490'>ART 490</span> or <span data-link='ART491'>ART 491</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ART407": {
+    "course_id": "ART407",
+    "title": "ART 407 Art Internship",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Student will complete actual job assignments while working for outside organizations under the supervision of an art faculty member. May be repeated to a total of 6 hours. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART410": {
+    "course_id": "ART410",
+    "title": "ART 410 Seminar in Digital Arts",
+    "req": "<em>Prerequisite: <span data-link='ART310'>ART 310</span>.</em>",
+    "desc": "Advanced research in digital arts, with emphasis on developing personal vision. May be repeated to a total of 9 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART425": {
+    "course_id": "ART425",
+    "title": "ART 425 Painting III",
+    "req": "<em>Prerequisite: <span data-link='ART325'>ART 325</span>.</em>",
+    "desc": "An advanced-level course utilizing a combination of structured and self-directed approaches. Students will continue to develop formal skills and will be encouraged to explore issues of content and visual aesthetics, while developing an individual point-of-view. Repeatable up to 9 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART430": {
+    "course_id": "ART430",
+    "title": "ART 430 Computer Animation IV",
+    "req": "<em>Prerequisite: <span data-link='ART331'>ART 331</span>.</em>",
+    "desc": "Individual problems in animation and advanced techniques. Emphasis will be placed on the development of a personal point of view. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ART431": {
+    "course_id": "ART431",
+    "title": "ART 431 Professional Practices in Computer Animation",
+    "req": "<em>Prerequisite: <span data-link='ART430'>ART 430</span>.</em>",
+    "desc": "Lecture, discussion and assignments for students seeking careers in computer animation. Presentation skills will be emphasized. Students will be required to write and perform research, as well as continue to develop their portfolio. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ART432": {
+    "course_id": "ART432",
+    "title": "ART 432 Computer Animation V",
+    "req": "<em>Prerequisite: <span data-link='ART431'>ART 431</span>.</em>",
+    "desc": "Individual portfolio development in animation. Emphasis will be placed on the development of a personal point of view. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART454": {
+    "course_id": "ART454",
+    "title": "ART 454 Digital Photography II",
+    "req": "<em>Prerequisite: <span data-link='ART359'>ART 359</span>.</em>",
+    "desc": "A continued investigation of technical, aesthetic, and conceptual issues of digital photography including advanced approaches to image processing, the use of smart objects, masking, compositing, quadtone printing, selective sharpening, and additional software developments deemed relevant to current practices. The development of expressive photographic images, an exploration of the potentials of the medium, and the evolution of a body of work are emphasized. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ART455": {
+    "course_id": "ART455",
+    "title": "ART 455 Advanced Photography Seminar",
+    "req": "<em>Prerequisite: 12 hours in emphasis and permission of the instructor.</em>",
+    "desc": "Pursuit of advanced photographic projects. Emphasis on development of personal vision. A study of historical and contemporary critical issues in photography. Must be taken at least once with <span data-link='ART499'>ART 499</span>. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART460": {
+    "course_id": "ART460",
+    "title": "ART 460 Critical Studies in Art Education",
+    "req": "<em>Prerequisite: <span data-link='ART366'>ART 366</span> and <span data-link='ART401'>ART 401</span>.</em>",
+    "desc": "Review of theories and issues concerning the study of aesthetics, art history, and art criticism in art education; survey of methods; observation of various models; generation of materials, resources, and strategies for implementation; teaching experiences utilizing strategies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ART466": {
+    "course_id": "ART466",
+    "title": "ART 466 Art Education Practicum",
+    "req": "<em>Prerequisite: 30 hours of Art and <span data-link='ART366'>ART 366</span> and <span data-link='ART401'>ART 401</span>.</em>",
+    "desc": "Observation and classroom teaching experiences; writing unit and lesson plans; classroom motivation, management, and discipline; evaluation and exhibition of student art work; ordering supplies and equipment. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ART469": {
+    "course_id": "ART469",
+    "title": "ART 469 Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate masters-level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART472": {
+    "course_id": "ART472",
+    "title": "ART 472 Medieval Art",
+    "req": "<em>Prerequisite: <span data-link='ART271'>ART 271</span>.</em>",
+    "desc": "Painting, sculpture, and architecture of Europe from the fourth century through the fourteenth century. The course emphasizes the development of a distinctly European art and culture. May be taught concurrently with <span data-link='ART672'>ART 672</span>. Cannot receive credit for both <span data-link='ART472'>ART 472</span> and <span data-link='ART672'>ART 672</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART474": {
+    "course_id": "ART474",
+    "title": "ART 474 Classical Art",
+    "req": "<em>Prerequisite: <span data-link='ART271'>ART 271</span>.</em>",
+    "desc": "A survey of the art and architecture of Greece and Rome including the art of Crete and Mycenae. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART475": {
+    "course_id": "ART475",
+    "title": "ART 475 Art of the Renaissance",
+    "req": "<em>Prerequisite: <span data-link='ART272'>ART 272</span>.</em>",
+    "desc": "A survey of painting, sculpture, and architecture in Europe from 1300-1575. May be taught concurrently with <span data-link='ART675'>ART 675</span>. Cannot receive credit for both <span data-link='ART475'>ART 475</span> and <span data-link='ART675'>ART 675</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART478": {
+    "course_id": "ART478",
+    "title": "ART 478 Baroque Art",
+    "req": "<em>Prerequisite: <span data-link='ART272'>ART 272</span>.</em>",
+    "desc": "The major figures and developments in art and architecture from Mannerism through the Rococo in Italy and Northern Europe. May be taught concurrently with <span data-link='ART678'>ART 678</span>. Cannot receive credit for both <span data-link='ART478'>ART 478</span> and <span data-link='ART678'>ART 678</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART479": {
+    "course_id": "ART479",
+    "title": "ART 479 19th Century Art",
+    "req": "<em>Prerequisite: <span data-link='ART272'>ART 272</span>.</em>",
+    "desc": "The major figures and developments in art and architecture from Neo-Classicism through the end of the century in Europe. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART480": {
+    "course_id": "ART480",
+    "title": "ART 480 Modern Art",
+    "req": "<em>Prerequisite: <span data-link='ART272'>ART 272</span>.</em>",
+    "desc": "A study of the objects, artists, ideas, and movements which are a part of the modern and late modern tradition from the mid 19th Century through the period following the Second World War. May be taught concurrently with <span data-link='ART680'>ART 680</span>. Cannot receive credit for both <span data-link='ART480'>ART 480</span> and <span data-link='ART680'>ART 680</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART483": {
+    "course_id": "ART483",
+    "title": "ART 483 Modern Architecture and Urban Forms",
+    "desc": "A survey of the historical, social, political, economic and technological forces that have shaped the forms and styles of architecture and cities from the time of the Industrial Revolution to the present. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART484": {
+    "course_id": "ART484",
+    "title": "ART 484 Contemporary Art",
+    "req": "<em>Prerequisite: <span data-link='ART272'>ART 272</span>.</em>",
+    "desc": "This course will emphasize the issues raised during the transition to &quot;Post-Modern&quot; culture in the last decades of the 20th Century and the beginning years of the 21st Century. The approach and the assignments will employ theoretical and critical as well as historical thinking. May be taught concurrently with <span data-link='ART684'>ART 684</span>. Cannot receive credit for both <span data-link='ART484'>ART 484</span> and <span data-link='ART684'>ART 684</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART485": {
+    "course_id": "ART485",
+    "title": "ART 485 Art of Mesoamerica",
+    "req": "<em>Prerequisite: <span data-link='ART273'>ART 273</span>.</em>",
+    "desc": "The art and architecture of Mesoamerica and the cultures that produced it. May be taught concurrently with <span data-link='ART685'>ART 685</span>. Cannot receive credit for both <span data-link='ART485'>ART 485</span> and <span data-link='ART685'>ART 685</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART488": {
+    "course_id": "ART488",
+    "title": "ART 488 Basic Conservation of Art and Artifacts",
+    "req": "<em>Prerequisite: relevant Art History survey course (<span data-link='ART271'>ART 271</span>, 272, 273 or 274) and permission of instructor.</em>",
+    "desc": "This course combines advanced art historical study and research of art and artifacts with a hands-on introduction to basic conservation techniques. Identical with <span data-link='MST488'>MST 488</span>. Cannot receive credit for both <span data-link='ART488'>ART 488</span> and <span data-link='MST488'>MST 488</span>. May be taught concurrently with <span data-link='ART688'>ART 688</span>. Cannot receive credit for both <span data-link='ART488'>ART 488</span> and <span data-link='ART688'>ART 688</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART490": {
+    "course_id": "ART490",
+    "title": "ART 490 Supervised Teaching (Secondary Art and Design)",
+    "req": "<em>Prerequisite: completion of all method courses in Art Education; a grade of &quot;C&quot; or better in all professional education courses; current pre-professional liability insurance; and approval for supervised teaching.</em>",
+    "desc": "Student observes then teaches art classes under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART491": {
+    "course_id": "ART491",
+    "title": "ART 491 Supervised Teaching (Elementary Art and Design)",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='ART490'>ART 490</span>.</em>",
+    "desc": "Student observes then teaches under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. Student participates in the program exit exhibition, &quot;Students of Students Show&quot;. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART492": {
+    "course_id": "ART492",
+    "title": "ART 492 Art and Theory",
+    "req": "<em>Prerequisite: 6 hours of art history at the 300- or 400- level; and permission of instructor.</em>",
+    "desc": "This course will introduce students to a range of critical art theories from the late 19th Century through the 21st Century, addressing what has been thought and written about art from various perspectives. Public Affairs Capstone Experience course. May be taught concurrently with <span data-link='ART692'>ART 692</span>. Cannot receive credit for both <span data-link='ART492'>ART 492</span> and <span data-link='ART692'>ART 692</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART494": {
+    "course_id": "ART494",
+    "title": "ART 494 Independent Study in Art History",
+    "req": "<em>Prerequisite: appropriate survey course (<span data-link='ART271'>ART 271</span> or <span data-link='ART272'>ART 272</span> or <span data-link='ART273'>ART 273</span> or <span data-link='ART274'>ART 274</span>); and permission of instructor.</em>",
+    "desc": "Individual projects and special problems in Art History. Permission granted only in special circumstances. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART495": {
+    "course_id": "ART495",
+    "title": "ART 495 Internship in Art History",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Students will complete various duties as assigned with a variety of art history-related organizations. These areas include local museums, galleries, and/or visual resource-media collections. Variable content course. May be repeated to a total of 6 hours. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART496": {
+    "course_id": "ART496",
+    "title": "ART 496 Selected Topics in Art History",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "The specific topics will change from semester to semester depending upon the interest of students and professors, e.g. German Expressionism, History of Photography, The School of Paris, Cubism and its Progeny, Pre-Columbian Art in North America. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART497": {
+    "course_id": "ART497",
+    "title": "ART 497 Selected Topics in Art and Design",
+    "req": "<em>Prerequisite: <span data-link='ART100'>ART 100</span> and <span data-link='ART101'>ART 101</span> and permission of instructor.</em>",
+    "desc": "Advanced problems involving the application of art and design fundamentals in either two or three dimensional projects will be explored. May be repeated to a total of 9 hours when course content changes. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART498": {
+    "course_id": "ART498",
+    "title": "ART 498 Senior Project in Electronic Arts",
+    "req": "<em>Prerequisite: <span data-link='ART300'>ART 300</span> and permission of instructor.</em>",
+    "desc": "Admission to this course is contingent upon the successful completion of the Electronics Arts junior portfolio review and the achievement of a &quot;C&quot; or better grade in all required option courses completed at the time of the junior portfolio review. Under advisement from faculty, EA students will form production teams consisting of computer animation, video, interactive new media and audio studies students. Each team will produce a broadcast-quality project over two semesters. The first semester will be spent in pre-production preparations for the approved senior project. The second semester will involve production and post-production of the approved project. This course must be repeated in sequence for a total of four hours across a single academic year. Identical with <span data-link='MED498'>MED 498</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART499": {
+    "course_id": "ART499",
+    "title": "ART 499 Senior Exhibition",
+    "req": "<em>Prerequisite: senior standing; and completion of BFA Candidacy Review; and 3.00 GPA in the art studio BFA emphasis area; and permission of studio advisor.</em>",
+    "desc": "Must be taken concurrently with upper division course in area of emphasis. Presentation of work from area where the majority of art course work has been taken. This work must evidence the attainment of a level of conceptual and technical maturity judged by a committee of the art studio faculty to meet qualitative standards required for the granting of the BFA degree in art. Cannot be taken Pass/Not Pass. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART590": {
+    "course_id": "ART590",
+    "title": "ART 590 Art Studio Workshops",
+    "desc": "Focused study in specific studio area, emphasis on upgrading skills and extending understanding of aesthetic and visual qualities. May be repeated to a total of 6 hours. Variable content course. May be taught concurrently with <span data-link='ART690'>ART 690</span>. Cannot receive credit for both <span data-link='ART690'>ART 690</span> and <span data-link='ART590'>ART 590</span>. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART598": {
+    "course_id": "ART598",
+    "title": "ART 598 Seminar in Art Education",
+    "desc": "In-depth study of specific topics and/or interaction with leaders in the fields of aesthetics, art criticism, art history, art making, and art education. May be repeated to a total of 6 hours. Variable content course. May be taught concurrently with <span data-link='ART698'>ART 698</span>. Cannot receive credit for both <span data-link='ART698'>ART 698</span> and <span data-link='ART598'>ART 598</span>. Supplemental course fee (variable by section). ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "ART672": {
+    "course_id": "ART672",
+    "title": "ART 672 Medieval Art",
+    "req": "<em>Prerequisite: 3 hours of art history at the undergraduate upper division level or graduate level and permission of instructor.</em>",
+    "desc": "Painting, sculpture, and architecture of Europe from the fourth century through the fourteenth century. The course emphasizes the development of a distinctly European art and culture. May be taught concurrently with <span data-link='ART472'>ART 472</span>. Cannot receive credit for both <span data-link='ART672'>ART 672</span> and <span data-link='ART472'>ART 472</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART675": {
+    "course_id": "ART675",
+    "title": "ART 675 Art of the Renaissance",
+    "req": "<em>Prerequisite: 3 hours of art history at the undergraduate upper division level or graduate level and permission of instructor.</em>",
+    "desc": "A survey of painting, sculpture, and architecture in Europe from 1300-1575. May be taught concurrently with <span data-link='ART475'>ART 475</span>. Cannot receive credit for both <span data-link='ART675'>ART 675</span> and <span data-link='ART475'>ART 475</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART678": {
+    "course_id": "ART678",
+    "title": "ART 678 Baroque Art",
+    "req": "<em>Prerequisite: 3 hours of art history at the undergraduate upper division level or graduate level and permission of instructor.</em>",
+    "desc": "The major figures and developments in art and architecture from Mannerism through the Rococo in Italy and Northern Europe. May be taught concurrently with <span data-link='ART478'>ART 478</span>. Cannot receive credit for both <span data-link='ART678'>ART 678</span> and <span data-link='ART478'>ART 478</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART680": {
+    "course_id": "ART680",
+    "title": "ART 680 Modern Art",
+    "req": "<em>Prerequisite: 3 hours of art history at the undergraduate upper division level or graduate level and permission of instructor.</em>",
+    "desc": "A study of the objects, artists, ideas, and movements which are a part of the modern and late modern tradition from the mid 19th Century through the period following the Second World War. May be taught concurrently with <span data-link='ART480'>ART 480</span>. Cannot receive credit for both <span data-link='ART680'>ART 680</span> and <span data-link='ART480'>ART 480</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART684": {
+    "course_id": "ART684",
+    "title": "ART 684 Contemporary Art",
+    "req": "<em>Prerequisite: 3 hours of art history at the undergraduate upper division level or graduate level and permission of instructor.</em>",
+    "desc": "This course will emphasize the issues raised during the transition to &quot;Post-Modern&quot; culture in the last decades of the 20th Century and the beginning years of the 21st Century. The approach and the assignments will employ theoretical and critical as well as historical thinking. May be taught concurrently with <span data-link='ART484'>ART 484</span>. Cannot receive credit for both <span data-link='ART684'>ART 684</span> and <span data-link='ART484'>ART 484</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART685": {
+    "course_id": "ART685",
+    "title": "ART 685 Art of Mesoamerica",
+    "req": "<em>Prerequisite: 3 hours of art history at the undergraduate upper division level or graduate level and permission of instructor.</em>",
+    "desc": "The art and architecture of Mesoamerica and the cultures that produced it. May be taught concurrently with <span data-link='ART685'>ART 685</span>. Cannot receive credit for both <span data-link='ART685'>ART 685</span> and <span data-link='ART485'>ART 485</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART688": {
+    "course_id": "ART688",
+    "title": "ART 688 Basic Conservation of Art and Artifacts",
+    "req": "<em>Prerequisite: 3 hours of art history at the undergraduate upper level or graduate level and permission of instructor.</em>",
+    "desc": "This course combines advanced art historical study and research of art and artifacts with a hands-on introduction to basic conservation techniques. May be taught concurrently with <span data-link='ART488'>ART 488</span> and/or <span data-link='MST488'>MST 488</span>. Cannot receive credit for both <span data-link='ART688'>ART 688</span> and <span data-link='ART488'>ART 488</span> and/or <span data-link='MST488'>MST 488</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART690": {
+    "course_id": "ART690",
+    "title": "ART 690 Art Studio Workshops for Art Educators",
+    "desc": "Focused study in specific studio area, emphasis on upgrading skills and extending understanding of aesthetic and visual qualities. Variable Content Course. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='ART590'>ART 590</span>. Cannot receive credit for both <span data-link='ART590'>ART 590</span> and <span data-link='ART690'>ART 690</span>. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART692": {
+    "course_id": "ART692",
+    "title": "ART 692 Art and Theory",
+    "req": "<em>Prerequisite: 3 hours of art history at the undergraduate upper division level or graduate level and permission of instructor.</em>",
+    "desc": "This course will introduce students to a range of critical art theories from the late 19th Century through the 21st Century, addressing what has been thought and written about art from various perspectives. May be taught concurrently with <span data-link='ART492'>ART 492</span>. Cannot receive credit for both <span data-link='ART692'>ART 692</span> and <span data-link='ART492'>ART 492</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART698": {
+    "course_id": "ART698",
+    "title": "ART 698 Seminar in Art Education",
+    "desc": "In-depth study of specific topics and/or interaction with leaders in the fields of aesthetics, art criticism, art history, art making, and art education. May be repeated to a total of 6 hours. Variable content course. May be taught concurrently with <span data-link='ART598'>ART 598</span>. Cannot receive credit for both <span data-link='ART598'>ART 598</span> and <span data-link='ART698'>ART 698</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "ART699": {
+    "course_id": "ART699",
+    "title": "ART 699 Graduate Studio",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Individual graduate studio research in visual art/design. May be repeated for credit. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART700": {
+    "course_id": "ART700",
+    "title": "ART 700 Historical Perspectives in Art Education",
+    "desc": "A history of ideas in art education and the individuals who have made significant contributions to the field; overview of beliefs, values, and practices and the role of art and art education in society. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ART701": {
+    "course_id": "ART701",
+    "title": "ART 701 Directed Graduate Studio I",
+    "req": "<em>Prerequisite: admission to the MFA in Visual Studies program and permission of instructor.</em>",
+    "desc": "Graduate studio research in visual art/design in preparation for thesis development. Course content to be determined by the student under the supervision of a graduate faculty member. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART702": {
+    "course_id": "ART702",
+    "title": "ART 702 Directed Graduate Studio II",
+    "req": "<em>Prerequisite: <span data-link='ART701'>ART 701</span> and permission of instructor.</em>",
+    "desc": "Continuation of <span data-link='ART701'>ART 701</span>. Graduate studio research in visual art/design. Course content to be determined by student under the supervision of a graduate faculty member. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART703": {
+    "course_id": "ART703",
+    "title": "ART 703 Directed Graduate Studio III",
+    "req": "<em>Prerequisite: <span data-link='ART702'>ART 702</span> and permission of instructor.</em>",
+    "desc": "Continuation of <span data-link='ART702'>ART 702</span>. Graduate studio research in visual art/design. Course content to be determined by student under the supervision of a graduate faculty member. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART704": {
+    "course_id": "ART704",
+    "title": "ART 704 Directed Graduate Studio IV",
+    "req": "<em>Prerequisite: <span data-link='ART703'>ART 703</span> and permission of instructor.</em>",
+    "desc": "Continuation of <span data-link='ART703'>ART 703</span>. Graduate studio research in visual art/design. Course content to be determined by student under the supervision of a graduate faculty member. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART710": {
+    "course_id": "ART710",
+    "title": "ART 710 Professional Practices",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "A comprehensive study in theoretical and practical aspects of succeeding as a practicing artist or designer both inside and outside the academic setting. Students will survey the procedure and common practices expected of the artist or designer as a productive member of the professional community and educator in the field. This course should be taken before the Thesis course at the end of the student&apos;s graduate career. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ART760": {
+    "course_id": "ART760",
+    "title": "ART 760 Contemporary Issues and Current Trends in Art Education",
+    "desc": "Critical examination of current issues and theories concerning the teaching of art; analysis of relationships between historical purposes and current practice; interpretation and evaluation of recent research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ART783": {
+    "course_id": "ART783",
+    "title": "ART 783 Practicum in Art Education and Educational Workshops",
+    "req": "<em>Prerequisite: <span data-link='ART360'>ART 360</span> and <span data-link='ART366'>ART 366</span> and 30 hours of studio art.</em>",
+    "desc": "Observation and classroom teaching experiences; writing unit and lesson plans; classroom motivation, management and discipline; educational seminar workshops; and exhibition of K-12 student artworks. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ART785": {
+    "course_id": "ART785",
+    "title": "ART 785 Independent Study",
+    "req": "<em>Prerequisite: portfolio review of work in selected studio area.</em>",
+    "desc": "Independent work in one studio area, directed and critiqued by studio advisor. May be repeated to a total of 9 hours. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART794": {
+    "course_id": "ART794",
+    "title": "ART 794 Independent Study in Art History",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Individual projects and special problems in Art History. Permission granted only in special circumstances. May be repeated to a total of 9 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART795": {
+    "course_id": "ART795",
+    "title": "ART 795 Graduate Internship in Art History",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Student will complete various duties as assigned with art history-related organizations. These include local museums, galleries, and/or various resource-media collections. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ART797": {
+    "course_id": "ART797",
+    "title": "ART 797 Teaching Practicum",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course will address topics unique to university art and design faculty and professional practices in various fields teaching visual studies. Successful completion of this course is needed to participate in Missouri State University&apos;s Teaching Assistant Program or to become a Per Course (or adjunct) instructor while enrolled in the MFA program. Students will survey topics pertaining to effective university level instruction through the exploration of course development, organization and public communication skills. Topics such as how and why students learn, where to find teaching resources and how to refine a learning environment will be discussed through a variety of formats and activities in the class. A mentor/mentee program will also be a component of this course to allow students to shadow experienced professors and learn through observation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ART798": {
+    "course_id": "ART798",
+    "title": "ART 798 Graduate Studio Seminar",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Seminar exploration of current formal and conceptual problems in visual art/design through discussion and critique of study research. May be repeated for a total of 6 hours. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ART799": {
+    "course_id": "ART799",
+    "title": "ART 799 Graduate Studio Thesis",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Concentrated activity in the major field of study in preparation for the thesis exhibition/presentation. May be repeated for credit. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DES202": {
+    "course_id": "DES202",
+    "title": "DES 202 Graphic Design Systems",
+    "req": "<em>Prerequisite: <span data-link='ART100'>ART 100</span> and <span data-link='ART101'>ART 101</span> and <span data-link='ART215'>ART 215</span>; Missouri State GPA of at least 2.50; and a major GPA of at least 2.50.</em>",
+    "desc": "Abstract and theoretical applications of design systems including grid information, various symmetries, and printed page formats. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DES210": {
+    "course_id": "DES210",
+    "title": "DES 210 Introduction to Computer Graphic Design",
+    "req": "<em>Prerequisite: Missouri State GPA of at least 2.50; and a GPA of 2.50 or higher in the major; and <span data-link='ART100'>ART 100</span> and <span data-link='ART101'>ART 101</span> and <span data-link='ART215'>ART 215</span>; and either <span data-link='CIS101'>CIS 101</span> or <span data-link='CSC101'>CSC 101</span> or <span data-link='CSC111'>CSC 111</span>.</em>",
+    "desc": "An introduction to methods of image creation and visual communication via available computer graphic software packages. Emphasis will be placed on the use of the computer as a production tool for graphic designers. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DES250": {
+    "course_id": "DES250",
+    "title": "DES 250 Materials and Techniques for Illustration",
+    "req": "<em>Prerequisite: Missouri State GPA of at least 2.50 and a GPA of 3.00 or higher in the major; and <span data-link='ART100'>ART 100</span> and <span data-link='ART101'>ART 101</span> and <span data-link='ART215'>ART 215</span> and admitted to BFA Design.</em>",
+    "desc": "A study of methods and materials used in traditional illustration. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DES300": {
+    "course_id": "DES300",
+    "title": "DES 300 Graphics for the Non-Design Major",
+    "req": "<em>Prerequisite: <span data-link='ART100'>ART 100</span>.</em>",
+    "desc": "An investigation of how basic design principles relate to graphic communication as well as the study of processes used in preparing designs for reproduction. The student will apply this knowledge in a number of assigned design problems. Course will not count toward the BFA degree in Design. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DES301": {
+    "course_id": "DES301",
+    "title": "DES 301 Graphic Production",
+    "req": "<em>Prerequisite: C or better in both <span data-link='DES202'>DES 202</span> and <span data-link='DES210'>DES 210</span> and concurrent enrollment in either <span data-link='ART202'>ART 202</span> or <span data-link='ART255'>ART 255</span>.</em>",
+    "desc": "The study of materials and mechanical processes required for single, multiple, and four-color print production. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DES303": {
+    "course_id": "DES303",
+    "title": "DES 303 Basic Typography",
+    "req": "<em>Prerequisite: C or better in both <span data-link='DES202'>DES 202</span> and <span data-link='DES210'>DES 210</span> and concurrent enrollment in either <span data-link='ART202'>ART 202</span> or <span data-link='ART255'>ART 255</span>.</em>",
+    "desc": "Introduction to basic typographic forms and their use in visual communication. The application of design principles to the setting of type. Visual experiments with typographic elements. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DES330": {
+    "course_id": "DES330",
+    "title": "DES 330 Communication Design/Methodology",
+    "req": "<em>Prerequisite: C or better in both <span data-link='DES301'>DES 301</span> and <span data-link='DES303'>DES 303</span> and admitted to BFA Design degree program.</em>",
+    "desc": "Investigation of the design process and its methodology through different forms of visual communication. Development of students&apos; ability to present visually different ideas or information. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DES331": {
+    "course_id": "DES331",
+    "title": "DES 331 Advanced Typography",
+    "req": "<em>Prerequisite: C or better in both <span data-link='DES301'>DES 301</span> and <span data-link='DES303'>DES 303</span> and admitted to BFA Design degree program.</em>",
+    "desc": "Application of typography in different fields of visual communication and publication design. Exploration of the relationship between meaning, content, and typographic layout. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DES332": {
+    "course_id": "DES332",
+    "title": "DES 332 Image Design",
+    "req": "<em>Prerequisite: either <span data-link='ART315'>ART 315</span> or <span data-link='ART225'>ART 225</span> (or concurrent enrollment in <span data-link='ART315'>ART 315</span> or <span data-link='ART225'>ART 225</span>) and C or better in both <span data-link='DES330'>DES 330</span> and <span data-link='DES331'>DES 331</span>.</em>",
+    "desc": "Production of graphic images in relation to written information and/or specific subjects, ideas or messages. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DES340": {
+    "course_id": "DES340",
+    "title": "DES 340 Web Design for Design Majors",
+    "req": "<em>Prerequisite: <span data-link='DES330'>DES 330</span>.</em>",
+    "desc": "Basic knowledge of web design using HTML, including information architecture and image optimization for the web. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DES345": {
+    "course_id": "DES345",
+    "title": "DES 345 Basic New Media Design",
+    "req": "<em>Prerequisite: <span data-link='DES210'>DES 210</span> or <span data-link='ART210'>ART 210</span>.</em>",
+    "desc": "Course will focus on basic knowledge of new media design and production. The course covers interactive interface design. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DES350": {
+    "course_id": "DES350",
+    "title": "DES 350 Illustration",
+    "req": "<em>Prerequisite: <span data-link='ART315'>ART 315</span> (or concurrent enrollment in <span data-link='ART315'>ART 315</span>) and C or better in <span data-link='DES250'>DES 250</span> and admitted to BFA Design degree program.</em>",
+    "desc": "The study of various approaches and techniques of illustration for print and publication, including an introduction to digital illustration. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DES430": {
+    "course_id": "DES430",
+    "title": "DES 430 Advanced Graphics",
+    "req": "<em>Prerequisite: <span data-link='ART377'>ART 377</span>; and either <span data-link='ART225'>ART 225</span> or <span data-link='ART315'>ART 315</span> (or concurrent enrollment in <span data-link='ART225'>ART 225</span> or <span data-link='ART315'>ART 315</span>); and C or better in <span data-link='DES332'>DES 332</span>.</em>",
+    "desc": "The completion of advanced projects in graphic communication, including corporate and product identity, public service and editorial design. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DES440": {
+    "course_id": "DES440",
+    "title": "DES 440 Advanced Web Design for Design Majors",
+    "req": "<em>Prerequisite: <span data-link='DES340'>DES 340</span>.</em>",
+    "desc": "Advanced skills in web design particularly focusing on interactive flash websites with multimedia content. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DES452": {
+    "course_id": "DES452",
+    "title": "DES 452 Intermediate Illustration",
+    "req": "<em>Prerequisite: <span data-link='ART377'>ART 377</span> and <span data-link='ART225'>ART 225</span> (or concurrent enrollment in <span data-link='ART225'>ART 225</span>) and C or better in <span data-link='DES350'>DES 350</span>.</em>",
+    "desc": "The study of illustration as a communicative tool. Students will be assigned problems using various media. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "DES490": {
+    "course_id": "DES490",
+    "title": "DES 490 Professional Design Practicum",
+    "req": "<em>Prerequisite: C or better in either <span data-link='DES430'>DES 430</span> or <span data-link='DES452'>DES 452</span>.</em>",
+    "desc": "A design workshop for the development and production of materials for portfolio. Preparation of a Final Project containing design work for a non-profit organization or a selected design issue, a written thesis related to it and public presentation of this project. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DES497": {
+    "course_id": "DES497",
+    "title": "DES 497 Special Topics in Design",
+    "req": "<em>Prerequisite: Missouri State GPA of at least 2.50 and a GPA of 3.00 or higher in the major and admitted to Art or Design degree program and permission of the instructor.</em>",
+    "desc": "The specific topics will change from term to term depending upon the interest of students and professors, e.g. Scientific Illustration, Comic Book Illustration, Art Direction, Book Arts, History of the Book, Letterpress Printing. May be repeated to a total of 9 hours. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "DES499": {
+    "course_id": "DES499",
+    "title": "DES 499 Design Internship",
+    "req": "<em>Prerequisite: Missouri State cumulative GPA of at least 2.50 and a GPA of 3.00 or higher in the major and admitted to Design degree program and permission of Design Program Coordinator.</em>",
+    "desc": "Student will complete actual job assignments for outside organizations under the supervision of a design faculty member. May be repeated to a total of 6 hours. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MST388": {
+    "course_id": "MST388",
+    "title": "MST 388 The Museum: History and Perspectives",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> and permission of instructor.</em>",
+    "desc": "This course offers a broad introduction to the museum as a cultural site and museum studies as a discipline with focus on theoretical issues. Identical with <span data-link='ART388'>ART 388</span>. Cannot receive credit for both <span data-link='MST388'>MST 388</span> and <span data-link='ART388'>ART 388</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MST488": {
+    "course_id": "MST488",
+    "title": "MST 488 Basic Conservation of Art and Artifacts",
+    "req": "<em>Prerequisite: <span data-link='ART273'>ART 273</span>.</em>",
+    "desc": "This course combines advanced art historical study and research of art and artifacts with a hands-on introduction to basic conservation techniques. Identical with <span data-link='ART488'>ART 488</span>. Cannot receive credit for both <span data-link='MST488'>MST 488</span> and <span data-link='ART488'>ART 488</span>. May be taught concurrently with <span data-link='ART688'>ART 688</span>. Cannot receive credit for both <span data-link='MST488'>MST 488</span> and <span data-link='ART688'>ART 688</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MST495": {
+    "course_id": "MST495",
+    "title": "MST 495 Museum Studies Internship",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Students will complete various duties as assigned with one of a variety of museum studies-related organizations. These organizations may include, but are not limited to: museums, galleries, interpretive centers, archives, and visual resource-media collections. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MST501": {
+    "course_id": "MST501",
+    "title": "MST 501 Natural History Museum Techniques",
+    "desc": "Techniques in the development of natural history museum displays including making models, design of displays, writing educational text, and other techniques. Course will be taught off-site at the Bull Shoals Field Station and Chase Studio. Identical with <span data-link='BIO501'>BIO 501</span>. Cannot receive credit for both <span data-link='MST501'>MST 501</span> and <span data-link='BIO501'>BIO 501</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

@@ -1,0 +1,1780 @@
+{
+  "HST103": {
+    "course_id": "HST103",
+    "title": "HST 103 World History to Circa 1600 C.E.",
+    "req": "<em>General Education Course (Focus on Humanities).</em>",
+    "desc": "This course examines the formation and development of the world&apos;s major societies and systematically explores cross-cultural interactions and exchanges that have been some of the most effective agents of change in all of world history from Pre-History to circa 1600 C.E. Students cannot receive credit for both <span data-link='HST101'>HST 101</span> and <span data-link='HST103'>HST 103</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HST104": {
+    "course_id": "HST104",
+    "title": "HST 104 World History Since 1600 C.E.",
+    "req": "<em>General Education Course (Focus on Humanities).</em>",
+    "desc": "This course examines the formation and development of the world&apos;s major societies and systematically explores cross-cultural interactions and exchanges that have been some of the most effective agents of change in all of world history since 1600 C.E. Students cannot receive credit for both <span data-link='HST102'>HST 102</span> and <span data-link='HST104'>HST 104</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HST121": {
+    "course_id": "HST121",
+    "title": "HST 121 Survey of the History of the United States to 1877",
+    "req": "<em>General Education Course (Focus on Constitutions of US and Missouri and American History and Institutions).</em>",
+    "desc": "Formation of the United States and its civilization from the Age of Discovery through the Reconstruction Era, with emphasis on the influence of the Frontier and the Native American, European and African heritages; the constitutional development of the federal government; the evolution of the nation&apos;s economic system, social fabric and diplomatic experiences. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HST122": {
+    "course_id": "HST122",
+    "title": "HST 122 Survey of the History of the United States Since 1877",
+    "req": "<em>General Education Course (Focus on Constitutions of US and Missouri and American History and Institutions).</em>",
+    "desc": "Modernization of the United States and its role in world affairs from the late 19th Century to the present, with emphasis on industrialization and urbanization and their impact on socioeconomic and international developments. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HST200": {
+    "course_id": "HST200",
+    "title": "HST 200 The Twentieth Century World: An International History",
+    "desc": "From the height of Western Imperialism in 1900 to the post Cold War years, this course surveys twentieth-century world history, examining the transformation of international, political, economic, and cultural relations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HST210": {
+    "course_id": "HST210",
+    "title": "HST 210 Writing II: Historical Inquiry",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> and 30 hours. General Education Course (Focus on Written Communication and Integrative and Applied Learning).</em>",
+    "desc": "Introduction to historical research and writing. Meets Writing II requirement for a major in history. This course emphasizes the techniques of conducting a thorough literature search, the analysis of primary and secondary materials, and instruction and practice in historical writing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HST300": {
+    "course_id": "HST300",
+    "title": "HST 300 Service Learning in History",
+    "req": "<em>Prerequisite: 30 hours, concurrent registration in a History course designated as a service learning offering and permission of department head.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in History to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HST313": {
+    "course_id": "HST313",
+    "title": "HST 313 American Cultural History",
+    "desc": "An introduction to the major issues, themes and methods of American cultural history. This course will explore multiple vantage points and interdisciplinary approaches to understanding American cultural history. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST314": {
+    "course_id": "HST314",
+    "title": "HST 314 American Expansion and Empire",
+    "desc": "Recommended Prerequisite: <span data-link='HST121'>HST 121</span> or <span data-link='HST122'>HST 122</span>. This course surveys the territorial, economic, cultural, and political expansion of the United States from the founding of the country through the 20th century. Topics include the ideology, methods, and effects of expansion, with particular attention on the cultural interactions that resulted from expansion and the ways in which expansion affected American culture and Society. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST315": {
+    "course_id": "HST315",
+    "title": "HST 315 Military History of the United States",
+    "desc": "Recommended Prerequisite: <span data-link='HST121'>HST 121</span> or 122. American Military History from the colonial period to the present; its relation to the national development in war and peace. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HST323": {
+    "course_id": "HST323",
+    "title": "HST 323 Women in Africa",
+    "desc": "Recommended Prerequisite: <span data-link='HST103'>HST 103</span> or 104. This course will introduce students to women&apos;s participation in Africa&apos;s history and contemporary issues. The readings cover a broad geographical range of North, West, Central and Southern Africa. The course will include five topics: Women and the Family; Women, Politics, and Economics; Religious Women; Women in Colonial Rebellion; and Women and National Revolutions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST324": {
+    "course_id": "HST324",
+    "title": "HST 324 Women in American History",
+    "desc": "A survey of the role of American women from the colonial era to the present. Topics include women&apos;s historical roles in work, family, politics, sexuality and culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST329": {
+    "course_id": "HST329",
+    "title": "HST 329 The Automobile in American Life",
+    "desc": "Recommended Prerequisite: <span data-link='HST122'>HST 122</span>. Examines the impact of the automobile on American society during the twentieth century. Topics include the manufacture, marketing and maintenance of automobiles, the transformation of rural and urban life, the decline of transit and the impact of the automobile on social life. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST330": {
+    "course_id": "HST330",
+    "title": "HST 330 Business and Society, Colonial Times to Present",
+    "desc": "Recommended Prerequisite: <span data-link='HST121'>HST 121</span> or 122. The main focus of this course is the development of the firm and its relationship to the economic, social, and legal environment within which businesses have operated. Special emphasis is placed on how the firm shaped and was shaped by American society. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST331": {
+    "course_id": "HST331",
+    "title": "HST 331 African American History I",
+    "desc": "Recommended Prerequisite: <span data-link='HST121'>HST 121</span> or <span data-link='AAS100'>AAS 100</span>. Survey of the experiences of Americans of African descent to 1865. Emphasis on African heritage; African-American contributions and institutions; slavery and quasi-freedom. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST332": {
+    "course_id": "HST332",
+    "title": "HST 332 African American History II",
+    "desc": "Recommended Prerequisite: <span data-link='HST122'>HST 122</span> or <span data-link='AAS100'>AAS 100</span>. Continuation of <span data-link='HST331'>HST 331</span>, 1865-present. Emphasis on the struggles for racial justice; protest organizations, philosophies and tactics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST334": {
+    "course_id": "HST334",
+    "title": "HST 334 Conflict and Peace Building in Africa",
+    "desc": "Recommended Prerequisite: <span data-link='HST103'>HST 103</span> or <span data-link='HST104'>HST 104</span> or <span data-link='HST121'>HST 121</span> or <span data-link='AAS100'>AAS 100</span>. This course examines the historical roots, dimensions, and causes of conflict in Africa. Thematically organized to capture developments across the different regions in the continent, the course offers critical insights into the preponderance of conflict in Africa since the Cold War. In addition, the course explores the various ways through which Africans, its partners, and international organizations have fostered peace and conflict resolution in Africa over the years. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST335": {
+    "course_id": "HST335",
+    "title": "HST 335 African Civilization",
+    "desc": "Recommended Prerequisite: <span data-link='HST103'>HST 103</span> or 104. Historical developments in Africa from antiquity to the present. Emphasis on south Saharan Africa for the period before European contact. Topics in modern nationalism and independence. Africa in the context of world history. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST338": {
+    "course_id": "HST338",
+    "title": "HST 338 Sources and Methods in African History",
+    "desc": "This course deals with knowledge generation, production, and dissemination about Africa and its peoples. It traces the origin, progress, and current state of scholarship on Africa and about Africans. It is about writing and understanding Africa and its history. It examines the kind of history that has been written about events in Africa. In other words, it is concerned with the study of and nature of history in Africa. Given this basic disposition, the course is a reflection on history in Africa as a discipline and the problems involved in the writing of African history globally. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST339": {
+    "course_id": "HST339",
+    "title": "HST 339 Africa and the Wider World",
+    "desc": "Recommended Prerequisite: <span data-link='HST103'>HST 103</span> or <span data-link='HST104'>HST 104</span> or <span data-link='HST121'>HST 121</span> or <span data-link='AAS100'>AAS 100</span>. This course traces the history of Africa from the slave trade to independence. The course is thematically organized to capture developments across the different regions in the continent; and offers critical insights into the place of Africa in world history, especially in relations to and with global developments. As a survey course, the course offers insights into the different regions, paying particular attention to cultural, economic and political changes. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST340": {
+    "course_id": "HST340",
+    "title": "HST 340 Industrialization in Global Perspective",
+    "desc": "Recommended Prerequisite: <span data-link='HST122'>HST 122</span>. This course looks at origins and spread of industrialization as a global phenomena beginning with the preindustrial wave of global expansion that began around 1450 and continuing up to the present. It blends broad synthetic treatments with detailed case studies to trace the development and spread of industrial technology across cultures. Although the perspective is global most of the geographic concentration is on Britain, the U.S., Japan, and more recently, China. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST343": {
+    "course_id": "HST343",
+    "title": "HST 343 Ancient Rome",
+    "desc": "Recommended Prerequisite: <span data-link='HST103'>HST 103</span>. Roman civilization to the downfall of the Empire. Broad social, economic, technological and cultural developments. The problems of the decline of ancient civilization. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST344": {
+    "course_id": "HST344",
+    "title": "HST 344 Ancient Civilizations",
+    "desc": "Recommended Prerequisite: <span data-link='HST103'>HST 103</span>. From the origins of civilizations in the ancient Near East to the fall of the Roman Empire, this survey course traces the development of the history of the ancient world. It pays special attention to political systems and ideals by including detailed instructions in the origins of Monarchy, the Athenian democracy, the Roman Republic, and the Roman Empire. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST345": {
+    "course_id": "HST345",
+    "title": "HST 345 Slavery in the Atlantic World",
+    "desc": "Recommended Prerequisite: <span data-link='HST103'>HST 103</span> and <span data-link='HST104'>HST 104</span>; and <span data-link='HST121'>HST 121</span> or <span data-link='AAS100'>AAS 100</span>. This course examines various social, political, and economic developments of slave societies in the Americas (North, Central and South), the West Indies, and Africa from roughly the 1200s to the late-1800s with a primary focus upon the lives and roles played by people of the African Diaspora and their encounters with Europeans and Indigenous Americans. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST350": {
+    "course_id": "HST350",
+    "title": "HST 350 Latin American Civilization",
+    "desc": "Foundations of Ibero-American civilization including the Amer-Indian, Iberian and African background; Emphasis on the origins of institutions and problems which affect the region as a whole. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST353": {
+    "course_id": "HST353",
+    "title": "HST 353 History of Europe in the 19th Century, 1815-1918",
+    "desc": "Recommended Prerequisite: <span data-link='HST104'>HST 104</span>. Forces unleashed by the French Revolution and other movements, including liberalism, reaction, nationalism, industrialization and imperialism. May be taught concurrently with <span data-link='HST553'>HST 553</span>. Cannot receive credit for both <span data-link='HST353'>HST 353</span> and 553. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST355": {
+    "course_id": "HST355",
+    "title": "HST 355 Contemporary Europe: 1918 to the Present",
+    "desc": "Recommended Prerequisite: <span data-link='HST104'>HST 104</span>. Europe between the wars, the coming of World War II, European problems since 1945. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST356": {
+    "course_id": "HST356",
+    "title": "HST 356 Nazi Germany",
+    "desc": "Recommended Prerequisite: <span data-link='HST104'>HST 104</span>. This course has been envisioned as a multi-disciplinary course, dealing with the complex and often controversial aspects of Nazi rule. The course begins chronologically with the examination of the crisis in Weimar Democracy and the Nazi seizure of power. Then it discusses the transformation of German society under Nazi rule; the fate of youth organizations, schools, universities and churches; the impact of Nazism on popular and high cultures; Nazi social policy; war on racial and ethnic minorities and homosexuals. The third part deals with Nazi foreign policy; the Second World War; the genocide of Eastern Europeans; the Holocaust, and the collapse of the Third Reich. At the final meeting, students discuss the memory of the Third Reich. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST360": {
+    "course_id": "HST360",
+    "title": "HST 360 Britain, 55 B.C.-1688",
+    "desc": "Recommended Prerequisite: <span data-link='HST103'>HST 103</span>. Impact of European invasions on social structure, social cohesion and demography; feudalism and its decline; emergence of early modern England in Tudor and Stuart periods; Civil War and the Glorious Revolution. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST361": {
+    "course_id": "HST361",
+    "title": "HST 361 Britain, 1688-Present",
+    "desc": "Recommended Prerequisite: <span data-link='HST103'>HST 103</span> or 104. Transition from pre-industrial to industrial society; tenacity of aristocratic power and influence; growth of the welfare state; economic and international decline. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST370": {
+    "course_id": "HST370",
+    "title": "HST 370 History of the Middle East from 600-1914",
+    "desc": "A survey of political, social, and economic trends in the Middle East since the rise of Islam to 1914. Topics include the rise and spread of Islam, the age of the imperial caliphate, and the rise and fall of Islamic regional empires. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST371": {
+    "course_id": "HST371",
+    "title": "HST 371 History of the Middle East Since 1914",
+    "desc": "A survey of political, social, and economic trends in the Middle East since 1914. Topics include the Middle East and Western military, economic, and ideological encroachment after World War I, regional conflicts, revolutions, politics and religion, and the emergence of the modern nation-states of the Middle East. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST375": {
+    "course_id": "HST375",
+    "title": "HST 375 The Ozarks in American History",
+    "desc": "Recommended Prerequisite: <span data-link='HST121'>HST 121</span> or 122. The Ozarks as an historic American region. Historical geography of the Ozarks. The Old Ozarks Frontier; the Modern Ozarks; the Cosmopolitan Ozarks; the New Ozarks Frontier. Relation of the Ozarks to major themes in U.S. History. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST380": {
+    "course_id": "HST380",
+    "title": "HST 380 East Asian Civilization I",
+    "desc": "A comparative historical treatment of China and Japan from earliest times to 1600. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "HST381": {
+    "course_id": "HST381",
+    "title": "HST 381 East Asian Civilization II",
+    "desc": "A comparative historical treatment of China and Japan from 1600 to the present. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HST383": {
+    "course_id": "HST383",
+    "title": "HST 383 A Global History of the Inquisition, 1478-1834: The Holy Office in Europe, Asia, and the Americas",
+    "desc": "This course closely examines the history of the Spanish and Portuguese Inquisitions from their establishment in the last fifteenth/early sixteenth centuries to their abolition in the early nineteenth century. The Inquisition was set up in both Spain and Portugal to systematically hunt down heretics and eradicate from Catholic society any form of heretical beliefs. The various groups persecuted by the inquisitorial tribunals in Spain and Portugal&apos;s world empires included, amongst others, crypto-Jews, crypto-Muslims, Protestants, bigamists, homosexuals, dissenting intellectuals and witches. This course will examine the actual historical institutions behind the modern myths of the Spanish and Portuguese Inquisitions; their organization, their modus operandi and their evolution during their more than three centuries of existence both in the Iberian Peninsula and in the Spanish and Portuguese World empires. Topics covered include the history of the Inquisition in Spain and the Spanish Americas, including the existence of the Spanish Inquisition in the early colonial Latin American territories as well as its spread into the colonial North American territories of the Florida, Texas, Louisiana, Arkansas, Missouri, New Mexico and the Californias; the topics will also include an examination of the history of the Inquisition in Spain and Portugal&apos;s Asian colonies such as the Philippines, India (Goa) and China (Macao). ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST390": {
+    "course_id": "HST390",
+    "title": "HST 390 Introduction to Historiography",
+    "req": "<em>Prerequisite: 9 hours of history.</em>",
+    "desc": "The study of the philosophy, methods, and practice of history as a field of scholarly inquiry. Students are also required to take the Major Field Achievement Test. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HST392": {
+    "course_id": "HST392",
+    "title": "HST 392 European History Primary Source Seminar",
+    "req": "<em>Prerequisite: <span data-link='HST210'>HST 210</span>.</em>",
+    "desc": "This is a variable content, writing-intensive seminar in European history. Students will be introduced to methods of primary source analysis and historical writing and prepare a seminar paper based on primary sources on a focused topic in European history. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST393": {
+    "course_id": "HST393",
+    "title": "HST 393 United States History Primary Source Seminar",
+    "req": "<em>Prerequisite: <span data-link='HST210'>HST 210</span>.</em>",
+    "desc": "This is a variable content, writing-intensive seminar in United States history. Students will be introduced to methods of primary source analysis and historical writing and prepare a seminar paper based on primary sources on a focused topic in United States history. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST394": {
+    "course_id": "HST394",
+    "title": "HST 394 World History Primary Source Seminar",
+    "req": "<em>Prerequisite: <span data-link='HST210'>HST 210</span>.</em>",
+    "desc": "This is a variable content, writing-intensive seminar in world history. Students will be introduced to methods of primary source analysis and historical writing and prepare a seminar paper based on primary sources on a focused topic in world history. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST397": {
+    "course_id": "HST397",
+    "title": "HST 397 Special Topics in History",
+    "desc": "Recommended Prerequisite: 3 hours of history. A variable content, variable credit course. Specific subject matter will change from term to term, depending upon the interests of professor and student. May be repeated, as topics change, to a maximum of 6 credit hours. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST418": {
+    "course_id": "HST418",
+    "title": "HST 418 Teaching of Secondary School Social Studies",
+    "req": "<em>Prerequisite: 12 hours history and <span data-link='SEC302'>SEC 302</span>, <span data-link='EDC350'>EDC 350</span>, <span data-link='SPE340'>SPE 340</span>, current preprofessional liability insurance, and admission to Teacher Education Program.</em>",
+    "desc": "Resources for teaching the social sciences; methods of evaluation; unit and daily lesson planning appropriate for multicultural settings; reflective decision-making in the application of teaching methods and techniques. Completion of a 30 hour practicum assigned at Greenwood or Springfield area secondary school is required. Checkpoint 2 completion is required during this course. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='HST420'>HST 420</span> or <span data-link='HST421'>HST 421</span>. Cannot be taken Pass/Not Pass. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HST420": {
+    "course_id": "HST420",
+    "title": "HST 420 Supervised Teaching (Secondary Social Studies)",
+    "req": "<em>Prerequisite: <span data-link='HST418'>HST 418</span>; a grade of &quot;C&quot; or better in all professional education courses; current pre-professional liability insurance; and approval for supervised teaching.</em>",
+    "desc": "Student observes then teaches social studies classes under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HST421": {
+    "course_id": "HST421",
+    "title": "HST 421 Supervised Teaching (Secondary Social Studies)",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='HST420'>HST 420</span>.</em>",
+    "desc": "Student observes then teaches under the direction of the cooperation teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HST422": {
+    "course_id": "HST422",
+    "title": "HST 422 Supervised Teaching (Secondary Social Studies)",
+    "req": "<em>Prerequisite: <span data-link='HST418'>HST 418</span>; a grade of &quot;C&quot; or better in all professional education courses; minimum GPA of 3.00 in Social Sciences; current pre-professional liability insurance; and approval for supervised teaching; and concurrent enrollment in <span data-link='HST423'>HST 423</span>.</em>",
+    "desc": "Student observes then teaches social studies classes under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. Only students seeking secondary social studies certification may enroll in this course. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HST423": {
+    "course_id": "HST423",
+    "title": "HST 423 Seminar in Supervised Teaching",
+    "req": "<em>Prerequisite: <span data-link='HST418'>HST 418</span>; a grade of &quot;C&quot; or better in all professional education courses; minimum GPA of 3.00 in Social Sciences; approval for supervised teaching; and concurrent enrollment in <span data-link='HST422'>HST 422</span>.</em>",
+    "desc": "A seminar designed for the purpose of discussion and analysis of field experiences during the supervised teaching semester. Topics include: Theory Into Practice, Diversity in the Classroom, Classroom Management, Classroom Assessment, Job Search and Professional Development. Students will attend workshops throughout the semester. Only students seeking secondary social studies certification may enroll in this course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HST496": {
+    "course_id": "HST496",
+    "title": "HST 496 Independent Readings in History",
+    "req": "<em>Prerequisite: permission of instructor and department head.</em>",
+    "desc": "Students should consult with a professor of the department who specializes in the subject; with professor&apos;s consent present a written proposal to the department head for approval before final registration for the term in which the reading is to be done. Only one approved Reading Program may be taken in any semester. A maximum of 6 semester hours may be taken in <span data-link='HST496'>HST 496</span>. Areas offered for independent readings: United States, Latin American, Ancient, Medieval, European, Asian and African history. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST499": {
+    "course_id": "HST499",
+    "title": "HST 499 Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate masters-level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HST509": {
+    "course_id": "HST509",
+    "title": "HST 509 Indian History",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "History of Indian/White relations, federal Indian policy, and Indian accommodation to European introductions and eventual American dominance from the beginning of contact with Europeans to the present. May be taught concurrently with <span data-link='HST609'>HST 609</span>. Cannot receive credit for both <span data-link='HST609'>HST 609</span> and <span data-link='HST509'>HST 509</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "HST510": {
+    "course_id": "HST510",
+    "title": "HST 510 The Plains Indians",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "History and culture of Plains Indians from the pre-Columbian period to the end of the frontier era near the turn of the last century, including the impact of the European invasion. May be taught concurrently with <span data-link='HST611'>HST 611</span>. Cannot receive credit for both <span data-link='HST611'>HST 611</span> and <span data-link='HST510'>HST 510</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HST515": {
+    "course_id": "HST515",
+    "title": "HST 515 American Environmental History",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Survey of humankind&apos;s relationship with nature and the environment in what is now the United States from pre-Columbian times to the present. Will especially focus on the impact of American development on the environment, the impact of the environment on the development of the United States, and the significance of the many different ideas and images concerning nature and the environment throughout American history. May be taught concurrently with <span data-link='HST615'>HST 615</span>. Cannot receive credit for both <span data-link='HST615'>HST 615</span> and <span data-link='HST515'>HST 515</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST516": {
+    "course_id": "HST516",
+    "title": "HST 516 American Religious History",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Impact of religious thought and religious leaders on the history of the United States. May be taught concurrently with <span data-link='HST616'>HST 616</span>. Cannot receive credit for both <span data-link='HST516'>HST 516</span> and <span data-link='HST616'>HST 616</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HST517": {
+    "course_id": "HST517",
+    "title": "HST 517 Legal and Constitutional History of the United States",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "The origins of American constitutionalism, The Philadelphia Convention, the historical context of the changes in the law, in the Constitution, and in the courts since 1789, and the development of the law profession and legal education. May be taught concurrently with <span data-link='HST617'>HST 617</span>. Cannot receive credit for both <span data-link='HST617'>HST 617</span> and <span data-link='HST517'>HST 517</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST518": {
+    "course_id": "HST518",
+    "title": "HST 518 Colonial America",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Character, development and modification of the English Empire in North America. May be taught concurrently with <span data-link='HST618'>HST 618</span>. Cannot receive credit for both <span data-link='HST618'>HST 618</span> and <span data-link='HST518'>HST 518</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST519": {
+    "course_id": "HST519",
+    "title": "HST 519 The American Revolution",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Origins of the Revolution, War of Independence, and the society, government, and economy of the Revolutionary and Confederation eras. May be taught concurrently with <span data-link='HST619'>HST 619</span>. Cannot receive credit for both <span data-link='HST619'>HST 619</span> and <span data-link='HST519'>HST 519</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST521": {
+    "course_id": "HST521",
+    "title": "HST 521 Early American Republic",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Study of America, 1780s-1840s. Topics will include the development of constitutional government and federalism, mix of republican ideology and capitalism, causes and results of the War of 1812, first and second political party systems, social reform, and economic development. May be taught concurrently with <span data-link='HST621'>HST 621</span>. Cannot receive credit for both <span data-link='HST621'>HST 621</span> and <span data-link='HST521'>HST 521</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST523": {
+    "course_id": "HST523",
+    "title": "HST 523 Nineteenth Century America",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Emphasis upon how the ideas and values that constituted the original meaning of America (namely, the republicanism of the American Revolution) were transformed in response to the Commercial and Industrial Revolutions of nineteenth century America, producing two major crises of the century: the Civil War and Populist Revolt. Included is the transition of the United States from an agrarian society of economically and politically independent farmers to a depersonalized industrial nation of largely dependent salaried employees and wage earners. May be taught concurrently with <span data-link='HST623'>HST 623</span>. Cannot receive credit for both <span data-link='HST623'>HST 623</span> and <span data-link='HST523'>HST 523</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST524": {
+    "course_id": "HST524",
+    "title": "HST 524 Civil War and Reconstruction",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "The sectional conflict, the Civil War, and Reconstruction examined from political, military, social, and economic perspectives, with emphasis on differing historical interpretations of the causes of the war, the South&apos;s defeat, and the limits of Reconstruction. May be taught concurrently with <span data-link='HST624'>HST 624</span>. Cannot receive credit for both <span data-link='HST624'>HST 624</span> and <span data-link='HST524'>HST 524</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST525": {
+    "course_id": "HST525",
+    "title": "HST 525 Gilded Age/Progressive Era America, 1865-1920",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Political, economic, social and intellectual development of the United States from the end of the Civil War through World War I and its aftermath. May be taught concurrently with <span data-link='HST625'>HST 625</span>. Cannot receive credit for both <span data-link='HST625'>HST 625</span> and <span data-link='HST525'>HST 525</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST528": {
+    "course_id": "HST528",
+    "title": "HST 528 U.S. History Since 1945",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "The Cold War, politics from Truman through the Reagan presidency; the social conflict of the 1960s; the civil rights movement; the Great Society; Vietnam; and the Reagan revolution. May be taught concurrently with <span data-link='HST628'>HST 628</span>. Cannot receive credit for both <span data-link='HST628'>HST 628</span> and <span data-link='HST528'>HST 528</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST531": {
+    "course_id": "HST531",
+    "title": "HST 531 African American Leaders and Movements",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Study of African American leaders and movements in the United States, with emphasis on the period since World War II. May be taught concurrently with <span data-link='HST631'>HST 631</span>. Cannot receive credit for both <span data-link='HST631'>HST 631</span> and <span data-link='HST531'>HST 531</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST536": {
+    "course_id": "HST536",
+    "title": "HST 536 History of Missouri",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Economic, social, political and constitutional history of the state; role played by Missouri in national affairs. May be taught concurrently with <span data-link='HST636'>HST 636</span>. Cannot receive credit for both <span data-link='HST636'>HST 636</span> and <span data-link='HST536'>HST 536</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST537": {
+    "course_id": "HST537",
+    "title": "HST 537 History of the American West",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Westward movement in America as history and myth; influence of the West on American society and character. May be taught concurrently with <span data-link='HST637'>HST 637</span>. Cannot receive credit for both <span data-link='HST637'>HST 637</span> and <span data-link='HST537'>HST 537</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST538": {
+    "course_id": "HST538",
+    "title": "HST 538 History of the American South, 1607-Present",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Development of the South&apos;s social, economic and intellectual distinctiveness, with an emphasis on slavery, the plantation system, sectional conflict, modernization, Populism, disfranchisement, segregation, Dixie Demagogues and the Civil Rights Movement. May be taught concurrently with <span data-link='HST638'>HST 638</span>. Cannot receive credit for both <span data-link='HST638'>HST 638</span> and <span data-link='HST538'>HST 538</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST541": {
+    "course_id": "HST541",
+    "title": "HST 541 The Ancient Near East to 1200 BCE",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Sumerians, Babylonians, Egyptians and Hittites; special reference to Hebrew scripture. Interrelationships among ancient civilizations; readings from original sources in English translation. May be taught concurrently with <span data-link='HST641'>HST 641</span>. Cannot receive credit for both <span data-link='HST641'>HST 641</span> and <span data-link='HST541'>HST 541</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "HST542": {
+    "course_id": "HST542",
+    "title": "HST 542 Ancient Israel",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "History of Israel to the end of the Persian period with special reference to the Canaanites, Mycenaeans, Philistines, Phoenicians, Assyrians, Chaldeans, and Persians. May be taught concurrently with <span data-link='HST642'>HST 642</span>. Cannot receive credit for both <span data-link='HST642'>HST 642</span> and <span data-link='HST542'>HST 542</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HST543": {
+    "course_id": "HST543",
+    "title": "HST 543 History of the Arab-Israeli Conflict",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "The Arab-Israeli conflict in its historical and contemporary terms. The course covers three periods: The first period examines the roots of Arab and Jewish historical/biblical claims to Palestine before 1939. The second period from 1939 to 1982 analyzes the causes and effects of the Arab-Israeli wars. The third period from 1982 to 1991 covers the Israeli invasion of Lebanon, the Palestinian uprising (Intifada), and the peace process. May be taught concurrently with <span data-link='HST643'>HST 643</span>. Cannot receive credit for both <span data-link='HST643'>HST 643</span> and <span data-link='HST543'>HST 543</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST544": {
+    "course_id": "HST544",
+    "title": "HST 544 Women in Islam",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "This course examines the complexities of Middle Eastern culture through the lens of gender, focusing on women in Islamic society. Course will examine and critique current scholarly and journalistic literature (largely by Muslim women), films and documentaries, and current events in order to better understand current social, political, and economic developments in the Middle East. Special emphasis is on Egypt and Iran, which have enjoyed the lion&apos;s share of academic and legal attention. While the focus is on the modern Middle East, coverage also includes a historical review of scriptural roots and socio-political structures from the Middle Ages until today. The course has been designed as a quasi-seminar, where students meet in round-table fashion and discuss together readings that have been prepared in advance, in combination with lecture. May be taught concurrently with <span data-link='HST644'>HST 644</span>. Cannot receive credit for both <span data-link='HST544'>HST 544</span> and <span data-link='HST644'>HST 644</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST545": {
+    "course_id": "HST545",
+    "title": "HST 545 Medieval Europe",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='HST103'>HST 103</span>. History of Medieval France, Germany, and the Papacy from the 5th Century to the 16th Century. May be taught concurrently with <span data-link='HST645'>HST 645</span>. Cannot receive credit for both <span data-link='HST545'>HST 545</span> and <span data-link='HST645'>HST 645</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "HST548": {
+    "course_id": "HST548",
+    "title": "HST 548 The Renaissance",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='HST103'>HST 103</span>. Europe from about 1320 to about 1550, in the transition period from Medieval civilization to Modern Civilization; history of ideas and culture. May be taught concurrently with <span data-link='HST648'>HST 648</span>. Cannot receive credit for both <span data-link='HST648'>HST 648</span> and <span data-link='HST548'>HST 548</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST549": {
+    "course_id": "HST549",
+    "title": "HST 549 The Reformation",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Early modern period of European history, 1500-1648. Religious controversy, religious wars, growth of the secular state. May be taught concurrently with <span data-link='HST649'>HST 649</span>. Cannot receive credit for both <span data-link='HST649'>HST 649</span> and <span data-link='HST549'>HST 549</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST551": {
+    "course_id": "HST551",
+    "title": "HST 551 The French Revolution and the Napoleonic Era",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Causes and phases of the Revolution in France; the expansion of the Revolution; rise and downfall of Napoleon. May be taught concurrently with <span data-link='HST651'>HST 651</span>. Cannot receive credit for both <span data-link='HST651'>HST 651</span> and <span data-link='HST551'>HST 551</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST553": {
+    "course_id": "HST553",
+    "title": "HST 553 History of Europe in the 19th Century, 1815-1918",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Forces unleashed by the French Revolution and other movements, including liberalism, reaction, nationalism, industrialization, and imperialism. May be taught concurrently with <span data-link='HST353'>HST 353</span>. Cannot receive credit for both <span data-link='HST353'>HST 353</span> and 553. May be taught concurrently with <span data-link='HST653'>HST 653</span>. Cannot receive credit for both <span data-link='HST653'>HST 653</span> and <span data-link='HST553'>HST 553</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST559": {
+    "course_id": "HST559",
+    "title": "HST 559 Germany, 1815-Present",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "The unification process, the German Empire, Weimar Republic, Third Reich, Germany as a European Great Power. May be taught concurrently with <span data-link='HST659'>HST 659</span>. Cannot receive credit for both <span data-link='HST659'>HST 659</span> and <span data-link='HST559'>HST 559</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST562": {
+    "course_id": "HST562",
+    "title": "HST 562 Communism in Eastern Europe, 1917-1990",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "This course examines the emergence, development and demise of communist regimes in Eastern Europe. Conceived as a multi-disciplinary class, the course will look at a wide range of topics including, but not limited to, the creation of the police state, economic and social developments and the position of intellectuals, women and young people in communist societies, the &quot;velvet revolutions&quot; and the collapse of the system in the late 1980s. Special emphasis will be placed on culture, including literature and film as vehicles of protest against oppression. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST563": {
+    "course_id": "HST563",
+    "title": "HST 563 History of Fascism",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "This course deals mainly with interwar fascist movements and regimes in Europe and examines such relevant questions as the intellectual origins of fascism; paramilitary violence after WWI; charismatic leadership; state terrorism; fascist art and propaganda; social policy; imperialism and war and genocide. It also examines the history of Right radical, fascist and post-fascist movement and regimes in Europe, Latin America (Argentina, Chile, Brazil and Peru), United States, South Africa, the Middle East (Egypt, Syria and Iraq) and Africa (Ghana, Nigeria, Congo, Uganda) after 1945. May be taught concurrently with <span data-link='HST663'>HST 663</span>. Cannot receive credit for both <span data-link='HST563'>HST 563</span> and <span data-link='HST663'>HST 663</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST564": {
+    "course_id": "HST564",
+    "title": "HST 564 History of the Holocaust",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Envisioned as a multi-disciplinary class, this course examines the complex history of the Holocaust during the Second World War. It discusses such important topics as the life of Jewish communities in Germany and Eastern Europe before 1933; Jewish emancipation; the rise of political anti-Semitism; Hitler and the creation of the Third Reich; discrimination against racial outsiders and &quot;asocials&quot;; the life of Jews in Nazi Germany; the &quot;twisted road to Auschwitz&quot;; the historical debates on the origins of the genocide; the social and psychological make-up of the perpetrators; the role of bystanders both in Germany and other parts of Europe; Jewish resistance and finally the memory of the Holocaust in Germany, Israel, United States and Eastern Europe. May be taught concurrently with <span data-link='HST664'>HST 664</span>. Cannot receive credit for both <span data-link='HST564'>HST 564</span> and <span data-link='HST664'>HST 664</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST566": {
+    "course_id": "HST566",
+    "title": "HST 566 Victorian and Edwardian England",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "This course will examine the impact of industrialization; wealth, poverty and the rise of class; reform movements; origins of the welfare state; emergence of the Labour party, and the slow eclipse of aristocratic power and influence. May be taught concurrently with <span data-link='HST666'>HST 666</span>. Cannot receive credit for both <span data-link='HST666'>HST 666</span> and <span data-link='HST566'>HST 566</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST571": {
+    "course_id": "HST571",
+    "title": "HST 571 China in the Twentieth Century",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "An intensive study of the transformation of China from a Confucian, Feudal state to a Communist world power. May be taught concurrently with <span data-link='HST671'>HST 671</span>. Cannot receive credit for both <span data-link='HST671'>HST 671</span> and <span data-link='HST571'>HST 571</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST573": {
+    "course_id": "HST573",
+    "title": "HST 573 History and Archaeology of the Middle East",
+    "desc": "Recommended Prerequisite: <span data-link='HST103'>HST 103</span>. Archaeology as a tool for historical inquiry is the focus of this course. In this course students will become familiar with the problems and methods of the discipline as they related to the larger questions of Middle Eastern history, including migration and settlement, the impact of war, land use and ecological issues, religion and identity, transformations of the traditional Middle Eastern household, and the relations between local society and the state. Topics covered in lectures and students&apos; projects include the use of textual sources, palaeography, and other methodological challenges; historic preservation and heritage management; legal issues and the politics of archaeology; and museum work. Case studies in the course chronologically range from ancient to Ottoman-era sites, but the focus of the course is the medieval era (Byzantine, Crusader, Islamic). A series of lectures, hands-on work with the Jordan study collection, and documentaries will expose the student to the wide range of disciplines pulled into the service of archaeology and different methodologies. Special emphasis is placed on current fieldwork at Tall Hisban in Jordan and the Northern Jordan Project. Enrollment in this course is strongly encouraged for students interested in joining the Jordan Archaeology Fieldschool as Study Away in the summers. May be taught concurrently with <span data-link='HST673'>HST 673</span>. Cannot receive credit for both <span data-link='HST573'>HST 573</span> and <span data-link='HST673'>HST 673</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HST574": {
+    "course_id": "HST574",
+    "title": "HST 574 Jordan Archaeology Study Away",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='HST103'>HST 103</span> and <span data-link='HST573'>HST 573</span>. This course is a formal archaeological field school--with field, lab, and classroom components--held on-site in Jordan as an MSU Study Away Program in the summers. The field school provides hands-on training in archaeological excavation and post-season object analysis techniques; students will also participate in several projects related to site presentation, architectural preservation, and community outreach that are running concurrently with the project. The field school rotates between the Tall Hisban excavations and the Northern Jordan Project (NJP), held at each site in alternative summers. Excursions to sites of archaeological, historical, religious, and cultural interest are organized on weekends. Students attending the field school are strongly encouraged to take <span data-link='HST573'>HST 573</span> beforehand. The program, depending on the research objectives that year, will run 3-6 weeks. May be taught concurrently with <span data-link='HST674'>HST 674</span>. Cannot receive credit for both <span data-link='HST574'>HST 574</span> and <span data-link='HST674'>HST 674</span>. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "HST587": {
+    "course_id": "HST587",
+    "title": "HST 587 Mexico from Colony to Nation",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Mexican history from the colonial period to the Revolution of 1910. May be taught concurrently with <span data-link='HST682'>HST 682</span>. Cannot receive credit for both <span data-link='HST682'>HST 682</span> and <span data-link='HST587'>HST 587</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST588": {
+    "course_id": "HST588",
+    "title": "HST 588 Twentieth-Century Mexico",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "Mexico from the Revolution of 1910 to the present, emphasizing Mexico&apos;s influence upon the Cuban Nicaraguan and other revolutions; its role as a member of the Middle American Community and of Latin America at large. May be taught concurrently with <span data-link='HST688'>HST 688</span>. Cannot receive credit for both <span data-link='HST688'>HST 688</span> and <span data-link='HST588'>HST 588</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST597": {
+    "course_id": "HST597",
+    "title": "HST 597 Topics in History",
+    "req": "<em>Prerequisite: 50 hours.</em>",
+    "desc": "The topics studied will change from term to term depending on the interests of professors and students. May be repeated as topics change. Variable content course. May be taught concurrently with <span data-link='HST697'>HST 697</span>. Cannot receive credit for both <span data-link='HST697'>HST 697</span> and <span data-link='HST597'>HST 597</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST598": {
+    "course_id": "HST598",
+    "title": "HST 598 Senior Seminar in History",
+    "req": "<em>Prerequisite: <span data-link='HST390'>HST 390</span>; and Writing II or concurrent enrollment; and 90 hours.</em>",
+    "desc": "Concentrated study of a sharply focused topic and the preparation of a bachelor&apos;s paper based on primary research. Course content varies each semester. Required for the BA in History. This course is strongly recommended for anyone considering graduate school. Graduating seniors are given enrollment priority. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST599": {
+    "course_id": "HST599",
+    "title": "HST 599 Internship in Public History",
+    "req": "<em>Prerequisite: 60 hours and permission of the department head and host institution.</em>",
+    "desc": "Supervised and approved work in a public or private agency which manages a museum, archive, or historic sites. One credit hour is awarded for each 40 hours of service. May be repeated for credit but only 3 hours may be counted towards the BA, BSEd, or MA major in History. May be taught concurrently with <span data-link='HST698'>HST 698</span>. Cannot receive credit for both <span data-link='HST698'>HST 698</span> and <span data-link='HST599'>HST 599</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST609": {
+    "course_id": "HST609",
+    "title": "HST 609 Indian History",
+    "desc": "History of Indian/White relations, federal Indian policy, and Indian accommodation to European introductions and eventual American dominance from the beginning of contact with Europeans to the present. May be taught concurrently with <span data-link='HST509'>HST 509</span>. Cannot receive credit for both <span data-link='HST509'>HST 509</span> and <span data-link='HST609'>HST 609</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "HST611": {
+    "course_id": "HST611",
+    "title": "HST 611 The Plains Indians",
+    "desc": "History and culture of Plains Indians from the pre-Columbian period to the end of the frontier era near the turn of the last century, including the impact of the European invasion. May be taught concurrently with <span data-link='HST510'>HST 510</span>. Cannot receive credit for both <span data-link='HST510'>HST 510</span> and <span data-link='HST611'>HST 611</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HST615": {
+    "course_id": "HST615",
+    "title": "HST 615 American Environmental History",
+    "desc": "Survey of humankind&apos;s relationship with nature and the environment in what is now the United States from pre-Columbian times to the present. Will especially focus on the impact of American development on the environment, the impact of the environment on the development of the United States, and the significance of the many different ideas and images concerning nature and the environment throughout American history. May be taught concurrently with <span data-link='HST515'>HST 515</span>. Cannot receive credit for both <span data-link='HST515'>HST 515</span> and <span data-link='HST615'>HST 615</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST616": {
+    "course_id": "HST616",
+    "title": "HST 616 American Religious History",
+    "desc": "Impact of religious thought and religious leaders on the history of the United States. May be taught concurrently with <span data-link='HST516'>HST 516</span>. Cannot receive credit for both <span data-link='HST516'>HST 516</span> and <span data-link='HST616'>HST 616</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HST617": {
+    "course_id": "HST617",
+    "title": "HST 617 Legal and Constitutional History of the United States",
+    "desc": "The origins of American constitutionalism, The Philadelphia Convention, the historical context of the changes in the law, in the Constitution, and in the courts since 1789, and the development of the law profession and legal education. May be taught concurrently with <span data-link='HST517'>HST 517</span>. Cannot receive credit for both <span data-link='HST517'>HST 517</span> and <span data-link='HST617'>HST 617</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST618": {
+    "course_id": "HST618",
+    "title": "HST 618 Colonial America",
+    "desc": "Character, development and modification of the English Empire in North America. May be taught concurrently with <span data-link='HST518'>HST 518</span>. Cannot receive credit for both <span data-link='HST518'>HST 518</span> and <span data-link='HST618'>HST 618</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST619": {
+    "course_id": "HST619",
+    "title": "HST 619 The American Revolution",
+    "desc": "Origins of the Revolution, War of Independence, and the society, government, and economy of the Revolutionary and Confederation eras. May be taught concurrently with <span data-link='HST519'>HST 519</span>. Cannot receive credit for both <span data-link='HST519'>HST 519</span> and <span data-link='HST619'>HST 619</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST621": {
+    "course_id": "HST621",
+    "title": "HST 621 Early American Republic",
+    "desc": "Study of America, 1780s-1840s. Topics will include the development of constitutional government and federalism, mix of republican ideology and capitalism, causes and results of the War of 1812, first and second political party systems, social reform, and economic development. May be taught concurrently with <span data-link='HST521'>HST 521</span>. Cannot receive credit for both <span data-link='HST521'>HST 521</span> and <span data-link='HST621'>HST 621</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST623": {
+    "course_id": "HST623",
+    "title": "HST 623 Nineteenth Century America",
+    "desc": "Emphasis upon how the ideas and values that constituted the original meaning of America (namely, the republicanism of the American Revolution) were transformed in response to the Commercial and Industrial Revolutions of nineteenth century America, producing two major crises of the century: the Civil War and Populist Revolt. Included is the transition of the United States from an agrarian society of economically and politically independent farmers to a depersonalized industrial nation of largely dependent salaried employees and wage earners. May be taught concurrently with <span data-link='HST523'>HST 523</span>. Cannot receive credit for both <span data-link='HST523'>HST 523</span> and <span data-link='HST623'>HST 623</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST624": {
+    "course_id": "HST624",
+    "title": "HST 624 Civil War and Reconstruction",
+    "desc": "The sectional conflict, the Civil War, and Reconstruction examined from political, military, social, and economic perspectives, with emphasis on differing historical interpretations of the causes of the war, the South&apos;s defeat, and the limits of Reconstruction. May be taught concurrently with <span data-link='HST524'>HST 524</span>. Cannot receive credit for both <span data-link='HST524'>HST 524</span> and <span data-link='HST624'>HST 624</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST625": {
+    "course_id": "HST625",
+    "title": "HST 625 Gilded Age/Progressive Era America, 1865-1920",
+    "desc": "Political, economic, social and intellectual development of the United States from the end of the Civil War through World War I and its aftermath. May be taught concurrently with <span data-link='HST525'>HST 525</span>. Cannot receive credit for both <span data-link='HST525'>HST 525</span> and <span data-link='HST625'>HST 625</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST628": {
+    "course_id": "HST628",
+    "title": "HST 628 U.S. History Since 1945",
+    "desc": "The Cold War, politics from Truman through the Reagan presidency; the social conflict of the 1960s; the civil rights movement; the Great Society; Vietnam; and the Reagan revolution. May be taught concurrently with <span data-link='HST528'>HST 528</span>. Cannot receive credit for both <span data-link='HST528'>HST 528</span> and <span data-link='HST628'>HST 628</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST631": {
+    "course_id": "HST631",
+    "title": "HST 631 African American Leaders and Movements",
+    "desc": "Study of African American leaders and movements in the United States, with emphasis on the period since World War II. May be taught concurrently with <span data-link='HST531'>HST 531</span>. Cannot receive credit for both <span data-link='HST531'>HST 531</span> and <span data-link='HST631'>HST 631</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST636": {
+    "course_id": "HST636",
+    "title": "HST 636 History of Missouri",
+    "desc": "Economic, social, political and constitutional history of the state; role played by Missouri in national affairs. May be taught concurrently with <span data-link='HST536'>HST 536</span>. Cannot receive credit for both <span data-link='HST536'>HST 536</span> and <span data-link='HST636'>HST 636</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST637": {
+    "course_id": "HST637",
+    "title": "HST 637 History of the American West",
+    "desc": "Westward movement in America as history and myth; influence of the West on American society and character. May be taught concurrently with <span data-link='HST537'>HST 537</span>. Cannot receive credit for both <span data-link='HST537'>HST 537</span> and <span data-link='HST637'>HST 637</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST638": {
+    "course_id": "HST638",
+    "title": "HST 638 History of the American South, 1607-Present",
+    "desc": "Development of the South&apos;s social, economic and intellectual distinctiveness, with an emphasis on slavery, the plantation system, sectional conflict, modernization, Populism, disfranchisement, segregation, Dixie Demagogues and the Civil Rights Movement. May be taught concurrently with <span data-link='HST538'>HST 538</span>. Cannot receive credit for both <span data-link='HST538'>HST 538</span> and <span data-link='HST638'>HST 638</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST641": {
+    "course_id": "HST641",
+    "title": "HST 641 The Ancient Near East to 1200 BCE",
+    "desc": "Sumerians, Babylonians, Egyptians and Hittites; special reference to Hebrew scripture. Interrelationships among ancient civilizations; readings from original sources in English translation. May be taught concurrently with <span data-link='HST541'>HST 541</span>. Cannot receive credit for both <span data-link='HST541'>HST 541</span> and <span data-link='HST641'>HST 641</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "HST642": {
+    "course_id": "HST642",
+    "title": "HST 642 Ancient Israel",
+    "desc": "History of Israel to the end of the Persian period with special reference to the Canaanites, Mycenaeans, Philistines, Phoenicians, Assyrians, Chaldeans, and Persians. May be taught concurrently with <span data-link='HST542'>HST 542</span>. Cannot receive credit for both <span data-link='HST542'>HST 542</span> and <span data-link='HST642'>HST 642</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HST643": {
+    "course_id": "HST643",
+    "title": "HST 643 History of the Arab-Israeli Conflict",
+    "desc": "The Arab-Israeli conflict in its historical and contemporary terms. The course covers three periods: The first period examines the roots of Arab and Jewish historical/biblical claims to Palestine before 1939. The second period from 1939 to 1982 analyzes the causes and effects of the Arab-Israeli wars. The third period from 1982 to 1991 covers the Israeli invasion of Lebanon, the Palestinian uprising (Intifada), and the peace process. May be taught concurrently with <span data-link='HST543'>HST 543</span>. Cannot receive credit for both <span data-link='HST543'>HST 543</span> and <span data-link='HST643'>HST 643</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST644": {
+    "course_id": "HST644",
+    "title": "HST 644 Women in Islam",
+    "desc": "This course examines the complexities of Middle Eastern culture through the lens of gender, focusing on women in Islamic society. Course will examine and critique current scholarly and journalistic literature (largely by Muslim women), films and documentaries, and current events in order to better understand current social, political, and economic developments in the Middle East. Special emphasis is on Egypt and Iran, which have enjoyed the lion&apos;s share of academic and legal attention. While the focus is on the modern Middle East, coverage also includes a historical review of scriptural roots and socio-political structures from the Middle Ages until today. The course has been designed as a quasi-seminar, where students meet in round-table fashion and discuss together readings that have been prepared in advance, in combination with lecture. May be taught concurrently with <span data-link='HST544'>HST 544</span>. Cannot receive credit for both <span data-link='HST644'>HST 644</span> and <span data-link='HST544'>HST 544</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST645": {
+    "course_id": "HST645",
+    "title": "HST 645 Medieval Europe",
+    "desc": "History of Medieval France, Germany, and the Papacy from the 5th Century to the 16th Century. May be taught concurrently with <span data-link='HST545'>HST 545</span>. Cannot receive credit for both <span data-link='HST545'>HST 545</span> and <span data-link='HST645'>HST 645</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "HST648": {
+    "course_id": "HST648",
+    "title": "HST 648 The Renaissance",
+    "desc": "Europe from about 1320 to about 1550, in the transition period from Medieval civilization to Modern Civilization; history of ideas and culture. May be taught concurrently with <span data-link='HST548'>HST 548</span>. Cannot receive credit for both <span data-link='HST548'>HST 548</span> and <span data-link='HST648'>HST 648</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST649": {
+    "course_id": "HST649",
+    "title": "HST 649 The Reformation",
+    "desc": "Early modern period of European history, 1500-1648. Religious controversy, religious wars, growth of the secular state. May be taught concurrently with <span data-link='HST549'>HST 549</span>. Cannot receive credit for both <span data-link='HST549'>HST 549</span> and <span data-link='HST649'>HST 649</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST651": {
+    "course_id": "HST651",
+    "title": "HST 651 The French Revolution and the Napoleonic Era",
+    "desc": "Causes and phases of the Revolution in France; the expansion of the Revolution; rise and downfall of Napoleon. May be taught concurrently with <span data-link='HST551'>HST 551</span>. Cannot receive credit for both <span data-link='HST551'>HST 551</span> and <span data-link='HST651'>HST 651</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST653": {
+    "course_id": "HST653",
+    "title": "HST 653 History of Europe in the 19th Century, 1815-1918",
+    "desc": "Forces unleashed by the French Revolution and other movements, including liberalism, reaction, nationalism, industrialization, and imperialism. May be taught concurrently with <span data-link='HST553'>HST 553</span>. Cannot receive credit for both <span data-link='HST553'>HST 553</span> and <span data-link='HST653'>HST 653</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST659": {
+    "course_id": "HST659",
+    "title": "HST 659 Germany, 1815-Present",
+    "desc": "The unification process, the German Empire, Weimar Republic, Third Reich, Germany as a European Great Power. May be taught concurrently with <span data-link='HST559'>HST 559</span>. Cannot receive credit for both <span data-link='HST559'>HST 559</span> and <span data-link='HST659'>HST 659</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST663": {
+    "course_id": "HST663",
+    "title": "HST 663 History of Fascism",
+    "desc": "This course deals mainly with interwar fascist movements and regimes in Europe and examines such relevant questions as the intellectual origins of fascism; paramilitary violence after WWI; charismatic leadership; state terrorism; fascist art and propaganda; social policy; imperialism and war and genocide. It also examines the history of Right radical, fascist and post-fascist movement and regimes in Europe, Latin America (Argentina, Chile, Brazil and Peru), United States, South Africa, the Middle East (Egypt, Syria and Iraq) and Africa (Ghana, Nigeria, Congo, Uganda) after 1945. May be taught concurrently with <span data-link='HST563'>HST 563</span>. Cannot receive credit for both <span data-link='HST663'>HST 663</span> and <span data-link='HST563'>HST 563</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST664": {
+    "course_id": "HST664",
+    "title": "HST 664 History of the Holocaust",
+    "desc": "Envisioned as a multi-disciplinary class, this course examines the complex history of the Holocaust during the Second World War. It discusses such important topics as the life of Jewish communities in Germany and Eastern Europe before 1933; Jewish emancipation; the rise of political anti-Semitism; Hitler and the creation of the Third Reich; discrimination against racial outsiders and &quot;asocials&quot;; the life of Jews in Nazi Germany; the &quot;twisted road to Auschwitz&quot;; the historical debates on the origins of the genocide; the social and psychological make-up of the perpetrators; the role of bystanders both in Germany and other parts of Europe; Jewish resistance and finally the memory of the Holocaust in Germany, Israel, United States and Eastern Europe. May be taught concurrently with <span data-link='HST564'>HST 564</span>. Cannot receive credit for both <span data-link='HST664'>HST 664</span> and <span data-link='HST564'>HST 564</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST666": {
+    "course_id": "HST666",
+    "title": "HST 666 Victorian and Edwardian England",
+    "desc": "This course will examine the impact of industrialization; wealth, poverty and the rise of class; reform movements; origins of the welfare state; emergence of the Labour party, and the slow eclipse of aristocratic power and influence. May be taught concurrently with <span data-link='HST566'>HST 566</span>. Cannot receive credit for both <span data-link='HST566'>HST 566</span> and <span data-link='HST666'>HST 666</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST671": {
+    "course_id": "HST671",
+    "title": "HST 671 China in the Twentieth Century",
+    "desc": "An intensive study of the transformation of China from a Confucian, Feudal state to a Communist world power. May be taught concurrently with <span data-link='HST571'>HST 571</span>. Cannot receive credit for both <span data-link='HST571'>HST 571</span> and <span data-link='HST671'>HST 671</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST673": {
+    "course_id": "HST673",
+    "title": "HST 673 History and Archaeology of the Middle East",
+    "desc": "Archaeology as a tool for historical inquiry is the focus of this course. In this course students will become familiar with the problems and methods of the discipline as they related to the larger questions of Middle Eastern history, including migration and settlement, the impact of war, land use and ecological issues, religion and identity, transformations of the traditional Middle Eastern household, and the relations between local society and the state. Topics covered in lectures and students&apos; projects include the use of textual sources, palaeography, and other methodological challenges; historic preservation and heritage management; legal issues and the politics of archaeology; and museum work. Case studies in the course chronologically range from ancient to Ottoman-era sites, but the focus of the course is the medieval era (Byzantine, Crusader, Islamic). A series of lectures, hands-on work with the Jordan study collection, and documentaries will expose the student to the wide range of disciplines pulled into the service of archaeology and different methodologies. Special emphasis is placed on current fieldwork at Tall Hisban in Jordan and the Northern Jordan Project. Enrollment in this course is strongly encouraged for students interested in joining the Jordan Archaeology Fieldschool as Study Away in the summers. May be taught concurrently with <span data-link='HST573'>HST 573</span>. Cannot receive credit for both <span data-link='HST673'>HST 673</span> and <span data-link='HST573'>HST 573</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HST674": {
+    "course_id": "HST674",
+    "title": "HST 674 Jordan Archaeology Study Away",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='HST673'>HST 673</span>. This course is a formal archaeological field school--with field, lab, and classroom components--held on-site in Jordan as an MSU Study Away Program in the summers. The field school provides hands-on training in archaeological excavation and post-season object analysis techniques; students will also participate in several projects related to site presentation, architectural preservation, and community outreach that are running concurrently with the project. The field school rotates between the Tall Hisban excavations and the Northern Jordan Project (NJP), held at each site in alternative summers. Excursions to sites of archaeological, historical, religious, and cultural interest are organized on weekends. Students attending the field school are strongly encouraged to take <span data-link='HST673'>HST 673</span> beforehand. The program, depending on the research objectives that year, will run 3-6 weeks. May be taught concurrently with <span data-link='HST574'>HST 574</span>. Cannot receive credit for both <span data-link='HST674'>HST 674</span> and <span data-link='HST574'>HST 574</span>. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "HST682": {
+    "course_id": "HST682",
+    "title": "HST 682 Mexico from Colony to Nation",
+    "desc": "Mexican history from the colonial period to the Revolution of 1910. May be taught concurrently with <span data-link='HST587'>HST 587</span>. Cannot receive credit for both <span data-link='HST587'>HST 587</span> and <span data-link='HST682'>HST 682</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST688": {
+    "course_id": "HST688",
+    "title": "HST 688 Twentieth-Century Mexico",
+    "desc": "Mexico from the Revolution of 1910 to the present, emphasizing Mexico&apos;s influence upon the Cuban Nicaraguan and other revolutions; its role as a member of the Middle American Community and of Latin America at large. May be taught concurrently with <span data-link='HST588'>HST 588</span>. Cannot receive credit for both <span data-link='HST588'>HST 588</span> and <span data-link='HST688'>HST 688</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST697": {
+    "course_id": "HST697",
+    "title": "HST 697 Topics in History",
+    "desc": "The topics studied will change from term to term depending on the interests of professors and students. May be repeated as topics change. Variable Content Course. May be taught concurrently with <span data-link='HST597'>HST 597</span>. Cannot receive credit for both <span data-link='HST597'>HST 597</span> and <span data-link='HST697'>HST 697</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST698": {
+    "course_id": "HST698",
+    "title": "HST 698 Internship in Public History",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Supervised and approved work in a public or private agency which manages a museum, archive, or historic sites. One credit hour is awarded for each 40 hours of service. May be repeated for credit but only 3 hours may be counted towards the MA major in History. May be taught concurrently with <span data-link='HST599'>HST 599</span>. Cannot receive credit for both <span data-link='HST599'>HST 599</span> and <span data-link='HST698'>HST 698</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST701": {
+    "course_id": "HST701",
+    "title": "HST 701 Historiography and Historical Method",
+    "desc": "Various philosophies of history and theories concerning method, purpose and meaning of history; problems of research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "HST702": {
+    "course_id": "HST702",
+    "title": "HST 702 Secondary School Curriculum for the Social Studies",
+    "desc": "Foundation course in the development and organization of the secondary school curriculum with an emphasis toward issues within social studies curriculum. This course meets the MSED degree requirements for social studies or history majors only. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST710": {
+    "course_id": "HST710",
+    "title": "HST 710 Seminar in Ancient History",
+    "req": "<em>Prerequisite: <span data-link='HST701'>HST 701</span>.</em>",
+    "desc": "A seminar in ancient history, providing a study in depth of a chosen topic as well as the historiography of the topic for the graduate student. May be repeated once for credit. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST720": {
+    "course_id": "HST720",
+    "title": "HST 720 Proseminar in American History",
+    "desc": "Recommended Prerequisite: <span data-link='HST701'>HST 701</span>. Readings in chosen periods and topics in American History for the graduate student. May be repeated once for credit. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST725": {
+    "course_id": "HST725",
+    "title": "HST 725 The Upland South",
+    "desc": "Recommended Prerequisite: <span data-link='HST701'>HST 701</span>. Readings in the history of the Upland South (the Ozarks and Appalachia) for the graduate student. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST730": {
+    "course_id": "HST730",
+    "title": "HST 730 Seminar in American History",
+    "req": "<em>Prerequisite: <span data-link='HST701'>HST 701</span>.</em>",
+    "desc": "In-depth study of a chosen topic as well as the historiography of the topic for graduate students. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST740": {
+    "course_id": "HST740",
+    "title": "HST 740 Proseminar in European History",
+    "desc": "Recommended Prerequisite: <span data-link='HST701'>HST 701</span>. Readings in chosen periods and topics in European history for the graduate student. May be repeated once for credit. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST750": {
+    "course_id": "HST750",
+    "title": "HST 750 Seminar in European History",
+    "req": "<em>Prerequisite: <span data-link='HST701'>HST 701</span>.</em>",
+    "desc": "In-depth study of a chosen topic as well as the historiography of the topic for the graduate student. May be repeated for credit with department consent. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST760": {
+    "course_id": "HST760",
+    "title": "HST 760 Proseminar in Latin American History",
+    "desc": "Recommended Prerequisite: <span data-link='HST701'>HST 701</span>. Readings in chosen periods and topics in Iberian and Latin American history for the graduate student. May be repeated once for credit. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST770": {
+    "course_id": "HST770",
+    "title": "HST 770 Proseminar in Ancient Near East History",
+    "desc": "Recommended Prerequisite: <span data-link='HST701'>HST 701</span>. Readings in chosen periods and topics in Ancient Near East history for graduate student. May be repeated once for credit. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST775": {
+    "course_id": "HST775",
+    "title": "HST 775 Proseminar in the Middle East",
+    "desc": "Recommended Prerequisite: <span data-link='HST701'>HST 701</span>. This proseminar in the Middle East introduces students to the historiography of the medieval Middle East (defined as the Arab heartland, Persia, and Anatolia), familiarizing them with the range of primary and secondary sources available for study, methodological approaches to using them, and the most important debates in modern scholarship generated by them. Through seminar discussions and debates based on intensive reading, students learn and practice historical method, tailored to this field. Among the topics covered in this course are the nature (and pitfalls) of medieval Arabic texts; how archives are created; the development of medieval Islamic historiography by contemporary Muslim and modern historians; the problematic of medieval political theory in the Arab, Persian, and Turkish worlds; the development of classical Islamic institutions; alternative state forms and how they developed; the impact of developments in the Middle East for world history; and the transition in this region to the modern era. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST780": {
+    "course_id": "HST780",
+    "title": "HST 780 Seminar in World History",
+    "req": "<em>Prerequisite: <span data-link='HST701'>HST 701</span>.</em>",
+    "desc": "In-depth study, in African, East Asian, Latin American, or Middle Eastern history, of a chosen topic as well as the historiography of the topic for the graduate student. May be repeated up to 6 hours for credit with departmental consent. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HST783": {
+    "course_id": "HST783",
+    "title": "HST 783 Women's History: The Use and Understanding of Sources",
+    "desc": "Recommended Prerequisite: <span data-link='HST701'>HST 701</span>. Students will study seminal primary and secondary sources relating to women&apos;s history, discussing and analyzing their content, origins, and context in order to understand their application to the research, writing, and teaching of history. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST784": {
+    "course_id": "HST784",
+    "title": "HST 784 The American Revolution: The Use and Understanding of Sources",
+    "desc": "Recommended Prerequisite: <span data-link='HST701'>HST 701</span>. Students will study seminal primary and secondary sources relating to the American Revolution, discussing and analyzing their content, origins, and context in order to understand their application to the research, writing, and teaching of history. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST785": {
+    "course_id": "HST785",
+    "title": "HST 785 The Civil War in Missouri: The Use and Understanding of Sources",
+    "desc": "Recommended Prerequisite: <span data-link='HST701'>HST 701</span>. Students will study seminal primary and secondary sources relating to the Civil War in Missouri, discussing and analyzing their content, origins, and context in order to understand their application to the research, writing, and teaching of history. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST786": {
+    "course_id": "HST786",
+    "title": "HST 786 American Social History: The Use and Understanding of Sources",
+    "desc": "Recommended Prerequisite: <span data-link='HST701'>HST 701</span>. Students will study seminal primary and secondary sources relating to American social history, discussing and analyzing their content, origins, and context in order to understand their application to the research, writing, and teaching of history. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST787": {
+    "course_id": "HST787",
+    "title": "HST 787 American Education: The Use and Understanding of Sources",
+    "desc": "Recommended Prerequisite: <span data-link='HST701'>HST 701</span>. Students will study seminal primary and secondary sources relating to American education, discussing and analyzing their content, origins, and context in order to understand their application to the research, writing, and teaching of history. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST790": {
+    "course_id": "HST790",
+    "title": "HST 790 Proseminar in World History",
+    "desc": "Recommended Prerequisite: <span data-link='HST701'>HST 701</span>. Readings in chosen periods and topics in world history, comparative history, or a study involving at least two global areas such as diaspora studies. May be repeated up to 9 hours. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST792": {
+    "course_id": "HST792",
+    "title": "HST 792 Primary Source Proseminar in World History",
+    "desc": "Recommended Prerequisite: <span data-link='HST701'>HST 701</span>. Students will study seminal primary and secondary sources related to world history, discussing and analyzing their content, origins, and context in order to understand their application to the research, writing and teaching of history. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST796": {
+    "course_id": "HST796",
+    "title": "HST 796 Readings in History",
+    "req": "<em>Prerequisite: permission of supervising professor and permission of department head.</em>",
+    "desc": "Arranged program of readings for the individual student directed by a professor of the graduate faculty. May be repeated once for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "HST799": {
+    "course_id": "HST799",
+    "title": "HST 799 Thesis",
+    "req": "<em>Prerequisite: permission of Director of History Graduate Program.</em>",
+    "desc": "Independent research and study connected with preparation of thesis. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

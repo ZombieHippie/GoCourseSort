@@ -1,0 +1,731 @@
+{
+  "MKT150": {
+    "course_id": "MKT150",
+    "title": "MKT 150 Marketing Fundamentals",
+    "desc": "A survey of marketing designed to serve various groups of students - those from other colleges/departments who would like to develop a broad understanding of marketing, those who are undecided about a major and would like to explore marketing as a possibility; and those who desire to take a contemporary marketing course to assist them in their present career path. Cannot be taken for credit by students who have previously received credit for <span data-link='MKT350'>MKT 350</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT300": {
+    "course_id": "MKT300",
+    "title": "MKT 300 Service Learning in Marketing",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a marketing course designated as a service learning offering; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in Marketing to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MKT350": {
+    "course_id": "MKT350",
+    "title": "MKT 350 Principles of Marketing",
+    "req": "<em>Prerequisite: 54 credit hours and <span data-link='PSY121'>PSY 121</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Structure, functions, principles and methods employed in discovering and translating consumer needs and wants into product and service specifications and then transferring these goods and services from producers to consumers or users. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT351": {
+    "course_id": "MKT351",
+    "title": "MKT 351 Consumer Market Behavior",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Influence of cultural, social, and psychological factors on consumer and customer behavior evidenced through behavioral science research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT352": {
+    "course_id": "MKT352",
+    "title": "MKT 352 Personal Selling",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This course teaches the Principles of Sales as a toolkit, which in addition to being useful to a salesperson will also be found useful by most people in everyday life. Students will learn the nuts and bolts of a sales call from start to finish, as well as different customers that will be encountered, different kinds of relationships, ethics, communication skills and adaptive selling. Students will have the opportunity to apply what they have learned during the semester by participating in mock sales calls with salespeople from the community. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT354": {
+    "course_id": "MKT354",
+    "title": "MKT 354 Principles of Advertising",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Advertising roles, principles and procedures; development of creative strategies, media selection-including traditional media as well as nontraditional media, social networking, guerrilla, online, promotion, mobile, and event-basic design, layout and copy development; measures of advertising effectiveness. Includes the development of an integrated campaign. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT355": {
+    "course_id": "MKT355",
+    "title": "MKT 355 Principles of Retailing",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "The application of retailing principles to real-world issues. Students are challenged to solve retailing scenarios using an &quot;experience-based&quot; format. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MKT360": {
+    "course_id": "MKT360",
+    "title": "MKT 360 Marketing Research",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span> and <span data-link='QBA337'>QBA 337</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Basic research techniques designed to introduce the student to modern research procedures and the research process. Emphasis placed on research techniques to collect, analyze, and interpret research information as a basis for improved decision-making; and for the development of marketing strategies and policies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT380": {
+    "course_id": "MKT380",
+    "title": "MKT 380 Creative Advertising",
+    "req": "<em>Prerequisite: <span data-link='MKT354'>MKT 354</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An advanced course in the creation of broadcast and print advertising. Emphasizes strategic planning, developing creative concepts and assistance in writing and polishing copy and visuals within an ad, execution of finished product, and refining presentation skills. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MKT390": {
+    "course_id": "MKT390",
+    "title": "MKT 390 Promotion Management and Implementation",
+    "req": "<em>Prerequisite: <span data-link='MKT354'>MKT 354</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A study of the promotional mix. Attention is focused on sales promotion, its design and implementation; including research, planning, target market assessment, budgeting, vehicle selection, and measures of efficiency and effectiveness. Topics include the buying and selling of mix elements, both traditional and non-traditional. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT394": {
+    "course_id": "MKT394",
+    "title": "MKT 394 Cooperative Education in Marketing",
+    "req": "<em>Prerequisite: acceptance into Cooperative Education Program and permission of the department head; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "The opportunity to earn academic credit in a planned learning process that integrates academic training with supervised work experience. This is a variable content course that may be repeated to a total of 6 semester hours in Cooperative Education. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT410": {
+    "course_id": "MKT410",
+    "title": "MKT 410 Entertainment and Services Marketing",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "The study, observation and application of specialized principles and practices in the area of entertainment, marketing of sports, performing arts, concerts, conventions and exposition activities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT430": {
+    "course_id": "MKT430",
+    "title": "MKT 430 Introduction to Logistics",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span> and <span data-link='MGT340'>MGT 340</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Analysis of the activities and decisions necessary to plan, implement and control private and public physical distribution and transportation channel systems. Emphasis on physical, human, informational and organizational system components. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT440": {
+    "course_id": "MKT440",
+    "title": "MKT 440 Logistics Models",
+    "req": "<em>Prerequisite: <span data-link='MKT430'>MKT 430</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This course investigates the role of information management and decision support methods in the planning and management of supply chains and related processes. The course addresses techniques and methods used in facility location; forecasting; inventory control; routing and scheduling; purchasing; warehousing and other activities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT450": {
+    "course_id": "MKT450",
+    "title": "MKT 450 Supply Chain Management and Sustainability",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span> or <span data-link='BUS510'>BUS 510</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This course emphasizes the adoption of a supply chain orientation to achieve competitive advantage and value creation through efficient and effective inter-firm buyer/seller relationships and logistical processes. In addition to traditional supply chain management topics the course will emphasize social, economic and environmental dimensions of sustainability throughout all aspects of the course including: raw materials, procurement, production, transportation, packaging, distribution, marketing, facilities location and retail store design. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT451": {
+    "course_id": "MKT451",
+    "title": "MKT 451 Advanced Selling",
+    "req": "<em>Prerequisite: <span data-link='MKT352'>MKT 352</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Advanced Selling is designed for the serious sales student. Concepts discussed in <span data-link='MKT352'>MKT 352</span> will be applied during this course. In addition, the course will delve into issues in selling and sales management that will impact their future in these positions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT452": {
+    "course_id": "MKT452",
+    "title": "MKT 452 Sales Management",
+    "req": "<em>Prerequisite: <span data-link='MKT352'>MKT 352</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This course is designed to prepare students for a sales management position. Students will learn what information and resources are necessary to create and maintain a successful sales force. In addition, students will learn how to measure and influence performance, how to motivate salespeople, proper recruitment, selection and training techniques, compensation strategies and current trends in sales management. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT455": {
+    "course_id": "MKT455",
+    "title": "MKT 455 Advanced Retailing Practices",
+    "req": "<em>Prerequisite: <span data-link='MKT355'>MKT 355</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An advanced study of retail buying practices, resident buying offices, domestic and foreign markets, fashion, promotion, color dynamics, display, inventory control, store location, customer services, pricing, sales projection, and research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MKT456": {
+    "course_id": "MKT456",
+    "title": "MKT 456 Advanced Advertising",
+    "req": "<em>Prerequisite: <span data-link='MKT354'>MKT 354</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Further develops skills in advertising strategy and design. Includes campaign development-both traditional and nontraditional media. Explores careers in integrated marketing communications. Strong emphasis on business to business promotion, events marketing, and presentation skill development. Includes one or more service learning campaigns. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT460": {
+    "course_id": "MKT460",
+    "title": "MKT 460 Logistics and Supply Chain Strategy",
+    "req": "<em>Prerequisite: <span data-link='MKT440'>MKT 440</span> or <span data-link='MKT450'>MKT 450</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This course requires the students to integrate concepts learned throughout their academic experience into a combined analysis of current events and the completion of a corporate project or case study. Analysis of comprehensive cases incorporating strategic and tactical decisions throughout the entire supply chain management process is required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT464": {
+    "course_id": "MKT464",
+    "title": "MKT 464 International Logistics and Global Supply Chain Management",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Principles of logistics activities in international business with special emphasis on transportation, global sourcing, customs issues, import-export opportunities, customs documentation, the role of government in international transactions, customer service, and global supply chain management. Special emphasis is placed on current events and their effect on the marketing and logistics activities of organizations. Cannot receive credit for both <span data-link='MKT464'>MKT 464</span> and <span data-link='MKT764'>MKT 764</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MKT472": {
+    "course_id": "MKT472",
+    "title": "MKT 472 Advanced Marketing",
+    "req": "<em>Prerequisite: <span data-link='MKT351'>MKT 351</span> and <span data-link='MKT360'>MKT 360</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An analysis of the marketing concepts, functions, and principles involved in planning, implementing, and evaluating the total marketing program of various organizations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT474": {
+    "course_id": "MKT474",
+    "title": "MKT 474 International Marketing",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This course investigates the cultural impact on markets and institutions affecting international trade. Students will study cross-cultural comparisons of attitudes and beliefs about marketing practices and products. The course provides an in-depth look into the effects of culture, business climate and business practices on each of the elements of marketing to provide an awareness of differences in markets and consumer behavior. Marketing management, competitiveness, sustainability and negotiation applications are discussed throughout the course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT476": {
+    "course_id": "MKT476",
+    "title": "MKT 476 Futuristics: Business and Society",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This course compares and analyzes the diverging views of an &quot;economy of abundance&quot; versus that of an &quot;economy of scarcity.&quot; Major emphasis is directed toward predicting future changes in and the impact on the nature of firm, consumer life-styles, and society in general. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MKT480": {
+    "course_id": "MKT480",
+    "title": "MKT 480 Advertising Campaigns",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span> and <span data-link='MKT354'>MKT 354</span> and <span data-link='MKT456'>MKT 456</span> and permission; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Advanced advertising techniques are applied to the formation of a comprehensive advertising campaign while working in an advertising agency-like atmosphere. Presentation(s) of the campaign will be made formally to students, faculty, and advertising executives, and may culminate in participation at the annual competition of the American Advertising Federation (AAF). ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MKT485": {
+    "course_id": "MKT485",
+    "title": "MKT 485 Marketing Yourself",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A participative course designed to provide students with information regarding the skills necessary to succeed in their professional career. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT494": {
+    "course_id": "MKT494",
+    "title": "MKT 494 Executive Internship-Marketing",
+    "req": "<em>Prerequisite: permission of the department head; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Opportunity to obtain simultaneously the practical as well as the theoretical knowledge through internship with cooperating business executives. May be repeated to a total of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT496": {
+    "course_id": "MKT496",
+    "title": "MKT 496 Readings in Business Administration-Marketing",
+    "req": "<em>Prerequisite: permission of the department head; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Planned readings designed to intensify and supplement the study of marketing. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT497": {
+    "course_id": "MKT497",
+    "title": "MKT 497 Topics in Marketing",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span> and permission of the department head; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A variable content course, with topics that can change from semester to semester depending upon student and faculty interests. Topics generally require previous study in marketing. Examples: marketing of professional services, marketing of not-for-profit organizations, international marketing research, industrial marketing, physical distribution, sales forecasting, and legal issues of marketing. May be repeated to a total of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MKT510": {
+    "course_id": "MKT510",
+    "title": "MKT 510 E-Marketing",
+    "req": "<em>Prerequisite: <span data-link='BUS510'>BUS 510</span> or <span data-link='MKT354'>MKT 354</span> or <span data-link='MKT355'>MKT 355</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An examination of the concepts, strategies, and applications involved in Electronic Marketing, including use of the web, electronic mail, and other direct response advertising media for conducting e-Business. May be taught concurrently with <span data-link='MKT610'>MKT 610</span>. Cannot receive credit for both <span data-link='MKT610'>MKT 610</span> and <span data-link='MKT510'>MKT 510</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT515": {
+    "course_id": "MKT515",
+    "title": "MKT 515 Contemporary Issues in Advertising/Promotion",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span> and <span data-link='MKT354'>MKT 354</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This course will develop problem-solving and strategic planning skills as they relate to contemporary issues in marketing. Topics covered include advertising ethics, appropriate research applications, and promotional planning and execution. Guerilla marketing tactics, fostering brand interaction through social media and other non-traditional advertising techniques will be explored. Case studies and contemporary readings will replace the traditional marketing textbook. May be taught concurrently with <span data-link='MKT615'>MKT 615</span>. Cannot receive credit for both <span data-link='MKT515'>MKT 515</span> and <span data-link='MKT615'>MKT 615</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT570": {
+    "course_id": "MKT570",
+    "title": "MKT 570 Advanced Marketing Research",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span> and <span data-link='MKT360'>MKT 360</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Modern research techniques; problems of marketing and the use of research techniques; problems of marketing and the use of research information as a basis for establishing marketing policies and strategy. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MKT596": {
+    "course_id": "MKT596",
+    "title": "MKT 596 Research Issues and Problems: Marketing",
+    "req": "<em>Prerequisite: <span data-link='MKT360'>MKT 360</span> and permission of the department head; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Research issues and projects growing from particular needs which may require additional depth or breadth of study. Outline of study must be approved prior to enrolling. May be repeated to a total of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT600": {
+    "course_id": "MKT600",
+    "title": "MKT 600 Marketing Concepts for Managers",
+    "req": "<em>Prerequisite: permission of a director of a College of Business Graduate Program.</em>",
+    "desc": "Comprehensive study of the fundamentals of marketing. Designed for graduate students who have not had an undergraduate course in marketing. Will not be counted in the hours required for a College of Business graduate degree. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT610": {
+    "course_id": "MKT610",
+    "title": "MKT 610 E-Marketing",
+    "req": "<em>Prerequisite: <span data-link='MKT600'>MKT 600</span> or <span data-link='MKT772'>MKT 772</span>; and <span data-link='BUS610'>BUS 610</span>.</em>",
+    "desc": "An examination of the concepts, strategies, and applications involved in Electronic Marketing, including use of the web, electronic mail, and other direct response advertising media for conducting e-Business. May be taught concurrently with <span data-link='MKT510'>MKT 510</span>. Cannot receive credit for both <span data-link='MKT510'>MKT 510</span> and <span data-link='MKT610'>MKT 610</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT615": {
+    "course_id": "MKT615",
+    "title": "MKT 615 Contemporary Issues in Advertising/Promotion",
+    "req": "<em>Prerequisite: <span data-link='MKT350'>MKT 350</span> or <span data-link='MKT600'>MKT 600</span> or equivalent.</em>",
+    "desc": "This course will develop problem-solving and strategic planning skills as they relate to contemporary issues in marketing. Topics covered include advertising ethics, appropriate research applications, and promotional planning and execution. Guerilla marketing tactics, fostering brand interaction through social media and other non-traditional advertising techniques will be explored. Case studies and contemporary readings will replace the traditional marketing textbook. May be taught concurrently with <span data-link='MKT515'>MKT 515</span>. Cannot receive credit for both <span data-link='MKT615'>MKT 615</span> and <span data-link='MKT515'>MKT 515</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT730": {
+    "course_id": "MKT730",
+    "title": "MKT 730 Logistics and Transportation",
+    "req": "<em>Prerequisite: <span data-link='MKT600'>MKT 600</span> or equivalent.</em>",
+    "desc": "This course introduces students to the concepts and terminology associated with the planning and management of logistics activities. The course investigates introductory decisions in inventory management, warehousing, transportation, customer service, performance measurement, and others. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT740": {
+    "course_id": "MKT740",
+    "title": "MKT 740 Supply Chain Models and Systems",
+    "req": "<em>Prerequisite: <span data-link='MKT730'>MKT 730</span>.</em>",
+    "desc": "This course addresses concepts, techniques and systems used in supply chain management and decision support. Specific areas include ERP systems, manufacturing planning and management techniques and systems, inventory management, warehouse layout, distribution management, routing and scheduling, process analysis, network analysis and the application of simulation and optimization techniques. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MKT750": {
+    "course_id": "MKT750",
+    "title": "MKT 750 Supply Chain Management Seminar",
+    "req": "<em>Prerequisite: 15 hours of graduate business administration courses and permission from the MBA Program Director.</em>",
+    "desc": "This course emphasizes the adoption of a supply chain orientation toward business and the need for more effective inter-firm relationships and operational processes. The course incorporates analyses of comprehensive cases involving strategic and tactical decisions throughout product and service supply chains in a domestic and global environment. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MKT760": {
+    "course_id": "MKT760",
+    "title": "MKT 760 Logistics and Supply Chain Management",
+    "req": "<em>Prerequisite: <span data-link='MKT740'>MKT 740</span> or <span data-link='MKT750'>MKT 750</span>.</em>",
+    "desc": "This course serves as a capstone experience involving actual company projects, a comprehensive supply chain simulation exercise, and the identification and discussion of current events in logistics and supply chain management. Class sessions are augmented by discussions of current events involving logistics and supply chain management. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MKT764": {
+    "course_id": "MKT764",
+    "title": "MKT 764 International Logistics and Global Supply Chain Management",
+    "req": "<em>Prerequisite: admission to the MBA program or permission from the MBA Program Director; and <span data-link='MKT600'>MKT 600</span> or equivalent.</em>",
+    "desc": "Theory and practice of logistics activities in international business with special emphasis on transportation, global sourcing, customs issues, import-export opportunities, customs documentation, the role of government in international transactions, customer service, and global supply chain management. Special emphasis is placed on current events and their effect on the marketing and logistics activities of organizations. Cannot receive credit for both <span data-link='MKT764'>MKT 764</span> and <span data-link='MKT464'>MKT 464</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MKT770": {
+    "course_id": "MKT770",
+    "title": "MKT 770 Seminar in Marketing Research",
+    "req": "<em>Prerequisite: 15 hours of graduate business administration courses including <span data-link='MKT772'>MKT 772</span> and permission from the MBA Program Director.</em>",
+    "desc": "Designed to enable students through first-hand experience to understand the various parts of research papers, methods of gathering data, appropriate tests of information, and interpretation of findings, including implications for further study. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MKT772": {
+    "course_id": "MKT772",
+    "title": "MKT 772 Marketing Management",
+    "req": "<em>Prerequisite: admission to the MBA program or permission from the MBA Program Director; and <span data-link='MKT600'>MKT 600</span> or equivalent.</em>",
+    "desc": "Theoretical bases of marketing concepts, principles and strategies; development, acceptance and expected future direction of emerging marketing practices. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT774": {
+    "course_id": "MKT774",
+    "title": "MKT 774 International Marketing",
+    "req": "<em>Prerequisite: admission to the MBA program or permission from the MBA Program Director; <span data-link='MKT600'>MKT 600</span> or equivalent.</em>",
+    "desc": "Advanced management, theory, and analysis of marketing functions in a multinational context where the parameters differ from those of domestic marketing. Students are required to complete a research project in the course area. Cannot receive credit for both <span data-link='MKT774'>MKT 774</span> and <span data-link='MKT474'>MKT 474</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT776": {
+    "course_id": "MKT776",
+    "title": "MKT 776 Futuristics: Business and Society",
+    "req": "<em>Prerequisite: <span data-link='MKT600'>MKT 600</span> or equivalent.</em>",
+    "desc": "This course compares and analyzes the diverging views of an &quot;economy of abundance&quot; versus that of an &quot;economy of scarcity.&quot; Major emphasis is directed toward predicting further changes in and the impact on the nature of firm, consumer life-styles, and society in general. Students are required to complete a research project in the course area. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MKT790": {
+    "course_id": "MKT790",
+    "title": "MKT 790 Seminar in Marketing",
+    "req": "<em>Prerequisite: 15 hours of graduate business administration courses and permission from the MBA Program Director.</em>",
+    "desc": "Critical evaluation and analysis of theory, research, and practice in marketing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MKT794": {
+    "course_id": "MKT794",
+    "title": "MKT 794 Internship: Marketing",
+    "req": "<em>Prerequisite: permission of director of the appropriate graduate program and department head.</em>",
+    "desc": "In consultation with the coordinating professor, the student is engaged in first-hand experience with a business, organization, or other professional entity. A portfolio of assigned work shall be collected, examined and evaluated during the semester. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT796": {
+    "course_id": "MKT796",
+    "title": "MKT 796 Independent Study: Marketing",
+    "req": "<em>Prerequisite: <span data-link='MKT770'>MKT 770</span> and permission of department head.</em>",
+    "desc": "In consultation with coordinating professor, student selects a specific area of emphasis (related to the degree program) for a significant, in-depth study, with particular emphasis on research. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "MKT799": {
+    "course_id": "MKT799",
+    "title": "MKT 799 Thesis",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Independent research and study connected with preparation of thesis. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "QBA237": {
+    "course_id": "QBA237",
+    "title": "QBA 237 Basic Business Statistics",
+    "req": "<em>Prerequisite: <span data-link='CIS101'>CIS 101</span> or <span data-link='CSC101'>CSC 101</span>; and grade of C or better in <span data-link='MTH135'>MTH 135</span> or higher (excluding <span data-link='MTH130'>MTH 130</span>, formerly <span data-link='MTH145'>MTH 145</span>).</em>",
+    "desc": "Collection, analysis, interpretation and presentation of data related to business, measures of central tendency and dispersion, elementary probability, probability distributions, sampling, standard error, interval estimation, hypothesis testing, regression analysis. Computer statistical packages will be utilized in analysis of a variety of applications problems. Cannot receive credit toward a degree for more than one of the following courses: <span data-link='AGR330'>AGR 330</span>, <span data-link='MTH340'>MTH 340</span>, <span data-link='PSY200'>PSY 200</span>, <span data-link='QBA237'>QBA 237</span>, <span data-link='REC328'>REC 328</span>, <span data-link='SOC302'>SOC 302</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "QBA337": {
+    "course_id": "QBA337",
+    "title": "QBA 337 Applied Business Statistics",
+    "req": "<em>Prerequisite: <span data-link='QBA237'>QBA 237</span> or equivalent; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Business application of hypothesis testing, tests of goodness of fit and independence, analysis of variance, regression analysis and correlation, nonparametric methods, time series and forecasting, statistical process control, and decision theory. Computer statistical packages will be utilized in analysis of a variety of applications problems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "QBA600": {
+    "course_id": "QBA600",
+    "title": "QBA 600 Statistical Methods in Business Research",
+    "req": "<em>Prerequisite: permission of a director of a College of Business Graduate Program.</em>",
+    "desc": "Comprehensive study of the fundamentals of statistics. Designed for graduate students who have not had an undergraduate statistics course. This course will not be counted in the hours required for a College of Business graduate degree. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "QBA737": {
+    "course_id": "QBA737",
+    "title": "QBA 737 Research Design and Analysis",
+    "req": "<em>Prerequisite: <span data-link='QBA775'>QBA 775</span> or concurrent enrollment.</em>",
+    "desc": "Advanced statistical methods for conducting research in business and economics. Discussion and application of design procedures, hypotheses formulation, data collection and data analysis. Topics include regression analysis, and analysis of variance, multivariate analysis, experimental design, nonparametric methods, etc. Computer statistical packages will be used extensively. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "QBA775": {
+    "course_id": "QBA775",
+    "title": "QBA 775 Quantitative Methods in Business Decision Making",
+    "req": "<em>Prerequisite: admission to the MBA program or permission from the MBA Program Director; and <span data-link='QBA600'>QBA 600</span> or equivalent.</em>",
+    "desc": "A study of quantitative methods used to improve the decision-making process in business. Major topics include constrained optimization models, forecasting models, distribution/network models, simulation models, and project scheduling. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "EGR110": {
+    "course_id": "EGR110",
+    "title": "EGR 110 Study and Careers in Engineering",
+    "desc": "Examination of fields of engineering and career opportunities in engineering. Professional expectations of engineers. Introduction to resources for assisting student success. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  }
+}

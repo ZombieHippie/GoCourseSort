@@ -1,0 +1,2438 @@
+{
+  "AGB144": {
+    "course_id": "AGB144",
+    "title": "AGB 144 Agricultural Economics I",
+    "desc": "Characteristics of our economic system and basic economic concepts with applications to agriculture. Effects on agriculture by money and banking systems, monetary and fiscal policies, government policies, and international trade. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGB314": {
+    "course_id": "AGB314",
+    "title": "AGB 314 Legal Aspects of Agriculture",
+    "desc": "Recommended Prerequisite: 30 hours. Legal framework impinging upon decision making of farm business including farm ownership and transfer, taxation, business organization, losses, and regulations of land and water use. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGB334": {
+    "course_id": "AGB334",
+    "title": "AGB 334 Marketing Agricultural Products",
+    "desc": "Recommended Prerequisite: <span data-link='AGB144'>AGB 144</span> or <span data-link='ECO165'>ECO 165</span>. Marketing functions and agencies involved in the movement of farm products from producers to consumers. Explains how the economic behaviors of the farmers, marketing agents and consumers affect the organization and performance of the food markets. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGB344": {
+    "course_id": "AGB344",
+    "title": "AGB 344 Financing Agriculture",
+    "desc": "Recommended Prerequisite: <span data-link='AGB144'>AGB 144</span>. Capital requirements and sources and uses of each type of credit. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGB354": {
+    "course_id": "AGB354",
+    "title": "AGB 354 Land Economics",
+    "desc": "Recommended Prerequisite: <span data-link='AGB144'>AGB 144</span>. Principles and institutions affecting the allocation of land resources among uses and users. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGB364": {
+    "course_id": "AGB364",
+    "title": "AGB 364 Agricultural Commodity Futures and Options",
+    "desc": "Recommended Prerequisite: <span data-link='AGB334'>AGB 334</span>. Introduction to the economic theory, organization, and operating principles of agricultural commodity futures markets. Emphasis is placed on speculating, hedging, and investing in agricultural commodity futures contracts. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "AGB374": {
+    "course_id": "AGB374",
+    "title": "AGB 374 Agricultural Business Management",
+    "desc": "Recommended Prerequisite: <span data-link='AGB144'>AGB 144</span>. A study of agricultural firm management including planning, organizing, directing, controlling and coordinating functions used to attain business goals. The role of finance and type of business organization including agricultural cooperatives. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGB384": {
+    "course_id": "AGB384",
+    "title": "AGB 384 Agricultural Selling",
+    "desc": "Recommended Prerequisite: <span data-link='AGB334'>AGB 334</span>. Principles of selling with application to agricultural inputs and products. Attitudes, value systems, and behavioral patterns that relate to agricultural sales. Relationship of sales to marketing, selling strategies, preparing for sales calls, making sales presentations, handling objections, and closing sales. Analysis of the buying or purchasing process. Evaluation of agri-selling as a possible career choice. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGB394": {
+    "course_id": "AGB394",
+    "title": "AGB 394 Agricultural Industry Study",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='AGB494'>AGB 494</span> for 1 credit hour; completion of 60 hours including 6 hours in agricultural business; and permission of instructor.</em>",
+    "desc": "A five-day study alternating between St. Louis and Kansas City to examine the management process of a variety of agricultural businesses. May be repeated for a total of 2 credit hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGB444": {
+    "course_id": "AGB444",
+    "title": "AGB 444 American Agricultural Policy",
+    "desc": "Recommended Prerequisite: <span data-link='AGB144'>AGB 144</span>. Description and analysis of economic problems of U.S. Agriculture. History and significance of government programs to support farm prices and incomes, conserve land resources, encourage adequate food supplies and expand U.S. agricultural trade. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGB494": {
+    "course_id": "AGB494",
+    "title": "AGB 494 Problems in Agricultural Business",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Student selects a specific topic, prepares an outline, makes an investigation and presentation under the supervision of an agricultural business staff member. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGB514": {
+    "course_id": "AGB514",
+    "title": "AGB 514 International Agricultural Trade",
+    "req": "<em>Prerequisite: <span data-link='AGB334'>AGB 334</span> or <span data-link='MKT350'>MKT 350</span>.</em>",
+    "desc": "Gains from trade, agricultural trade policies of exporters and importers, exchange rates, multilateral trade negotiations, preferential trade agreements, technical barriers and environmental regulations and trade. May be taught concurrently with <span data-link='AGB614'>AGB 614</span>. Cannot receive credit for both <span data-link='AGB614'>AGB 614</span> and <span data-link='AGB514'>AGB 514</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGB524": {
+    "course_id": "AGB524",
+    "title": "AGB 524 Agricultural Prices",
+    "req": "<em>Prerequisite: <span data-link='AGB334'>AGB 334</span>.</em>",
+    "desc": "Factors influencing the level and movement of agricultural commodity prices and prices of agricultural inputs. May be taught concurrently with <span data-link='AGB624'>AGB 624</span>. Cannot receive credit for both <span data-link='AGB624'>AGB 624</span> and <span data-link='AGB524'>AGB 524</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGB534": {
+    "course_id": "AGB534",
+    "title": "AGB 534 Production Economics",
+    "req": "<em>Prerequisite: <span data-link='AGB144'>AGB 144</span>.</em>",
+    "desc": "Application of economics of production in agricultural and business management, examination of the relationships between inputs and outputs, and impact of technology selection on business profitability. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGB584": {
+    "course_id": "AGB584",
+    "title": "AGB 584 Farm Business Management",
+    "req": "<em>Prerequisite: <span data-link='AGB144'>AGB 144</span>.</em>",
+    "desc": "Economic principles applied to the organization and operation of agricultural units; tools of decision-making; and factor allocation. May be taught concurrently with <span data-link='AGB684'>AGB 684</span>. Cannot receive credit for both <span data-link='AGB684'>AGB 684</span> and <span data-link='AGB584'>AGB 584</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGB614": {
+    "course_id": "AGB614",
+    "title": "AGB 614 International Agricultural Trade",
+    "desc": "Recommended Prerequisite: <span data-link='AGB334'>AGB 334</span> or <span data-link='MKT350'>MKT 350</span>. Gains from trade, agricultural trade policies of exporters and importers, exchange rates, multilateral trade negotiations, preferential trade agreements, technical barriers and environmental regulations and trade. May be taught concurrently with <span data-link='AGB514'>AGB 514</span>. Cannot receive credit for both <span data-link='AGB514'>AGB 514</span> and <span data-link='AGB614'>AGB 614</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGB624": {
+    "course_id": "AGB624",
+    "title": "AGB 624 Agricultural Prices",
+    "desc": "Recommended Prerequisite: <span data-link='AGB334'>AGB 334</span>. Factors influencing the level and movement of agricultural commodity prices and prices of agricultural inputs. May be taught concurrently with <span data-link='AGB524'>AGB 524</span>. Cannot receive credit for both <span data-link='AGB524'>AGB 524</span> and <span data-link='AGB624'>AGB 624</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGB684": {
+    "course_id": "AGB684",
+    "title": "AGB 684 Farm Business Management",
+    "desc": "Recommended Prerequisite: <span data-link='AGB144'>AGB 144</span>. Economic principles applied to the organization and operation of agricultural units; tools of decision-making; and factor allocation. May be taught concurrently with <span data-link='AGB584'>AGB 584</span>. Cannot receive credit for both <span data-link='AGB584'>AGB 584</span> and <span data-link='AGB684'>AGB 684</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGE318": {
+    "course_id": "AGE318",
+    "title": "AGE 318 Introduction to Agricultural Education",
+    "desc": "Recommended Prerequisite: 30 hours. Building an acquaintance with the aims, philosophy, functions, opportunities and demands of agricultural education programs. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGE337": {
+    "course_id": "AGE337",
+    "title": "AGE 337 Agricultural Mechanics Practices",
+    "desc": "Shop processes and techniques required for the construction, repair, and maintenance of agricultural facilities and equipment. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGE493": {
+    "course_id": "AGE493",
+    "title": "AGE 493 Supervised Teaching (Secondary Agriculture)",
+    "req": "<em>Prerequisite: completion of all methods courses in Agriculture; a grade of &quot;C&quot; or better in all professional education courses; current pre-professional liability insurance; and approval for supervised teaching.</em>",
+    "desc": "Student observes then teaches agriculture classes under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGE494": {
+    "course_id": "AGE494",
+    "title": "AGE 494 Supervised Teaching (Secondary Agriculture)",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='AGE493'>AGE 493</span>.</em>",
+    "desc": "Student observes, then teaches under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGE498": {
+    "course_id": "AGE498",
+    "title": "AGE 498 Problems in Agricultural Education",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Student selects a specific topic, prepares an outline, makes an investigation and presentation under the supervision of an agricultural education staff member. May be repeated with permission. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGE499": {
+    "course_id": "AGE499",
+    "title": "AGE 499 Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate master&apos;s level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGE508": {
+    "course_id": "AGE508",
+    "title": "AGE 508 Teaching Adults in Vocational Education",
+    "desc": "Rise of the adult education movement; learning abilities, educational interests and vocational needs of adults; problems and procedures in organizing and operating adult education programs; relationship of adult education to public school education. Identical with <span data-link='AGV527'>AGV 527</span> and <span data-link='SEC527'>SEC 527</span>. Cannot receive credit for <span data-link='AGV527'>AGV 527</span> and <span data-link='SEC527'>SEC 527</span> and <span data-link='AGE508'>AGE 508</span>. May be taught concurrently with <span data-link='AGE608'>AGE 608</span>. Cannot receive credit for both <span data-link='AGE608'>AGE 608</span> and <span data-link='AGE508'>AGE 508</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGE518": {
+    "course_id": "AGE518",
+    "title": "AGE 518 Agriculture Education Special Topics",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Special study of agricultural education topics not covered in other courses. Course may be repeated to a total of 5 hours provided the same topic is not duplicated. May be taught concurrently with <span data-link='AGE628'>AGE 628</span>. Cannot receive credit for both <span data-link='AGE628'>AGE 628</span> and <span data-link='AGE518'>AGE 518</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGE548": {
+    "course_id": "AGE548",
+    "title": "AGE 548 Agriculture in the Classroom",
+    "desc": "Course is designed to help elementary teachers better appreciate the importance of agriculture in their student&apos;s lives and to better understand Missouri agriculture. Course stresses integration of resources available from the agricultural industry across the curriculum. May be taught concurrently with <span data-link='AGE648'>AGE 648</span>. Cannot receive credit for both <span data-link='AGE648'>AGE 648</span> and <span data-link='AGE548'>AGE 548</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "AGE558": {
+    "course_id": "AGE558",
+    "title": "AGE 558 Teaching of Agriculture",
+    "req": "<em>Prerequisite: <span data-link='SEC302'>SEC 302</span> and <span data-link='EDC350'>EDC 350</span> and 20 hours in agriculture and admission to the teacher education program.</em>",
+    "desc": "Establishing objectives and organizing the course, selecting textbooks and equipment, securing and using teaching aids; using workbooks and notebooks, planning field trips, selecting and supervising projects. Credited only on BSEd (Secondary). A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='AGE493'>AGE 493</span> or <span data-link='AGE494'>AGE 494</span>. Cannot be taken Pass/Not Pass. May be taught concurrently with <span data-link='AGE658'>AGE 658</span>. Cannot receive credit for both <span data-link='AGE658'>AGE 658</span> and <span data-link='AGE558'>AGE 558</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGE568": {
+    "course_id": "AGE568",
+    "title": "AGE 568 Course and Program Building in Agricultural Education",
+    "req": "<em>Prerequisite: <span data-link='AGE318'>AGE 318</span> and <span data-link='AGE558'>AGE 558</span>; and 60 hours.</em>",
+    "desc": "Organization and analysis of agricultural instruction courses and programs; including the adoption of resource materials to meet individual student needs. May be taught concurrently with <span data-link='AGE668'>AGE 668</span>. Cannot receive credit for both <span data-link='AGE668'>AGE 668</span> and <span data-link='AGE568'>AGE 568</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGE578": {
+    "course_id": "AGE578",
+    "title": "AGE 578 Methods of Teaching Agricultural Management",
+    "req": "<em>Prerequisite: <span data-link='AGE318'>AGE 318</span> and <span data-link='AGE558'>AGE 558</span>; and 60 hours.</em>",
+    "desc": "Identification, development, and utilization of supervised agriculture experience programs in Agricultural Education that includes methods of teaching program management, record keeping, and appropriate methodologies. May be taught concurrently with <span data-link='AGE678'>AGE 678</span>. Cannot receive credit for both <span data-link='AGE678'>AGE 678</span> and <span data-link='AGE578'>AGE 578</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGE588": {
+    "course_id": "AGE588",
+    "title": "AGE 588 Methods of Teaching Agricultural Laboratory Management",
+    "req": "<em>Prerequisite: <span data-link='AGE318'>AGE 318</span> and <span data-link='AGE558'>AGE 558</span>; and 60 hours.</em>",
+    "desc": "Prepare prospective agricultural science teachers to determine subject matter, methods of teaching, and organization of equipment and facilities as applied to agricultural laboratories in high schools. May be taught concurrently with <span data-link='AGE688'>AGE 688</span>. Cannot receive credit for both <span data-link='AGE688'>AGE 688</span> and <span data-link='AGE588'>AGE 588</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGE608": {
+    "course_id": "AGE608",
+    "title": "AGE 608 Teaching Adults in Vocational Education",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Rise of the adult education movement; learning abilities, educational interests and vocational needs of adults; problems and procedures in organizing and operating adult education programs; relationship of adult education to public school education. Identical with <span data-link='AGV627'>AGV 627</span> and <span data-link='SEC627'>SEC 627</span>. Cannot receive credit for <span data-link='AGV627'>AGV 627</span> and <span data-link='SEC627'>SEC 627</span> and <span data-link='AGE608'>AGE 608</span>. May be taught concurrently with <span data-link='AGE508'>AGE 508</span>. Cannot receive credit for both <span data-link='AGE508'>AGE 508</span> and <span data-link='AGE608'>AGE 608</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGE628": {
+    "course_id": "AGE628",
+    "title": "AGE 628 Agriculture Education-Special Topics",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Special study of agricultural education topics not covered in other courses. Course may be repeated to a total of 5 hours provided the same topic is not duplicated. May be taught concurrently with <span data-link='AGE518'>AGE 518</span>. Cannot receive credit for both <span data-link='AGE628'>AGE 628</span> and <span data-link='AGE518'>AGE 518</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGE648": {
+    "course_id": "AGE648",
+    "title": "AGE 648 Agriculture in the Classroom",
+    "desc": "Course is designed to help elementary teachers better appreciate the importance of agriculture in their student&apos;s lives and to better understand Missouri agriculture. Course stresses integration of resources available from the agricultural industry across the curriculum. May be taught concurrently with <span data-link='AGE548'>AGE 548</span>. Cannot receive credit for both <span data-link='AGE548'>AGE 548</span> and <span data-link='AGE648'>AGE 648</span>. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "AGE658": {
+    "course_id": "AGE658",
+    "title": "AGE 658 Teaching of Agriculture",
+    "req": "<em>Prerequisite: <span data-link='SEC302'>SEC 302</span> and <span data-link='EDC350'>EDC 350</span> and teacher certification students must be admitted to the teacher education program.</em>",
+    "desc": "Establishing objectives and organizing the course, selecting textbooks and equipment, securing and using teaching aids; using workbooks and notebooks, planning field trips, selecting and supervising projects. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='AGE493'>AGE 493</span> or <span data-link='AGE494'>AGE 494</span>. May be taught concurrently with <span data-link='AGE558'>AGE 558</span>. Cannot receive credit for both <span data-link='AGE558'>AGE 558</span> and <span data-link='AGE658'>AGE 658</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGE668": {
+    "course_id": "AGE668",
+    "title": "AGE 668 Course and Program Building in Agricultural Education",
+    "req": "<em>Prerequisite: <span data-link='AGE318'>AGE 318</span> and <span data-link='AGE658'>AGE 658</span>.</em>",
+    "desc": "Organization and analysis of agricultural instruction courses and programs; including the adoption of resource materials to meet individual student needs. May be taught concurrently with <span data-link='AGE568'>AGE 568</span>. Cannot receive credit for both <span data-link='AGE568'>AGE 568</span> and <span data-link='AGE668'>AGE 668</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGE678": {
+    "course_id": "AGE678",
+    "title": "AGE 678 Methods of Teaching Agricultural Management",
+    "req": "<em>Prerequisite: <span data-link='AGE318'>AGE 318</span> and <span data-link='AGE658'>AGE 658</span>.</em>",
+    "desc": "Identification, development, and utilization of supervised agriculture experience programs in Agricultural Education that includes methods of teaching program management, record keeping, and appropriate methodologies. May be taught concurrently with <span data-link='AGE578'>AGE 578</span>. Cannot receive credit for both <span data-link='AGE578'>AGE 578</span> and <span data-link='AGE678'>AGE 678</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGE688": {
+    "course_id": "AGE688",
+    "title": "AGE 688 Methods of Teaching Agricultural Laboratory Management",
+    "req": "<em>Prerequisite: <span data-link='AGE318'>AGE 318</span> and <span data-link='AGE658'>AGE 658</span>.</em>",
+    "desc": "Prepare prospective agricultural science teachers to determine subject matter, methods of teaching, and organization of equipment and facilities as applied to agricultural laboratories in high schools. May be taught concurrently with <span data-link='AGE588'>AGE 588</span>. Cannot receive credit for both <span data-link='AGE588'>AGE 588</span> and <span data-link='AGE688'>AGE 688</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGE718": {
+    "course_id": "AGE718",
+    "title": "AGE 718 Topics in Agricultural Education",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Current developments and trends in teaching agricultural education as well as new developments in resources and techniques. May be repeated, however, only 9 hours will count towards the graduate program of study. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGE728": {
+    "course_id": "AGE728",
+    "title": "AGE 728 Induction Year Teaching I",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Course for the professional development of first-year teachers of agriculture. The course focuses on the pedagogical knowledge, skills, and attitudes and managerial skills needed by beginning teachers of agriculture. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGE738": {
+    "course_id": "AGE738",
+    "title": "AGE 738 Induction Year Teaching II",
+    "req": "<em>Prerequisite: <span data-link='AGE728'>AGE 728</span>.</em>",
+    "desc": "Course for the professional development of second-year teachers of agriculture. The course is a continuation of <span data-link='AGE728'>AGE 728</span> and focuses on the pedagogical knowledge, skills, and attitudes and managerial skills needed by beginning teachers of agriculture. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGN115": {
+    "course_id": "AGN115",
+    "title": "AGN 115 Sustainable Agriculture and the Environment",
+    "desc": "This course examines the practice of agro-ecology: the interface of management, biology, and the environment in our effort to produce food, feed, and fiber for a rapidly growing human population. Consequences of historical and current practices, as well as strengths and weaknesses of alternative practices that attempt to employ more knowledge of biology and ecology, will also be evaluated. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGN143": {
+    "course_id": "AGN143",
+    "title": "AGN 143 Introductory Forestry",
+    "desc": "Introduction to field of forestry. In addition to traditional topics of species identification, biology and timber management, this course examines the sociological, environmental, political and industrial influences on domestic and international management of forest resources. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGN215": {
+    "course_id": "AGN215",
+    "title": "AGN 215 Soils",
+    "desc": "Recommended Prerequisite: <span data-link='CHM107'>CHM 107</span> or 116 or <span data-link='CHM160'>CHM 160</span>. Physical, chemical and biological activities within the soil as related to moisture, temperature, drainage, and tillage. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGN216": {
+    "course_id": "AGN216",
+    "title": "AGN 216 Soils Lab",
+    "desc": "Recommended Prerequisite: <span data-link='AGN215'>AGN 215</span> or concurrent enrollment. Laboratory and computer methods for evaluation of the physical, chemical and biological properties of soil. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGN335": {
+    "course_id": "AGN335",
+    "title": "AGN 335 Soil Conservation and Water Management",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='AGN115'>AGN 115</span> or <span data-link='AGN215'>AGN 215</span>. The history and policies surrounding management of soil and water resources will be considered, but the majority of class time will be used addressing the processes of erosion and nutrient loss, and the practices used to conserve natural resources and sustain productivity/function of cropland, pasture, urban, and wild landscapes. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGN351": {
+    "course_id": "AGN351",
+    "title": "AGN 351 Game Bird Production",
+    "desc": "Production and management of quail, pheasants and other game birds. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGN405": {
+    "course_id": "AGN405",
+    "title": "AGN 405 Soil Fertility and Plant Nutrition",
+    "desc": "Recommended Prerequisite: <span data-link='AGN215'>AGN 215</span>. Principles of soil fertility, amendments and factors affecting nutrient availability and plant growth. Supplemental course fee. May be taught concurrently with <span data-link='AGN605'>AGN 605</span>. Cannot receive credit for both <span data-link='AGN405'>AGN 405</span> and <span data-link='AGN605'>AGN 605</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGN455": {
+    "course_id": "AGN455",
+    "title": "AGN 455 Soil Genesis, Morphology and Classification",
+    "desc": "Recommended Prerequisite: <span data-link='AGN215'>AGN 215</span>. Pedogenetic processes that are responsible for genesis, morphology, and classification of the twelve orders of soil taxonomy will be covered along with interpretation of water relationships, site characteristics, soil classification and land use. May be taught concurrently with <span data-link='AGN655'>AGN 655</span>. Cannot receive credit for both <span data-link='AGN455'>AGN 455</span> and <span data-link='AGN655'>AGN 655</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGN465": {
+    "course_id": "AGN465",
+    "title": "AGN 465 Environmental Soil Science",
+    "desc": "Techniques in gathering onsite soil and other field data to develop reports for nutrient and pest management plans, soil evaluations for home sewage disposal systems, storm water pollution prevention plans, log soil pits by unified soil classification for pond site investigations, and use soil survey information for crop production and conservation planning, as well as how soil survey information is used to make highly erodible land and wetland determinations. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGN495": {
+    "course_id": "AGN495",
+    "title": "AGN 495 Problems in Plant Science and Natural Resources",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Assigned investigations, dealing with current problems in plant science and soil science supervised by an agricultural staff member. Student prepares outline, investigates sources of information concerning the subject, and summarizes the findings in a written report. May be repeated with permission. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGN605": {
+    "course_id": "AGN605",
+    "title": "AGN 605 Advanced Soil Fertility",
+    "desc": "Theoretical and applied aspects of soil fertility emphasizing ion transport, nutrient availability, and root absorption in soils-plant environments. May be taught concurrently with <span data-link='AGN405'>AGN 405</span>. Cannot receive credit for both <span data-link='AGN605'>AGN 605</span> and <span data-link='AGN405'>AGN 405</span>. Supplemental course fee.  ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGN655": {
+    "course_id": "AGN655",
+    "title": "AGN 655 Soil Genesis, Morphology and Classification",
+    "desc": "Recommended Prerequisite: <span data-link='AGN465'>AGN 465</span>. Pedogenetic processes, macromorphology, micromorphology, redoximorphic features, and classification as related to soil taxonomy, with GIS applications for use of soil survey information discussed, if time allows. May be taught concurrently with <span data-link='AGN455'>AGN 455</span>. Cannot receive credit for both <span data-link='AGN655'>AGN 655</span> and <span data-link='AGN455'>AGN 455</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGN725": {
+    "course_id": "AGN725",
+    "title": "AGN 725 Advanced Soils Interpretations",
+    "desc": "Recommended Prerequisite: <span data-link='AGN465'>AGN 465</span>. Field interpretation of physical and chemical properties, water relationships, and soil landscape relationships. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGP103": {
+    "course_id": "AGP103",
+    "title": "AGP 103 Plant Science",
+    "desc": "An introduction to the fascinating world of plant science and plant physiology including the areas of food and ornamental crops and sustainable agriculture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP104": {
+    "course_id": "AGP104",
+    "title": "AGP 104 Plant Science Laboratory",
+    "req": "<em>Prerequisite: <span data-link='AGP103'>AGP 103</span> or concurrent enrollment or permission of instructor.</em>",
+    "desc": "Provides opportunities for &apos;hands-on&apos; application of concepts of plant science through the use of basic plant science research and production practices. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP121": {
+    "course_id": "AGP121",
+    "title": "AGP 121 Introduction to Wine",
+    "desc": "An introduction to wine in the modern world. History, classification, production and the geography of wine. The basics of wine appreciation will also be examined. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP300": {
+    "course_id": "AGP300",
+    "title": "AGP 300 Wine Appreciation for Consumers",
+    "req": "<em>Prerequisite: must be 21 years of age or older.</em>",
+    "desc": "Students participate in a series of tastings designed to introduce them to the major wine types and the range of styles within those types. Tests and other materials will be available online. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Spring": true,
+      "Upon demand": true
+    }
+  },
+  "AGP303": {
+    "course_id": "AGP303",
+    "title": "AGP 303 Suburban Horticulture",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='AGN115'>AGN 115</span> or <span data-link='BIO101'>BIO 101</span> and 111 or <span data-link='BIO121'>BIO 121</span>. Horticultural concepts and their application to the growth and maintenance of fruit, vegetables and ornamentals common to most homes. Will not count toward the Environmental Plant Science major or Horticulture minor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP325": {
+    "course_id": "AGP325",
+    "title": "AGP 325 Herbaceous Plants",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='AGN115'>AGN 115</span> or <span data-link='BIO101'>BIO 101</span> and 111 or <span data-link='BIO121'>BIO 121</span>. Nomenclature, identification, characteristics and cultural requirements of indoor and outdoor herbaceous ornamental plants. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP333": {
+    "course_id": "AGP333",
+    "title": "AGP 333 Landscape Design",
+    "desc": "Theory and practice of landscaping including elementary design. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGP353": {
+    "course_id": "AGP353",
+    "title": "AGP 353 Turf Science",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='BIO101'>BIO 101</span> and 111 or <span data-link='BIO121'>BIO 121</span>. A scientific approach to the physiology of turfgrass in response to the environment, and the selection, establishment, maintenance and pest management relevant to utility, lawn and sports turf. Field trips required. May be taught concurrently with <span data-link='AGP353'>AGP 353</span>. Cannot receive credit for both <span data-link='AGP353'>AGP 353</span> and <span data-link='AGP653'>AGP 653</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP363": {
+    "course_id": "AGP363",
+    "title": "AGP 363 Landscape Plants",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='BIO101'>BIO 101</span> and 111 or <span data-link='BIO121'>BIO 121</span>. Identification, classification and adaptation of common trees, shrubs and groundcovers used for landscape purposes. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP365": {
+    "course_id": "AGP365",
+    "title": "AGP 365 Grain Crops for Food, Feed and Energy",
+    "req": "<em>Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='AGN115'>AGN 115</span>.</em>",
+    "desc": "Adaptation, production, and utilization of the major grain crops for human and animal (livestock and wildlife) consumption and energy production. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP375": {
+    "course_id": "AGP375",
+    "title": "AGP 375 Forage Crops for Animals and the Environment",
+    "req": "<em>Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='AGN115'>AGN 115</span>.</em>",
+    "desc": "Adaptation, production and utilization of the major forage crops for grazing, hay, and silage production, as well as their effects on environmental quality and wildlife. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP393": {
+    "course_id": "AGP393",
+    "title": "AGP 393 Fruit Production",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='BIO101'>BIO 101</span> and 111 or <span data-link='BIO121'>BIO 121</span>. The culture and management of tree fruit, grapes, strawberries and other small fruit. Nuts, tropical and subtropical fruits, sustainable management, and production technology are also addressed. May be taught concurrently with <span data-link='AGP701'>AGP 701</span>. Students cannot receive credit for both <span data-link='AGP393'>AGP 393</span> and <span data-link='AGP701'>AGP 701</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP403": {
+    "course_id": "AGP403",
+    "title": "AGP 403 Nursery Management",
+    "desc": "Recommended Prerequisite: <span data-link='AGP363'>AGP 363</span> or <span data-link='BIO334'>BIO 334</span> or <span data-link='BIO339'>BIO 339</span>. General principles and practices involved in the commercial production, management, and marketing of landscape plants. Field trips required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP433": {
+    "course_id": "AGP433",
+    "title": "AGP 433 Advanced Landscape Design",
+    "req": "<em>Prerequisite: <span data-link='AGP333'>AGP 333</span>; and <span data-link='AGP325'>AGP 325</span> or <span data-link='AGP363'>AGP 363</span>.</em>",
+    "desc": "Concepts and development of sustainable landscapes for residential, commercial and government land, including rain gardens, green roofs, riparian buffer zones, prairie and wetlands, plus more in-depth coverage of specialized landscape areas such as water gardens and Japanese-style gardens. Training in use of landscape design 2D/3D software is included. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP441": {
+    "course_id": "AGP441",
+    "title": "AGP 441 Vegetable Production",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='AGN115'>AGN 115</span> or <span data-link='BIO101'>BIO 101</span> and 111 or <span data-link='BIO121'>BIO 121</span>. Methods and practices of home and commercial vegetable production with an emphasis on using environmentally-friendly production and maintenance techniques to optimize yield and quality of vegetables. The purpose of this course is to familiarize students with the practices required for commercial production of a wide variety of vegetables. May be taught concurrently with <span data-link='AGP641'>AGP 641</span>. Cannot receive credit for both <span data-link='AGP441'>AGP 441</span> and <span data-link='AGP641'>AGP 641</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP442": {
+    "course_id": "AGP442",
+    "title": "AGP 442 Vegetable Production Practicum",
+    "req": "<em>Prerequisite: <span data-link='AGP441'>AGP 441</span> or concurrent enrollment.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='BIO101'>BIO 101</span> and 111 or <span data-link='BIO121'>BIO 121</span>. Exposing students to basic and advanced principles of growing vegetable crops, this is a hands-on immersion in vegetable production, including crop planning, preparing the garden/field, creating and/or maintaining healthy garden soils, crop propagation, multiple methods of constructing plant support and season-extension structures, cultural care including pest control, fertilization and attracting beneficial organisms to the soil and plants, harvesting, and proper postharvest techniques. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP453": {
+    "course_id": "AGP453",
+    "title": "AGP 453 Crop Physiology",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='BIO101'>BIO 101</span> and 111; 3 hours additional AGP or BIO plant courses. General, stress-related and post-harvest physiology of horticulture and agronomic crops in relationship to their environments. May be taught concurrently with <span data-link='AGP753'>AGP 753</span>. Cannot receive credit for both <span data-link='AGP453'>AGP 453</span> and <span data-link='AGP753'>AGP 753</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP485": {
+    "course_id": "AGP485",
+    "title": "AGP 485 Weed Science",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='AGN115'>AGN 115</span> or <span data-link='AGN365'>AGN 365</span> or <span data-link='AGN375'>AGN 375</span>; and <span data-link='BIO121'>BIO 121</span> or <span data-link='BIO101'>BIO 101</span> and 111; and either <span data-link='CHM107'>CHM 107</span> or <span data-link='CHM116'>CHM 116</span> or <span data-link='CHM160'>CHM 160</span>. Identification, physiology and impacts of invasive plants and crop weeds and methods for their control in natural and agroecosystems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP496": {
+    "course_id": "AGP496",
+    "title": "AGP 496 Independent Study in Fruit Science",
+    "desc": "The student, with the approval of the instructor, conducts an in-depth literature review and writes a paper on a subject within the area of fruit production, fruit processing, or fruit marketing. May be repeated for a total of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGP513": {
+    "course_id": "AGP513",
+    "title": "AGP 513 Insects Affecting Horticulture and Forestry Crops",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Identification, life histories and control methods of insects affecting gardens, ornamental plants, orchards and forests. May be taught concurrently with <span data-link='AGP613'>AGP 613</span>. Cannot receive credit for both <span data-link='AGP513'>AGP 513</span> and <span data-link='AGP613'>AGP 613</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP543": {
+    "course_id": "AGP543",
+    "title": "AGP 543 Greenhouse Management",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span>. Factors involved in site selection, construction, and management of greenhouses and high tunnels, and production and management of floriculture crops. Sustainable production methods are emphasized. Supplemental course fee. May be taught concurrently with <span data-link='AGP663'>AGP 663</span>. Cannot receive credit for both <span data-link='AGP543'>AGP 543</span> and <span data-link='AGP663'>AGP 663</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP573": {
+    "course_id": "AGP573",
+    "title": "AGP 573 Plant Propagation",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='BIO101'>BIO 101</span> and 111 or <span data-link='BIO121'>BIO 121</span>; <span data-link='CHM107'>CHM 107</span> or <span data-link='CHM116'>CHM 116</span> or <span data-link='CHM160'>CHM 160</span>. Practices employed by fruit and ornamental plant producers in propagation of plants, including seeds, cuttings, layerings, grafting and micropropagation. Supplemental course fee. May be taught concurrently with <span data-link='AGP643'>AGP 643</span>. Cannot receive credit for both <span data-link='AGP573'>AGP 573</span> and <span data-link='AGP643'>AGP 643</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP575": {
+    "course_id": "AGP575",
+    "title": "AGP 575 Plant Breeding and Genetics",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='AGN115'>AGN 115</span>. Application of genetic principles to the improvement of crop plants. Includes self-pollinated, cross-pollinated, and asexually-propagated crops. May be taught concurrently with <span data-link='AGP675'>AGP 675</span>. Cannot receive credit for both <span data-link='AGP575'>AGP 575</span> and <span data-link='AGP675'>AGP 675</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP581": {
+    "course_id": "AGP581",
+    "title": "AGP 581 Plant Disease Identification",
+    "req": "<em>Prerequisite: <span data-link='AGP583'>AGP 583</span> or concurrent enrollment.</em>",
+    "desc": "Identification of specific plant diseases on edible, ornamental and other crops with emphasis or students collecting plant disease specimens common to their area of interest, correctly identifying the pathogen or environmental problem that caused the disease, and methods to prevent or control the disease. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP583": {
+    "course_id": "AGP583",
+    "title": "AGP 583 Plant Pathology",
+    "desc": "Recommended Prerequisite: 9 hours of plant science (AGP). Diseases and physiological disorders of fruit, vegetables, agronomic crops and ornamental plants. Emphasis is placed on the interactions between plants and pathogenic organisms, on environmental factors that cause plant diseases, and on disease control methods that reduce or eliminate the need for chemical applications. Students will gain insight into the techniques to manage plant diseases, and the impact plant diseases have on humans and the environment. May be taught concurrently with <span data-link='AGP783'>AGP 783</span>. Cannot receive credit for both <span data-link='AGP583'>AGP 583</span> and <span data-link='AGP783'>AGP 783</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP584": {
+    "course_id": "AGP584",
+    "title": "AGP 584 Insect Identification",
+    "desc": "Recommended Prerequisite: <span data-link='AGR583'>AGR 583</span> or concurrent enrollment. Identification of insect and other arthropod pests of crops, forest, feed, livestock and buildings, as well as beneficial insects/arthropods. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGP585": {
+    "course_id": "AGP585",
+    "title": "AGP 585 Weed Ecology and Management",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='AGN115'>AGN 115</span> or <span data-link='AGN365'>AGN 365</span> or <span data-link='AGN375'>AGN 375</span>; and <span data-link='BIO121'>BIO 121</span> or <span data-link='BIO101'>BIO 101</span> and 111; and either <span data-link='CHM107'>CHM 107</span> or <span data-link='CHM116'>CHM 116</span> or <span data-link='CHM160'>CHM 160</span>. Ecology, physiology and impacts of invasive plants and crop weeds and methods for their control in natural and agroecosystems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP586": {
+    "course_id": "AGP586",
+    "title": "AGP 586 Weed Identification",
+    "desc": "Recommended Prerequisite: <span data-link='AGP585'>AGP 585</span> or concurrent enrollment. Identification of crop, pasture and invasive weeds of mid-south central U.S. and methods for their control. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGP613": {
+    "course_id": "AGP613",
+    "title": "AGP 613 Insects Affecting Horticulture and Forestry Crops",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Identification, life histories and control methods of insects affecting gardens, ornamental plants, orchards and forests. May be taught concurrently with <span data-link='AGP513'>AGP 513</span>. Cannot receive credit for both <span data-link='AGP613'>AGP 613</span> and <span data-link='AGP513'>AGP 513</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP641": {
+    "course_id": "AGP641",
+    "title": "AGP 641 Advanced Vegetable Production",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='AGN115'>AGN 115</span> or <span data-link='BIO101'>BIO 101</span> and 111 or <span data-link='BIO121'>BIO 121</span>. Methods of commercial vegetable production with an emphasis on using sustainable production techniques to optimize yield and quality of vegetables. The purpose of this course is to expand knowledge in commercial vegetable production. May be taught concurrently with <span data-link='AGP441'>AGP 441</span>. Cannot receive credit for both <span data-link='AGP641'>AGP 641</span> and <span data-link='AGP441'>AGP 441</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP643": {
+    "course_id": "AGP643",
+    "title": "AGP 643 Plant Propagation",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span>; and <span data-link='AGN115'>AGN 115</span> or <span data-link='BIO121'>BIO 121</span>; and <span data-link='CHM107'>CHM 107</span> or <span data-link='CHM116'>CHM 116</span> or <span data-link='CHM160'>CHM 160</span>. Practices employed by fruit and ornamental plant producers in propagation of plants, including seeds, cuttings, layerings, grafting and micropropagation. Supplemental course fee. May be taught concurrently with <span data-link='AGP573'>AGP 573</span>. Cannot receive credit for both <span data-link='AGP643'>AGP 643</span> and <span data-link='AGP573'>AGP 573</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP653": {
+    "course_id": "AGP653",
+    "title": "AGP 653 Advanced Turf Science",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='BIO102'>BIO 102</span> or <span data-link='BIO121'>BIO 121</span>. A more in-depth study of the physiology of turfgrass in response to the environment, and the selection, establishment, maintenance and pest management relevant to utility, lawn, and sports turf. May be taught concurrently with <span data-link='AGP353'>AGP 353</span>. Cannot receive credit for both <span data-link='AGP353'>AGP 353</span> and <span data-link='AGP653'>AGP 653</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP663": {
+    "course_id": "AGP663",
+    "title": "AGP 663 Advanced Greenhouse Production",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span>. Factors involved in construction and management of greenhouses and other controlled-environment structures for production of floriculture and food crops. Sustainable production methods are emphasized. Supplemental course fee. May be taught concurrently with <span data-link='AGP543'>AGP 543</span>. Cannot receive credit for both <span data-link='AGP663'>AGP 663</span> and <span data-link='AGP543'>AGP 543</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP675": {
+    "course_id": "AGP675",
+    "title": "AGP 675 Plant Breeding and Genetics",
+    "desc": "Recommended Prerequisite: <span data-link='AGP103'>AGP 103</span> or <span data-link='AGN115'>AGN 115</span>. Application of genetic principles to the improvement of crop plants. Includes self-pollinated, cross-pollinated, and asexually-propagated crops. May be taught concurrently with <span data-link='AGP575'>AGP 575</span>. Cannot receive credit for both <span data-link='AGP675'>AGP 675</span> and <span data-link='AGP575'>AGP 575</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP700": {
+    "course_id": "AGP700",
+    "title": "AGP 700 Plant Science Colloquium",
+    "req": "<em>Prerequisite: permission of graduate coordinator.</em>",
+    "desc": "A series of oral presentations on new developments in plant science. Presentations to be made by faculty members, students, and guest speakers from industry and academe. May be repeated, but not more than 2 hours may be counted toward the MS degree. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "AGP701": {
+    "course_id": "AGP701",
+    "title": "AGP 701 Advanced Pomology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "The culture and management of perennial fruit crops adapted to temperate climates. Physiology, technology, and research as it applies to modern production practices will be emphasized. May be taught concurrently with <span data-link='AGP393'>AGP 393</span>. Students cannot receive credit for both <span data-link='AGP701'>AGP 701</span> and <span data-link='AGP393'>AGP 393</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP711": {
+    "course_id": "AGP711",
+    "title": "AGP 711 Viticulture",
+    "desc": "Recommended Prerequisite: <span data-link='BIO644'>BIO 644</span>. Principles of growing grapes based upon the genetics, physiology, development and morphology of the genus Vitis; the environments in which grapes are grown; and the uses of grapes. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP721": {
+    "course_id": "AGP721",
+    "title": "AGP 721 Enology",
+    "desc": "Recommended Prerequisite: <span data-link='BIO310'>BIO 310</span>. The course will study the chemistry, microbiology, and technology of modern wine production. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP722": {
+    "course_id": "AGP722",
+    "title": "AGP 722 Enology Lab",
+    "req": "<em>Prerequisite: <span data-link='AGP721'>AGP 721</span>.</em>",
+    "desc": "Laboratory techniques in assessing wine production methods and quality. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP730": {
+    "course_id": "AGP730",
+    "title": "AGP 730 Advanced Topics in Plant Science",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "An advanced topic in plant science will be addressed via faculty lectures and student projects. Examples of proposed topics include: Improved Disease Resistance in Viticulture, and Application of Field Collected Data to Computer Analysis. Variable content course. May be repeated to a total of 6 hours with differing topics. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGP731": {
+    "course_id": "AGP731",
+    "title": "AGP 731 Plant Genetic Engineering",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Principles, methodology, and commercial applications of plant biotechnology. Includes brief introduction to nucleic acid structure, gene regulation, and genome organization in eukaryotic and prokaryotic organisms. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGP753": {
+    "course_id": "AGP753",
+    "title": "AGP 753 Plant Stress Physiology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "The effects of environmental stresses on plant physiological functions and plant growth, plus cultural methods to help plants adapt to stress. May be taught concurrently with <span data-link='AGP453'>AGP 453</span>. Cannot receive credit for both <span data-link='AGP753'>AGP 753</span> and <span data-link='AGP453'>AGP 453</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGP773": {
+    "course_id": "AGP773",
+    "title": "AGP 773 Plant Growth Regulation",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "The role of natural and synthetic plant hormones and related compounds in the growth, reproduction and cultivation of plants. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGP783": {
+    "course_id": "AGP783",
+    "title": "AGP 783 Advanced Plant Pathology",
+    "desc": "Recommended Prerequisite: 9 hours of plant science (AGP). Continued study into diseases and physiological disorders of fruit, vegetables, agronomic crops and ornamental plants. Emphasis is placed on the interactions between plants and pathogenic organisms, on environmental factors that cause plant diseases, and on disease control methods that reduce or eliminate the need for chemical applications. Students will gain insight into the techniques to manage plant diseases, and the impact plant diseases have on humans and the environment. May be taught concurrently with <span data-link='AGP583'>AGP 583</span>. Cannot receive credit for both <span data-link='AGP783'>AGP 783</span> and <span data-link='AGP583'>AGP 583</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGR100": {
+    "course_id": "AGR100",
+    "title": "AGR 100 Food Security",
+    "req": "<em>General Education Course (Focus on Social and Behavioral Sciences).</em>",
+    "desc": "An examination of policies and technology that affect food security for the United States in a global setting. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGR108": {
+    "course_id": "AGR108",
+    "title": "AGR 108 Topics in Agriculture",
+    "desc": "A course designed to treat specific areas of agriculture to meet specialized student needs. Treatment of the subject will include consideration of historical, theoretical, scientific, and application aspects. May be repeated up to a total of 4 hours provided the same topic is not repeated. Variable content course. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGR110": {
+    "course_id": "AGR110",
+    "title": "AGR 110 Agriculture Orientation",
+    "desc": "Introduction to the educational opportunities, facilities, services, and activities with specific emphasis toward the Department of Agriculture. Course designed for students interested in Agriculture. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGR118": {
+    "course_id": "AGR118",
+    "title": "AGR 118 Leadership",
+    "desc": "A course for entering freshmen students to examine leadership through the observation and analysis of leaders in various career paths. To demonstrate leadership through class projects. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGR157": {
+    "course_id": "AGR157",
+    "title": "AGR 157 Principles of Agricultural Mechanization",
+    "desc": "Engineering and mechanical principles; their application to agriculture equipment, systems and concepts. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGR200": {
+    "course_id": "AGR200",
+    "title": "AGR 200 Mini Agriculture",
+    "desc": "A course designed to treat specific areas of agriculture to meet specialized student needs. Treatment of the subject will include consideration of historical, theoretical, scientific and application aspects. May be repeated up to a total of 4 hours provided the same topic is not repeated. A course fee may be charged for selected sections. Variable content course. 1(1-0) D. Approved recurring course topic: Floral Design I. Basic concepts and elements of floral design. Specific emphasis on aesthetics, color, shape, space and texture. Supplemental course Fee. 1(1-0) D. Approved recurring course topic: Floral Design II. Assist student to develop his or her unique individual style of advanced floral design. Expansion on basic concepts and elements. Specific emphasis placed on aesthetics, color, shape, space and texture. Supplemental course Fee. 1(1-0) D. Approved recurring course topic: Home and Garden Insects. Basic concepts of pest control appropriate for residences and businesses. 1(1-0) D. Approved recurring course topic: Rodeo Techniques. Provide students with an appreciation for and general knowledge of rodeo history, events, organizations, economic impact on today&apos;s society and future direction. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGR250": {
+    "course_id": "AGR250",
+    "title": "AGR 250 Agricultural Communications",
+    "desc": "Recommended Prerequisite: <span data-link='ENG110'>ENG 110</span> and <span data-link='COM115'>COM 115</span>. Introduces the scope and applications of communications and journalism as they relate to agriculture. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGR299": {
+    "course_id": "AGR299",
+    "title": "AGR 299 Special Topics",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Special study of agricultural topics not treated in other courses. Course may be repeated to a total of 5 hours provided the same topic is not duplicated. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGR300": {
+    "course_id": "AGR300",
+    "title": "AGR 300 Food and Agricultural Chemistry",
+    "req": "<em>Prerequisite: <span data-link='CHM116'>CHM 116</span> and 117 or <span data-link='CHM160'>CHM 160</span>.</em>",
+    "desc": "Chemistry, sources and importance of biological materials used for food, fiber, and feed for man and domestic animals. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGR301": {
+    "course_id": "AGR301",
+    "title": "AGR 301 Agriculture Transfer Student Orientation",
+    "desc": "An integrative experience which addresses public affairs issues and individual choices promoting academic success for first semester School of Agriculture transfer students. Required of all sophomore, junior, and senior transfer students during their first two semesters at Missouri State who have not taken <span data-link='GEP101'>GEP 101</span>/UHC 110. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGR313": {
+    "course_id": "AGR313",
+    "title": "AGR 313 Beekeeping",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Fundamentals needed for the amateur to establish and maintain honey bees and produce a surplus honey crop. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGR320": {
+    "course_id": "AGR320",
+    "title": "AGR 320 Writing in the Applied Sciences",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> and 45 hours. General Education Course (Focus on Written Communication and Integrative and Applied Learning).</em>",
+    "desc": "Strategies for accessing information. Writing proposals, progress reports, final reports, manuals, and online documents for the Applied Sciences. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGR330": {
+    "course_id": "AGR330",
+    "title": "AGR 330 Statistical Applications in Agriculture",
+    "desc": "Recommended Prerequisite: <span data-link='MTH130'>MTH 130</span> or higher; and either CIS/<span data-link='CSC101'>CSC 101</span> or <span data-link='CSC111'>CSC 111</span>. Collection, display, analysis and application of agricultural data, including measurement of location and dispersion, probability, normal distribution, sampling, sampling distributions, hypothesis testing, analysis of variance, correlation and regression analysis. Computer statistical packages will be used for simulation study and agricultural data analysis. Applications are specific to Agriculture. Cannot receive credit toward a degree for more than one of the following courses: <span data-link='AGR330'>AGR 330</span>, <span data-link='MTH340'>MTH 340</span>, <span data-link='PSY200'>PSY 200</span>, <span data-link='QBA237'>QBA 237</span>, <span data-link='REC328'>REC 328</span>, <span data-link='SOC302'>SOC 302</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGR357": {
+    "course_id": "AGR357",
+    "title": "AGR 357 Agricultural Power",
+    "desc": "Recommended Prerequisite: <span data-link='MTH130'>MTH 130</span> or higher. Principles of operation, construction and utilization of power units. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGR367": {
+    "course_id": "AGR367",
+    "title": "AGR 367 Agricultural Machinery",
+    "desc": "Recommended Prerequisite: <span data-link='MTH130'>MTH 130</span> or higher. Principles of construction, operation, selection and utilization of farm field equipment. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGR370": {
+    "course_id": "AGR370",
+    "title": "AGR 370 Animal Welfare, Animal Rights, and the Ethics of Food Production",
+    "desc": "Animal welfare, animal rights, and the ethics of using animals for food, fiber, research, and entertainment will be discussed. The question of sustainability as it pertains to meat animal production, water quality, energy used to produce different food stuffs, and how agriculture affects the environment will also be addressed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGR377": {
+    "course_id": "AGR377",
+    "title": "AGR 377 Agricultural Structures and Systems",
+    "desc": "Recommended Prerequisite: <span data-link='MTH130'>MTH 130</span> or higher. Functional and structural design of unified structures and systems for agricultural enterprises. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGR383": {
+    "course_id": "AGR383",
+    "title": "AGR 383 Applied Entomology",
+    "desc": "Principles of insect life; careful study of a number of common insect pests, their identification and control. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGR399": {
+    "course_id": "AGR399",
+    "title": "AGR 399 Special Topics",
+    "desc": "Special study of agricultural topics not treated in other courses. Course may be repeated to a total of 5 hours provided the same topic is not duplicated. Variable Content Course. Supplemental course fee (variable by section). 1-5 D. Approved recurring course topic: Agriculture and Water Quality. Issues related to agriculture and its impact on water quality--both surface and ground water. Common practices that have a negative impact will be studied along with practices that can have positive and/or minimal impact on water quality. 1(1-0) D. Approved recurring course topic: Events Management. Specific tasks of organization, marketing, and managing resources for special events. 1(1-0) D. Approved recurring course topic: Principles of Horseshoeing. Horseshoeing techniques including safe use of tools and handling of horses. Supplemental Course Fee. 1(1-0) D. Approved recurring course topic: Therapeutic Riding. Recommended Prerequisite: <span data-link='AGS162'>AGS 162</span> or <span data-link='AGS262'>AGS 262</span>. Introduction to therapeutic riding and the role of the horse in equine assisted therapy programs. Development of horses and volunteers for use in a therapeutic riding program. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGR490": {
+    "course_id": "AGR490",
+    "title": "AGR 490 Agronomy/Horticulture Senior Seminar",
+    "desc": "Recommended Prerequisite: 90 hours. Presentation, discussions and analysis of professional and technical topics in Agronomy and Horticulture. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGR499": {
+    "course_id": "AGR499",
+    "title": "AGR 499 Internship in Agriculture",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Supervised agricultural work experience. A paper describing and analyzing the experience required. May be repeated for a total of 10 hours. 1-8, D. Approved recurring course topic: Internship-Equine. An academic program to integrate class experience with actual practice and to provide students with hands-on experience in businesses or agencies which employ agriculture majors. 1-8, D. Approved recurring course topic: Internship-Horticulture. An academic program to integrate class experience with actual practice and to provide students with hands-on experience in businesses or agencies which employ agriculture majors. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGR583": {
+    "course_id": "AGR583",
+    "title": "AGR 583 Entomology",
+    "desc": "Principles of insect life; careful study of a number of common insect pests, their identification and control. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGR599": {
+    "course_id": "AGR599",
+    "title": "AGR 599 International Study in Agriculture",
+    "desc": "Faculty-led study course that will include travel to a foreign country as part of further learning of world agricultural systems. Paper and/or other classroom-related work required in addition to travel. May be repeated up to 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGR790": {
+    "course_id": "AGR790",
+    "title": "AGR 790 Introduction to Agricultural Research Methods",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course is designed to provide an introduction to the process of research. The course will address planning, conducting, and reporting research; and development of good consumers of research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGR796": {
+    "course_id": "AGR796",
+    "title": "AGR 796 Science Internship",
+    "desc": "Completion of an internship project (80 hours/credit hour, 6 credit hours maximum) at a discipline-related business, nonprofit organization, or government agency, approved and supervised by both the departmental and internship advisors. Includes a formal report in the appropriate professional format, and an oral presentation at an approved venue. Graded Pass/Not Pass only. No more than 6 hours may count toward a master&apos;s degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "AGR797": {
+    "course_id": "AGR797",
+    "title": "AGR 797 Seminar",
+    "req": "<em>Prerequisite: permission of advisor.</em>",
+    "desc": "In-depth study in an area of agriculture, culminating in an extensive scholarly presentation. May be repeated to a total of three hours. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGR798": {
+    "course_id": "AGR798",
+    "title": "AGR 798 Research",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Supervised research in agriculture. May be repeated, but not more than 6 hours may be counted toward the 32 hour degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "AGR799": {
+    "course_id": "AGR799",
+    "title": "AGR 799 Thesis",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Demonstration of the capacity for research and independent thought culminating in a thesis. May be repeated. A maximum of 6 hours will be applied toward a master&apos;s degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "AGS101": {
+    "course_id": "AGS101",
+    "title": "AGS 101 Animal Science",
+    "desc": "Introduction to farm animal industries, breeds, numbers, distribution, nutrition, heredity, reproduction, health and products. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGS161": {
+    "course_id": "AGS161",
+    "title": "AGS 161 Introduction to Horses",
+    "desc": "Scope and role of the horse industry. Responsibilities of ownership; selection, breeds-development and uses; basic care-nutrition, health care, conditioning; and facilities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGS162": {
+    "course_id": "AGS162",
+    "title": "AGS 162 Introduction to Riding",
+    "desc": "This is an introductory course with a focus on safe and effective techniques for both English and Western riding. Students are responsible for transportation and payment of a horse care fee. The course may be repeated for a total of 3 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "AGS163": {
+    "course_id": "AGS163",
+    "title": "AGS 163 Introduction to Hunt Seat Equestrian Competition",
+    "req": "<em>Prerequisite: <span data-link='AGS162'>AGS 162</span> or permission of instructor.</em>",
+    "desc": "This course is for students who have limited or no experience in equestrian competition in the hunt seat discipline. Students are responsible for transportation to the Darr Center. A horse care fee will be charged. This course cannot be taken concurrently with <span data-link='AGS263'>AGS 263</span> or <span data-link='AGS363'>AGS 363</span>. May be repeated for a total of 2 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "AGS164": {
+    "course_id": "AGS164",
+    "title": "AGS 164 Introduction to Stock Seat Equestrian Competition",
+    "req": "<em>Prerequisite: <span data-link='AGS162'>AGS 162</span> or permission of instructor.</em>",
+    "desc": "This course is for students who have limited or no experience in equestrian competition in the stock seat discipline. Students are responsible for transportation to the Darr Center. A horse care fee will be charged. This course cannot be taken concurrently with <span data-link='AGS264'>AGS 264</span> or <span data-link='AGS364'>AGS 364</span>. May be repeated for a total of 2 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "AGS191": {
+    "course_id": "AGS191",
+    "title": "AGS 191 Evaluation and Performance Appraisal of Horses",
+    "desc": "Detailed evaluation of athletic performance of horses; influence of training and other environmental effects, heredity, and conformation; use of racing and performance records, visual appraisal, and industry trends; oral and written defense of judgments. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGS196": {
+    "course_id": "AGS196",
+    "title": "AGS 196 Dairy and Meat Animal Evaluation",
+    "desc": "Comparative judging including selection, grading, and classification of dairy cattle, or beef cattle, swine and sheep. May be repeated with permission for up to 4 semester hours. Variable content course. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGS262": {
+    "course_id": "AGS262",
+    "title": "AGS 262 Riding for Horse Training",
+    "req": "<em>Prerequisite: <span data-link='AGS162'>AGS 162</span>.</em>",
+    "desc": "This is an intermediate-level riding course with a focus on developing skills necessary for training horses. Students may ride hunt seat, stock seat, or both seats during the semester. Students are responsible for transportation and payment of horse care fee. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGS263": {
+    "course_id": "AGS263",
+    "title": "AGS 263 Intermediate Hunt Seat Equestrian Competition",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='AGS163'>AGS 163</span>. This course is for students who have a moderate amount of experience in equestrian competition in the hunt seat discipline. Students are responsible for transportation to the Darr Center. A horse care fee will be charged. This course cannot be taken concurrently with <span data-link='AGS163'>AGS 163</span> or <span data-link='AGS363'>AGS 363</span>. May be repeated for a total of 2 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "AGS264": {
+    "course_id": "AGS264",
+    "title": "AGS 264 Intermediate Stock Seat Equestrian Competition",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='AGS163'>AGS 163</span> or 164. This course is for students who have a moderate amount of experience in equestrian competition in the stock seat discipline. Events to be covered will include horsemanship and ranch horse events. Students are responsible for transportation to the Darr Center. A horse care fee will be charged. This course cannot be taken concurrently with <span data-link='AGS164'>AGS 164</span> or <span data-link='AGS364'>AGS 364</span>. May be repeated for a total of 2 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "AGS301": {
+    "course_id": "AGS301",
+    "title": "AGS 301 Physiology of Farm Animals",
+    "desc": "Recommended Prerequisite: <span data-link='AGS101'>AGS 101</span> and <span data-link='BIO101'>BIO 101</span> and 111 and <span data-link='CHM116'>CHM 116</span> and 117. Basic physiology of farm animals with special emphasis on systems related to the economic importance of domestic animals such as the mammary, reproductive, endocrine, and other systems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGS302": {
+    "course_id": "AGS302",
+    "title": "AGS 302 Reproductive Physiology",
+    "desc": "Recommended Prerequisite: <span data-link='AGS101'>AGS 101</span> and <span data-link='BIO101'>BIO 101</span> and 111. Physiological principles of reproductive processes in domestic animals (production and companion) including sperm and ova production, estrus, fertilization, gestation, and parturition. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGS306": {
+    "course_id": "AGS306",
+    "title": "AGS 306 Veterinary Science",
+    "desc": "Recommended Prerequisite: <span data-link='AGS101'>AGS 101</span>. Functional anatomy, diseases and parasites of farm animals; sanitation; disease prevention and control. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGS310": {
+    "course_id": "AGS310",
+    "title": "AGS 310 Animal Nutrition",
+    "desc": "Recommended Prerequisite: <span data-link='AGS101'>AGS 101</span>; and <span data-link='CHM107'>CHM 107</span> or <span data-link='CHM116'>CHM 116</span> or <span data-link='CHM160'>CHM 160</span>. Key topics include the basic fundamentals of nutrition and comparative nutrition of farm animals. Anatomy and physiology of the digestive system and basic metabolism will also be covered along with the characteristics, digestion and functions of the basic nutrients. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGS311": {
+    "course_id": "AGS311",
+    "title": "AGS 311 Feeds and Feeding",
+    "desc": "Recommended Prerequisite: <span data-link='AGS101'>AGS 101</span> and <span data-link='AGS310'>AGS 310</span>; and <span data-link='MTH130'>MTH 130</span> or higher. Feed composition and formulation of livestock rations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGS316": {
+    "course_id": "AGS316",
+    "title": "AGS 316 Animal Breeding",
+    "desc": "Recommended Prerequisite: <span data-link='AGS101'>AGS 101</span> and <span data-link='MTH102'>MTH 102</span> or higher. Principles of heredity applied to the improvement of farm animals; variation, selection, inbreeding and crossbreeding. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGS342": {
+    "course_id": "AGS342",
+    "title": "AGS 342 Meat Science and Products",
+    "desc": "Recommended Prerequisite: <span data-link='AGS101'>AGS 101</span> and either <span data-link='CHM116'>CHM 116</span> and 117 or <span data-link='CHM160'>CHM 160</span>. Processing, inspection, grading, preservation and nutritive value of meats and meat products. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGS346": {
+    "course_id": "AGS346",
+    "title": "AGS 346 Dairy Products",
+    "desc": "Recommended Prerequisite: <span data-link='AGS101'>AGS 101</span> and either <span data-link='CHM116'>CHM 116</span> and 117 or <span data-link='CHM160'>CHM 160</span>. Processing, inspection, grading, preservation and nutritional value of dairy products. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGS361": {
+    "course_id": "AGS361",
+    "title": "AGS 361 Horse Management and Training",
+    "desc": "Recommended Prerequisite: <span data-link='AGS161'>AGS 161</span> or previous experience with horses. Survey of management and basic handling of horses. Feeding management, health care and equine enterprise management are emphasized. Instruction in fitting for show or sale, practical horse psychology and training for basic performance is given. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "AGS362": {
+    "course_id": "AGS362",
+    "title": "AGS 362 Riding Instruction",
+    "req": "<em>Prerequisite: <span data-link='AGS162'>AGS 162</span>.</em>",
+    "desc": "This is an advanced-level riding course with a focus on developing skills necessary for basic riding instruction. Students may ride hunt seat, stock seat, or both seats during the semester. Students are responsible for transportation and payment of horse care fee. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGS363": {
+    "course_id": "AGS363",
+    "title": "AGS 363 Advanced Hunt Seat Equestrian Competition",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='AGS263'>AGS 263</span>. This course is for students who are ready to compete in advanced levels of equestrian competition in the hunt seat discipline. Events to be covered will include over fences classes. Students are responsible for transportation to the Darr Center. A horse care fee will be charged. This course cannot be taken concurrently with <span data-link='AGS163'>AGS 163</span> or <span data-link='AGS263'>AGS 263</span>. May be repeated for a total of 2 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "AGS364": {
+    "course_id": "AGS364",
+    "title": "AGS 364 Advanced Stock Seat Equestrian Competition",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='AGS263'>AGS 263</span> or 264. This course is for students who are ready to compete in advanced levels of equestrian competition in the stock seat discipline. Events to be covered will include reining and ranch horse events. Students are responsible for transportation to the Darr Center. A horse care fee will be charged. This course cannot be taken concurrently with <span data-link='AGS164'>AGS 164</span> or <span data-link='AGS264'>AGS 264</span>. May be repeated for a total of 2 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "AGS391": {
+    "course_id": "AGS391",
+    "title": "AGS 391 Animal Industry Tour",
+    "desc": "This course will provide students an opportunity to see and meet people actively working in sustainable animal production businesses or doing research in sustainable animal based agriculture. Students and faculty will travel across the country meeting production agriculturalists, scientists, and teachers from a wide variety of locations. May be repeated up to 4 hours. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGS396": {
+    "course_id": "AGS396",
+    "title": "AGS 396 Advanced Dairy and Meat Animal Evaluation",
+    "desc": "Recommended Prerequisite: <span data-link='AGS196'>AGS 196</span>. Continuation of <span data-link='AGS196'>AGS 196</span> with special emphasis on comparative judging and giving of oral reasons. A variable content course; may be repeated for up to 4 semester hours. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGS402": {
+    "course_id": "AGS402",
+    "title": "AGS 402 Applied Reproductive Techniques",
+    "desc": "Recommended Prerequisite: <span data-link='AGS302'>AGS 302</span>. Techniques of artificial insemination, pregnancy determination, semen processing and collecting, and embryo transfer. Planning and management for successful artificial breeding programs. Additional Saturday field trips may be required. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGS432": {
+    "course_id": "AGS432",
+    "title": "AGS 432 Sheep and Goat Science",
+    "desc": "Recommended Prerequisite: <span data-link='AGS311'>AGS 311</span>. Applications of the principles of nutrition, physiology and genetics to sheep and goat management. Wool and mohair production. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGS442": {
+    "course_id": "AGS442",
+    "title": "AGS 442 Swine Science",
+    "desc": "Recommended Prerequisite: <span data-link='AGS311'>AGS 311</span>. Applications of the principals of nutrition, physiology and genetics of swine management. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGS446": {
+    "course_id": "AGS446",
+    "title": "AGS 446 Dairy Production",
+    "desc": "Recommended Prerequisite: <span data-link='AGS311'>AGS 311</span>. Efficient dairy farm enterprise organization, feed supplies, economical rations, breeding record analysis, labor-saving buildings and equipment, herd replacements, health and other management problems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGS451": {
+    "course_id": "AGS451",
+    "title": "AGS 451 Poultry Science",
+    "desc": "Recommended Prerequisite: <span data-link='AGS101'>AGS 101</span>. Broiler production, market turkey production, egg production and processing of poultry products. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGS452": {
+    "course_id": "AGS452",
+    "title": "AGS 452 Beef Cattle Production",
+    "desc": "Recommended Prerequisite: <span data-link='AGS101'>AGS 101</span>. Production and management of purebred and commercial beef cattle. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGS461": {
+    "course_id": "AGS461",
+    "title": "AGS 461 Equine Nutrition and Physiology",
+    "desc": "Recommended Prerequisite: <span data-link='AGS310'>AGS 310</span>; and <span data-link='AGS301'>AGS 301</span> or <span data-link='AGS302'>AGS 302</span>. Nutrition and physiology for the production, management and use of the equine. May be taught concurrently with <span data-link='AGS661'>AGS 661</span>. Cannot receive credit for both <span data-link='AGS461'>AGS 461</span> and <span data-link='AGS641'>AGS 641</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGS492": {
+    "course_id": "AGS492",
+    "title": "AGS 492 Problems in Animal Science",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Assigned investigations dealing with current problems in animal science supervised by an agricultural staff member. Student prepares outline, investigates the sources of information concerning the subject, and summarizes his/her findings in a written report. May be repeated with permission. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGS511": {
+    "course_id": "AGS511",
+    "title": "AGS 511 Animal Nutrition and Metabolism",
+    "desc": "Recommended Prerequisite: <span data-link='AGR300'>AGR 300</span> or [<span data-link='CHM201'>CHM 201</span> and 202] or <span data-link='CHM310'>CHM 310</span>. Utilization and metabolism of nutrients by domestic animals; role of vitamins and minerals. May be taught concurrently with <span data-link='AGS611'>AGS 611</span>. Cannot receive credit for both <span data-link='AGS611'>AGS 611</span> and <span data-link='AGS511'>AGS 511</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGS611": {
+    "course_id": "AGS611",
+    "title": "AGS 611 Animal Nutrition and Metabolism",
+    "desc": "Recommended Prerequisite: <span data-link='AGR300'>AGR 300</span> or [<span data-link='CHM201'>CHM 201</span> and 202] or <span data-link='CHM310'>CHM 310</span>. Utilization and metabolism of nutrients by domestic animals; role of vitamins and minerals. May be taught concurrently with <span data-link='AGS511'>AGS 511</span>. Cannot receive credit for both <span data-link='AGS511'>AGS 511</span> and <span data-link='AGS611'>AGS 611</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGS661": {
+    "course_id": "AGS661",
+    "title": "AGS 661 Equine Nutrition and Physiology",
+    "desc": "Recommended Prerequisite: courses in animal nutrition and physiology. Topics covered will include nutrition and both reproductive and exercise physiology for the production and management of the equine. May be taught concurrently with <span data-link='AGS461'>AGS 461</span>. Cannot receive credit for both <span data-link='AGS661'>AGS 661</span> and <span data-link='AGS461'>AGS 461</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGS712": {
+    "course_id": "AGS712",
+    "title": "AGS 712 Special Topics in Animal Science",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Special study in an identified area of animal science not treated in other courses. Recent advances and new research techniques will be discussed. May be repeated when topic varies up to 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGS716": {
+    "course_id": "AGS716",
+    "title": "AGS 716 Mammalian Reproductive Physiology",
+    "desc": "Recommended Prerequisite: <span data-link='AGS302'>AGS 302</span>. Comparative anatomy and physiological processes of reproduction with an emphasis on domestic and laboratory animals. Fertilization through embryonic development, pregnancy, and growth to sexual maturity, reproductive efficiency and application of reproductive technology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGT416": {
+    "course_id": "AGT416",
+    "title": "AGT 416 Principles of Teaching Industrial Education",
+    "req": "<em>Prerequisite: <span data-link='EDC150'>EDC 150</span> and <span data-link='SEC302'>SEC 302</span> and 60 hours; and admitted to teacher education program or teacher certification.</em>",
+    "desc": "Instructional methods of attaining the objectives of technology education and vocational industrial technical education; design of individualized instruction and classroom and laboratory management; techniques of problem solving and applied critical thinking/decision-making; construction of tests; student evaluation; and use of visual aids. Credited only on BSEd (Secondary). A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='AGT493'>AGT 493</span> or <span data-link='AGT494'>AGT 494</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGT420": {
+    "course_id": "AGT420",
+    "title": "AGT 420 Technology Education for the Classroom",
+    "req": "<em>Prerequisite: <span data-link='AGT416'>AGT 416</span> or concurrent enrollment; <span data-link='EDC150'>EDC 150</span> and <span data-link='SEC302'>SEC 302</span>; and 60 hours; and admitted to Teacher Education Program or teacher certification.</em>",
+    "desc": "Techniques, constructional activities, instructional materials and critical thinking/problem solving activities used in teaching technology education in elementary and secondary schools. Credited only on BSEd (Secondary). A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='AGT493'>AGT 493</span> or <span data-link='AGT494'>AGT 494</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGT493": {
+    "course_id": "AGT493",
+    "title": "AGT 493 Supervised Teaching (Secondary Technology)",
+    "req": "<em>Prerequisite: completion of all method courses in Technology; a grade of &quot;C&quot; or better in all professional education courses; current pre-professional liability insurance; and approval for student teaching.</em>",
+    "desc": "Student observes then teaches industrial technology classes under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGT494": {
+    "course_id": "AGT494",
+    "title": "AGT 494 Supervised Teaching (Secondary Technology)",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='AGT493'>AGT 493</span>.</em>",
+    "desc": "Student observes then teaches under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. The course will not count toward the major GPA. Supplemental course fee. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "AGT499": {
+    "course_id": "AGT499",
+    "title": "AGT 499 Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate master&apos;s level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AGT521": {
+    "course_id": "AGT521",
+    "title": "AGT 521 Selection and Organization of Industrial Education",
+    "req": "<em>Prerequisite: <span data-link='AGT416'>AGT 416</span> or concurrent enrollment; and <span data-link='AGT420'>AGT 420</span> or concurrent enrollment.</em>",
+    "desc": "Selection and arrangement of units to teach; preparation of informational and job assignments; selection, purchase and arrangement of laboratory equipment; dispensing of supplies and keeping of adequate records. Course typically taken in same semester as <span data-link='AGT416'>AGT 416</span> and <span data-link='AGT420'>AGT 420</span>. Cannot receive credit for both <span data-link='AGT521'>AGT 521</span> and <span data-link='AGV521'>AGV 521</span>. May be taught concurrently with <span data-link='AGT621'>AGT 621</span>. Cannot receive credit for both <span data-link='AGT621'>AGT 621</span> and <span data-link='AGT521'>AGT 521</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGT621": {
+    "course_id": "AGT621",
+    "title": "AGT 621 Selection and Organization of Industrial Education",
+    "req": "<em>Prerequisite: <span data-link='AGT416'>AGT 416</span> or concurrent enrollment; and <span data-link='AGT420'>AGT 420</span> or concurrent enrollment.</em>",
+    "desc": "Selection and arrangement of units to teach; preparation of informational and job assignments; selection, purchase and arrangement of laboratory equipment; dispensing of supplies and keeping of adequate records. Course typically taught in same semester as <span data-link='AGT416'>AGT 416</span> and <span data-link='AGT420'>AGT 420</span>. Identical with <span data-link='AGV621'>AGV 621</span>. Cannot receive credit for both <span data-link='AGT621'>AGT 621</span> and <span data-link='AGV621'>AGV 621</span>. May be taught concurrently with <span data-link='AGT521'>AGT 521</span>. Cannot receive credit for both <span data-link='AGT521'>AGT 521</span> and <span data-link='AGT621'>AGT 621</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "AGV520": {
+    "course_id": "AGV520",
+    "title": "AGV 520 Occupational Analysis",
+    "desc": "Analysis and breakdown of broad occupations or specific jobs into basic elements for instructional purposes. Identical with <span data-link='BSE520'>BSE 520</span>. May be repeated to a total of 2 hours when topic varies. May be taught concurrently with <span data-link='AGV620'>AGV 620</span>. Cannot receive credit for both <span data-link='AGV620'>AGV 620</span> and <span data-link='AGV520'>AGV 520</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV521": {
+    "course_id": "AGV521",
+    "title": "AGV 521 Selection and Organization of Industrial Education",
+    "desc": "Selection and arrangement of units to teach; preparation of informational and job assignments; selection, purchase and arrangement of laboratory equipment; dispensing of supplies and keeping of adequate records. Course typically taken in same semester as <span data-link='AGT416'>AGT 416</span>. Identical with <span data-link='AGT521'>AGT 521</span>. Cannot receive credit for both <span data-link='AGV521'>AGV 521</span> and <span data-link='AGT521'>AGT 521</span>. May be taught concurrently with <span data-link='AGV621'>AGV 621</span>. Cannot receive credit for both <span data-link='AGV621'>AGV 621</span> and <span data-link='AGV521'>AGV 521</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV522": {
+    "course_id": "AGV522",
+    "title": "AGV 522 Philosophy of Vocational Education",
+    "desc": "Philosophical foundations of vocational education; philosophies of vocational education in the contemporary school. Identical with <span data-link='SEC522'>SEC 522</span> and <span data-link='BSE522'>BSE 522</span>. May be repeated to a maximum of 3 hours when topic varies. May be taught concurrently with <span data-link='AGV622'>AGV 622</span>. Cannot receive credit for both <span data-link='AGV622'>AGV 622</span> and <span data-link='AGV522'>AGV 522</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV523": {
+    "course_id": "AGV523",
+    "title": "AGV 523 Guidance for Vocational Development",
+    "desc": "Materials, procedures, and problems involved in the guidance of individuals in the selection of, preparation for, and advancement in a vocation. Identical with <span data-link='BSE523'>BSE 523</span>. May be repeated to a total of 3 hours when topics varies. May be taught concurrently with <span data-link='AGV623'>AGV 623</span>. Cannot receive credit for both <span data-link='AGV623'>AGV 623</span> and <span data-link='AGV523'>AGV 523</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV525": {
+    "course_id": "AGV525",
+    "title": "AGV 525 Organization and Management in Vocational Education",
+    "desc": "A systematic approach to defining and measuring occupational knowledge, skills and attitudes based upon an occupational analysis, instructional methodology, evaluation, and program standards. May be taught concurrently with <span data-link='AGV625'>AGV 625</span>. Cannot receive credit for both <span data-link='AGV625'>AGV 625</span> and <span data-link='AGV525'>AGV 525</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV526": {
+    "course_id": "AGV526",
+    "title": "AGV 526 Coordination of Cooperative Education",
+    "desc": "Problems and procedures in organizing and operating part-time cooperative and evening occupation programs. Identical with <span data-link='BSE526'>BSE 526</span> and <span data-link='SEC526'>SEC 526</span>. May be repeated to a total of 2 hours when topic varies. May be taught concurrently with <span data-link='AGV626'>AGV 626</span>. Cannot receive credit for both <span data-link='AGV626'>AGV 626</span> and <span data-link='AGV526'>AGV 526</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV527": {
+    "course_id": "AGV527",
+    "title": "AGV 527 Teaching Adults in Vocational Education",
+    "desc": "Rise of the adult education movement, learning abilities, educational interests, and vocational needs of adults; problems and procedures in organizing and operating adult education programs; relationship of adult education to public school education. Identical with <span data-link='AGE508'>AGE 508</span> and <span data-link='SEC527'>SEC 527</span>. Cannot receive credit for <span data-link='AGV527'>AGV 527</span> and <span data-link='AGE508'>AGE 508</span> and <span data-link='SEC527'>SEC 527</span>. May be taught concurrently with <span data-link='AGV627'>AGV 627</span>. Cannot receive credit for both <span data-link='AGV627'>AGV 627</span> and <span data-link='AGV527'>AGV 527</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV528": {
+    "course_id": "AGV528",
+    "title": "AGV 528 Measurement and Evaluation of Vocational Education Programs",
+    "desc": "Means for assessing specific program needs as determined from occupational surveys and other demographic data; follow-up techniques to evaluate the overall effectiveness of the program to the manpower needs in a given labor market area. Identical with <span data-link='BSE528'>BSE 528</span> and <span data-link='SEC528'>SEC 528</span>. May be repeated to a total of 3 hours with departmental approval when topic varies. May be taught concurrently with <span data-link='AGV628'>AGV 628</span>. Cannot receive credit for both <span data-link='AGV628'>AGV 628</span> and <span data-link='AGV528'>AGV 528</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV576": {
+    "course_id": "AGV576",
+    "title": "AGV 576 Teaching of Industrial/Vocational Subjects",
+    "desc": "Instructional methods and techniques of teaching industrial/vocational education subjects; attaining objectives of career and technical education, design and evaluation of instructional units; classroom and laboratory management; and development of evaluative instruments. May be taught concurrently with <span data-link='AGV676'>AGV 676</span>. Cannot receive credit for both <span data-link='AGV676'>AGV 676</span> and <span data-link='AGV576'>AGV 576</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV620": {
+    "course_id": "AGV620",
+    "title": "AGV 620 Occupational Analysis",
+    "desc": "Analysis and breakdown of broad occupations or specific jobs into basic elements for instructional purposes. Identical with <span data-link='BSE620'>BSE 620</span>. May be repeated to a total of 2 hours when topic varies. May be taught concurrently with <span data-link='AGV520'>AGV 520</span>. Cannot receive credit for both <span data-link='AGV520'>AGV 520</span> and <span data-link='AGV620'>AGV 620</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV621": {
+    "course_id": "AGV621",
+    "title": "AGV 621 Selection and Organization of Industrial Education",
+    "desc": "Selection and arrangement of units to teach; preparation of informational and job assignments; selection, purchase and arrangement of laboratory equipment; dispensing of supplies and keeping of adequate records. Course typically taken in same semester as <span data-link='AGT416'>AGT 416</span>. Identical with <span data-link='AGT621'>AGT 621</span>. Cannot receive credit for both <span data-link='AGV621'>AGV 621</span> and <span data-link='AGT621'>AGT 621</span>. May be taught concurrently with <span data-link='AGV521'>AGV 521</span>. Cannot receive credit for both <span data-link='AGV521'>AGV 521</span> and <span data-link='AGV621'>AGV 621</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV622": {
+    "course_id": "AGV622",
+    "title": "AGV 622 Philosophy of Vocational Education",
+    "desc": "Philosophical foundations of vocational education; philosophies of vocational education in the contemporary school. Identical with <span data-link='SEC622'>SEC 622</span> and <span data-link='BSE622'>BSE 622</span>. May be repeated to a maximum of 3 hours when topic varies. May be taught concurrently with <span data-link='AGV522'>AGV 522</span>. Cannot receive credit for both <span data-link='AGV522'>AGV 522</span> and <span data-link='AGV622'>AGV 622</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV623": {
+    "course_id": "AGV623",
+    "title": "AGV 623 Guidance for Vocational Development",
+    "desc": "Materials, procedures, and problems involved in the guidance of individuals in the selection of, preparation for, and advancement in a vocation. Identical with <span data-link='BSE623'>BSE 623</span>. May be repeated to a total of 3 hours when topics varies. May be taught concurrently with <span data-link='AGV523'>AGV 523</span>. Cannot receive credit for both <span data-link='AGV523'>AGV 523</span> and <span data-link='AGV623'>AGV 623</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV625": {
+    "course_id": "AGV625",
+    "title": "AGV 625 Organization and Management in Vocational Education",
+    "desc": "A systematic approach to defining and measuring occupational knowledge, skills and attitudes based upon an occupational analysis, instructional methodology, evaluation, and program standards. May be taught concurrently with <span data-link='AGV525'>AGV 525</span>. Cannot receive credit for both <span data-link='AGV525'>AGV 525</span> and <span data-link='AGV625'>AGV 625</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV626": {
+    "course_id": "AGV626",
+    "title": "AGV 626 Coordination of Cooperative Education",
+    "desc": "Problems and procedures in organizing and operating part-time cooperative and evening occupation programs. Identical with <span data-link='BSE626'>BSE 626</span> and <span data-link='SEC626'>SEC 626</span>. May be repeated to a total of 2 hours when topic varies. May be taught concurrently with <span data-link='AGV526'>AGV 526</span>. Cannot receive credit for both <span data-link='AGV626'>AGV 626</span> and <span data-link='AGV526'>AGV 526</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV627": {
+    "course_id": "AGV627",
+    "title": "AGV 627 Teaching Adults in Vocational Education",
+    "desc": "Rise of the adult education movement, learning abilities, educational interests, and vocational needs of adults; problems and procedures in organizing and operating adult education programs; relationship of adult education to public school education. Identical with <span data-link='AGE608'>AGE 608</span> and <span data-link='SEC627'>SEC 627</span>. Cannot receive credit for <span data-link='AGV627'>AGV 627</span> and <span data-link='AGE608'>AGE 608</span> and <span data-link='SEC627'>SEC 627</span>. May be taught concurrently with <span data-link='AGV527'>AGV 527</span>. Cannot receive credit for both <span data-link='AGV527'>AGV 527</span> and <span data-link='AGV627'>AGV 627</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV628": {
+    "course_id": "AGV628",
+    "title": "AGV 628 Measurement and Evaluation of Vocational Education Programs",
+    "desc": "Means for assessing specific program needs as determined from occupational surveys and other demographic data; follow-up techniques to evaluate the overall effectiveness of the program to the manpower needs in a given labor market area. Identical with <span data-link='BSE628'>BSE 628</span> and <span data-link='SEC628'>SEC 628</span>. May be repeated to a total of 3 hours with departmental approval when topic varies. May be taught concurrently with <span data-link='AGV528'>AGV 528</span>. Cannot receive credit for both <span data-link='AGV528'>AGV 528</span> and <span data-link='AGV628'>AGV 628</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV676": {
+    "course_id": "AGV676",
+    "title": "AGV 676 Teaching of Industrial/Vocational Subjects",
+    "desc": "Instructional methods and techniques of teaching industrial/vocational education subjects; attaining objectives of career and technical education, design and evaluation of instructional units; classroom and laboratory management; and development of evaluative instruments. May be taught concurrently with <span data-link='AGV576'>AGV 576</span>. Cannot receive credit for both <span data-link='AGV576'>AGV 576</span> and <span data-link='AGV676'>AGV 676</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV724": {
+    "course_id": "AGV724",
+    "title": "AGV 724 Organization and Administration of Vocational Education",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Problems, procedures and local, state and federal relationships in the organization and administration of vocational education in the contemporary school. Identical with <span data-link='SFR724'>SFR 724</span>. May be repeated to a total of 3 hours when topic varies. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV726": {
+    "course_id": "AGV726",
+    "title": "AGV 726 Seminar in Industrial Education",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Presentation and discussion of professional or technical problems in the organization and management of programs and facilities in industrial education. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AGV760": {
+    "course_id": "AGV760",
+    "title": "AGV 760 Special Investigations",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "The student, in consultation with the advisor, selects for in-depth study an area determined by the interest/career objectives of the student. Based on demand and timeliness of the subject, a cluster study group may engage in a joint investigation. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

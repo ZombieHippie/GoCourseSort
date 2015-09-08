@@ -1,0 +1,1382 @@
+{
+  "ANT100": {
+    "course_id": "ANT100",
+    "title": "ANT 100 World Cultures",
+    "req": "<em>General Education Course (Focus on Cultural Competence).</em>",
+    "desc": "An exploration of cultural differences throughout the world, with emphasis on nonwestern societies, from the perspective of cultural anthropology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ANT125": {
+    "course_id": "ANT125",
+    "title": "ANT 125 Exploring Our Human Ancestry",
+    "req": "<em>General Education Course (Focus on Social and Behavioral Sciences).</em>",
+    "desc": "This course explores what it means to be human by tracing our biological and cultural roots. Topics include the evolutionary process; our place among the living primates; fossil and archaeological evidence of human ancestors; and the origins of language, society, and culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ANT226": {
+    "course_id": "ANT226",
+    "title": "ANT 226 Cultural Anthropology",
+    "desc": "The comparative study of human society and culture, focusing on theories of culture and cultural institutions and ethnographic and cross-cultural methods of research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ANT227": {
+    "course_id": "ANT227",
+    "title": "ANT 227 Biological Anthropology",
+    "desc": "An examination of biological aspects of humanity from comparative and evolutionary perspectives. Topics include evolutionary theory, the origin and evolution of nonhuman primates and humans, primate behavior, biological variation among human populations, and anatomical and physiological influences on behavior. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ANT240": {
+    "course_id": "ANT240",
+    "title": "ANT 240 Introduction to Archaeology",
+    "desc": "An introduction to the goals, methods, theories, issues, and ethics of archaeology-the study of cultures in the past from the remains they left behind. Topics will include archaeological survey, excavation, dating techniques, artifact analysis, conservation, and cultural adaptation and change. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ANT280": {
+    "course_id": "ANT280",
+    "title": "ANT 280 Linguistic Anthropology",
+    "desc": "This course is an introduction to the field of linguistic anthropology, with special emphasis on language as a basic component of human culture. Subjects include the humanness of language, the study of linguistic structure, description and analysis of languages, origins of human speech, the history of languages and writing, the use of language in social relations, and the relationship among language, thought, and culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ANT301": {
+    "course_id": "ANT301",
+    "title": "ANT 301 Anthropology of Religion",
+    "req": "<em>Prerequisite: <span data-link='ANT100'>ANT 100</span> or <span data-link='ANT226'>ANT 226</span> or <span data-link='REL210'>REL 210</span>.</em>",
+    "desc": "Anthropological theory and cross-cultural comparison of religious belief and behavior, such as magic, sorcery, witchcraft, mythology, ritual, totemism, shamanism, cults and movements. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT302": {
+    "course_id": "ANT302",
+    "title": "ANT 302 Psychological Anthropology",
+    "req": "<em>Prerequisite: <span data-link='ANT100'>ANT 100</span> or 226.</em>",
+    "desc": "Cross-cultural and evolutionary perspectives on socialization, the self, personality, gender, normality, deviance, mental disorders, cognition, and emotion. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT309": {
+    "course_id": "ANT309",
+    "title": "ANT 309 Service Learning in Anthropology",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in an anthropology course designated as a service learning offering.</em>",
+    "desc": "An integrative learning experience which addresses the practice of citizenship and promotes an awareness of and participation in public affairs by incorporating community service with classroom instruction. Includes 40 hours on-task service to a community organization, agency or public sector provider. The community service placement agency and service assignment will vary, dependent on the disciplinary course topic and learning objectives. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ANT320": {
+    "course_id": "ANT320",
+    "title": "ANT 320 Ethnography",
+    "req": "<em>Prerequisite: <span data-link='ANT100'>ANT 100</span> or <span data-link='ANT226'>ANT 226</span>.</em>",
+    "desc": "In this course students will read, critique, and compare selected ethnographic accounts of societies around the world and explore ways in which anthropologists have written about and interpreted cultures. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT325": {
+    "course_id": "ANT325",
+    "title": "ANT 325 North American Indian Cultures",
+    "req": "<em>Prerequisite: <span data-link='ANT100'>ANT 100</span> or <span data-link='ANT226'>ANT 226</span>.</em>",
+    "desc": "A survey and comparison of Native American societies and cultures in North America (north of Mexico), including their ecology, subsistence, technology, social organization, politics, and religion. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT326": {
+    "course_id": "ANT326",
+    "title": "ANT 326 Plains Indian Cultures",
+    "desc": "This course examines the origins, development, and traditional cultures of Native American groups in the North American Plains region. Topics will include the prehistoric record, historical influences, material culture, subsistence, languages, social organization, trade, law and social control, warfare and alliances, art and religion. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT330": {
+    "course_id": "ANT330",
+    "title": "ANT 330 Peoples and Cultures",
+    "desc": "Anthropological study of a cultural region of the world (such as the Caribbean, Latin America, or Southeastern Indians), including environment, subsistence, technology, economy, social and political organization, and religion. May be repeated when topic changes. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT331": {
+    "course_id": "ANT331",
+    "title": "ANT 331 Peoples and Cultures of the Caribbean",
+    "desc": "An introduction to the peoples, societies, and cultures of the Caribbean region, which includes the islands of the West Indies and portions of Central and South America. This course will examine the development of the region from prehistoric times to the present and the effects of the Atlantic slave trade, the African diaspora, sugar plantations, and Spanish, British, French, Dutch, and American colonialism on the region today. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT332": {
+    "course_id": "ANT332",
+    "title": "ANT 332 Peoples and Cultures of Africa",
+    "desc": "An exploration of African societies (especially sub-Saharan), including family structure, gender relations, social and political organization, beliefs, economics, art, oral literature, music, dance, and other aspects of culture. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT334": {
+    "course_id": "ANT334",
+    "title": "ANT 334 Peoples and Cultures of Japan",
+    "desc": "An anthropological survey of the culture and cultural development of the peoples of Japan, from prehistory to the present, including cultural ideology and ethos, social organization, major cultural principles, customs, religion, technology, material culture, and the arts. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT335": {
+    "course_id": "ANT335",
+    "title": "ANT 335 Peoples and Cultures of the Middle East",
+    "req": "<em>Prerequisite: <span data-link='ANT100'>ANT 100</span> or <span data-link='ANT226'>ANT 226</span>.</em>",
+    "desc": "A survey presentation of key themes and problems to be found in the Middle East, ranging from the re-establishment of Israel to modernity and tradition in the greater Arab Near East. In addition, topics ranging from the individual to state formation will be discussed. Traditional society, customs, and historical patterns will be examined. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT340": {
+    "course_id": "ANT340",
+    "title": "ANT 340 Old World Archaeology",
+    "req": "<em>Prerequisite: <span data-link='ANT240'>ANT 240</span> or <span data-link='ANT250'>ANT 250</span>.</em>",
+    "desc": "A detailed survey of prehistory in selected areas of Europe, Africa, the Middle East, the Far East, Australia and Oceania. Emphasis on the latest theoretical considerations and outstanding archaeological problems of each region. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT345": {
+    "course_id": "ANT345",
+    "title": "ANT 345 Historical Archaeology",
+    "req": "<em>Prerequisite: <span data-link='ANT240'>ANT 240</span>.</em>",
+    "desc": "Historical archaeology investigates the emergence of the modern world over the past ca. 500 years through the study of the material traces of human behavior, in conjunction with the study of written and oral records. This course provides an in-depth introduction to the field of historical archaeology including its methods, theoretical approaches, debates, and applications. Key topics include the historical archaeology of colonialism, slavery, class, gender, ethnicity, consumerism, capitalism, and industrialization. By the end of the course, students will understand how archaeologists recover, analyze, and interpret historical artifacts. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT351": {
+    "course_id": "ANT351",
+    "title": "ANT 351 Field Archaeology",
+    "req": "<em>Prerequisite: <span data-link='ANT125'>ANT 125</span> or <span data-link='ANT240'>ANT 240</span>; and permission.</em>",
+    "desc": "Field experience in the techniques, methods and theories of reconnaissance and excavation of archaeological sites. May be repeated to a total of 9 hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT355": {
+    "course_id": "ANT355",
+    "title": "ANT 355 Environmental Archaeology",
+    "req": "<em>Prerequisite: <span data-link='ANT240'>ANT 240</span> or <span data-link='BIO122'>BIO 122</span> or <span data-link='GLG110'>GLG 110</span> or <span data-link='GLG171'>GLG 171</span> or <span data-link='GRY108'>GRY 108</span> or <span data-link='GRY142'>GRY 142</span>.</em>",
+    "desc": "This course focuses on the archaeological study of human interactions with the environment over long periods of time and in multiple settings. It will emphasize both the methods scientists in multiple disciplines use to reconstruct past environments and the conceptual frameworks that are relevant to understanding how people acted on and reacted to the changing world around them. As a holistic and diachronic study of the socio-natural system, environmental archaeology can provide unique perspectives on today&apos;s ecological challenges. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT360": {
+    "course_id": "ANT360",
+    "title": "ANT 360 North American Archaeology",
+    "req": "<em>Prerequisite: <span data-link='ANT240'>ANT 240</span>.</em>",
+    "desc": "Americanist archaeology is distinctive as a set of theoretical and methodological orientations. This course illustrates those orientations through archaeological case studies of initial human migrations, hunting-and-gathering societies, the formation of more complex polities, and European colonialism in North America. The multiple contexts of archaeological research and its impacts on living people are also considered. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT363": {
+    "course_id": "ANT363",
+    "title": "ANT 363 Survey of Forensic Anthropology",
+    "desc": "A survey of the scope of forensic anthropology, which deals with identification and interpretation of human skeletal remains in medico-legal contexts. Included in this course are both theoretical and practical components. Topics to be discussed include the history and ethics of forensic anthropology, forensic investigation, influence of activity and disease on bone, and human rights applications. Practical aspects cover identification of bones and features of the human skeleton; techniques for determining age, sex, stature and race, and distinguishing human from nonhuman skeletal remains. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT365": {
+    "course_id": "ANT365",
+    "title": "ANT 365 Human Variation",
+    "req": "<em>Prerequisite: <span data-link='ANT227'>ANT 227</span> or <span data-link='BIO101'>BIO 101</span> and 111 or <span data-link='BIO121'>BIO 121</span> or <span data-link='BMS100'>BMS 100</span> or <span data-link='BMS105'>BMS 105</span> or <span data-link='BMS110'>BMS 110</span>.</em>",
+    "desc": "An examination of ways in which humans have adapted both genetically and physiologically to a wide variety of environments and how these adaptations have produced the biological variation seen in contemporary human populations. Major topics will include historical and current approaches to classifying human groups, human growth and development, adaptation and acclimatization to specialized environments, genetic disease, and tracing lineages through DNA analysis. It will also explore recent studies relating human biology to social constructs such as gender, race, ethnicity, and intelligence. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT370": {
+    "course_id": "ANT370",
+    "title": "ANT 370 The Living Primates",
+    "req": "<em>Prerequisite: <span data-link='ANT227'>ANT 227</span> or <span data-link='BIO122'>BIO 122</span> or <span data-link='PSY336'>PSY 336</span>.</em>",
+    "desc": "An introduction to the human species&apos; closest relatives, the nonhuman primates (prosimians, monkeys, and apes); their taxonomy, distribution, morphology, ecology, evolution, behavior, and conservation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT375": {
+    "course_id": "ANT375",
+    "title": "ANT 375 Human Evolution",
+    "req": "<em>Prerequisite: <span data-link='ANT227'>ANT 227</span> or <span data-link='BIO122'>BIO 122</span>.</em>",
+    "desc": "An exploration into the evolution of the human species, through examination of fossil and molecular evidence. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT380": {
+    "course_id": "ANT380",
+    "title": "ANT 380 Language and Culture",
+    "req": "<em>Prerequisite: <span data-link='ANT280'>ANT 280</span> or <span data-link='ENG296'>ENG 296</span>.</em>",
+    "desc": "Advanced study in linguistic anthropology on topics such as ethnographies of speaking, ethnolinguistics, language change and historical linguistics. Variable content course. May be repeated when topic changes. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ANT381": {
+    "course_id": "ANT381",
+    "title": "ANT 381 Language, Thought, and Culture",
+    "req": "<em>Prerequisite: <span data-link='ANT280'>ANT 280</span> or <span data-link='ENG296'>ENG 296</span>.</em>",
+    "desc": "This course explores the relationship among language, thought, and culture; how language delineates underlying categories of human experience, and how language influences perspective on the world and everyday behavior. Specific topics will include linguistic relativity, the Whorf hypothesis, language and world-view, and metaphor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT382": {
+    "course_id": "ANT382",
+    "title": "ANT 382 Writing, Literacy, and Orality",
+    "req": "<em>Prerequisite: <span data-link='ANT280'>ANT 280</span> or <span data-link='ENG296'>ENG 296</span>.</em>",
+    "desc": "This course explores the development and structure of writing systems around the world, and the relationship between writing systems and languages; the effects writing and literacy have had on social, political, and religious institutions, as well as on psychology and cognition; characteristics of oral societies; and knowledge, memory, and performance in oral vs. literate societies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT390": {
+    "course_id": "ANT390",
+    "title": "ANT 390 Native American Code Talkers",
+    "desc": "This course explores the use of Native American languages in U.S. military service during World War I and World War II. The cultural background of code talkers, their recruitment, use in combat situations and post war experiences will be examined, along with their unique status in Native American cultures and recent efforts to document and recognize them. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT397": {
+    "course_id": "ANT397",
+    "title": "ANT 397 Special Topics",
+    "desc": "Selected topics such as primitive technology, cultural ecology and behavioral evolution. May be repeated to a total of 9 hours when topic changes. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT490": {
+    "course_id": "ANT490",
+    "title": "ANT 490 Field Experience in Anthropology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Supervised group study and/or research in an off campus setting. A fee may be charged to cover travel expenses. May be repeated when subject changes. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT499": {
+    "course_id": "ANT499",
+    "title": "ANT 499 Internship in Anthropology",
+    "req": "<em>Prerequisite: 18 hours of ANT and permission of instructor.</em>",
+    "desc": "This independent study course provides an opportunity to earn academic credit for supervised work experience related to anthropology with an approved business, industry, organization, or government agency. May be repeated to a total of six hours. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT500": {
+    "course_id": "ANT500",
+    "title": "ANT 500 Applied Anthropology",
+    "req": "<em>Prerequisite: <span data-link='ANT226'>ANT 226</span> and 75 hours.</em>",
+    "desc": "An introduction to the field of applied anthropology, which is the application of anthropological methods, theories, and knowledge to the problems of society. Applied anthropology is the fastest growing field of anthropology today because it provides a basis for many careers. Course will examine the role of cultural anthropologists in areas such as foreign aid and development projects, migrant and refuge services, disasters and humanitarian assistance, human rights issues, business and industry, health and medicine, tourism, environmental protection, fisheries management, the military, and cultural preservation. May be taught concurrently with <span data-link='ANT500'>ANT 500</span>. Cannot receive credit for both <span data-link='ANT500'>ANT 500</span> and <span data-link='ANT600'>ANT 600</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT505": {
+    "course_id": "ANT505",
+    "title": "ANT 505 Ethnohistory",
+    "req": "<em>Prerequisite: <span data-link='ANT226'>ANT 226</span> and 80 hours.</em>",
+    "desc": "The use of documents, maps, photos, recordings, oral histories, artifacts, folklore, linguistics, and ethnography to reconstruct the culture history of a social or ethnic group, particularly historically marginalized peoples such as Native Americans. May be taught concurrently with <span data-link='ANT605'>ANT 605</span>. Cannot receive credit for both <span data-link='ANT505'>ANT 505</span> and <span data-link='ANT605'>ANT 605</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT510": {
+    "course_id": "ANT510",
+    "title": "ANT 510 Ethnographic Field Methods",
+    "req": "<em>Prerequisite: <span data-link='ANT226'>ANT 226</span> and 80 hours.</em>",
+    "desc": "Ethnographic methods and techniques in the study of culture, with emphasis on participant-observation, interviewing, note-taking and management, data analysis, and ethics. May be taught concurrently with <span data-link='ANT611'>ANT 611</span>. Cannot receive credit for both <span data-link='ANT611'>ANT 611</span> and <span data-link='ANT510'>ANT 510</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ANT514": {
+    "course_id": "ANT514",
+    "title": "ANT 514 Anthropology of Development",
+    "req": "<em>Prerequisite: <span data-link='ANT226'>ANT 226</span> and 75 hours.</em>",
+    "desc": "This course examines theories, concepts, underlying assumptions, and case studies about aid and other assistance to developing nations. Course will consider the various meanings given to development by residents of particular regions, as well as those of aid workers, policy makers, private industries, non-governmental and non-profit organizations, and government official. Course will examine how development projects and policies in areas such as public health and food systems are experienced in daily life in urban and rural areas in Africa, Latin American, and Asia. And students will develop critical thinking skills about the role of culture in the complex and diverse world of international aid. May be taught concurrently with <span data-link='ANT614'>ANT 614</span>. Cannot receive credit for both <span data-link='ANT514'>ANT 514</span> and <span data-link='ANT614'>ANT 614</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT515": {
+    "course_id": "ANT515",
+    "title": "ANT 515 Medical Anthropology",
+    "desc": "An examination of health, illness and healing from an applied anthropological perspective, Medical anthropology is one of the largest fields in the discipline of anthropology today, and one that has obvious applications. Topics may include: evolutionary perspectives on illness, the cultural construction of illness, cross-cultural variations in illness and healing, ethnomedical beliefs and practices, shamanism and other forms of symbolic healing, ethnobotany, and relations between biomedicine and ethnomedicine. May be taught concurrently with <span data-link='ANT615'>ANT 615</span>. Cannot receive credit for both <span data-link='ANT515'>ANT 515</span> and <span data-link='ANT615'>ANT 615</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT516": {
+    "course_id": "ANT516",
+    "title": "ANT 516 Anthropology of Tourism",
+    "req": "<em>Prerequisite: <span data-link='ANT226'>ANT 226</span> and 75 hours.</em>",
+    "desc": "This course examines theories, concepts, underlying assumptions, and case studies about aid and other assistance to developing nations. Course will consider the various meanings given to development by residents of particular regions, as well as those of aid workers, policy makers, private industries, non-governmental and non-profit organizations, and government official. Course will examine how development projects and policies in areas such as public health and food systems are experienced in daily life in urban and rural areas in Africa, Latin American, and Asia. And students will develop critical thinking skills about the role of culture in the complex and diverse world of international aid. May be taught concurrently with <span data-link='ANT616'>ANT 616</span>. Cannot receive credit for both <span data-link='ANT516'>ANT 516</span> and <span data-link='ANT616'>ANT 616</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT525": {
+    "course_id": "ANT525",
+    "title": "ANT 525 North American Indians Today",
+    "req": "<em>Prerequisite: <span data-link='ANT325'>ANT 325</span> or 80 hours.</em>",
+    "desc": "Focuses on major developments in North American Indian life in the 20th and 21st centuries, including cultural, social, economic, political, environmental, and legal issues that affect Native Americans today. May be taught concurrently with <span data-link='ANT626'>ANT 626</span>. Cannot receive credit for both <span data-link='ANT626'>ANT 626</span> and <span data-link='ANT525'>ANT 525</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT545": {
+    "course_id": "ANT545",
+    "title": "ANT 545 Cultural Resource Management",
+    "req": "<em>Prerequisite: <span data-link='ANT240'>ANT 240</span>; 80 hours; and permission of instructor.</em>",
+    "desc": "An examination of laws and regulations pertaining to the preservation of American history and culture and the professional management and preservation of ethnic, historic, and prehistoric cultural resources. May be taught concurrently with <span data-link='ANT645'>ANT 645</span>. Cannot receive credit for both <span data-link='ANT545'>ANT 545</span> and <span data-link='ANT645'>ANT 645</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ANT550": {
+    "course_id": "ANT550",
+    "title": "ANT 550 Advanced Methods in Archaeology",
+    "req": "<em>Prerequisite: <span data-link='ANT240'>ANT 240</span> and 80 hours.</em>",
+    "desc": "Advanced study and practice in methods and techniques employed in archaeology such as lithic, ceramic, and faunal analysis. Variable content course. May be repeated when topic changes. May be taught concurrently with <span data-link='ANT650'>ANT 650</span>. Cannot receive credit for both <span data-link='ANT650'>ANT 650</span> and <span data-link='ANT550'>ANT 550</span> for the same topic. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ANT551": {
+    "course_id": "ANT551",
+    "title": "ANT 551 Lithics",
+    "req": "<em>Prerequisite: <span data-link='ANT240'>ANT 240</span>; and 60 hours; and permission of instructor.</em>",
+    "desc": "An introduction to the study of prehistoric stone tools. Classes will include both a seminar component devoted to fundamental theoretical and methodological issues and a hands-on component designed to instruct students on the manufacture, identification and analysis of flaked stone artifacts. Students will become familiar with the major issues in lithic analysis, gain a basic understanding of flint knapping and, by the end of the course, will be prepared to conduct basic lithic research on their own. May be taught concurrently with <span data-link='ANT651'>ANT 651</span>. Cannot receive credit for both <span data-link='ANT551'>ANT 551</span> and <span data-link='ANT651'>ANT 651</span>.",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT552": {
+    "course_id": "ANT552",
+    "title": "ANT 552 Zooarchaeology",
+    "req": "<em>Prerequisite: <span data-link='ANT240'>ANT 240</span>; and 60 hours; and permission of instructor.</em>",
+    "desc": "An introduction to the study of animal remains from archaeological sites. Classes will include both a seminar component devoted to fundamental theoretical and methodological issues and a hands-on component designed to instruct students in vertebrate osteology and the identification and analysis of animal remains. Students will become familiar with the major issues in zooarchaeology, will gain a basic understanding of the vertebrate skeleton, and by the end of the course, will be prepared to conduct basic faunal research on their own. May be taught concurrently with <span data-link='ANT652'>ANT 652</span>. Cannot receive credit for both <span data-link='ANT552'>ANT 552</span> and <span data-link='ANT652'>ANT 652</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT555": {
+    "course_id": "ANT555",
+    "title": "ANT 555 Archaeological Theory",
+    "req": "<em>Prerequisite: <span data-link='ANT240'>ANT 240</span>; and 80 hours; and permission of instructor.</em>",
+    "desc": "A comprehensive and in-depth examination of theoretical issues and perspectives concerning the practice of archaeology and the interpretation of archaeological remains. May be taught concurrently with <span data-link='ANT655'>ANT 655</span>. Cannot receive credit for both <span data-link='ANT555'>ANT 555</span> and <span data-link='ANT655'>ANT 655</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT595": {
+    "course_id": "ANT595",
+    "title": "ANT 595 History of Anthropological Theory",
+    "req": "<em>Prerequisite: <span data-link='ANT226'>ANT 226</span> and 80 hours.</em>",
+    "desc": "Senior culminating course for Anthropology majors. This course traces the development of anthropology and anthropological theory, with emphasis on the major theorists and schools of thought in the twentieth century. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ANT596": {
+    "course_id": "ANT596",
+    "title": "ANT 596 Directed Readings in Anthropology",
+    "req": "<em>Prerequisite: 6 hours of ANT and permission of instructor.</em>",
+    "desc": "Readings designed to supplement material introduced in previous anthropology courses. Includes a wide selection of literature in the field. May be repeated to a total of 6 hours. Cannot receive credit for more than 6 hours of <span data-link='ANT596'>ANT 596</span> and <span data-link='ANT696'>ANT 696</span> combined. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ANT598": {
+    "course_id": "ANT598",
+    "title": "ANT 598 Seminar in Anthropology",
+    "req": "<em>Prerequisite: 60 hours and permission of instructor.</em>",
+    "desc": "A detailed investigation and analysis of a specialized or advanced topic of interest to anthropology (e.g., Upper Paleolithic art, the evolution of human behavior, ethnographies of religion). May be repeated when topic changes. Variable content course. May be taught concurrently with <span data-link='ANT698'>ANT 698</span>. Cannot receive credit for both <span data-link='ANT698'>ANT 698</span> and <span data-link='ANT598'>ANT 598</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT599": {
+    "course_id": "ANT599",
+    "title": "ANT 599 Directed Research in Anthropology",
+    "req": "<em>Prerequisite: 9 hours in Anthropology and permission of instructor.</em>",
+    "desc": "Individual or group research involving supervised collection and analysis of cultural data. May be repeated to a total of 9 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ANT600": {
+    "course_id": "ANT600",
+    "title": "ANT 600 Applied Anthropology",
+    "desc": "An introduction to the practice of applied anthropology, which is the application of anthropological methods, theories, and knowledge to the problems of society. Applied anthropology is the fastest growing field of anthropology today and provides a basis for many careers. We will examine the role of anthropologists in areas such as foreign aid and development projects, migrant and refugee services, disasters and humanitarian assistance, human rights issues, business and industry, health and medicine, tourism, environmental protection, fisheries management, the military, and cultural preservation. May be taught concurrently with <span data-link='ANT500'>ANT 500</span>. Cannot receive credit for both <span data-link='ANT500'>ANT 500</span> and ANGT 600. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT605": {
+    "course_id": "ANT605",
+    "title": "ANT 605 Ethnohistory",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "The use of documents, maps, photos, recordings, oral histories, artifacts, folklore, linguistics, and ethnography to reconstruct the culture history of a social or ethnic group, particularly historically marginalized peoples such as Native Americans. May be taught concurrently with <span data-link='ANT505'>ANT 505</span>. Cannot receive credit for both <span data-link='ANT605'>ANT 605</span> and <span data-link='ANT505'>ANT 505</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT611": {
+    "course_id": "ANT611",
+    "title": "ANT 611 Ethnographic Field Methods",
+    "desc": "Ethnographic methods and techniques in the study of culture, with emphasis on participant-observation, interviewing, note-taking and management, data analysis, and ethics. May be taught concurrently with <span data-link='ANT510'>ANT 510</span>. Cannot receive credit for both <span data-link='ANT510'>ANT 510</span> and <span data-link='ANT611'>ANT 611</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ANT614": {
+    "course_id": "ANT614",
+    "title": "ANT 614 Anthropology of Development",
+    "desc": "This course examines theories, concepts, underlying assumptions, and case studies about aid and other assistance to developing nations. Course will consider the various meanings given to development by residents of particular regions, as well as those of aid workers, policy makers, private industries, non-governmental and non-profit organizations, and government official. Course will examine how development projects and policies in areas such as public health and food systems are experienced in daily life in urban and rural areas in Africa, Latin American, and Asia. And students will develop critical thinking skills about the role of culture in the complex and diverse world of international aid. May be taught concurrently with <span data-link='ANT514'>ANT 514</span>. Cannot receive credit for both <span data-link='ANT514'>ANT 514</span> and <span data-link='ANT614'>ANT 614</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT615": {
+    "course_id": "ANT615",
+    "title": "ANT 615 Medical Anthropology",
+    "desc": "An examination of health, illness and healing from an applied anthropological perspective, Medical anthropology is one of the largest fields in the discipline of anthropology today, and one that has obvious applications. Topics may include: evolutionary perspectives on illness, the cultural construction of illness, cross-cultural variations in illness and healing, ethnomedical beliefs and practices, shamanism and other forms of symbolic healing, ethnobotany, and relations between biomedicine and ethnomedicine. May be taught concurrently with <span data-link='ANT515'>ANT 515</span>. Cannot receive credit for both <span data-link='ANT615'>ANT 615</span> and <span data-link='ANT515'>ANT 515</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT616": {
+    "course_id": "ANT616",
+    "title": "ANT 616 Anthropology of Tourism",
+    "desc": "This course examines theories, concepts, underlying assumptions, and case studies about aid and other assistance to developing nations. Course will consider the various meanings given to development by residents of particular regions, as well as those of aid workers, policy makers, private industries, non-governmental and non-profit organizations, and government official. Course will examine how development projects and policies in areas such as public health and food systems are experienced in daily life in urban and rural areas in Africa, Latin American, and Asia. And students will develop critical thinking skills about the role of culture in the complex and diverse world of international aid. 3(3-0) D of culture in the complex and diverse world of international aid.  May be taught concurrently with <span data-link='ANT516'>ANT 516</span>. Cannot receive credit for both <span data-link='ANT516'>ANT 516</span> and <span data-link='ANT616'>ANT 616</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT626": {
+    "course_id": "ANT626",
+    "title": "ANT 626 North American Indians Today",
+    "desc": "Focuses on major developments in North American Indian life in the 20th and 21st centuries, including cultural, social, economic, political, environmental, and legal issues that affect Native Americans today. May be taught concurrently with <span data-link='ANT525'>ANT 525</span>. Cannot receive credit for both <span data-link='ANT525'>ANT 525</span> and <span data-link='ANT626'>ANT 626</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT645": {
+    "course_id": "ANT645",
+    "title": "ANT 645 Cultural Resource Management",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "An examination of laws and regulations pertaining to the preservation of American history and culture and the professional management and preservation of ethnic, historic, and prehistoric cultural resources. May be taught concurrently with <span data-link='ANT545'>ANT 545</span>. Cannot receive credit for both <span data-link='ANT645'>ANT 645</span> and <span data-link='ANT545'>ANT 545</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ANT650": {
+    "course_id": "ANT650",
+    "title": "ANT 650 Advanced Methods in Archaeology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Advanced study and practice in methods and techniques employed in archaeology such as lithic, ceramic, and faunal analysis. Variable content course. May be repeated when topic changes. May be taught concurrently with <span data-link='ANT550'>ANT 550</span>. Cannot receive credit for both <span data-link='ANT650'>ANT 650</span> and <span data-link='ANT550'>ANT 550</span> for the same topic. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ANT651": {
+    "course_id": "ANT651",
+    "title": "ANT 651 Lithics",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "An introduction to the study of prehistoric stone tools. Classes will include both a seminar component devoted to fundamental theoretical and methodological issues and a hands-on component designed to instruct students on the manufacture, identification and analysis of flaked stone artifacts. Students will become familiar with the major issues in lithic analysis, gain a basic understanding of flint knapping and, by the end of the course, will be prepared to conduct basic lithic research on their own. May be taught concurrently with <span data-link='ANT551'>ANT 551</span>. Cannot receive credit for both <span data-link='ANT651'>ANT 651</span> and <span data-link='ANT551'>ANT 551</span>.",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT652": {
+    "course_id": "ANT652",
+    "title": "ANT 652 Zooarchaeology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "An introduction to the study of animal remains from archaeological sites. Classes will include both a seminar component devoted to fundamental theoretical and methodological issues and a hands-on component designed to instruct students in vertebrate osteology and the identification and analysis of animal remains. Students will become familiar with the major issues in zooarchaeology, will gain a basic understanding of the vertebrate skeleton, and by the end of the course, will be prepared to conduct basic faunal research on their own. May be taught concurrently with <span data-link='ANT552'>ANT 552</span>. Cannot receive credit for both <span data-link='ANT652'>ANT 652</span> and <span data-link='ANT552'>ANT 552</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT655": {
+    "course_id": "ANT655",
+    "title": "ANT 655 Archaeological Theory",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "A comprehensive and in-depth examination of theoretical issues and perspectives concerning the practice of archaeology and the interpretation of archaeological remains. May be taught concurrently with <span data-link='ANT555'>ANT 555</span>. Cannot receive credit for both <span data-link='ANT655'>ANT 655</span> and <span data-link='ANT555'>ANT 555</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT695": {
+    "course_id": "ANT695",
+    "title": "ANT 695 History of Anthropological Theory",
+    "desc": "This course traces the development of anthropology and anthropological theory, with emphasis on the major theorists and schools of thought in the twentieth century. May be taught concurrently with <span data-link='ANT595'>ANT 595</span>. Cannot receive credit for both <span data-link='ANT595'>ANT 595</span> and <span data-link='ANT695'>ANT 695</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ANT698": {
+    "course_id": "ANT698",
+    "title": "ANT 698 Seminar in Anthropology",
+    "desc": "A detailed investigation and analysis of a specialized or advanced topic of interest to anthropology (e.g., Upper Paleolithic art, the evolution of human behavior, ethnographies of religion). May be repeated when topic changes. Variable content course. May be taught concurrently with <span data-link='ANT598'>ANT 598</span>. Cannot receive credit for both <span data-link='ANT598'>ANT 598</span> and <span data-link='ANT698'>ANT 698</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT700": {
+    "course_id": "ANT700",
+    "title": "ANT 700 Applying Anthropology",
+    "desc": "An introduction to the field of applied anthropology, surveying the professional opportunities for applied anthropologists and the variety of ways in which anthropology is applied to the needs and problems of society. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ANT720": {
+    "course_id": "ANT720",
+    "title": "ANT 720 Quantitative Methods in Anthropology",
+    "desc": "Recommended Prerequisite: introductory course in statistics. Uses of quantitative methods and databases in the field of anthropology, with particular emphasis on applied research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ANT751": {
+    "course_id": "ANT751",
+    "title": "ANT 751 Graduate Field Archaeology",
+    "req": "<em>Prerequisite: <span data-link='ANT351'>ANT 351</span> or equivalent.</em>",
+    "desc": "This course offers field experience in the techniques and methods used in archaeological survey and excavations. Graduate students will gain experience planning investigations and supervising crews of undergraduate students and will contribute to reporting the results of research. Variable credit course. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT770": {
+    "course_id": "ANT770",
+    "title": "ANT 770 Research Design and Writing in Anthropology",
+    "req": "<em>Prerequisite: <span data-link='ANT700'>ANT 700</span>.</em>",
+    "desc": "How to plan and conduct a research project in applied anthropology and prepare grant proposals, contract reports, journal publications, and other professional documents in anthropology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ANT790": {
+    "course_id": "ANT790",
+    "title": "ANT 790 Internship in Applied Anthropology",
+    "req": "<em>Prerequisite: <span data-link='ANT700'>ANT 700</span> and permission of instructor.</em>",
+    "desc": "A minimum of 200 hours of work experience as an applied anthropologist with an approved business, organization, program, or agency. Requires a written report and a public presentation. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT795": {
+    "course_id": "ANT795",
+    "title": "ANT 795 Directed Readings in Anthropology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Supervised readings in preparation for a practicum or thesis project. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT796": {
+    "course_id": "ANT796",
+    "title": "ANT 796 Directed Research in Anthropology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Supervised research necessary for completion of a master&apos;s degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT797": {
+    "course_id": "ANT797",
+    "title": "ANT 797 Practicum in Applied Anthropology",
+    "req": "<em>Prerequisite: <span data-link='ANT770'>ANT 770</span> and permission of instructor.</em>",
+    "desc": "The student will conduct an applied research project from start to finish, culminating in a professional report. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ANT799": {
+    "course_id": "ANT799",
+    "title": "ANT 799 Thesis",
+    "req": "<em>Prerequisite: <span data-link='ANT770'>ANT 770</span> and permission of instructor.</em>",
+    "desc": "Research and writing of a masters thesis under the direction of a faculty advisor. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC150": {
+    "course_id": "SOC150",
+    "title": "SOC 150 Introduction to Society",
+    "req": "<em>General Education Course (Focus on Social and Behavioral Sciences).</em>",
+    "desc": "The study of society including its structure and operation from the perspective of sociology. The course focuses on ways society is constructed by people and, in turn, on the ways society shapes people. This general education course supplies students with a community as well as global, multicultural understanding of society. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SOC152": {
+    "course_id": "SOC152",
+    "title": "SOC 152 Social Problems in the Community",
+    "desc": "Sociological perspectives on contemporary social issues and problems in American society that are faced by today&apos;s communities. A public sociology focus is addressed in this course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SOC300": {
+    "course_id": "SOC300",
+    "title": "SOC 300 Service Learning Curricular Component",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a Sociology course designated as service learning offering.</em>",
+    "desc": "An integrative learning experience which addresses the practice of citizenship and promotes an awareness of and participation in public affairs by incorporating community service with classroom instruction. Includes 40 hours on-task service to a community organization, agency or public service provider. The community service placement agency and service assignment will vary, dependent on the disciplinary course topic and learning objectives. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC301": {
+    "course_id": "SOC301",
+    "title": "SOC 301 Research Methodology",
+    "req": "<em>Prerequisite: <span data-link='SOC150'>SOC 150</span>.</em>",
+    "desc": "Methods of collecting and analyzing data including interviewing and observation techniques, scaling and sampling designs. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SOC302": {
+    "course_id": "SOC302",
+    "title": "SOC 302 Statistics for Social Research",
+    "req": "<em>Prerequisite: sophomore standing and completion of <span data-link='MTH130'>MTH 130</span> or higher.</em>",
+    "desc": "It is recommended that Sociology majors taking <span data-link='SOC302'>SOC 302</span> concurrently enroll in <span data-link='SOC303'>SOC 303</span>. Introduction to statistics with special emphasis on those techniques most commonly used in social research. This course cannot be credited toward a degree if a student has taken any of the following: <span data-link='AGR330'>AGR 330</span>, <span data-link='MTH340'>MTH 340</span>, <span data-link='PSY200'>PSY 200</span>, <span data-link='QBA237'>QBA 237</span>, <span data-link='REC328'>REC 328</span>, <span data-link='SOC302'>SOC 302</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SOC303": {
+    "course_id": "SOC303",
+    "title": "SOC 303 Quantitative Methods Lab",
+    "req": "<em>Prerequisite: <span data-link='SOC302'>SOC 302</span> (or equivalent) or concurrent enrollment.</em>",
+    "desc": "It is recommended that all Sociology majors enrolled in <span data-link='SOC302'>SOC 302</span> concurrently enroll in <span data-link='SOC303'>SOC 303</span>. An introduction to and application of quantitative social science data analysis. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SOC305": {
+    "course_id": "SOC305",
+    "title": "SOC 305 Population Analysis",
+    "desc": "Comparative analysis of population size, distribution, and composition; population processes of fertility, mortality and migration; impact of population change on society; issues of population policy. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SOC309": {
+    "course_id": "SOC309",
+    "title": "SOC 309 Work, Industry, and Society",
+    "desc": "The industrialization of society and its impact on formal and informal organization, management philosophies, worker attitudes and labor relations. Current trends affecting the work place are examined. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC310": {
+    "course_id": "SOC310",
+    "title": "SOC 310 Social Deviance",
+    "desc": "An historical survey of the explanations of deviant behavior. Emphasis will focus on the structure of norms and rules, their diversity, and their role in identifying deviance. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC315": {
+    "course_id": "SOC315",
+    "title": "SOC 315 The Family",
+    "desc": "The family as a social institution; its adjustment to modern social conditions; personality adjustments in marriage. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC316": {
+    "course_id": "SOC316",
+    "title": "SOC 316 Urban Sociology",
+    "desc": "The rise and development of urban settlements (cities), their ecology, problems, and an examination of urbanism as a way of life generated in cities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SOC319": {
+    "course_id": "SOC319",
+    "title": "SOC 319 Environmental Sociology",
+    "desc": "This course examines the causes and consequences of environmental problems, environmental movements, impacts of technological change, environmental policy and the state, environmental values, attitudes, and behaviors. Specific topics will vary, but may include resource scarcity, toxics, overconsumption, agricultural production, and more. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC320": {
+    "course_id": "SOC320",
+    "title": "SOC 320 Political Sociology",
+    "desc": "Introduces students to a sociological analysis of political organization forms and their relations with other elements of social life. Students examine the concept of power and the intersection of personality, social structure, and politics. The course also emphasizes how social inequality between groups (e.g. race, class, and gender, etc.) influences politics and elaborates major social trends affecting the political process including how various social forces work to change political policies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC325": {
+    "course_id": "SOC325",
+    "title": "SOC 325 Introduction to Sociological Theory",
+    "req": "<em>Prerequisite: <span data-link='SOC150'>SOC 150</span>.</em>",
+    "desc": "A survey of the development of sociological theory with emphasis upon the social and historical influences shaping the thought of classical theorists. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SOC326": {
+    "course_id": "SOC326",
+    "title": "SOC 326 Feminist Theories of Social Order",
+    "req": "<em>Prerequisite: <span data-link='SOC150'>SOC 150</span> or <span data-link='GST170'>GST 170</span>.</em>",
+    "desc": "This course offers an introductory survey of feminist theories within a sociological framework. Students will read and discuss significant classical and contemporary feminist writings on how social life is organized, maintained or changed. The feminist literature has led to the emergence of diverse theoretical frameworks analyzing historical and contemporary, macro and micro, public and private, local and global issues and concerns. The feminist paradigm, like many other paradigms, is inclusive of many disciplines. The sociological writings within this paradigm provide a wealth of materials on alternative views of social organization, order and conflict. Identical with <span data-link='GST326'>GST 326</span>. Cannot receive credit for both <span data-link='SOC326'>SOC 326</span> and <span data-link='GST326'>GST 326</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SOC332": {
+    "course_id": "SOC332",
+    "title": "SOC 332 Juvenile Delinquency",
+    "desc": "This course examines the topic of juvenile delinquency from a sociological perspective. Emphasis is placed on measuring and explaining the occurrence of delinquency in the United States. The course also takes a critical look at societal responses to the delinquency problem, including the juvenile justice system. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC336": {
+    "course_id": "SOC336",
+    "title": "SOC 336 Race and Ethnicity",
+    "desc": "This course explores the social construction of race and ethnicity. Issues of differential power between racial and ethnic groups and the economic, political, and social structures which are utilized to maintain these power differences are identified. Social movements and social policies designed to address social inequality, prejudice and discrimination are also examined. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC337": {
+    "course_id": "SOC337",
+    "title": "SOC 337 Sociology of Gender",
+    "desc": "This course focuses on gender differences, patterns, and inequalities. It analyzes the social construction of gender, femininities and masculinities, gender socialization, and how gender intersects with race, class, and sexuality. Specific attention is paid to the significance of gender in interaction, culture, and social institutions, including work, politics, media, and the family. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC341": {
+    "course_id": "SOC341",
+    "title": "SOC 341 Medical Sociology",
+    "desc": "An analysis of the ecological, sociopsychological and cultural aspects of health and illness, both physical and mental, and of the social organization of health care services and of health professions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SOC357": {
+    "course_id": "SOC357",
+    "title": "SOC 357 Sociology of Sport",
+    "desc": "Investigation and analysis of the relationship between sport and society; the development and changing nature of sport as an institution; role of sport in modern society. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC360": {
+    "course_id": "SOC360",
+    "title": "SOC 360 The Individual in Society",
+    "desc": "This course explores how self understanding emerges in a social context and is inseparable from that context. It examines the symbolic basis of communication, traces the interdependency of self and other awareness, and probes the social organization of human experience. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC375": {
+    "course_id": "SOC375",
+    "title": "SOC 375 Social Forces and Aging",
+    "req": "<em>Prerequisite: sophomore standing.</em>",
+    "desc": "This course examines the aging process, demographic trends, and the social, economic, and social-psychological aspects of aging in the United States. Students will be introduced to current theories on aging in social gerontology and their application to the everyday lives of older people. Topics of interest include social attitudes toward aging, family and social bonds, work and retirement, gender issues, ethnicity and aging, living environments, and approaches to aging well. Students will learn about the role of federal, state and local agencies in meeting the needs of the elderly. Identical with <span data-link='GER310'>GER 310</span>. Cannot receive credit for both <span data-link='SOC375'>SOC 375</span> and <span data-link='GER310'>GER 310</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC380": {
+    "course_id": "SOC380",
+    "title": "SOC 380 Sociology of Law",
+    "desc": "The interaction of law and society from a sociological perspective with emphasis upon legal institutions as instruments of social control. The impact of social values on the development of the legal order and the reciprocal influence of the law on social behavior. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "SOC384": {
+    "course_id": "SOC384",
+    "title": "SOC 384 Social Movements",
+    "desc": "The study of collective attempts to implement social change in society. Specific groups studied will vary, but may include the civil rights, feminist, political, religious, environmental and health movements. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SOC390": {
+    "course_id": "SOC390",
+    "title": "SOC 390 Religion in Society",
+    "desc": "Examines the relationship between religion and its social context. Students will explore the social nature of individual religious institutions. The relationship between religion and modernity will be studied. The course will pay special attention to the role of religion in American society, as well as the religious dimensions of class, gender, region, and race/ethnicity. Identical with <span data-link='REL390'>REL 390</span>. Cannot receive credit for both <span data-link='SOC390'>SOC 390</span> and <span data-link='REL390'>REL 390</span>. May be taught concurrently with <span data-link='SOC790'>SOC 790</span>. Cannot receive credit for both <span data-link='SOC390'>SOC 390</span> and <span data-link='SOC790'>SOC 790</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC391": {
+    "course_id": "SOC391",
+    "title": "SOC 391 The Holocaust - A Sociological Introduction",
+    "desc": "This course explores the social history of the Holocaust, its probable causes, magnitude, operation, consequences and the controversies which surround its study. Discussion ranges into the areas of sociology of religion and of law in order to understand compelling issues raised by this example of genocide. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC397": {
+    "course_id": "SOC397",
+    "title": "SOC 397 Special Topics",
+    "desc": "Selected topics of contemporary interest in Sociology. May be repeated to a total of 6 hours when the topic changes. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC398": {
+    "course_id": "SOC398",
+    "title": "SOC 398 Public Sociology and Community Studies",
+    "req": "<em>Prerequisite: <span data-link='SOC150'>SOC 150</span> and Sociology major or minor.</em>",
+    "desc": "Explores how Public Sociology is practiced and connected to the local community. Provides conceptual tools for analyzing communities and creates a foundation for meaningful community engagement. Each section will apply sociological theories and methods to a specific community issue or problem. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SOC420": {
+    "course_id": "SOC420",
+    "title": "SOC 420 Social Inequality",
+    "req": "<em>Prerequisite: <span data-link='SOC150'>SOC 150</span>.</em>",
+    "desc": "An analysis of the structure, sources, and consequences of social inequality and the dimensions along which it may be observed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "SOC425": {
+    "course_id": "SOC425",
+    "title": "SOC 425 Advanced Sociological Theory",
+    "req": "<em>Prerequisite: <span data-link='SOC325'>SOC 325</span>.</em>",
+    "desc": "This course provides an in-depth analysis of a particular theorist, e.g. Karl Marx, Emile Durkheim, W.E.B. DuBois, Jane Addams; or theoretical orientation, e.g. symbolic interactionism, critical theory, dependency theory. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC456": {
+    "course_id": "SOC456",
+    "title": "SOC 456 Food in Society",
+    "req": "<em>Prerequisite: 9 hours of Sociology and permission of instructor.</em>",
+    "desc": "This course examines how procuring food impacts societal organization and is a catalyst for social change. The basic premise of this course is that understanding how a society feeds itself will reveal many sociological insights such as the distribution of wealth and power and the health of individuals and communities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC470": {
+    "course_id": "SOC470",
+    "title": "SOC 470 Practicum in Applied Sociological Research",
+    "req": "<em>Prerequisite: <span data-link='SOC301'>SOC 301</span>, <span data-link='SOC302'>SOC 302</span>, <span data-link='SOC325'>SOC 325</span> and permission of instructor.</em>",
+    "desc": "Group experience in designing and carrying out an applied community research project. Variable content course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC492": {
+    "course_id": "SOC492",
+    "title": "SOC 492 Program Assessment and Career Preparation",
+    "req": "<em>Prerequisite: senior standing and permission of instructor.</em>",
+    "desc": "All students majoring in Sociology are required to enroll in this course during their senior year. The focus is on program assessment rather than on individual student evaluation, and on career preparation for upcoming graduates. Students will complete several program-specific assessments of learning outcomes, and they will receive information to help them prepare for the job market or graduate school. Graded Pass/Not Pass only. ",
+    "hours": {},
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "SOC497": {
+    "course_id": "SOC497",
+    "title": "SOC 497 Special Topics",
+    "req": "<em>Prerequisite: 9 hours sociology and permission of instructor.</em>",
+    "desc": "Selected topics in substantive areas in sociology such as theory, methodology, social organization, social psychology, demography, criminology and family. Offered when resources and demand allow. May be repeated to a total of 6 hours when topic changes. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC499": {
+    "course_id": "SOC499",
+    "title": "SOC 499 Internship in Applied Sociology",
+    "req": "<em>Prerequisite: 18 hours in Sociology and permission of instructor.</em>",
+    "desc": "Supervised work experience in business, industry, governmental, institutional and/or agency settings where sociological skills are utilized. One credit hour for each 45 clock hours on the job. No more than 3 hours internship credit may be applied to the Sociology major. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC596": {
+    "course_id": "SOC596",
+    "title": "SOC 596 Directed Readings in Sociology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Readings designed to supplement material introduced in previous Sociology courses. Includes a wide selection from literature in the field. May be repeated to a total of 9 hours, but no more than 6 hours may be applied to the sociology major. May be taught concurrently with <span data-link='SOC697'>SOC 697</span>. Cannot receive credit for both <span data-link='SOC697'>SOC 697</span> and <span data-link='SOC596'>SOC 596</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC599": {
+    "course_id": "SOC599",
+    "title": "SOC 599 Sociological Research",
+    "req": "<em>Prerequisite: <span data-link='SOC150'>SOC 150</span> and <span data-link='SOC301'>SOC 301</span> and <span data-link='SOC302'>SOC 302</span> and <span data-link='SOC325'>SOC 325</span> and permission of instructor.</em>",
+    "desc": "Independent and/or group work in research methodology, data manipulation and presentation in selected fields of sociology. May be repeated to total of 9 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "SOC697": {
+    "course_id": "SOC697",
+    "title": "SOC 697 Directed Readings in Sociology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Readings designed to supplement material introduced in previous Sociology courses. Includes a wide selection from literature in the field. May be repeated to a total of 9 hours, but no more than 6 hours may be applied to the sociology major. May be taught concurrently with <span data-link='SOC596'>SOC 596</span>. Cannot receive credit for both <span data-link='SOC596'>SOC 596</span> and <span data-link='SOC697'>SOC 697</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

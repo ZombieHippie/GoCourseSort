@@ -1,0 +1,174 @@
+{
+  "MIL101": {
+    "course_id": "MIL101",
+    "title": "MIL 101 Introduction to Military Science",
+    "desc": "This course focuses on Army organization, customs and courtesies, leadership and basic pistol and rifle marksmanship. Students will get the opportunity to handle, learn the maintenance and proper way to fire, both civilian and U.S. Army small arms weapons as well as spend one-two weeks learning Army rappelling techniques ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MIL102": {
+    "course_id": "MIL102",
+    "title": "MIL 102 Introduction to Basic Military Skills",
+    "desc": "This course builds on the foundational skills and techniques taught in <span data-link='MIL101'>MIL 101</span>; military map reading and land navigation, pistol marksmanship, rappelling and additional leadership skills. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MIL125": {
+    "course_id": "MIL125",
+    "title": "MIL 125 Leadership Fitness",
+    "req": "<em>Prerequisite: permission of the instructor.</em>",
+    "desc": "Development of individual fitness and acquire the skills necessary to lead group fitness training. May be repeated for a total of 3 hours, but only one credit hour may be used to satisfy the Physical Well-Being requirement in General Education for students completing general education requirements in effect prior to fall 1997. ",
+    "hours": {
+      "credit": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "MIL211": {
+    "course_id": "MIL211",
+    "title": "MIL 211 Basic Military Skills and Techniques",
+    "req": "<em>Prerequisite: <span data-link='MIL101'>MIL 101</span> and <span data-link='MIL102'>MIL 102</span> or permission.</em>",
+    "desc": "This course is designed for students who desire accelerated instruction on rifle marksmanship, rappelling, communications, map reading (to include the compass), patrolling and tactics. The student will be required to attend a laboratory on Thursdays if a contracted cadet. Students who are contracted are required to meet Army appearance standards. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MIL212": {
+    "course_id": "MIL212",
+    "title": "MIL 212 Military Fundamentals Practicum",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "The class is designed for the military science students who desire accelerated instruction on rifle marksmanship, communications, map reading (to include the compass), and patrolling. The student will be required to wear a military uniform and meet Army appearance standards. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2,
+      "lab": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MIL220": {
+    "course_id": "MIL220",
+    "title": "MIL 220 Basic Military Science Fundamentals",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Organization and mission of ROTC; the role of the U.S. Army in American history and the application of the principles of war; leadership theory and practice; introduction to military operations and basic tactics; instruction in marksmanship, land navigation and communication. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "MIL225": {
+    "course_id": "MIL225",
+    "title": "MIL 225 Basic Military Science Practicum",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "A 6-week course conducted at Fort Knox, KY. The training is rugged and intensive with emphasis placed on leadership application, practical work and physical conditioning. Training will be conducted six days a week out-of-doors and requires active participation by all students. Enrolled students receive compensation for travel, lodging and food. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Summer": true
+    }
+  },
+  "MIL301": {
+    "course_id": "MIL301",
+    "title": "MIL 301 Military Leadership and Operations",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Introduction to small unit tactics; principles of military leadership, to include theory, responsibilities, techniques, and practice; branches of the U.S. Army, oral presentation techniques and practice. One field trip is required. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MIL302": {
+    "course_id": "MIL302",
+    "title": "MIL 302 Military Skill Building",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Small unit tactics; applied military leadership (builds on knowledge gained in <span data-link='MIL301'>MIL 301</span>) with special emphasis on the junior leader&apos;s duties and responsibilities. Two field trips are required. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MIL325": {
+    "course_id": "MIL325",
+    "title": "MIL 325 Advanced Military Science Practicum",
+    "desc": "A prerequisite to receive a commission in the U.S. Army through R.O.T.C. and for MIL Science 411 and 412. The 5-week course is conducted at Fort Lewis, Washington. The instruction, training and evaluation focuses on the professional development issues required to become an Army Officer. The primary focus is on evaluating the student&apos;s leadership potential through this mentally and physically demanding camp. The training and evaluation is conducted seven days a week for five weeks and requires active participation by all students. The student is placed in leadership positions which require him/her to lead up to 120 fellow students for extended periods of time. Enrolled students receive compensation for travel, lodging and food. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Summer": true
+    }
+  },
+  "MIL411": {
+    "course_id": "MIL411",
+    "title": "MIL 411 Military Qualification Skills for the Advanced Cadet",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Ethics and professionalism of the military officer; Army command staff functions; oral presentation techniques and practice; military leadership at junior officer level; world change and military obligations. One field trip is required. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "MIL412": {
+    "course_id": "MIL412",
+    "title": "MIL 412 Transition from Cadet to Lieutenant",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Military justice system; army supply and logistics procedures and responsibilities; officer management system; obligations and responsibilities of a military officer; military leadership at junior officer level. Two field trips are required. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "MIL496": {
+    "course_id": "MIL496",
+    "title": "MIL 496 Readings/Research in Military Science",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Planned readings and research on subjects in or related to Military Science. May be repeated for a total of 3 hours. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  }
+}

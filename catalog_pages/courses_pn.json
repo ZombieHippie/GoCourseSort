@@ -1,0 +1,271 @@
+{
+  "PAS717": {
+    "course_id": "PAS717",
+    "title": "PAS 717 Medical Human Anatomy and Radiology",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies or permission.</em>",
+    "desc": "Regional study of the human body. Course will include lecture and laboratory activities including cadaver dissection, study of anatomic models, computer images, X-ray, CAT scan, and MRI and ultrasound imaging. Identical with <span data-link='BMS717'>BMS 717</span>. Cannot receive credit for both <span data-link='PAS717'>PAS 717</span> and <span data-link='BMS717'>BMS 717</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 6,
+      "lecture": 3,
+      "lab": 11
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PAS753": {
+    "course_id": "PAS753",
+    "title": "PAS 753 Molecular Pathophysiology",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies.</em>",
+    "desc": "Introduction to the genetic, immunologic, and microbiologic mechanisms of health and disease. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PAS765": {
+    "course_id": "PAS765",
+    "title": "PAS 765 Clinical Assessment I",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies.</em>",
+    "desc": "The first of a 2-semester course sequence. Introduction to effective communication and interviewing skills, techniques of physical examination utilizing a systematic anatomical approach and the recording and presentation of clinical information. Format will include lecture, hands-on laboratory exercises, small group presentations, limited patient contact and written and practical examinations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "PAS766": {
+    "course_id": "PAS766",
+    "title": "PAS 766 Clinical Assessment II",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies.</em>",
+    "desc": "A continuation of Clinical Assessment I. Emphasis will be on continued development of interviewing and physical examination skills, recognizing and interpreting abnormal physical findings, developing problem lists and differential diagnoses, and refining the recording and presenting of patient evaluation data. In addition, students will learn advanced assessment techniques and perform written and practical skills examinations that incorporate the objective structured clinical exam (OSCE). ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "PAS769": {
+    "course_id": "PAS769",
+    "title": "PAS 769 Behavioral Medicine",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies.</em>",
+    "desc": "A biopsychosocial systems approach to the individual, family and community within the health care delivery system that includes issues germane to public health and rural medicine. A variety of topics such as growth and development, human sexuality, health promotion and disease prevention, health education, patient compliance, cultural diversity, substance abuse, family violence, child abuse and rural health issues are examined. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PAS770": {
+    "course_id": "PAS770",
+    "title": "PAS 770 Professional Issues Seminar",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies.</em>",
+    "desc": "Seminar format for discussion of professional and legal issues relevant to the physician assistant profession. Includes topics such as the history of the profession, health care systems, professional organizations, national certification, Missouri licensure, prescriptive privileges, and clinical ethics. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "PAS775": {
+    "course_id": "PAS775",
+    "title": "PAS 775 Principles of Clinical Problem Solving",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies or permission.</em>",
+    "desc": "Introduction to critical thinking skills and problem solving techniques. Incorporates problem based learning format where small groups of students under the supervision of a group leader explore the various facets of &quot;real-life&quot; clinical case scenarios. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PAS776": {
+    "course_id": "PAS776",
+    "title": "PAS 776 Clinical Problem Solving Seminar",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies.</em>",
+    "desc": "Advanced exercises in clinical problem solving in a small group format. Commonly presenting clinical problems are utilized as a means to refine students&apos; ability to choose appropriate steps to determine a definitive diagnosis/outcome. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PAS777": {
+    "course_id": "PAS777",
+    "title": "PAS 777 Introduction to Research and Clinical Epidemiology",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies.</em>",
+    "desc": "Foundations of quantitative and qualitative research methodology related to the study of disease in populations. Includes issues related to study design, data collection, and methods of statistical analysis with a focus on application of these principles in the clinical setting. Will serve as the foundation for development of the clinical year research project. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PAS780": {
+    "course_id": "PAS780",
+    "title": "PAS 780 Pharmacotherapeutics I",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies.</em>",
+    "desc": "The first in a two-course sequence to introduce the principles of pharmacology and pharmacotherapeutics for the diagnosis, prevention and treatment of disease. Emphasis will be placed on the pharmacological, pharmacokinetic and pharmacodynamic properties of drugs and drug classes used in medical practice. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "PAS781": {
+    "course_id": "PAS781",
+    "title": "PAS 781 Advanced Pharmacotherapeutics",
+    "req": "<em>Prerequisite: completion of <span data-link='PAS780'>PAS 780</span>, or RN, or permission.</em>",
+    "desc": "In-depth analysis of pharmacotherapeutics and the application of drugs for the diagnosis, treatment and prevention of disease. Emphasis will be placed on the rational use of drugs in the care and treatment of pediatric, adult and geriatric patients in primary care settings. Will include discussion of treatment guidelines, indications, contraindications, prescription writing, drug law, drug information resources and case studies. Identical with <span data-link='NUR761'>NUR 761</span>. Cannot receive credit for both <span data-link='PAS781'>PAS 781</span> and <span data-link='NUR761'>NUR 761</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PAS783": {
+    "course_id": "PAS783",
+    "title": "PAS 783 Clinical Practicum I",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies and successful completion of didactic course work.</em>",
+    "desc": "A two week clinical experience with a minimum of 64 hours patient care under the supervision of a physician preceptor. Emphasis will be on refining interviewing, physical examination, recording and written/oral presentation skills. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "PAS784": {
+    "course_id": "PAS784",
+    "title": "PAS 784 Clinical Practicum II",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies.</em>",
+    "desc": "Preparative course for the clinical year which promotes professional communication skills and an understanding of pertinent clinical practice topics and issues including interprofessional disciplines, medical practice organization, health literacy, chronic care, hospice care, and financial aspects of medical practice including billing and coding. ",
+    "hours": {
+      "credit": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PAS785": {
+    "course_id": "PAS785",
+    "title": "PAS 785 Clinical Medicine I",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies.</em>",
+    "desc": "The first in a two-semester course sequence. Introduction to clinical medicine through an organs systems approach that examines the pertinent anatomy, pathophysiology, diagnosis, treatment, follow-up, patient education, and prevention strategies for the various disease entities. Emphasis will be on problems frequently encountered in primary care settings. Includes lecture and discussion. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "PAS786": {
+    "course_id": "PAS786",
+    "title": "PAS 786 Clinical Medicine II",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies.</em>",
+    "desc": "A continuation of Clinical Medicine I that emphasizes the organs systems approach to examine the pertinent anatomy, pathophysiology, diagnosis, treatment, follow-up, patient education, and prevention strategies for the various disease entities. Emphasis will be on problems frequently encountered in primary care settings. Includes lecture and discussion. Supplemental course fee. ",
+    "hours": {
+      "credit": 6,
+      "lecture": 6,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PAS787": {
+    "course_id": "PAS787",
+    "title": "PAS 787 Laboratory Medicine and Clinical Procedures",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies.</em>",
+    "desc": "&quot;Hands-on&quot; laboratory format class that introduces the student to skills needed to perform diagnostic and therapeutic procedures such as performing/interpreting basic laboratory tests, phlebotomy, casting and splinting, knot tying, suturing, intravenous line insertion, aseptic technique, catheterization, and other clinical skills. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PAS788": {
+    "course_id": "PAS788",
+    "title": "PAS 788 EKG and ACLS",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies.</em>",
+    "desc": "A study of the principles and practical applications of electro-cardiography for the physician assistant, followed by an Advanced Cardiac Life Support course. Lecture, lab, interactive CD, and &quot;mock code&quot; skills training. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PAS790": {
+    "course_id": "PAS790",
+    "title": "PAS 790 Clinical Preceptorship",
+    "req": "<em>Prerequisite: admission to the MS in Physician Assistant Studies and promotion from the didactic year.</em>",
+    "desc": "Consists of a six-week structured clinical experience under the supervision of a qualified preceptor that will introduce the student to the evaluation, diagnosis, treatment, monitoring, patient education, and referral of patients for the various clinical presentations within a specific discipline. The emphasis will be on problems encountered in primary care settings. Specific cognitive, skill, and attitudinal objectives are defined for each core clinical area, including family practice/primary care, general surgery, psychiatry/behavioral medicine, internal medicine, emergency medicine, women&apos;s health, and pediatrics. May be repeated. ",
+    "hours": {
+      "credit": 4,
+      "lab": 40
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "PAS797": {
+    "course_id": "PAS797",
+    "title": "PAS 797 Clinical Practice Issues Seminar",
+    "req": "<em>Prerequisite: clinical year standing in the MS in Physician Assistant Studies.</em>",
+    "desc": "Provides a forum for topics germane to the clinical practice setting and transition to professional practice. Topics of interest will cover areas such as managed health care, ethical decision-making, pharmacological management, resume preparation, job negotiation skills, the national certification examination, etc. May be repeated for a maximum of 3 hours. Graded Pass/Not Pass only. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "PAS798": {
+    "course_id": "PAS798",
+    "title": "PAS 798 Research Project",
+    "req": "<em>Prerequisite: clinical year standing in the MS in Physician Assistant Studies.</em>",
+    "desc": "In-depth study of a clinical problem of interest that culminates in a scholarly paper and formal presentation. Supplemental course fee. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  }
+}

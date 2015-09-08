@@ -1,0 +1,2015 @@
+{
+  "BIO100": {
+    "course_id": "BIO100",
+    "title": "BIO 100 Biological Science for Educators",
+    "req": "<em>Prerequisite: open only to Early Childhood, Elementary, Middle School, and Special Education majors. General Education Course (Focus on Life Sciences).</em>",
+    "desc": "An introduction to the unifying principles of biology and the processes of scientific investigation using an inquiry approach. Laboratory experiences model inquiry teaching methods appropriate for use in early childhood, elementary, and middle school science lessons. Cannot count towards a major or minor in biology. Students receiving credit towards graduation for <span data-link='BIO100'>BIO 100</span> cannot also receive credit for <span data-link='BIO101'>BIO 101</span> or <span data-link='BIO111'>BIO 111</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO101": {
+    "course_id": "BIO101",
+    "title": "BIO 101 Biology in Your World",
+    "req": "<em>General Education Course (Focus on Life Sciences).</em>",
+    "desc": "A non-laboratory course that can fulfill the General Education requirement in the Life Sciences. Organisms are studied from their behavioral, ecological, heredity and evolutionary perspectives. Topics include examination of the human body in health and disease; the relevance of biology to contemporary issues in human society; an introduction to environmental science and ecology with emphasis on the interrelationships of living and nonliving things in ecosystems and how disruptions of these relationships result in environmental problems. Cannot count towards a biology major or minor. Students receiving credit towards graduation for <span data-link='BIO101'>BIO 101</span> and/or <span data-link='BIO111'>BIO 111</span> cannot also receive credit for <span data-link='BIO100'>BIO 100</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "BIO102": {
+    "course_id": "BIO102",
+    "title": "BIO 102 Principles of Biological Science",
+    "req": "<em>General Education Course (Natural World).</em>",
+    "desc": "Unifying principles of biology from the molecular level through ecosystems. Includes laboratory experience. Does not count for credit towards major or minor in biology. Students receive credit towards graduation for only one of <span data-link='BIO100'>BIO 100</span>, 101, or 102. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO111": {
+    "course_id": "BIO111",
+    "title": "BIO 111 Understanding Biological Systems Through Inquiry",
+    "req": "<em>Prerequisite: <span data-link='BIO101'>BIO 101</span> or concurrent enrollment. General Education Course (Focus on Life Sciences).</em>",
+    "desc": "A laboratory course that partially fulfills the general education requirement in the Life Sciences. Organisms are studied from their physiological, behavioral, ecological, hereditary, and evolutionary perspectives. Students will develop skills of gathering information about science, reasoning scientifically from that information and synthesizing responses to questions based upon that information in order to explain biological phenomena. Cannot count towards a biology major or minor. Students receiving credit towards graduation for <span data-link='BIO101'>BIO 101</span> and/or <span data-link='BIO111'>BIO 111</span> cannot also receive credit for <span data-link='BIO100'>BIO 100</span>. Supplemental course Fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "BIO121": {
+    "course_id": "BIO121",
+    "title": "BIO 121 General Biology I",
+    "req": "<em>Prerequisite: eligibility for both <span data-link='ENG110'>ENG 110</span> and <span data-link='MTH135'>MTH 135</span>. General Education Course (Focus on Life Sciences).</em>",
+    "desc": "First half of 2-semester introductory biology sequence for biology majors and minors. Introduction to the concepts of biological structure and function at the molecular and cellular level, genetics, and evolution. Cannot be taken Pass/Not Pass. A grade of C or better is required in this course in order to take <span data-link='BIO122'>BIO 122</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO122": {
+    "course_id": "BIO122",
+    "title": "BIO 122 General Biology II",
+    "req": "<em>Prerequisite: eligibility for both <span data-link='ENG110'>ENG 110</span> and <span data-link='MTH135'>MTH 135</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='BIO121'>BIO 121</span>. Second half of two-semester introductory biology sequence for biology majors and minors. Introduction to the biology of organisms including evolutionary history, diversity, structure, and function of major taxa; and ecology. Cannot be taken Pass/Not Pass. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='BIO235'>BIO 235</span>, <span data-link='BIO320'>BIO 320</span>, or <span data-link='BIO369'>BIO 369</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO197": {
+    "course_id": "BIO197",
+    "title": "BIO 197 Selected Topics in Biology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Course devoted to a biologic topic of current interest. Provided the topics are different, the course may be repeated to a total of 4 hours. Credit for this course cannot be applied to the minimum requirements of a major or minor in biology, or the general education (Focus on Life Sciences) requirement. Supplemental course fee (variable by section). ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO205": {
+    "course_id": "BIO205",
+    "title": "BIO 205 Life Science for Middle School",
+    "req": "<em>Prerequisite: <span data-link='BIO100'>BIO 100</span> or <span data-link='BIO101'>BIO 101</span> and 111.</em>",
+    "desc": "Processes of science using the inquiry approach with reference to society, technology, and decision-making. Content covers cellular biology, plant and animal structure and function, ecology and environmental biology. Does not count for credit towards major or minor in biology. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO210": {
+    "course_id": "BIO210",
+    "title": "BIO 210 Elements of Microbiology",
+    "req": "<em>Prerequisite: <span data-link='CHM116'>CHM 116</span> and 117 or <span data-link='CHM160'>CHM 160</span>; and 4 hours of BIO or BMS courses.</em>",
+    "desc": "Public health aspects of microbiology, particularly causes and control of infectious diseases, immunology, sterilization and disinfection, and food and water bacteriology. A student who takes <span data-link='BIO210'>BIO 210</span> and <span data-link='BIO310'>BIO 310</span> receives credit toward graduation only for <span data-link='BIO310'>BIO 310</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO215": {
+    "course_id": "BIO215",
+    "title": "BIO 215 Introduction to the Diversity of Life",
+    "req": "<em>Prerequisite: 4 hours of biology.</em>",
+    "desc": "Introduction to the diversity in structure and function of protists, fungi, plants and animals. This course is designed for BSEd students and does not count toward a BA or BS in Biology. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO235": {
+    "course_id": "BIO235",
+    "title": "BIO 235 Principles of Genetics",
+    "req": "<em>Prerequisite: <span data-link='BIO121'>BIO 121</span> or <span data-link='BMS110'>BMS 110</span>; and <span data-link='BIO122'>BIO 122</span> and <span data-link='MTH135'>MTH 135</span> or higher.</em>",
+    "desc": "An introduction to basic concepts of molecular and Mendelian genetics and an inquiry into the basic processes of evolution. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO277": {
+    "course_id": "BIO277",
+    "title": "BIO 277 Marine Science II: Marine Biology",
+    "req": "<em>Prerequisite: 8 hours biology; and concurrent enrollment in <span data-link='BIO278'>BIO 278</span>.</em>",
+    "desc": "A general introduction to marine biology with emphasis on local fauna and flora. Recommended for students considering a career in any phase of Oceanography. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO278": {
+    "course_id": "BIO278",
+    "title": "BIO 278 Marine Science II: Marine Biology Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BIO277'>BIO 277</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='BIO277'>BIO 277</span>. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO300": {
+    "course_id": "BIO300",
+    "title": "BIO 300 Service Learning in Biology",
+    "req": "<em>Prerequisite: 30 hours and permission, and concurrent registration in a Biology course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in biology to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; students should investigate possible placements, available through the Biology Department and the Citizenship and Service Learning Office, prior to registration. May be repeated. A total maximum of 3 hours from any combination of <span data-link='BIO300'>BIO 300</span>, 399, and 499 credit may be counted towards the major. Graded Pass/Not Pass only. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO310": {
+    "course_id": "BIO310",
+    "title": "BIO 310 Microbiology",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='BIO235'>BIO 235</span> or <span data-link='BMS230'>BMS 230</span> or <span data-link='BMS231'>BMS 231</span>; and &quot;C-&quot; or better in <span data-link='CHM116'>CHM 116</span> and 117 or <span data-link='CHM160'>CHM 160</span>.</em>",
+    "desc": "Fundamental principles of microbiology; development of sound laboratory skills. A student who takes <span data-link='BIO210'>BIO 210</span> and <span data-link='BIO310'>BIO 310</span> receives credit toward graduation only for <span data-link='BIO310'>BIO 310</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 3,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO320": {
+    "course_id": "BIO320",
+    "title": "BIO 320 Introduction to Cellular Biology",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='BIO235'>BIO 235</span> or, <span data-link='BMS230'>BMS 230</span> and <span data-link='BMS232'>BMS 232</span>, or <span data-link='BMS231'>BMS 231</span>; and &quot;C-&quot; or better in <span data-link='CHM201'>CHM 201</span> and 202, or <span data-link='CHM342'>CHM 342</span>.</em>",
+    "desc": "Introduction to the structure and function of cells with an emphasis on eukaryotes. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO334": {
+    "course_id": "BIO334",
+    "title": "BIO 334 Plant Taxonomy",
+    "req": "<em>Prerequisite: <span data-link='BIO122'>BIO 122</span>.</em>",
+    "desc": "Basic systematic principles, including the naming, classification, diversity, and evolution of angiosperms. Laboratory emphasis is on vegetative and reproductive morphology, use of taxonomic keys, and identification of common families and species of the local flora. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO339": {
+    "course_id": "BIO339",
+    "title": "BIO 339 Identification of Woody Plants",
+    "req": "<em>Prerequisite: <span data-link='BIO122'>BIO 122</span>.</em>",
+    "desc": "A field course emphasizing the identification of woody plants (including some ornamentals) of the Interior Highlands of North America. Some consideration of forest communities and their distribution will also be included. Some Saturday field trips scheduled. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO355": {
+    "course_id": "BIO355",
+    "title": "BIO 355 Developmental Biology",
+    "req": "<em>Prerequisite: <span data-link='BIO235'>BIO 235</span>.</em>",
+    "desc": "An introduction to mechanistic embryology of selected vertebrate, invertebrate, and plant model systems. Lecture emphasis on fertilization, morphogenesis, cell surface roles in morphogenesis, cell motility, organo-genesis, metamorphosis, regeneration, and neoplasia as a developmental system. Laboratory emphasis on the normal ontogenetic development of live animal and plant systems and the experimental modification of these systems. Cannot receive credit for both <span data-link='BIO355'>BIO 355</span> and <span data-link='BIO755'>BIO 755</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO361": {
+    "course_id": "BIO361",
+    "title": "BIO 361 General Physiology",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='BIO235'>BIO 235</span>.</em>",
+    "desc": "A study in animal biology that emphasizes the functional features of whole organisms including physiological regulations. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='BMS363'>BMS 363</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO369": {
+    "course_id": "BIO369",
+    "title": "BIO 369 General Ecology",
+    "req": "<em>Prerequisite: <span data-link='BIO122'>BIO 122</span> and <span data-link='MTH135'>MTH 135</span> or higher.</em>",
+    "desc": "Introduction to the basic concepts of ecology. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO370": {
+    "course_id": "BIO370",
+    "title": "BIO 370 Invertebrate Zoology",
+    "req": "<em>Prerequisite: <span data-link='BIO121'>BIO 121</span> and <span data-link='BIO122'>BIO 122</span>.</em>",
+    "desc": "Biological principles exemplified by study of functional morphology, taxonomy and phylogeny of invertebrate phyla. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO371": {
+    "course_id": "BIO371",
+    "title": "BIO 371 Introduction to Entomology",
+    "req": "<em>Prerequisite: <span data-link='BIO121'>BIO 121</span> and <span data-link='BIO122'>BIO 122</span>.</em>",
+    "desc": "Introduction to insect structure and function with emphasis on comparative morphology, physiology, life history, behavior, and ecology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO373": {
+    "course_id": "BIO373",
+    "title": "BIO 373 Principles of Wildlife Management",
+    "req": "<em>Prerequisite: <span data-link='BIO122'>BIO 122</span>.</em>",
+    "desc": "This course considers ecological principles, conservation, and management policies for wild animals and habitats. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO380": {
+    "course_id": "BIO380",
+    "title": "BIO 380 Comparative Vertebrate Anatomy",
+    "req": "<em>Prerequisite: <span data-link='BIO121'>BIO 121</span> and <span data-link='BIO122'>BIO 122</span>.</em>",
+    "desc": "Vertebrate gross anatomy. Phylogeny and present status of organ systems of vertebrates. Shark, mud puppy and cat serve as principal sources for laboratory exercises. May be taught concurrently with <span data-link='BIO680'>BIO 680</span>. Cannot receive credit for both <span data-link='BIO380'>BIO 380</span> and <span data-link='BIO680'>BIO 680</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 2,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO398": {
+    "course_id": "BIO398",
+    "title": "BIO 398 Laboratory Internship in Biology",
+    "req": "<em>Prerequisite: BSEd major in Biology Education, <span data-link='BIO310'>BIO 310</span> and <span data-link='BIO369'>BIO 369</span>, and permission of instructor.</em>",
+    "desc": "This course provides the opportunity to earn academic credit through supervised laboratory preparation and teaching. Graded Pass/Not Pass only. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO399": {
+    "course_id": "BIO399",
+    "title": "BIO 399 Cooperative Education in Biology",
+    "req": "<em>Prerequisite: acceptance into Cooperative Education Program and permission of department head.</em>",
+    "desc": "This course provides the opportunity to earn academic credit integrated with a supervised work experience. Under the guidance of a faculty advisor, students will complete a work-related independent study project. This is a variable content course that may be repeated to a total of 6 semester hours. A maximum of 3 hours from any combination of <span data-link='BIO300'>BIO 300</span>, 399 and 499 may be counted towards the biology major. Graded Pass/Not Pass only. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO436": {
+    "course_id": "BIO436",
+    "title": "BIO 436 Plant Ecology",
+    "desc": "Recommended Prerequisite: <span data-link='BIO369'>BIO 369</span>. The dynamics, structure, and distribution of plant populations and communities, with emphasis on interactions among plants, plants and other organisms, and plants and ecosystems. Laboratory emphasis on experimental studies in the greenhouse and field. Weekend field trip is required. May be taught concurrently with <span data-link='BIO636'>BIO 636</span>. Cannot receive credit for both <span data-link='BIO436'>BIO 436</span> and <span data-link='BIO636'>BIO 636</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO485": {
+    "course_id": "BIO485",
+    "title": "BIO 485 Marine Conservation",
+    "desc": "Recommended Prerequisite: <span data-link='BIO101'>BIO 101</span> and 111, or <span data-link='BIO122'>BIO 122</span>. An overview of current issues related to the conservation and management of marine organisms, with emphasis on marine species and habitats exploited or endangered by human actions. May be taught concurrently with <span data-link='BIO685'>BIO 685</span>. Cannot receive credit for both <span data-link='BIO485'>BIO 485</span> and 685. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO494": {
+    "course_id": "BIO494",
+    "title": "BIO 494 Senior Seminar",
+    "req": "<em>Prerequisite: 90 hours and biology major.</em>",
+    "desc": "Current issues in the biological sciences will be discussed and information on post-graduate opportunities for biology majors will be presented. Successful completion of the Major Field Achievement Test will be required. Graded Pass/Not Pass only. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO498": {
+    "course_id": "BIO498",
+    "title": "BIO 498 Honors Senior Project",
+    "req": "<em>Prerequisite: student must be a biology major and have junior standing and be a member of the Honors College and permission of instructor.</em>",
+    "desc": "The content of the project is determined by the honors student in consultation with a faculty member serving as project advisor and approved by the HC dean. The project can be started no earlier than the first semester of the junior year and must be completed before graduation. May be repeated to a total of 9 hours. A maximum of 3 hours may be counted toward the major in biology. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO499": {
+    "course_id": "BIO499",
+    "title": "BIO 499 Special Topics in Biology",
+    "req": "<em>Prerequisite: Biology major with a minimum of a 3.00 GPA; and 20 hours in Biology courses; and permission of instructor.</em>",
+    "desc": "Outstanding students obtain additional experience through independent study. May be repeated to a total of 3 credit hours. A maximum of 3 hours from any combination of <span data-link='BIO300'>BIO 300</span>, 399 and 499 may be counted towards the major. Graded Pass/Not Pass only. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "BIO501": {
+    "course_id": "BIO501",
+    "title": "BIO 501 Natural History Museum Techniques",
+    "desc": "Techniques in the development of natural history museum displays including making models, design of displays, writing educational text, and other techniques. Course will be taught off-site at the Bull Shoals Field Station and Chase Studio. May be taught concurrently with <span data-link='BIO601'>BIO 601</span>. Cannot receive credit for both <span data-link='BIO501'>BIO 501</span> and <span data-link='BIO601'>BIO 601</span>. Identical with <span data-link='MST501'>MST 501</span>. Cannot receive credit for both <span data-link='BIO501'>BIO 501</span> and <span data-link='MST501'>MST 501</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO505": {
+    "course_id": "BIO505",
+    "title": "BIO 505 Human Nature",
+    "req": "<em>Prerequisite: <span data-link='BIO235'>BIO 235</span> or <span data-link='BMS230'>BMS 230</span> or <span data-link='BMS231'>BMS 231</span>; and <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "A survey of current biological research on the behavioral, psychological, and cognitive dimensions of human biology. This course emphasizes the evolution and function of human social behaviors and value systems, but also addresses the genetics of human psychological diversity, the genetics of human-ape divergence, and the neurobiology of human cognition. May be taught concurrently with <span data-link='BIO605'>BIO 605</span>. Cannot receive credit for both <span data-link='BIO505'>BIO 505</span> and <span data-link='BIO605'>BIO 605</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO508": {
+    "course_id": "BIO508",
+    "title": "BIO 508 Environmental Microbiology",
+    "req": "<em>Prerequisite: <span data-link='BIO210'>BIO 210</span> or <span data-link='BIO310'>BIO 310</span>.</em>",
+    "desc": "The study of the ecology of microorganisms and the applied use of microorganisms by man in the environment. Laboratory will emphasize current methods used in the field of environmental microbiology. May be taught concurrently with <span data-link='BIO608'>BIO 608</span>. Cannot receive credit for both <span data-link='BIO608'>BIO 608</span> and <span data-link='BIO508'>BIO 508</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO509": {
+    "course_id": "BIO509",
+    "title": "BIO 509 Stream Ecology",
+    "req": "<em>Prerequisite: <span data-link='BIO369'>BIO 369</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='CHM171'>CHM 171</span> or higher. The interdisciplinary study of running waters, including study of the physical and chemical environment, trophic interactions, nutrient cycling, and the multiple impacts of humans on modifying these systems. Lectures, group discussion of readings, and laboratory and field exercises. One all-day Saturday field trip required. May be taught concurrently with <span data-link='BIO609'>BIO 609</span>. Cannot receive credit for both <span data-link='BIO609'>BIO 609</span> and <span data-link='BIO509'>BIO 509</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO511": {
+    "course_id": "BIO511",
+    "title": "BIO 511 Immunology",
+    "req": "<em>Prerequisite: <span data-link='BIO210'>BIO 210</span> or <span data-link='BIO310'>BIO 310</span> or <span data-link='BIO320'>BIO 320</span> or <span data-link='BMS521'>BMS 521</span>.</em>",
+    "desc": "A study of the immune system with emphasis on molecular and cellular mechanisms underlying host-microbe interactions, allergy, transplant rejection, cancer surveillance, and autoimmune disease. Laboratory emphasis on techniques used to address research and diagnostic problems. Supplemental course fee. May be taught concurrently with <span data-link='BIO611'>BIO 611</span>. Cannot receive credit for both <span data-link='BIO511'>BIO 511</span> and <span data-link='BIO611'>BIO 611</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO512": {
+    "course_id": "BIO512",
+    "title": "BIO 512 Industrial Microbiology",
+    "req": "<em>Prerequisite: <span data-link='BIO210'>BIO 210</span> or <span data-link='BIO310'>BIO 310</span>.</em>",
+    "desc": "An introduction to the fundamental concepts of industrial and applied microbiology. The industrial production of proteins, metabolites, polymers, biocides, and vaccines will be discussed in addition to biotransformations and environmental applications. Production improvement strategies that employ both physical and modern molecular techniques will be introduced. Laboratory will emphasize the selection of industrially important microorganisms, the theory and operation of a fermentor for the production of proteins, antibiotics, and steroids, use of analytical equipment for monitoring product formation, enzymes analysis, downstream processing, and bio-reactor construction and design. May be taught concurrently with <span data-link='BIO613'>BIO 613</span>. Cannot receive credit for both <span data-link='BIO613'>BIO 613</span> and <span data-link='BIO512'>BIO 512</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO515": {
+    "course_id": "BIO515",
+    "title": "BIO 515 Evolution",
+    "req": "<em>Prerequisite: <span data-link='BIO235'>BIO 235</span> or <span data-link='BMS230'>BMS 230</span> or <span data-link='BMS231'>BMS 231</span>; and <span data-link='MTH135'>MTH 135</span> or higher.</em>",
+    "desc": "A survey of modern evolutionary biology, including the evidence that supports the theory of evolution, the natural processes that cause evolution, patterns and mechanisms of speciation, and methods for estimating evolutionary relationships. May be taught concurrently with <span data-link='BIO616'>BIO 616</span>. Cannot receive credit for both <span data-link='BIO616'>BIO 616</span> and <span data-link='BIO515'>BIO 515</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO517": {
+    "course_id": "BIO517",
+    "title": "BIO 517 Microbial Physiology and Metabolism",
+    "req": "<em>Prerequisite: <span data-link='BIO210'>BIO 210</span> or <span data-link='BIO310'>BIO 310</span> and either [<span data-link='CHM201'>CHM 201</span> and 202] or <span data-link='CHM342'>CHM 342</span>.</em>",
+    "desc": "Physiology and anatomy of microorganisms including adaptive responses to environmental changes and microbial metabolic diversity will be discussed. Laboratory will emphasize selective isolation and identification of microorganisms, the growth dynamics of microorganisms, and responses by microorganisms to environmental changes. May be taught concurrently with <span data-link='BIO617'>BIO 617</span>. Cannot receive credit for both <span data-link='BIO617'>BIO 617</span> and <span data-link='BIO517'>BIO 517</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO518": {
+    "course_id": "BIO518",
+    "title": "BIO 518 Regulatory Mechanisms",
+    "req": "<em>Prerequisite: <span data-link='BIO310'>BIO 310</span> or <span data-link='BIO320'>BIO 320</span> or <span data-link='BMS521'>BMS 521</span> or <span data-link='CHM452'>CHM 452</span>.</em>",
+    "desc": "The regulation of gene expression and protein/enzyme activity in prokaryotes, eukaryotes and viruses. A content-based lecture and discussion course utilizing both textbook and primary literature. May be taught concurrently with <span data-link='BIO618'>BIO 618</span>. Cannot receive credit for both <span data-link='BIO518'>BIO 518</span> and <span data-link='BIO618'>BIO 618</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO520": {
+    "course_id": "BIO520",
+    "title": "BIO 520 Pathogenic Microbiology",
+    "req": "<em>Prerequisite: <span data-link='BIO210'>BIO 210</span> or <span data-link='BIO310'>BIO 310</span>.</em>",
+    "desc": "Fundamental principles of pathogenic microbiology; transmission, infection and control of the pathogen. May be taught concurrently with <span data-link='BIO620'>BIO 620</span>. Cannot receive credit for both <span data-link='BIO620'>BIO 620</span> and <span data-link='BIO520'>BIO 520</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO521": {
+    "course_id": "BIO521",
+    "title": "BIO 521 Marine Science for Teachers I",
+    "req": "<em>Prerequisite: 12 hours in biology; and concurrent enrollment in <span data-link='BIO522'>BIO 522</span>.</em>",
+    "desc": "A course designed to introduce students, particularly inservice teachers, to the study of marine science and to promote the teaching of marine biology at all grade levels. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO621'>BIO 621</span>. Cannot receive credit for both <span data-link='BIO621'>BIO 621</span> and <span data-link='BIO521'>BIO 521</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO522": {
+    "course_id": "BIO522",
+    "title": "BIO 522 Marine Science for Teachers I Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BIO521'>BIO 521</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='BIO521'>BIO 521</span>. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO623'>BIO 623</span>. Cannot receive credit for both <span data-link='BIO623'>BIO 623</span> and <span data-link='BIO522'>BIO 522</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO527": {
+    "course_id": "BIO527",
+    "title": "BIO 527 Field Biology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Field work during an extended field trip to a specific region of North America to familiarize the student with the flora and/or fauna of that region. Course is scheduled irregularly during academic breaks and may be preceded by several lectures in preparation for the trip. May be repeated to a total of 6 credits with a maximum of 3 credits to be applied to the major in biology. Supplemental course fee (variable by section). May be taught concurrently with <span data-link='BIO627'>BIO 627</span>. Cannot receive credit for both <span data-link='BIO627'>BIO 627</span> and <span data-link='BIO527'>BIO 527</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO530": {
+    "course_id": "BIO530",
+    "title": "BIO 530 Phycology",
+    "req": "<em>Prerequisite: <span data-link='BIO369'>BIO 369</span>.</em>",
+    "desc": "The structure, function, ecological significance, and diversity of algae. Emphasis will be placed on field studies, isolation and growth, and physiological characteristics. May be taught concurrently with <span data-link='BIO629'>BIO 629</span>. Cannot receive credit for both <span data-link='BIO629'>BIO 629</span> and <span data-link='BIO530'>BIO 530</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO532": {
+    "course_id": "BIO532",
+    "title": "BIO 532 Principles of Fisheries Management",
+    "req": "<em>Prerequisite: <span data-link='BIO369'>BIO 369</span> or <span data-link='BIO373'>BIO 373</span>.</em>",
+    "desc": "Life history, population ecology, and management of exploited freshwater and marine species. Scientific sampling and analysis of fishery populations. Characterization, history, and management principles for representative commercial and recreational fisheries. May be taught concurrently with <span data-link='BIO632'>BIO 632</span>. Cannot receive credit for both <span data-link='BIO632'>BIO 632</span> and <span data-link='BIO532'>BIO 532</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO533": {
+    "course_id": "BIO533",
+    "title": "BIO 533 Wetland Ecology",
+    "req": "<em>Prerequisite: <span data-link='BIO369'>BIO 369</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='CHM171'>CHM 171</span> or higher. The composition, structure, function, and importance of wetland ecosystems. Comparisons of different wetland types, hydrology, nutrient cycles, plants and animals and their adaptations, and conservation strategies. May be taught concurrently with <span data-link='BIO633'>BIO 633</span>. Cannot receive credit for both <span data-link='BIO633'>BIO 633</span> and <span data-link='BIO533'>BIO 533</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO534": {
+    "course_id": "BIO534",
+    "title": "BIO 534 Coastal Vegetation",
+    "req": "<em>Prerequisite: 10 hours of biology including <span data-link='BIO121'>BIO 121</span> and <span data-link='BIO122'>BIO 122</span>; and concurrent enrollment in <span data-link='BIO535'>BIO 535</span>.</em>",
+    "desc": "A broad study of the general and specific aspects of coastal vegetation, with emphasis on local examples. Vegetational composition, variation, succession, climax, and distribution. Includes aerial techniques, plant identification, delineation of vegetational types and mapping. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO641'>BIO 641</span>. Cannot receive credit for both <span data-link='BIO641'>BIO 641</span> and <span data-link='BIO534'>BIO 534</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO535": {
+    "course_id": "BIO535",
+    "title": "BIO 535 Coastal Vegetation Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BIO534'>BIO 534</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='BIO534'>BIO 534</span>. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO635'>BIO 635</span>. Cannot receive credit for both <span data-link='BIO635'>BIO 635</span> and <span data-link='BIO535'>BIO 535</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO537": {
+    "course_id": "BIO537",
+    "title": "BIO 537 Salt Marsh Plant Ecology",
+    "req": "<em>Prerequisite: <span data-link='BIO122'>BIO 122</span> and <span data-link='BIO334'>BIO 334</span> and <span data-link='BIO544'>BIO 544</span> and <span data-link='BIO369'>BIO 369</span>; and concurrent enrollment in <span data-link='BIO538'>BIO 538</span>.</em>",
+    "desc": "A study with emphasis on the botanical aspects of local marshes; includes plant identification, composition, structure, distribution, and development of coastal marshes. Biological and physical interrelationships. Primary productivity and relation of marshes to estuaries and associated fauna. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO637'>BIO 637</span>. Cannot receive credit for both <span data-link='BIO637'>BIO 637</span> and <span data-link='BIO537'>BIO 537</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO538": {
+    "course_id": "BIO538",
+    "title": "BIO 538 Salt Marsh Plant Ecology Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BIO537'>BIO 537</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='BIO537'>BIO 537</span>. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO638'>BIO 638</span>. Cannot receive credit for both <span data-link='BIO638'>BIO 638</span> and <span data-link='BIO538'>BIO 538</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO539": {
+    "course_id": "BIO539",
+    "title": "BIO 539 Biogeography",
+    "req": "<em>Prerequisite: <span data-link='BIO121'>BIO 121</span> and <span data-link='BIO122'>BIO 122</span>.</em>",
+    "desc": "Study of patterns of distribution of organisms in space and in time. May be taught concurrently with <span data-link='BIO639'>BIO 639</span>. Cannot receive credit for both <span data-link='BIO639'>BIO 639</span> and <span data-link='BIO539'>BIO 539</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO540": {
+    "course_id": "BIO540",
+    "title": "BIO 540 Applications of Molecular Markers",
+    "req": "<em>Prerequisite: grade of &quot;B&quot; or higher in <span data-link='BIO235'>BIO 235</span>.</em>",
+    "desc": "Introduction to the use of molecular markers in biological research. Topics covered include methods for identifying genetic variation at the molecular level and their applications to gene discovery, gene mapping, phylogenetics, forensics, conservation biology, and research in ecology and evolution. Students will complete research projects using one or more of the techniques learned. Supplemental course fee. May be taught concurrently with <span data-link='BIO640'>BIO 640</span>. Cannot receive credit for both <span data-link='BIO640'>BIO 640</span> and <span data-link='BIO540'>BIO 540</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO544": {
+    "course_id": "BIO544",
+    "title": "BIO 544 Plant Physiology",
+    "desc": "Recommended prerequisite: <span data-link='CHM201'>CHM 201</span> and 202 or <span data-link='CHM342'>CHM 342</span>. Basic chemical and physical principles of plant function considering water relationships, nutrient transport, mineral nutrition, photosynthesis, respiration, and phytohormones. May be taught concurrently with <span data-link='BIO644'>BIO 644</span>. Cannot receive credit for both <span data-link='BIO644'>BIO 644</span> and <span data-link='BIO544'>BIO 544</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO547": {
+    "course_id": "BIO547",
+    "title": "BIO 547 Water Resources",
+    "req": "<em>Prerequisite: <span data-link='BIO122'>BIO 122</span> or <span data-link='GLG110'>GLG 110</span> or <span data-link='GRY142'>GRY 142</span>; and <span data-link='CHM160'>CHM 160</span> and <span data-link='CHM161'>CHM 161</span>; and <span data-link='MTH135'>MTH 135</span>.</em>",
+    "desc": "An interdisciplinary study of freshwater resource development, including environmental impacts of humans on hydrology and water quality, conflicts among users, and politics at local and global scales. Identical with <span data-link='GLG547'>GLG 547</span>. Cannot receive credit for both <span data-link='BIO547'>BIO 547</span> and <span data-link='GLG547'>GLG 547</span>. May be taught concurrently with <span data-link='BIO647'>BIO 647</span>. Cannot receive credit for both <span data-link='BIO547'>BIO 547</span> and <span data-link='BIO647'>BIO 647</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO550": {
+    "course_id": "BIO550",
+    "title": "BIO 550 Statistical Methods for Biologists",
+    "req": "<em>Prerequisite: <span data-link='BIO235'>BIO 235</span> or <span data-link='BMS230'>BMS 230</span> or <span data-link='BMS231'>BMS 231</span>; and <span data-link='MTH138'>MTH 138</span> or higher.</em>",
+    "desc": "Scientific methodology, experimental design, statistical analysis, and data interpretation applied to biological questions. May be taught concurrently with <span data-link='BIO650'>BIO 650</span>. Cannot receive credit for both <span data-link='BIO650'>BIO 650</span> and <span data-link='BIO550'>BIO 550</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO551": {
+    "course_id": "BIO551",
+    "title": "BIO 551 Experimental Design for Biologists",
+    "req": "<em>Prerequisite: &quot;B-&quot; or better in <span data-link='BIO550'>BIO 550</span>.</em>",
+    "desc": "The design and analysis of biological experiments, with an emphasis on the choice and interpretation of inferential statistics. Topics covered include causal inference, statistical power, general linear models, and repeated measures designs. The use of computer software to analyze real data sets from the biological literature is emphasized. May be taught concurrently with <span data-link='BIO651'>BIO 651</span>. Cannot receive credit for both <span data-link='BIO651'>BIO 651</span> and <span data-link='BIO551'>BIO 551</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO555": {
+    "course_id": "BIO555",
+    "title": "BIO 555 Marine Ichthyology",
+    "req": "<em>Prerequisite: junior standing; 16 hours of biology including <span data-link='BIO121'>BIO 121</span> and <span data-link='BIO122'>BIO 122</span> and <span data-link='BIO235'>BIO 235</span> and <span data-link='BIO380'>BIO 380</span>; and concurrent enrollment in <span data-link='BIO556'>BIO 556</span>.</em>",
+    "desc": "This course provides the student with a strong general background in the biology of marine fishes. Emphasis placed on the principles involved in the classification and taxonomy of marine and estuarine fishes. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO654'>BIO 654</span>. Cannot receive credit for both <span data-link='BIO654'>BIO 654</span> and <span data-link='BIO555'>BIO 555</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO556": {
+    "course_id": "BIO556",
+    "title": "BIO 556 Marine Ichthyology Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BIO555'>BIO 555</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='BIO555'>BIO 555</span>. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO656'>BIO 656</span>. Cannot receive credit for both <span data-link='BIO656'>BIO 656</span> and <span data-link='BIO556'>BIO 556</span>. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO557": {
+    "course_id": "BIO557",
+    "title": "BIO 557 Marine Fisheries Management",
+    "req": "<em>Prerequisite: permission of instructor; and concurrent enrollment in <span data-link='BIO558'>BIO 558</span>.</em>",
+    "desc": "A course designed to familiarize students with practical marine fisheries management problems in today&apos;s real world. Covers the international and local, economic, social, legal, and political, as well as biological factors that are considered in decisions directed toward achieving optimum sustainable yield from marine resources. The history of management schemes, sources of information, current status of fishing technology, management methods, legal problems and educational needs are explored. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO657'>BIO 657</span>. Cannot receive credit for both <span data-link='BIO657'>BIO 657</span> and <span data-link='BIO557'>BIO 557</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO558": {
+    "course_id": "BIO558",
+    "title": "BIO 558 Marine Fisheries Management Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BIO557'>BIO 557</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='BIO557'>BIO 557</span>. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO658'>BIO 658</span>. Cannot receive credit for both <span data-link='BIO658'>BIO 658</span> and <span data-link='BIO558'>BIO 558</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO560": {
+    "course_id": "BIO560",
+    "title": "BIO 560 Population Genetics and Evolutionary Mechanisms",
+    "req": "<em>Prerequisite: <span data-link='BIO235'>BIO 235</span>.</em>",
+    "desc": "The theory of genetic variation in populations, with emphasis on quantitative description of the mechanisms of biological evolution. May be taught concurrently with <span data-link='BIO659'>BIO 659</span>. Cannot receive credit for both <span data-link='BIO659'>BIO 659</span> and <span data-link='BIO560'>BIO 560</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO561": {
+    "course_id": "BIO561",
+    "title": "BIO 561 Environmental Issues Education and Interpretation",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Discussion of environmental issues, practical experiences in teaching environmental concepts, and awareness of environmental resource materials for the formal and nonformal educational setting. May be taught concurrently with <span data-link='BIO661'>BIO 661</span>. Cannot receive credit for both <span data-link='BIO561'>BIO 561</span> and <span data-link='BIO661'>BIO 661</span> Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO562": {
+    "course_id": "BIO562",
+    "title": "BIO 562 Limnology",
+    "req": "<em>Prerequisite: <span data-link='BIO369'>BIO 369</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='CHM171'>CHM 171</span> or higher. Physical, chemical, and biological characteristics of lakes and reservoirs. Laboratory includes mapping, lake models, water chemistry, and surveys of diversity and abundance. Two all-day Saturday labs required. May be taught concurrently with <span data-link='BIO662'>BIO 662</span>. Cannot receive credit for both <span data-link='BIO662'>BIO 662</span> and <span data-link='BIO562'>BIO 562</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO563": {
+    "course_id": "BIO563",
+    "title": "BIO 563 Population Ecology",
+    "req": "<em>Prerequisite: <span data-link='BIO369'>BIO 369</span>; and <span data-link='MTH138'>MTH 138</span> or higher.</em>",
+    "desc": "Discussion of factors controlling the distribution and abundance of populations. Quantitative description of population dynamics is emphasized. May be taught concurrently with <span data-link='BIO663'>BIO 663</span>. Cannot receive credit for both <span data-link='BIO663'>BIO 663</span> and <span data-link='BIO563'>BIO 563</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO564": {
+    "course_id": "BIO564",
+    "title": "BIO 564 Ozarks Natural Communities",
+    "desc": "Recommended Prerequisite: <span data-link='BIO369'>BIO 369</span>. Examination of forests, glades, and aquatic habitats with focus on environmental issues in the Ozarks. Integration into formal and non-formal educational settings will be covered. May be taught at the Bull Shoals Field Station. May be taught concurrently with <span data-link='BIO664'>BIO 664</span>. Cannot receive credit for both <span data-link='BIO564'>BIO 564</span> and <span data-link='BIO664'>BIO 664</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO565": {
+    "course_id": "BIO565",
+    "title": "BIO 565 Marine Ecology",
+    "req": "<em>Prerequisite: 16 hours of biology including <span data-link='BIO121'>BIO 121</span> and <span data-link='BIO122'>BIO 122</span>; and concurrent enrollment in <span data-link='BIO566'>BIO 566</span>.</em>",
+    "desc": "A consideration of the relationship of marine organisms to their environment includes the effects of temperature, salinity, light, nutrient concentration, currents, and food on the abundance and distribution of marine organisms. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO665'>BIO 665</span>. Cannot receive credit for both <span data-link='BIO665'>BIO 665</span> and <span data-link='BIO565'>BIO 565</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO566": {
+    "course_id": "BIO566",
+    "title": "BIO 566 Marine Ecology Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BIO565'>BIO 565</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='BIO565'>BIO 565</span>. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO666'>BIO 666</span>. Cannot receive credit for both <span data-link='BIO666'>BIO 666</span> and <span data-link='BIO566'>BIO 566</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO567": {
+    "course_id": "BIO567",
+    "title": "BIO 567 Physiological Ecology",
+    "req": "<em>Prerequisite: <span data-link='BIO369'>BIO 369</span>; and either <span data-link='BIO361'>BIO 361</span> or <span data-link='BIO544'>BIO 544</span> or <span data-link='BMS308'>BMS 308</span>.</em>",
+    "desc": "Physiological adaptations of plants and animals to environmentally stressful conditions and to ecological/evolutionary pressures. May be taught concurrently with <span data-link='BIO668'>BIO 668</span>. Cannot receive credit for both <span data-link='BIO668'>BIO 668</span> and <span data-link='BIO567'>BIO 567</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO571": {
+    "course_id": "BIO571",
+    "title": "BIO 571 Comparative Animal Physiology",
+    "req": "<em>Prerequisite: <span data-link='BIO361'>BIO 361</span> or <span data-link='BMS308'>BMS 308</span>.</em>",
+    "desc": "Organ/system function in a wide range of invertebrate and vertebrate animals. May be taught concurrently with <span data-link='BIO671'>BIO 671</span>. Cannot receive credit for both <span data-link='BIO671'>BIO 671</span> and <span data-link='BIO571'>BIO 571</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO573": {
+    "course_id": "BIO573",
+    "title": "BIO 573 Ornithology",
+    "req": "<em>Prerequisite: 12 hours of biology.</em>",
+    "desc": "Taxonomy, distribution, life histories and ecology of birds; emphasis on Missouri forms. Early morning field trips required. May be taught concurrently with <span data-link='BIO673'>BIO 673</span>. Cannot receive credit for both <span data-link='BIO673'>BIO 673</span> and <span data-link='BIO573'>BIO 573</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO574": {
+    "course_id": "BIO574",
+    "title": "BIO 574 Aquatic Entomology",
+    "req": "<em>Prerequisite: <span data-link='BIO370'>BIO 370</span> or <span data-link='BIO371'>BIO 371</span> or <span data-link='AGR383'>AGR 383</span>.</em>",
+    "desc": "Aquatic insects, ecology and taxonomy with emphasis on field applications. May be taught concurrently with <span data-link='BIO674'>BIO 674</span>. Cannot receive credit for both <span data-link='BIO674'>BIO 674</span> and <span data-link='BIO574'>BIO 574</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO575": {
+    "course_id": "BIO575",
+    "title": "BIO 575 Ichthyology",
+    "req": "<em>Prerequisite: 12 hours in biology.</em>",
+    "desc": "Taxonomy, distribution, life histories and ecology of fish with emphasis on Missouri forms. May be taught concurrently with <span data-link='BIO675'>BIO 675</span>. Cannot receive credit for both <span data-link='BIO675'>BIO 675</span> and <span data-link='BIO575'>BIO 575</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO576": {
+    "course_id": "BIO576",
+    "title": "BIO 576 Herpetology",
+    "req": "<em>Prerequisite: 12 hours in biology.</em>",
+    "desc": "Taxonomy, distribution, life histories and ecology of amphibians and reptiles with emphasis on Missouri forms. One weekend field trip required. Supplemental course fee. May be taught concurrently with <span data-link='BIO676'>BIO 676</span>. Cannot receive credit for both <span data-link='BIO676'>BIO 676</span> and <span data-link='BIO576'>BIO 576</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO577": {
+    "course_id": "BIO577",
+    "title": "BIO 577 Mammalogy",
+    "req": "<em>Prerequisite: 12 hours in biology.</em>",
+    "desc": "Taxonomy, distribution, life histories and ecology of mammals with emphasis on Missouri forms. One weekend field trip required. Supplemental course fee. May be taught concurrently with <span data-link='BIO677'>BIO 677</span>. Cannot receive credit for both <span data-link='BIO677'>BIO 677</span> and <span data-link='BIO577'>BIO 577</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO578": {
+    "course_id": "BIO578",
+    "title": "BIO 578 Behavioral Ecology",
+    "desc": "Recommended Prerequisite: <span data-link='BIO369'>BIO 369</span> and <span data-link='BIO550'>BIO 550</span>. Fundamental principles of animal behavior with an emphasis on the study of the ecological and evolutionary processes that influence behavior. May be taught concurrently with <span data-link='BIO678'>BIO 678</span>. Cannot receive credit for both <span data-link='BIO678'>BIO 678</span> and <span data-link='BIO578'>BIO 578</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO579": {
+    "course_id": "BIO579",
+    "title": "BIO 579 Conservation Biology",
+    "req": "<em>Prerequisite: <span data-link='BIO235'>BIO 235</span> and <span data-link='BIO369'>BIO 369</span>.</em>",
+    "desc": "An in-depth examination of the science of conservation from a biological perspective, with an examination of ethical and legal aspects of conservation. May be taught concurrently with <span data-link='BIO679'>BIO 679</span>. Cannot receive credit for both <span data-link='BIO679'>BIO 679</span> and <span data-link='BIO579'>BIO 579</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO584": {
+    "course_id": "BIO584",
+    "title": "BIO 584 Fish Ecology",
+    "req": "<em>Prerequisite: <span data-link='BIO369'>BIO 369</span> and <span data-link='BIO575'>BIO 575</span>.</em>",
+    "desc": "The biology of fishes in relation to environmental conditions at the individual, population, and community levels. May be taught concurrently with <span data-link='BIO686'>BIO 686</span>. Cannot receive credit for both <span data-link='BIO686'>BIO 686</span> and <span data-link='BIO584'>BIO 584</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO587": {
+    "course_id": "BIO587",
+    "title": "BIO 587 Marine Invertebrate Zoology",
+    "req": "<em>Prerequisite: 16 hours in biology; and concurrent enrollment in <span data-link='BIO588'>BIO 588</span>.</em>",
+    "desc": "A concentrated study of the free-living marine and estuarine invertebrates of Mississippi Sound and adjacent bayous, salt marshes, barrier islands, and the nearshore continental shelf of the northeastern Gulf of Mexico. Course emphasizes structure, classification, phylogenetic relationships, larval development, functional processes, and ecological aspects of Gulf of Mexico invertebrates and their natural assemblages. Advanced undergraduates and graduate students may be asked to conduct independent, short-term research projects during the course. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO687'>BIO 687</span>. Cannot receive credit for both <span data-link='BIO687'>BIO 687</span> and <span data-link='BIO587'>BIO 587</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO588": {
+    "course_id": "BIO588",
+    "title": "BIO 588 Marine Invertebrate Zoology Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BIO587'>BIO 587</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='BIO587'>BIO 587</span>. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO688'>BIO 688</span>. Cannot receive credit for both <span data-link='BIO688'>BIO 688</span> and <span data-link='BIO588'>BIO 588</span>. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO589": {
+    "course_id": "BIO589",
+    "title": "BIO 589 Game Management",
+    "req": "<em>Prerequisite: <span data-link='BIO373'>BIO 373</span>.</em>",
+    "desc": "Management of game birds and mammals for recreational utilization. May be taught concurrently with <span data-link='BIO689'>BIO 689</span>. Cannot receive credit for both <span data-link='BIO689'>BIO 689</span> and <span data-link='BIO589'>BIO 589</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO597": {
+    "course_id": "BIO597",
+    "title": "BIO 597 Topics in Biology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "A variable content course to provide for the offering of selected topics in biology on a one time or first-time basis. May be repeated for credit when topic varies. May be taught concurrently with <span data-link='BIO697'>BIO 697</span>. Cannot receive credit for both <span data-link='BIO697'>BIO 697</span> and <span data-link='BIO597'>BIO 597</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO601": {
+    "course_id": "BIO601",
+    "title": "BIO 601 Natural History Museum Techniques",
+    "desc": "Techniques in the development of natural history museum displays including making models, design of displays, writing educational text, and other techniques. Course will be taught off-site at the Bull Shoals Field Station and Chase Studio. May be taught concurrently with <span data-link='BIO501'>BIO 501</span>. Cannot receive credit for both <span data-link='BIO601'>BIO 601</span> and <span data-link='BIO501'>BIO 501</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO605": {
+    "course_id": "BIO605",
+    "title": "BIO 605 Human Nature",
+    "desc": "Recommended Prerequisite: general biology with evolution; genetics; college algebra; and introductory psychology. A survey of current biological research on the behavioral, psychological, and cognitive dimensions of human biology. This course emphasizes the evolution and function of human social behaviors and value systems, but also addresses the genetics of human psychological diversity, the genetics of human-ape divergence, and the neurobiology of human cognition. May be taught concurrently with <span data-link='BIO505'>BIO 505</span>. Cannot receive credit for both <span data-link='BIO605'>BIO 605</span> and <span data-link='BIO505'>BIO 505</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO608": {
+    "course_id": "BIO608",
+    "title": "BIO 608 Environmental Microbiology",
+    "desc": "Recommended Prerequisite: microbiology. The study of the ecology of microorganisms and the applied use of microorganisms by man in the environment. Laboratory will emphasize current methods used in the field of environmental microbiology. May be taught concurrently with <span data-link='BIO508'>BIO 508</span>. Cannot receive credit for both <span data-link='BIO508'>BIO 508</span> and <span data-link='BIO608'>BIO 608</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO609": {
+    "course_id": "BIO609",
+    "title": "BIO 609 Stream Ecology",
+    "desc": "Recommended Prerequisite: ecology course and one year of college chemistry. The interdisciplinary study of running waters, including study of the physical and chemical environment, trophic interactions, nutrient cycling, and the multiple impacts of humans on modifying these systems. Lectures, group discussion of readings, and laboratory and field exercises. One all-day Saturday field trip required. May be taught concurrently with <span data-link='BIO509'>BIO 509</span>. Cannot receive credit for both <span data-link='BIO509'>BIO 509</span> and <span data-link='BIO609'>BIO 609</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO611": {
+    "course_id": "BIO611",
+    "title": "BIO 611 Immunology",
+    "desc": "Recommended Prerequisite: microbiology or molecular/cellular biology. A study of the immune system with emphasis on molecular and cellular mechanisms underlying host-microbe interactions, allergy, transplant rejection, cancer surveillance, and autoimmune disease. Laboratory emphasis on techniques used to address research and diagnostic problems. Supplemental course fee. May be taught concurrently with <span data-link='BIO511'>BIO 511</span>. Cannot receive credit for both <span data-link='BIO511'>BIO 511</span> and <span data-link='BIO611'>BIO 611</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO613": {
+    "course_id": "BIO613",
+    "title": "BIO 613 Industrial Microbiology",
+    "desc": "Recommended Prerequisite: microbiology course. An introduction to the fundamental concepts of industrial and applied microbiology. The industrial production of proteins, metabolites, polymers, biocides, and vaccines will be discussed in addition to biotransformations and environmental applications. Production improvement strategies that employ both physical and modern molecular techniques will be introduced. Laboratory will emphasize the selection of industrially important microorganisms, the theory and operation of a fermentor for the production of proteins, antibiotics, and steroids, use of analytical equipment for monitoring product formation, enzymes analysis, downstream processing, and bio-reactor construction and design. May be taught concurrently with <span data-link='BIO512'>BIO 512</span>. Cannot receive credit for both <span data-link='BIO512'>BIO 512</span> and <span data-link='BIO613'>BIO 613</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO616": {
+    "course_id": "BIO616",
+    "title": "BIO 616 Evolution",
+    "desc": "Recommended Prerequisite: genetics course; and college algebra or pre-calculus mathematics course. A survey of modern evolutionary biology, including the evidence that supports the theory of evolution, the natural processes that cause evolution, patterns and mechanisms of speciation, and methods for estimating evolutionary relationships. May be taught concurrently with <span data-link='BIO515'>BIO 515</span>. Cannot receive credit for both <span data-link='BIO515'>BIO 515</span> and <span data-link='BIO616'>BIO 616</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO617": {
+    "course_id": "BIO617",
+    "title": "BIO 617 Microbial Physiology and Metabolism",
+    "desc": "Recommended Prerequisite: microbiology course and organic chemistry course. Physiology and anatomy of microorganisms including adaptive responses to environmental changes and microbial metabolic diversity will be discussed. Laboratory will emphasize selective isolation and identification of microorganisms, the growth dynamics of microorganisms, and responses by microorganisms to environmental changes. May be taught concurrently with <span data-link='BIO517'>BIO 517</span>. Cannot receive credit for both <span data-link='BIO517'>BIO 517</span> and <span data-link='BIO617'>BIO 617</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO618": {
+    "course_id": "BIO618",
+    "title": "BIO 618 Regulatory Mechanisms",
+    "desc": "Recommended Prerequisite: genetics, molecular/cellular biology, microbiology, or biochemistry. The regulation of gene expression and protein/enzyme activity in prokaryotes, eukaryotes and viruses. A content-based lecture and discussion course utilizing both textbook and primary literature. May be taught concurrently with <span data-link='BIO518'>BIO 518</span>. Cannot receive credit for both <span data-link='BIO618'>BIO 618</span> and <span data-link='BIO518'>BIO 518</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO620": {
+    "course_id": "BIO620",
+    "title": "BIO 620 Pathogenic Microbiology",
+    "desc": "Recommended Prerequisite: microbiology course. Fundamental principles of pathogenic microbiology; transmission, infection and control of the pathogen. May be taught concurrently with <span data-link='BIO520'>BIO 520</span>. Cannot receive credit for both <span data-link='BIO520'>BIO 520</span> and <span data-link='BIO620'>BIO 620</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO621": {
+    "course_id": "BIO621",
+    "title": "BIO 621 Marine Science for Teachers I",
+    "req": "<em>Prerequisite: 12 hours in biology.</em>",
+    "desc": "Recommended Prerequisite: genetics course. A course designed to introduce students, particularly inservice teachers, to the study of marine science and to promote the teaching of marine biology at all grade levels. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO521'>BIO 521</span>. Cannot receive credit for both <span data-link='BIO521'>BIO 521</span> and <span data-link='BIO621'>BIO 621</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO623": {
+    "course_id": "BIO623",
+    "title": "BIO 623 Marine Science for Teachers I Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BIO621'>BIO 621</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='BIO621'>BIO 621</span>. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO522'>BIO 522</span>. Cannot receive credit for both <span data-link='BIO522'>BIO 522</span> and <span data-link='BIO623'>BIO 623</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO627": {
+    "course_id": "BIO627",
+    "title": "BIO 627 Field Biology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Field work during an extended field trip to a specific region of North America to familiarize the student with the flora and/or fauna of that region. Course is scheduled irregularly during academic breaks and may be preceded by several lectures in preparation for the trip. May be repeated to a total of 6 credits with a maximum of 3 credits to be applied to the major in biology. Supplemental course fee (variable by section). May be taught concurrently with <span data-link='BIO527'>BIO 527</span>. Cannot receive credit for both <span data-link='BIO527'>BIO 527</span> and <span data-link='BIO627'>BIO 627</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO629": {
+    "course_id": "BIO629",
+    "title": "BIO 629 Phycology",
+    "desc": "Recommended Prerequisite: ecology course. The structure, function, ecological significance, and diversity of algae. Emphasis will be placed on field studies, isolation and growth, and physiological characteristics. May be taught concurrently with <span data-link='BIO530'>BIO 530</span>. Cannot receive credit for both <span data-link='BIO530'>BIO 530</span> and <span data-link='BIO629'>BIO 629</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO632": {
+    "course_id": "BIO632",
+    "title": "BIO 632 Principles of Fisheries Management",
+    "desc": "Recommended Prerequisite: ecology or wildlife management course. Life history, population ecology, and management of exploited freshwater and marine species. Scientific sampling and analysis of fishery populations. Characterization, history, and management principles for representative commercial and recreational fisheries. May be taught concurrently with <span data-link='BIO532'>BIO 532</span>. Cannot receive credit for both <span data-link='BIO532'>BIO 532</span> and <span data-link='BIO632'>BIO 632</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO633": {
+    "course_id": "BIO633",
+    "title": "BIO 633 Wetland Ecology",
+    "desc": "Recommended Prerequisite: ecology course; and one year of college chemistry. The composition, structure, function, and importance of wetland ecosystems. Comparisons of different wetland types, hydrology, nutrient cycles, plants and animals and their adaptations, and conservation strategies. May be taught concurrently with <span data-link='BIO533'>BIO 533</span>. Cannot receive credit for both <span data-link='BIO533'>BIO 533</span> and <span data-link='BIO633'>BIO 633</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO635": {
+    "course_id": "BIO635",
+    "title": "BIO 635 Coastal Vegetation Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BIO641'>BIO 641</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='BIO641'>BIO 641</span>. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO535'>BIO 535</span>. Cannot receive credit for both <span data-link='BIO535'>BIO 535</span> and <span data-link='BIO635'>BIO 635</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO636": {
+    "course_id": "BIO636",
+    "title": "BIO 636 Plant Ecology",
+    "desc": "Recommended Prerequisite: ecology course. The dynamics, structure, and distribution of plant populations and communities, with emphasis on interactions among plants, plants and other organisms, and plants and ecosystems. Laboratory emphasis on experimental studies in the greenhouse and field. Weekend field trip is required. <span data-link='BIO436'>BIO 436</span> may be taught concurrently with <span data-link='BIO636'>BIO 636</span>. Cannot receive credit for both <span data-link='BIO436'>BIO 436</span> and <span data-link='BIO636'>BIO 636</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO637": {
+    "course_id": "BIO637",
+    "title": "BIO 637 Salt Marsh Plant Ecology",
+    "req": "<em>Prerequisite: permission of advisor or department head.</em>",
+    "desc": "Recommended Prerequisite: general biology II, plant taxonomy, ecology and plant physiology course. A study with emphasis on the botanical aspects of local marshes; includes plant identification, composition, structure, distribution, and development of coastal marshes. Biological and physical interrelationships. Primary productivity and relation of marshes to estuaries and associated fauna. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO537'>BIO 537</span>. Cannot receive credit for both <span data-link='BIO537'>BIO 537</span> and <span data-link='BIO637'>BIO 637</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO638": {
+    "course_id": "BIO638",
+    "title": "BIO 638 Salt Marsh Plant Ecology Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BIO637'>BIO 637</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='BIO637'>BIO 637</span>. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO538'>BIO 538</span>. Cannot receive credit for both <span data-link='BIO538'>BIO 538</span> and <span data-link='BIO638'>BIO 638</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO639": {
+    "course_id": "BIO639",
+    "title": "BIO 639 Biogeography",
+    "desc": "Recommended Prerequisite: general biology I and II courses. Study of patterns of distribution of organisms in space and in time. May be taught concurrently with <span data-link='BIO539'>BIO 539</span>. Cannot receive credit for both <span data-link='BIO539'>BIO 539</span> and <span data-link='BIO639'>BIO 639</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO640": {
+    "course_id": "BIO640",
+    "title": "BIO 640 Applications of Molecular Markers",
+    "desc": "Recommended Prerequisite: genetics course. Introduction to the use of molecular markers in biological research. Topics covered include methods for identifying genetic variation at the molecular level and their applications to gene discovery, gene mapping, phylogenetics, forensics, conservation biology, and research in ecology and evolution. Students will complete research projects using one or more of the techniques learned. Supplemental course fee. May be taught concurrently with <span data-link='BIO540'>BIO 540</span>. Cannot receive credit for both <span data-link='BIO640'>BIO 640</span> and <span data-link='BIO540'>BIO 540</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO641": {
+    "course_id": "BIO641",
+    "title": "BIO 641 Coastal Vegetation",
+    "req": "<em>Prerequisite: 10 hours of biology and permission of advisor or department head.</em>",
+    "desc": "Recommended Prerequisite: general biology I and II courses. A broad study of the general and specific aspects of coastal vegetation, with emphasis on local examples. Vegetational composition, variation, succession, climax, and distribution. Includes aerial techniques, plant identification, delineation of vegetational types and mapping. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO534'>BIO 534</span>. Cannot receive credit for both <span data-link='BIO534'>BIO 534</span> and <span data-link='BIO641'>BIO 641</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO644": {
+    "course_id": "BIO644",
+    "title": "BIO 644 Plant Physiology",
+    "desc": "Recommended Prerequisite: organic chemistry course. Basic chemical and physical principles of plant function considering water relationships, nutrient transport, mineral nutrition, photosynthesis, respiration, and phytohormones. May be taught concurrently with <span data-link='BIO544'>BIO 544</span>. Cannot receive credit for both <span data-link='BIO544'>BIO 544</span> and <span data-link='BIO644'>BIO 644</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO647": {
+    "course_id": "BIO647",
+    "title": "BIO 647 Water Resources",
+    "desc": "Recommended Prerequisite: <span data-link='BIO122'>BIO 122</span> or <span data-link='GLG110'>GLG 110</span> or <span data-link='GRY142'>GRY 142</span>; and <span data-link='CHM160'>CHM 160</span> and <span data-link='CHM161'>CHM 161</span>; and <span data-link='MTH135'>MTH 135</span>. An interdisciplinary study of freshwater resource development, including environmental impacts of humans on hydrology and water quality, conflicts among users, and politics at local and global scales. Identical with <span data-link='GLG647'>GLG 647</span>. Cannot receive credit for both <span data-link='BIO647'>BIO 647</span> and <span data-link='GLG647'>GLG 647</span>. May be taught concurrently with <span data-link='BIO547'>BIO 547</span>. Cannot receive credit for both <span data-link='BIO647'>BIO 647</span> and <span data-link='BIO547'>BIO 547</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO650": {
+    "course_id": "BIO650",
+    "title": "BIO 650 Statistical Methods for Biologists",
+    "desc": "Recommended Prerequisite: genetics course and pre-calculus mathematics course. Scientific methodology, experimental design, statistical analysis, and data interpretation applied to biological questions. May be taught concurrently with <span data-link='BIO550'>BIO 550</span>. Cannot receive credit for both <span data-link='BIO550'>BIO 550</span> and <span data-link='BIO650'>BIO 650</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO651": {
+    "course_id": "BIO651",
+    "title": "BIO 651 Experimental Design for Biologists",
+    "desc": "Recommended Prerequisite: statistics course. The design and analysis of biological experiments, with an emphasis on the choice and interpretation of inferential statistics. Topics covered include causal inference, statistical power, general linear models, and repeated measures designs. The use of computer software to analyze real data sets from the biological literature is emphasized. May be taught concurrently with <span data-link='BIO551'>BIO 551</span>. Cannot receive credit for both <span data-link='BIO551'>BIO 551</span> and <span data-link='BIO651'>BIO 651</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO654": {
+    "course_id": "BIO654",
+    "title": "BIO 654 Marine Ichthyology",
+    "req": "<em>Prerequisite: 16 hours of biology and permission of advisor or department head.</em>",
+    "desc": "Recommended Prerequisite: General Biology I and II, Genetics and Comparative Vertebrate Anatomy. This course provides the student with a strong general background in the biology of marine fishes. Emphasis placed on the principles involved in the classification and taxonomy of marine and estuarine fishes. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO555'>BIO 555</span>. Cannot receive credit for both <span data-link='BIO555'>BIO 555</span> and <span data-link='BIO654'>BIO 654</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO656": {
+    "course_id": "BIO656",
+    "title": "BIO 656 Marine Ichthyology Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BIO654'>BIO 654</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='BIO654'>BIO 654</span>. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO556'>BIO 556</span>. Cannot receive credit for both <span data-link='BIO556'>BIO 556</span> and <span data-link='BIO656'>BIO 656</span>. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO657": {
+    "course_id": "BIO657",
+    "title": "BIO 657 Marine Fisheries Management",
+    "req": "<em>Prerequisite: permission of instructor; and concurrent enrollment in <span data-link='BIO658'>BIO 658</span>.</em>",
+    "desc": "A course designed to familiarize students with practical marine fisheries management problems in today&apos;s real world. Covers the international and local, economic, social, legal, and political, as well as biological factors that are considered in decisions directed toward achieving optimum sustainable yield from marine resources. The history of management schemes, sources of information, current status of fishing technology, management methods, legal problems and educational needs are explored. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO557'>BIO 557</span>. Cannot receive credit for both <span data-link='BIO557'>BIO 557</span> and <span data-link='BIO657'>BIO 657</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO658": {
+    "course_id": "BIO658",
+    "title": "BIO 658 Marine Fisheries Management Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BIO657'>BIO 657</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='BIO657'>BIO 657</span>. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO558'>BIO 558</span>. Cannot receive credit for both <span data-link='BIO558'>BIO 558</span> and <span data-link='BIO658'>BIO 658</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO659": {
+    "course_id": "BIO659",
+    "title": "BIO 659 Population Genetics and Evolutionary Mechanisms",
+    "desc": "Recommended Prerequisite: evolution course and statistics course. The theory of genetic variation in populations, with emphasis on quantitative description of the mechanisms of biological evolution. May be taught concurrently with <span data-link='BIO560'>BIO 560</span>. Cannot receive credit for both <span data-link='BIO560'>BIO 560</span> and <span data-link='BIO659'>BIO 659</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO661": {
+    "course_id": "BIO661",
+    "title": "BIO 661 Environmental Issues Education and Interpretation",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Discussion of environmental issues, practical experiences in teaching environmental concepts, and awareness of environmental resource materials for the formal and nonformal educational setting. May be taught concurrently with <span data-link='BIO561'>BIO 561</span>. Cannot receive credit for both <span data-link='BIO661'>BIO 661</span> and <span data-link='BIO561'>BIO 561</span> ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO662": {
+    "course_id": "BIO662",
+    "title": "BIO 662 Limnology",
+    "desc": "Recommended Prerequisite: ecology course; and one year of college chemistry. Physical, chemical, and biological characteristics of lakes and reservoirs. Laboratory includes mapping, lake models, water chemistry, and surveys of diversity and abundance. Two all-day Saturday labs required. May be taught concurrently with <span data-link='BIO562'>BIO 562</span>. Cannot receive credit for both <span data-link='BIO562'>BIO 562</span> and <span data-link='BIO662'>BIO 662</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO663": {
+    "course_id": "BIO663",
+    "title": "BIO 663 Population Ecology",
+    "desc": "Recommended Prerequisite: ecology course and pre-calculus mathematics course. Discussion of factors controlling the distribution and abundance of populations. Quantitative description of population dynamics is emphasized. May be taught concurrently with <span data-link='BIO563'>BIO 563</span>. Cannot receive credit for both <span data-link='BIO563'>BIO 563</span> and <span data-link='BIO663'>BIO 663</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO664": {
+    "course_id": "BIO664",
+    "title": "BIO 664 Ozarks Natural Communities",
+    "desc": "Recommended Prerequisite: <span data-link='BIO369'>BIO 369</span>. Examination of forests, glades, and aquatic habitats with focus on environmental issues in the Ozarks. Integration into formal and non-formal educational settings will be covered. May be taught at the Bull Shoals Field Station. May be taught concurrently with <span data-link='BIO564'>BIO 564</span>. Cannot receive credit for both <span data-link='BIO664'>BIO 664</span> and <span data-link='BIO564'>BIO 564</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO665": {
+    "course_id": "BIO665",
+    "title": "BIO 665 Marine Ecology",
+    "req": "<em>Prerequisite: 16 hours of biology and permission of advisor or department head.</em>",
+    "desc": "Recommended Prerequisite: General Biology I and II. A consideration of the relationship of marine organisms to their environment includes the effects of temperature, salinity, light, nutrient concentration, currents, and food on the abundance and distribution of marine organisms. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. Concurrent enrollment in <span data-link='BIO566'>BIO 566</span> required. May be taught concurrently with <span data-link='BIO565'>BIO 565</span>. Cannot receive credit for both <span data-link='BIO565'>BIO 565</span> and <span data-link='BIO665'>BIO 665</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO666": {
+    "course_id": "BIO666",
+    "title": "BIO 666 Marine Ecology Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BIO665'>BIO 665</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='BIO665'>BIO 665</span>. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO566'>BIO 566</span>. Cannot receive credit for both <span data-link='BIO566'>BIO 566</span> and <span data-link='BIO666'>BIO 666</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO668": {
+    "course_id": "BIO668",
+    "title": "BIO 668 Physiological Ecology",
+    "desc": "Recommended Prerequisite: ecology course; and general physiology or plant physiology or human physiology course. Physiological adaptations of plants and animals to environmentally stressful conditions and to ecological/evolutionary pressures. May be taught concurrently with <span data-link='BIO567'>BIO 567</span>. Cannot receive credit for both <span data-link='BIO567'>BIO 567</span> and <span data-link='BIO668'>BIO 668</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO671": {
+    "course_id": "BIO671",
+    "title": "BIO 671 Comparative Animal Physiology",
+    "desc": "Recommended Prerequisite: general physiology or human physiology course. Organ/system function in a wide range of invertebrate and vertebrate animals. May be taught concurrently with <span data-link='BIO571'>BIO 571</span>. Cannot receive credit for both <span data-link='BIO571'>BIO 571</span> and <span data-link='BIO671'>BIO 671</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO673": {
+    "course_id": "BIO673",
+    "title": "BIO 673 Ornithology",
+    "req": "<em>Prerequisite: 12 hours of biology.</em>",
+    "desc": "Taxonomy, distribution, life histories and ecology of birds; emphasis on Missouri forms. Early morning field trips required. May be taught concurrently with <span data-link='BIO573'>BIO 573</span>. Cannot receive credit for both <span data-link='BIO573'>BIO 573</span> and <span data-link='BIO673'>BIO 673</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO674": {
+    "course_id": "BIO674",
+    "title": "BIO 674 Aquatic Entomology",
+    "desc": "Aquatic insects, ecology and taxonomy with emphasis on field applications. May be taught concurrently with <span data-link='BIO574'>BIO 574</span>. Cannot receive credit for both <span data-link='BIO574'>BIO 574</span> and <span data-link='BIO674'>BIO 674</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO675": {
+    "course_id": "BIO675",
+    "title": "BIO 675 Ichthyology",
+    "req": "<em>Prerequisite: 12 hours in biology.</em>",
+    "desc": "Taxonomy, distribution, life histories and ecology of fish with emphasis on Missouri forms. May be taught concurrently with <span data-link='BIO575'>BIO 575</span>. Cannot receive credit for both <span data-link='BIO575'>BIO 575</span> and <span data-link='BIO675'>BIO 675</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO676": {
+    "course_id": "BIO676",
+    "title": "BIO 676 Herpetology",
+    "req": "<em>Prerequisite: 12 hours in biology.</em>",
+    "desc": "Taxonomy, distribution, life histories and ecology of amphibians and reptiles with emphasis on Missouri forms. One weekend field trip required. Supplemental course fee. May be taught concurrently with <span data-link='BIO576'>BIO 576</span>. Cannot receive credit for both <span data-link='BIO576'>BIO 576</span> and <span data-link='BIO676'>BIO 676</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO677": {
+    "course_id": "BIO677",
+    "title": "BIO 677 Mammalogy",
+    "req": "<em>Prerequisite: 12 hours in biology.</em>",
+    "desc": "Taxonomy, distribution, life histories and ecology of mammals with emphasis on Missouri forms. One weekend field trip required. Supplemental course fee. May be taught concurrently with <span data-link='BIO577'>BIO 577</span>. Cannot receive credit for both <span data-link='BIO577'>BIO 577</span> and <span data-link='BIO677'>BIO 677</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO678": {
+    "course_id": "BIO678",
+    "title": "BIO 678 Behavioral Ecology",
+    "desc": "Recommended Prerequisite: ecology course and statistics course. Fundamental principles of animal behavior with an emphasis on the study of the ecological and evolutionary processes that influence behavior. May be taught concurrently with <span data-link='BIO578'>BIO 578</span>. Cannot receive credit for both <span data-link='BIO578'>BIO 578</span> and <span data-link='BIO678'>BIO 678</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO679": {
+    "course_id": "BIO679",
+    "title": "BIO 679 Conservation Biology",
+    "desc": "Recommended Prerequisite: genetics course and ecology course. An in-depth examination of the science of conservation from a biological perspective, with an examination of ethical and legal aspects of conservation. May be taught concurrently with <span data-link='BIO579'>BIO 579</span>. Cannot receive credit for both <span data-link='BIO579'>BIO 579</span> and <span data-link='BIO679'>BIO 679</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO680": {
+    "course_id": "BIO680",
+    "title": "BIO 680 Vertebrate Anatomy and Evolution",
+    "desc": "Vertebrate gross anatomy. Phylogeny and present status of organ systems in vertebrates. May be taught concurrently with <span data-link='BIO380'>BIO 380</span>. Cannot receive credit for both <span data-link='BIO380'>BIO 380</span> and <span data-link='BIO680'>BIO 680</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO685": {
+    "course_id": "BIO685",
+    "title": "BIO 685 Marine Conservation",
+    "desc": "An overview of current issues related to the conservation and management of marine organisms, with emphasis on marine species and habitats exploited or endangered by human actions. <span data-link='BIO485'>BIO 485</span> may be taught concurrently with <span data-link='BIO685'>BIO 685</span>. Cannot receive credit for both <span data-link='BIO685'>BIO 685</span> and 485. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO686": {
+    "course_id": "BIO686",
+    "title": "BIO 686 Fish Ecology",
+    "desc": "Recommended Prerequisite: ecology course and ichthyology course. The biology of fishes in relation to environmental conditions at the individual, population, and community levels. May be taught concurrently with <span data-link='BIO584'>BIO 584</span>. Cannot receive credit for both <span data-link='BIO584'>BIO 584</span> and <span data-link='BIO686'>BIO 686</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO687": {
+    "course_id": "BIO687",
+    "title": "BIO 687 Marine Invertebrate Zoology",
+    "req": "<em>Prerequisite: 16 hours in biology; and concurrent enrollment in <span data-link='BIO688'>BIO 688</span>.</em>",
+    "desc": "A concentrated study of the free-living marine and estuarine invertebrates of Mississippi Sound and adjacent bayous, salt marshes, barrier islands, and the nearshore continental shelf of the northeastern Gulf of Mexico. Course emphasizes structure, classification, phylogenetic relationships, larval development, functional processes, and ecological aspects of Gulf of Mexico invertebrates and their natural assemblages. Advanced undergraduates and graduate students may be asked to conduct independent, short-term research projects during the course. Must be taken at the Gulf Coast Research Laboratory, Ocean Springs, Mississippi. May be taught concurrently with <span data-link='BIO587'>BIO 587</span>. Cannot receive credit for both <span data-link='BIO587'>BIO 587</span> and <span data-link='BIO687'>BIO 687</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO688": {
+    "course_id": "BIO688",
+    "title": "BIO 688 Marine Invertebrate Zoology Lab",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='BIO687'>BIO 687</span>.</em>",
+    "desc": "Laboratory portion of <span data-link='BIO687'>BIO 687</span>. May be taught concurrently with <span data-link='BIO588'>BIO 588</span>. Cannot receive credit for both <span data-link='BIO588'>BIO 588</span> and <span data-link='BIO688'>BIO 688</span>. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "BIO689": {
+    "course_id": "BIO689",
+    "title": "BIO 689 Game Management",
+    "desc": "Recommended Prerequisite: wildlife management course. Management of game birds and mammals for recreational utilization. May be taught concurrently with <span data-link='BIO589'>BIO 589</span>. Cannot receive credit for both <span data-link='BIO589'>BIO 589</span> and <span data-link='BIO689'>BIO 689</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO697": {
+    "course_id": "BIO697",
+    "title": "BIO 697 Topics in Biology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "A variable content course to provide for the offering of selected topics in biology on a one time or first-time basis. May be repeated for credit when topic varies. May be taught concurrently with <span data-link='BIO597'>BIO 597</span>. Cannot receive credit for both <span data-link='BIO597'>BIO 597</span> and <span data-link='BIO697'>BIO 697</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO710": {
+    "course_id": "BIO710",
+    "title": "BIO 710 Topics in Microbial Physiology",
+    "desc": "Topics of interest in microbial physiology will be discussed. These may include, cell structure, energy production, fermentation, nitrogen metabolism, protein and nucleic acid syntheses, regulation of gene expression, and dynamics of cell growth. Lecture will supplement discussion sessions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO712": {
+    "course_id": "BIO712",
+    "title": "BIO 712 Advanced Immunology",
+    "desc": "Recommended Prerequisite: immunology course. Cellular aspects of the immune system. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO725": {
+    "course_id": "BIO725",
+    "title": "BIO 725 Advanced Limnology",
+    "desc": "Recommended Prerequisite: limnology course. Advanced concepts of biological, chemical and physical limnology. Recent symposia, reviews, and primary literature are discussed. Prerequisite: <span data-link='BIO562'>BIO 562</span>. Advanced concepts of biological, chemical and physical limnology. Recent symposia, reviews, and primary literature are discussed. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO726": {
+    "course_id": "BIO726",
+    "title": "BIO 726 Advanced Limnology Methods",
+    "desc": "Recommended Prerequisite: limnology course. Research and practical application of modern limnological methods are taught. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO728": {
+    "course_id": "BIO728",
+    "title": "BIO 728 Recent Advances in Biology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Selected topics in biology to be discussed using original literature as the focal point. Variable content course. May be repeated when topic varies. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO730": {
+    "course_id": "BIO730",
+    "title": "BIO 730 Advanced Topics in Biology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Individual study in biology; may include literature, field and/or laboratory work. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BIO734": {
+    "course_id": "BIO734",
+    "title": "BIO 734 Advanced Plant Taxonomy",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Philosophy and principles of modern taxonomic procedures. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO755": {
+    "course_id": "BIO755",
+    "title": "BIO 755 Advanced Developmental Biology",
+    "desc": "Recommended Prerequisite: cell biology course. An in-depth study of the molecular and cellular mechanisms involved in the development of vertebrate, invertebrate, and plant systems. Lectures will emphasize fertilization, morphogenesis, differentiation, induction, regeneration, and neoplasia. Laboratory exercises will emphasize techniques utilized by developmental biologists. Review of current literature and poster presentations will be required. Cannot receive credit for both <span data-link='BIO355'>BIO 355</span> and <span data-link='BIO755'>BIO 755</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "BIO760": {
+    "course_id": "BIO760",
+    "title": "BIO 760 Topics in Teaching Biology",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Biological concepts, information, practical experiences, and use of resource materials in the elementary and secondary classroom. Variable content course. May be repeated when topic varies. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO767": {
+    "course_id": "BIO767",
+    "title": "BIO 767 Advanced Vertebrate Zoology",
+    "desc": "Evolutionary relationships of living and extinct vertebrates; analysis of geographic distribution and adaptive radiation. Includes field/lab experiences to be arranged. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO790": {
+    "course_id": "BIO790",
+    "title": "BIO 790 Degree Paper",
+    "req": "<em>Prerequisite: permission of advisor.</em>",
+    "desc": "Extensive paper on selected topics. Exclusively satisfies requirements for non-thesis option, which also requires one <span data-link='BIO690'>BIO 690</span> paper to be presented orally to the department. May be repeated to total of 4 hours. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO794": {
+    "course_id": "BIO794",
+    "title": "BIO 794 Scientific Writing",
+    "desc": "Organization and methods in scientific writing. Included are discussion of literature searching, scientific methodology, experimental design, proposal writing, figure preparation, editing and oral presentation. Recommended for graduate students in biology, preferably during the first year of graduate study. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "BIO796": {
+    "course_id": "BIO796",
+    "title": "BIO 796 Science Internship",
+    "desc": "Completion of an internship project (80 hours/credit hour) at a discipline-related business, nonprofit organization, or government agency, approved and supervised by both the departmental and internship advisors. Includes a formal report in the appropriate professional format, and an oral presentation at an approved venue. Graded Pass/Not Pass only. No more than 6 hours may count toward a masters degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "BIO798": {
+    "course_id": "BIO798",
+    "title": "BIO 798 Research",
+    "req": "<em>Prerequisite: permission of advisor.</em>",
+    "desc": "Supervised research in special biology areas. May be repeated, but no more than 6 hours may be counted as credit towards the MS degree. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BIO799": {
+    "course_id": "BIO799",
+    "title": "BIO 799 Thesis",
+    "req": "<em>Prerequisite: permission of advisor.</em>",
+    "desc": "Independent study connected with preparation of thesis. May be repeated, but no more than 6 hours may be counted as credit towards the MS degree. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

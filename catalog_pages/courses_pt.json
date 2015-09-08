@@ -1,0 +1,600 @@
+{
+  "PTE707": {
+    "course_id": "PTE707",
+    "title": "PTE 707 Medical Human Anatomy",
+    "req": "<em>Prerequisite: admission to the program or permission.</em>",
+    "desc": "This course offers an in-depth coverage of basic, applied, and clinical aspects of gross anatomy. Students observe, discuss, teach, learn, and dissect all body systems in detail. This course incorporates traditional didactic lectures, discussions, laboratory dissection, students teaching students in laboratory teaching sessions, and assignments that rely on critical thinking. Students make oral presentations and use the library and other sources of information (such as the Internet and our computer laboratory) to learn and teach applied gross anatomy. Identical with <span data-link='BMS707'>BMS 707</span>. Cannot receive credit for both <span data-link='PTE707'>PTE 707</span> and <span data-link='BMS707'>BMS 707</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 6,
+      "lecture": 3,
+      "lab": 10
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PTE710": {
+    "course_id": "PTE710",
+    "title": "PTE 710 Introduction to Physical Therapy",
+    "req": "<em>Prerequisite: admission to the program.</em>",
+    "desc": "This course is closely integrated with Professional Issues I. It provides an overview of physical therapy, including the history of physical therapy and the APTA, and the physical therapist&apos;s professional responsibilities. This information is combined with the acquisition of skills and knowledge necessary to be successful in managing patients. The topics that are discussed in Professional Issues I, e.g., Standards of Practice for Physical Therapy, Guidelines for Physical Therapy Documentation, and Guidelines for Professional Conduct, are &quot;transformed&quot; into practical skills that are necessary to professionally interact with patients. Hence this course combines these concepts with the skills necessary to provide patient care. These skills include the assessment of vital signs, basic measurement techniques, examination of the body, ensuring patient safety, infection control, using proper body mechanics, using appropriate transfers, gait training, and basic documentation, and patient and family education. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PTE711": {
+    "course_id": "PTE711",
+    "title": "PTE 711 Professional Issues I",
+    "req": "<em>Prerequisite: admission to the program.</em>",
+    "desc": "This course provides an overview of physical therapy and the physical therapist&apos;s professional responsibilities. Information regarding the Standards of Practice for Physical Therapy, the Guidelines for Physical Therapy Documentation, and the Guide for Professional Conduct are essential components of this course. This course focuses on the psychological and social aspects of communication in health care and providing care and services to patients. This includes patients&apos; rights, the psychological impact of illness, social considerations such as gender, race, culture and ethnicity. These concepts are integrated using case studies of various patient-therapist situations. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PTE712": {
+    "course_id": "PTE712",
+    "title": "PTE 712 Biomechanics and Kinesiology",
+    "req": "<em>Prerequisite: admission to the program.</em>",
+    "desc": "This course provides the basis for understanding human movement. This encompasses functional anatomy, forces applied to, and by, the body, and the mechanics of human movement, including its quantitative assessment. Angular and linear kinetics and kinematics are studied and applied to patient management. Interactions among the skeletal, muscular, and neural systems of the body are emphasized as they relate to understanding normal and abnormal human movement. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 4,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PTE713": {
+    "course_id": "PTE713",
+    "title": "PTE 713 Human Development and the Life Cycle",
+    "req": "<em>Prerequisite: admission to the program or permission.</em>",
+    "desc": "This course describes the major features of embryology, maturation of the fetus, changes that occur during pregnancy, childbirth, the neonatal period, childhood, adolescence, adulthood and aging. The course stresses an integrated approach to understanding all of these periods of life as a cycle of events, each with its unique challenges to the health care professional. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PTE714": {
+    "course_id": "PTE714",
+    "title": "PTE 714 Imaging Analysis in Physical Therapy Practice",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course emphasizes the analysis and interpretation of diagnostic images of patients with a variety of impairments or dysfunctions of the musculoskeletal, cardiopulmonary, nervous, and circulatory systems as they apply to contemporary physical therapy practice. Various imaging techniques will be incorporated into case studies which will be used to emphasize incorporation of image findings into the process of patient management. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2,
+      "lab": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PTE720": {
+    "course_id": "PTE720",
+    "title": "PTE 720 Neuroanatomy-Neuroscience",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course describes the gross anatomy and applied function of the central and peripheral nervous systems. Normal anatomy and function is compared and contrasted with abnormal anatomy and function due to disease or injury. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PTE721": {
+    "course_id": "PTE721",
+    "title": "PTE 721 Professional Issues II",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course focuses on employment settings, legal issues regarding Physical Therapist Assistants, the structure of the American Physical Therapy Association, regulations, policies, practice acts, federal legislation, and direct access to patients. Additionally, this course focuses on the legal aspects of professional life including basic elements of contract law, criminal law, educational law, employment law, insurance law, and business law. Students continue to develop an Individual Clinical Internship Plan with specific goals and objectives and select clinical sites for Clinical Internship I - IV. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PTE722": {
+    "course_id": "PTE722",
+    "title": "PTE 722 Physical Agent and Mechanical Modalities",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course describes thermal modalities (diathermy, therapeutic heat and cold, therapeutic ultrasound, low-power lasers, ultraviolet therapy) and mechanical modalities (spinal traction, intermittent compression devices, continuous passive movement devices, therapeutic soft tissue mobilization, and massage). In addition, the underlying scientific principles and clinical uses of physical agents and mechanical modalities are described. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PTE723": {
+    "course_id": "PTE723",
+    "title": "PTE 723 Patient Management: Musculoskeletal I",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course emphasizes the management of patients with musculoskeletal dysfunctions of the appendicular skeleton. Case studies are used to emphasize the process of patient management, i.e., examination, assessment, diagnosis, prognosis, treatment, analysis of functional outcomes, and re-assessment. The joints of the limbs are the central themes around which the cases are built. General and specific examination and treatment techniques are included, stressing the integration of knowledge and skills. Treatment techniques include (but are not limited to) the use of soft tissue mobilization, myofascial release, therapeutic exercise, and basic joint mobilization. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PTE730": {
+    "course_id": "PTE730",
+    "title": "PTE 730 Motor Control/Motor Learning",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course builds on, and extends, the information covered in Neuroanatomy - Neuroscience. It focuses on motor control systems and on the structure and function of the major components of the brain. The content is presented so that neurological lesions are understood based on an understanding of anatomical location and function. Case studies are used to introduce clinical reasoning based on fundamental knowledge in neuroanatomy and neuroscience. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "PTE731": {
+    "course_id": "PTE731",
+    "title": "PTE 731 Pathophysiology/Differential Diagnosis I",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course covers pathological conditions and their implications for Physical Therapists. All major systems of the body are studied. The pathophysiological portion of the course integrates the knowledge acquired in physiology with abnormal physiology caused by pathology. Case studies are used to integrate concepts in patient management related to pathology and pathophysiology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "PTE732": {
+    "course_id": "PTE732",
+    "title": "PTE 732 Electrotherapeutic Modalities and Clinical Electrophysiology",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course describes electrotherapeutic modalities and clinical electrophysiologic testing. In addition, the underlying scientific principles and clinical uses and application of electrotherapeutic modalities and clinical electrophysiologic testing are incorporated. Major topics in this course include: electrical stimulation of muscle, electrical stimulation to control posture and movement (FES/NMES), electrical stimulation to control pain, electrical stimulation to promote tissue healing, iontophoresis, electroneuromyography, EMG, NCV, and biofeedback. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2,
+      "lab": 5
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "PTE733": {
+    "course_id": "PTE733",
+    "title": "PTE 733 Patient Management: Musculoskeletal II",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course builds on the knowledge and skills acquired in Patient Management: Musculoskeletal I. It focuses on management of the axial skeleton and all of the joints associated therewith. Sophisticated examination and manual mobilization techniques are covered in detail. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "PTE737": {
+    "course_id": "PTE737",
+    "title": "PTE 737 Clinical Internship I",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course provides an introduction to the clinical education component of the curriculum, as well as a four week, full-time clinical internship. Learning styles will be discussed, as well as how clinically-based learning may differ from classroom or laboratory experiences. Students will continue to develop their clinical internship plan and specific goals and objectives for this Clinical Internship. Students will complete a case study or present an &quot;in-service&quot; while on the four week internship write a short, reflective paper, and meet the requirements established by the program and the clinical facility. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "PTE740": {
+    "course_id": "PTE740",
+    "title": "PTE 740 Research Methods and Design",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "In this course students will examine the various types of research, as well as the differences, similarities, and overlaps between them. Specific topics include types of research designs (experimental and non-experimental research), formulation of research questions/hypothesis, issues on ethics, informed consent, control group, measurement, variables, bias, data collection and analysis, and validity of conclusion. Students will begin developing their research projects and acquire skills requisite for using scientific evidence for effective patient care. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PTE741": {
+    "course_id": "PTE741",
+    "title": "PTE 741 Pathophysiology/Differential Diagnosis II",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course focuses on Internal Medicine from the perspective of implications for physical therapists. A significant component of the course will focus on signs and symptoms, disease recognition, associated surgical procedures, and on the effects of disease with regard to producing functional limitations and disabilities. This course covers muscular, skeletal, neurological, cardiovascular, pulmonary, hematologic, gastrointestinal, renal, urological, hepatic, and endocrine diseases. Case students are incorporated to emphasize patient management. Common medical instrumentation used in skilled patient management, the basic medical procedures associated with this instrumentation, and the application of this information to patient management in physical therapy is integrated where appropriate. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PTE743": {
+    "course_id": "PTE743",
+    "title": "PTE 743 Patient Management: Neurological I",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course covers neurological disabilities that primarily affect infants, children, and adolescents. Case studies and laboratory experiences are used to emphasize the process of patient management, i.e., examination, assessment, diagnosis, prognosis, treatment, analysis of functional outcomes, and re-assessment. General and specific examination and treatment techniques are included stressing the integration of knowledge and skills. Treatment approaches include theoretical models, and task-oriented models. Therapeutic exercise, modalities, and other treatment skills are presented and included in case studies. Functional outcome measures are incorporated, as well as patient management in the home. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PTE744": {
+    "course_id": "PTE744",
+    "title": "PTE 744 Patient Management: Cardiovascular and Pulmonary Problems",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course presents an overview of cardiac, vascular, and pulmonary physical therapy. It integrates foundational information such as anatomy, physiology, exercise physiology, embryology, histology, pharmacology, pathology, and pathophysiology into a meaningful basis on which patient management strategies are based. This course introduces the student to cardiovascular and pulmonary assessments, interventions, and outcome analyses. The course includes information specific to pediatric, adolescent, adult, and geriatric patients. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PTE747": {
+    "course_id": "PTE747",
+    "title": "PTE 747 Clinical Internship II",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course provides for continuing development of clinical skills in the form of a six week, full-time clinical internship. Students will continue to develop their clinical internship plan and specific goals and objectives for Clinical Internship II. Students will complete a case study or present an &quot;in- service&quot; while on the six week internship write a short, reflective paper, and meet the requirements established by the program and the clinical facility. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PTE750": {
+    "course_id": "PTE750",
+    "title": "PTE 750 Research and Outcome Analysis",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course focuses on the management of data generated by research and outcome analyses. It will fully integrate the use of statistical methods, understanding the results of applying these methods, and making inferences or conclusions based upon the data analysis. It also addresses the larger scope of disseminating this information, professional responsibility to the public to generate meaningful data, and methods of critically analyzing results and conclusions drawn by others. In the latter portion of the course, students identify their research interests, choose or are assigned a research advisor and write a research project proposal. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PTE753": {
+    "course_id": "PTE753",
+    "title": "PTE 753 Patient Management: Neurological II",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course covers neurological disabilities across the life span, but emphasizes adult neurological disabilities. Case studies and laboratory experiences are used to emphasize the process of patient management, i.e., examination, assessment, diagnosis, prognosis, treatment, analysis of functional outcomes, and re-assessment. General and specific examination and treatment techniques are included stressing the integration of knowledge and skills. Treatment approaches include theoretical models, and task-oriented models. Therapeutic exercise, modalities, and other treatment methods are presented and included in case studies. Functional outcome measures are incorporated, as well as patient management in the home. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PTE754": {
+    "course_id": "PTE754",
+    "title": "PTE 754 Patient Management: Special Considerations Across the Life Span",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course focuses on pediatric and geriatric physical therapy and on the unique considerations that arise in these patients. The processes involved in development are compared and contrasted with the degenerative processes that occur during aging. The specific assessment and treatment methods unique to each population are studied. Additional correlations are presented in cognitive abilities, communication, dependence on others, etc. Family-centered interventions and family education in the home are compared and contrasted in both populations. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PTE756": {
+    "course_id": "PTE756",
+    "title": "PTE 756 Patient Management: Integumentary",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course is correlated with information provided in Pathology-Pathophysiology, Neuroanatomy-Neuroscience I and II, and in Physical Agents, Mechanical Modalities, and Electrotherapeutic Modalities. Specific topics that are discussed include (but are not limited to) the prevention of skin disorders, management of burns and other open wounds, and the use of specific modalities to facilitate wound repair. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PTE757": {
+    "course_id": "PTE757",
+    "title": "PTE 757 Clinical Internship III",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course provides for clinical practice of developing skills in the form of a six week, full-time clinical internship. Students will continue to develop their clinical internship plan and specific goals and objectives for Clinical Internship III. Students will complete a case study or present an &quot;in-service&quot; while on the six week internship, write a short, reflective paper, and meet the requirements established by the program and the clinical facility. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PTE760": {
+    "course_id": "PTE760",
+    "title": "PTE 760 Management of Research Projects",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "Application of the research process via supervised study of a selected problem culminating in completion of an extensive scholarly paper. Course must be repeated for a total of 2 hours. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Summer": true
+    }
+  },
+  "PTE761": {
+    "course_id": "PTE761",
+    "title": "PTE 761 Contemporary Issues in Professional Practice",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course focuses on some of the more specialized areas of physical therapy. This includes diseases, conditions, or practice areas such as women&apos;s health, osteoporosis, pelvic floor dysfunction, pregnancy, sports medicine, chronic pain, management of persons with AIDS and HIV infection, lymphedema, selected problems in human behavior, ergonomics, and industrial health and physical therapy. Alternative and holistic therapies are discussed, as well as their relationship and integration with patient rehabilitation. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "PTE762": {
+    "course_id": "PTE762",
+    "title": "PTE 762 Medical Pharmacology",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course focuses on medical pharmacology, particularly those aspects that significantly impact the practice of Physical Therapy. Specific topics include drugs that affect the autonomic nervous system, the cardiovascular system, the central nervous system, and the endocrine system. In addition, anti-inflammatory, antiviral, antibacterial, and chemotherapeutic drugs are discussed. Case studies augment clinical information and emphasize patient management. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PTE764": {
+    "course_id": "PTE764",
+    "title": "PTE 764 Patient Management: Exercise Physiology, Nutrition, and Wellness",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course describes the effects of physical activity on human performance across the life span. The effects of exercise (or lack thereof) are considered for each system in the body. Strategies for improving physical performance in a variety of settings are considered, as well as fundamental principles of good health in relation to exercise. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PTE765": {
+    "course_id": "PTE765",
+    "title": "PTE 765 The Physical Therapist as Educator",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course focuses on educational theories and methodology relevant to the physical therapist in a variety of physical therapy settings. These topics are discussed in the context of promoting optimal health, preventing injury and illness, and promoting wellness. Upon completion of this course, the student will be able to utilize educational concepts and theories in the design, implementation, and evaluation of learning experiences used in the education of the community, industry, patients, families, students, colleagues, and self. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "PTE767": {
+    "course_id": "PTE767",
+    "title": "PTE 767 Health Care Systems and the Physical Therapist",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course is an introduction to the various health care delivery systems in the United States, and provides a synopsis of the health care systems found in countries other than the United States. This course allows students to explore the provision of physical therapy services within the constraints of the existing health care systems, and to identify community needs, and resources. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "PTE785": {
+    "course_id": "PTE785",
+    "title": "PTE 785 Histology and Tissue Biology",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein, and permission of instructor.</em>",
+    "desc": "Course emphasizes the structure and basic function of all the major tissues and cell types in the human body. Includes normal cell and tissue morphology and the adaptations that occur as a result of various stimuli both normal and abnormal. This is a variable content course. May be repeated for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PTE800": {
+    "course_id": "PTE800",
+    "title": "PTE 800 Advanced Topics in Geriatrics",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "In this course students gain insight into physical therapy related to the elderly population, their special needs and physiological changes, living environments, resources, etc. For an additional credit hour of this course, students are encouraged to develop further knowledge, skills, etc., with the elderly population. Based upon student interest and instructor approval, students may pursue additional in-depth study in areas such as (but not limited to): education, skill development, service-learning, investigation, psychomotor skills, psychosocial issues, healthcare system, reimbursement, etc., related to geriatrics. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PTE801": {
+    "course_id": "PTE801",
+    "title": "PTE 801 Vestibular Rehabilitation",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course describes the anatomy and physiology of the vestibular system and an overview of various pathologies associated with patient complaints of vertigo, dizziness, and balance disorders. Principles of examination, evaluation, assessment, and rehabilitation of the patient with impairment of the vestibular system and/or impaired balance are described and performed. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PTE802": {
+    "course_id": "PTE802",
+    "title": "PTE 802 Advanced Regional Anatomy",
+    "req": "<em>Prerequisite: Enrollment in the DPT program and permission of instructor.</em>",
+    "desc": "This is a variable content course offering in-depth coverage of basic, applied, and clinical aspects of gross anatomy of one or more of the following regions: head and neck, upper extremity, trunk, and lower extremity. Students observe, discuss, teach, learn and dissect selected body systems in detail. This course may incorporate traditional didactic lectures, problem based discussions, laboratory dissection with assignments that rely on critical thinking. Students relate anatomical structure to functional relations and correlate structure with clinical assessments and treatments. Students make oral presentations and use the library and other sources of information (such as the Internet) to learn. Course may be repeated up to a maximum of 9 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PTE803": {
+    "course_id": "PTE803",
+    "title": "PTE 803 Advanced Topics in Musculoskeletal Physical Therapy",
+    "req": "<em>Prerequisite: Enrollment in the DPT program and permission of instructor.</em>",
+    "desc": "This is a variable content course emphasizing the management of patients with musculoskeletal dysfunction focusing on research, differential diagnosis and advanced manual examination and treatment techniques. Case studies are used to emphasize the evidence-based process of patient management, i.e., examination, assessment, diagnosis, prognosis treatment, analysis of functional outcomes, and re-assessment. Students will focus on management of musculoskeletal dysfunction relation to one or more of the following regions: the upper extremity, the pelvis and lower extremity, or the spine and sacroiliac joint. Course may be repeated up to a maximum of 9 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PTE804": {
+    "course_id": "PTE804",
+    "title": "PTE 804 Advanced Topics in Pediatrics",
+    "req": "<em>Prerequisite: enrollment in the program and permission of instructor.</em>",
+    "desc": "This is a variable content course designed to allow students to develop their cognitive, psychomotor or affective skills at an advanced level in the area of physical therapy for children. The course may involve readings, projects, and direct clinical experiences individually contracted between the instructor and the student. Course may be repeated up to a maximum of 9 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PTE871": {
+    "course_id": "PTE871",
+    "title": "PTE 871 Physical Therapy Management and Administration",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course covers theory and practical applications in managing yourself, other people, groups of people, subdivisions of organizations, and businesses. Within this framework, administration is discussed and examined as it pertains to a variety of settings in physical therapy. Health care economics is covered, as well as the economics of starting and managing a business in physical therapy. Marketing is discussed from several perspectives. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PTE872": {
+    "course_id": "PTE872",
+    "title": "PTE 872 Orthotics, Prosthetics, and Assistive Technologies",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course covers limb amputations, orthotic and prosthetic devices, and splints. The use of orthoses, prostheses, and splints is fully integrated into principles of patient management. Advanced wheelchair prescriptions are discussed, as well as advanced technologies (computer technologies, etc.) that are useful in rehabilitation including occupational and industrial therapies and devices. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PTE873": {
+    "course_id": "PTE873",
+    "title": "PTE 873 Patient Management: Advanced Differential Diagnosis",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course focuses on managing patients using a &quot;life-long&quot; conceptual basis. It stresses the importance of being proactive in resolving complex issues, particularly those that impact patients for a lifetime. Critical thinking is an integral part of this course. Cost effectiveness, efficiency, long-term planning, and using the best adaptive equipment for the long-term are emphasized. The elements of patient/client management as described in The Guide to Physical Therapist Practice are used to guide the clinical decision making process. Integral to this course will be the use of case-based learning modules. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PTE877": {
+    "course_id": "PTE877",
+    "title": "PTE 877 Clinical Internship IV",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course provides continued clinical practice of skills in the form of an eight-week, full-time clinical internship. Students will continue to develop their global clinical internship plan, while writing specific goals and objectives for Clinical Internship IV. Students will complete a case study or present an &quot;in-service&quot; while on the eight-week internship, write a short, reflective paper, and meet the requirements established by the Program and the clinical facility. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 8
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PTE880": {
+    "course_id": "PTE880",
+    "title": "PTE 880 Research and Outcome Analysis: Completion and Presentations",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course is the culmination of the student&apos;s research work during the physical therapy program. Each student will present a research project to the faculty and peers for evaluation. The student&apos;s advisor and/or advisory committee will evaluate the student&apos;s research or outcome analysis paper. The paper must be written using the guidelines for publication described in the Physical Therapy Journal. The paper&apos;s quality must be similar to those that are published in the Physical Therapy Journal. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PTE883": {
+    "course_id": "PTE883",
+    "title": "PTE 883 Patient Management: Critical Integration and Analysis II",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course follows <span data-link='PTE873'>PTE 873</span> that stressed the use of case-based learning modules. This course focuses on managing patients using a &quot;life-long&quot; conceptual basis. It stresses the importance of being proactive in resolving complex issues, particularly those that impact patients for a lifetime. Critical thinking is an integral part of this course. Cost effectiveness, efficiency, long-term planning, and using the best adaptive equipment for the long-term are emphasized. The elements of patient/client management as described in The Guide to Physical Therapist Practice are used to guide the clinical decision making process. The course will culminate with student teaching seminars that students have prepared while on Clinical Internship IV and V. These seminars are complex case studies presented to student peers and faculty. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PTE887": {
+    "course_id": "PTE887",
+    "title": "PTE 887 Clinical Internship V",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course provides clinical practice in the form of an eight-week, full-time clinical internship. Students will continue to develop their global clinical internship plan, while writing specific goals and objectives for Clinical Internship V. Students will complete a case study or present an &quot;in-service&quot; while on the eight-week internship, write a short reflective paper, and meet the requirements established by the program and the clinical facility. ",
+    "hours": {
+      "credit": 8
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PTE888": {
+    "course_id": "PTE888",
+    "title": "PTE 888 Clinical Internship VI",
+    "req": "<em>Prerequisite: enrollment in the program and successful completion of all prior course work therein.</em>",
+    "desc": "This course provides clinical practice in the form of a six-week, full-time clinical internship. Students must meet the requirements established by the Program and the clinical faculty. After completion of Clinical Internship VI and upon their return to campus, students will enter a period of in-depth self-analysis and reflection concerning Clinical Internship VI and the entire clinical education experience. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Spring": true
+    }
+  }
+}

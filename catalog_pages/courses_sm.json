@@ -1,0 +1,861 @@
+{
+  "ATC220": {
+    "course_id": "ATC220",
+    "title": "ATC 220 Introduction to Athletic Training",
+    "desc": "This course will cover various aspects of athletic training and related sports medicine professions and the Athletic Training program at Missouri State. Students will have the opportunity to explore the AT profession by completing 10 clinical observation hours. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ATC221": {
+    "course_id": "ATC221",
+    "title": "ATC 221 Clinical Skills in Athletic Training",
+    "req": "<em>Prerequisite: <span data-link='ATC220'>ATC 220</span> or concurrent enrollment; and permission of program director.</em>",
+    "desc": "Students are introduced to many of the emergency management and clinical skills required by athletic trainers and other allied health care professionals in a variety of clinical settings. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "ATC222": {
+    "course_id": "ATC222",
+    "title": "ATC 222 Athletic Injuries",
+    "req": "<em>Prerequisite: <span data-link='BMS307'>BMS 307</span> or <span data-link='KIN250'>KIN 250</span>.</em>",
+    "desc": "Techniques, principles and theory underlying prevention and care of athletic injuries. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ATC224": {
+    "course_id": "ATC224",
+    "title": "ATC 224 Basic Athletic Training/Sports Medicine Techniques",
+    "req": "<em>Prerequisite: <span data-link='ATC221'>ATC 221</span> and <span data-link='BMS307'>BMS 307</span> (or concurrent enrollment with permission of program director).</em>",
+    "desc": "Procedures, techniques, principles and theory relative to development of essential cognitive and psychomotor competencies commonly used in athletic training. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ATC225": {
+    "course_id": "ATC225",
+    "title": "ATC 225 Athletic Training Observation",
+    "req": "<em>Prerequisite: <span data-link='ATC220'>ATC 220</span>.</em>",
+    "desc": "Clinical observation (50 hours) and experience for students considering a career in Athletic Training or related sports medicine field. Students will explore various athletic training employment settings and learn basic skills ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ATC240": {
+    "course_id": "ATC240",
+    "title": "ATC 240 Clinical Practicum I",
+    "req": "<em>Prerequisite: <span data-link='ATC221'>ATC 221</span> and permission of program director.</em>",
+    "desc": "Supervised clinical experiences in athletic training. Emphasis on developing clinical skills required by athletic trainers. Students may be required to be in attendance during periods when regular university classes are not in session. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ATC241": {
+    "course_id": "ATC241",
+    "title": "ATC 241 Clinical Practicum II",
+    "req": "<em>Prerequisite: <span data-link='ATC221'>ATC 221</span> and <span data-link='ATC240'>ATC 240</span> and permission of program director.</em>",
+    "desc": "Continuation of supervised clinical experiences in athletic training. Emphasis on developing and refining clinical skills required by athletic trainers. Students may be required to be in attendance during periods when regular university classes are not in session. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ATC297": {
+    "course_id": "ATC297",
+    "title": "ATC 297 Special Topics",
+    "req": "<em>Prerequisite: permission of program director.</em>",
+    "desc": "Variable content and variable credit course. Special study of Sports Medicine and Athletic Training. May be repeated for credit to a maximum of 4 hours. Same topic may be repeated once for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ATC320": {
+    "course_id": "ATC320",
+    "title": "ATC 320 Athletic Training Administration",
+    "req": "<em>Prerequisite: at least 75 hours towards Athletic Training major completed or at least 15 hours towards Sports Medicine minor completed; and permission of program director.</em>",
+    "desc": "Development and administration of current theories, methods and techniques related to the organization and administration of athletic training programs. Integration of leadership behaviors into the practice and management of athletic training practice areas such as program management, budget, insurance, facility design, legal issues, global issues, and ethics in the profession of athletic training will be discussed. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ATC324": {
+    "course_id": "ATC324",
+    "title": "ATC 324 Therapeutic Modalities",
+    "req": "<em>Prerequisite: <span data-link='BMS308'>BMS 308</span> and permission of program director.</em>",
+    "desc": "A study of the theory and application of various therapeutic modalities used in the treatment of many injuries, including ultrasound, diathermy, electrical stimulation, hydrotherapy, cryotherapy, and thermotherapy. Supplemental course fee. May be taught concurrently with <span data-link='OTE624'>OTE 624</span>. Cannot receive credit for both <span data-link='ATC324'>ATC 324</span> and <span data-link='OTE624'>OTE 624</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ATC326": {
+    "course_id": "ATC326",
+    "title": "ATC 326 Therapeutic Interventions in Athletic Training",
+    "req": "<em>Prerequisite: <span data-link='ATC222'>ATC 222</span> or <span data-link='ATC224'>ATC 224</span>; and <span data-link='BMS308'>BMS 308</span> and <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Theoretical and practical synthesis of area often requiring instruction on the part of an athletic trainer to enhance performance opportunities for athletes and other areas of physical activity. Emphasis on subject matter and skills necessary to recognize potential problems, help in understanding the interventions, and develop techniques for referral. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "ATC328": {
+    "course_id": "ATC328",
+    "title": "ATC 328 Lower Body Assessment",
+    "req": "<em>Prerequisite: <span data-link='ATC221'>ATC 221</span>; and <span data-link='BMS307'>BMS 307</span> with grade of &quot;C&quot; or better; and <span data-link='BMS450'>BMS 450</span>.</em>",
+    "desc": "Content addresses observation and evaluation techniques for injuries to the lower body. Students must integrate anatomical structures to provide a basis for critical decision making in an injury management environment. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ATC329": {
+    "course_id": "ATC329",
+    "title": "ATC 329 Upper Body Assessment",
+    "req": "<em>Prerequisite: <span data-link='ATC328'>ATC 328</span>.</em>",
+    "desc": "Content addresses observation and evaluation techniques for injuries to the upper body. Students must integrate anatomical structures to provide a basis for critical decision making in an injury management environment. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ATC332": {
+    "course_id": "ATC332",
+    "title": "ATC 332 Research Methods in Athletic Training",
+    "req": "<em>Prerequisite: <span data-link='PSY200'>PSY 200</span>; and at least 60 hours completed towards Athletic Training major or 12 hours toward Sports Medicine minor; and permission of program director.</em>",
+    "desc": "Interactive study of importance and process of conducting ethical research in athletic training and the healthcare professions. Emphasis placed on research design, ethics, collection of data, and the dissemination of results. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ATC340": {
+    "course_id": "ATC340",
+    "title": "ATC 340 Clinical Practicum III",
+    "req": "<em>Prerequisite: <span data-link='ATC241'>ATC 241</span> and permission of program director.</em>",
+    "desc": "Continuation of supervised clinical experiences in athletic training. Emphasis on developing clinical decision making skills used by athletic trainers. Students may be required to be in attendance during periods when regular university classes are not in session. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ATC341": {
+    "course_id": "ATC341",
+    "title": "ATC 341 Clinical Practicum IV",
+    "req": "<em>Prerequisite: <span data-link='ATC340'>ATC 340</span> and permission of program director.</em>",
+    "desc": "Continuation of supervised clinical experiences in athletic training. Emphasis is on refining clinical decision making skills used by athletic trainers. Students may be required to be in attendance during periods when regular university classes are not in session. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ATC344": {
+    "course_id": "ATC344",
+    "title": "ATC 344 Foundations of Rehabilitation",
+    "req": "<em>Prerequisite: <span data-link='ATC328'>ATC 328</span> and <span data-link='BMS450'>BMS 450</span>.</em>",
+    "desc": "Content addresses basic concepts, foundations and principles of musculoskeletal rehabilitation relating to the body. Orthopedic surgical procedures of the body common in athletic training with a focus primarily on joint and musculoskeletal structures, tissue pathology for each protocol, healing constraints, and implications for rehabilitation will also be presented. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ATC354": {
+    "course_id": "ATC354",
+    "title": "ATC 354 Clinical Applications of Rehabilitation",
+    "req": "<em>Prerequisite: <span data-link='ATC344'>ATC 344</span>.</em>",
+    "desc": "Applied study of advanced principles of musculoskeletal rehabilitation. Course will focus on clinical decision making as it relates to rehabilitation progression, exercise selection, reconditioning, return to activity and other relative aspects of the rehabilitation process. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ATC397": {
+    "course_id": "ATC397",
+    "title": "ATC 397 Special Topics",
+    "req": "<em>Prerequisite: permission of program director.</em>",
+    "desc": "Variable content and variable credit course. Special study of Sports Medicine and Athletic Training. May be repeated for credit to a maximum of 4 hours. Same topic may be repeated once for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ATC420": {
+    "course_id": "ATC420",
+    "title": "ATC 420 Medical Aspects of Athletic Training",
+    "req": "<em>Prerequisite: <span data-link='BMS308'>BMS 308</span> with grade of &quot;C&quot; or better; and 60 hours; and permission of program director.</em>",
+    "desc": "Students are exposed to various medical specialties which contribute to an understanding of comprehensive health care program. Topics stressed include injury and illness prevention, definitive medical treatment, indications for referral, and injury rehabilitation from the perspective of health care specialists in the community. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ATC425": {
+    "course_id": "ATC425",
+    "title": "ATC 425 Contemporary Topics in Athletic Training",
+    "req": "<em>Prerequisite: at least 75 hours towards Athletic Training major completed or at least 15 hours toward Sports Medicine minor completed; and permission of program director.</em>",
+    "desc": "Discussion of current issues and problems facing the athletic training profession. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ATC440": {
+    "course_id": "ATC440",
+    "title": "ATC 440 Clinical Practicum V",
+    "req": "<em>Prerequisite: <span data-link='ATC341'>ATC 341</span> and permission of program director.</em>",
+    "desc": "Continuation of supervised clinical experiences in athletic training. Emphasis on developing critical thinking skills associated with injury rehabilitation used by athletic trainers. Students may be required to be in attendance during periods when regular university classes are not in session. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ATC441": {
+    "course_id": "ATC441",
+    "title": "ATC 441 Clinical Practicum VI",
+    "req": "<em>Prerequisite: <span data-link='ATC440'>ATC 440</span> and permission of program director.</em>",
+    "desc": "Continuation of supervised clinical experiences in athletic training. Emphasis is on refining critical thinking skills associated with injury assessment, management, and rehabilitation. Students may be required to be in attendance during periods when regular university classes are not in session. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ATC497": {
+    "course_id": "ATC497",
+    "title": "ATC 497 Athletic Training Seminar",
+    "req": "<em>Prerequisite: <span data-link='ATC221'>ATC 221</span> and <span data-link='ATC222'>ATC 222</span>; and permission of program director.</em>",
+    "desc": "This course offers a concentration in subject matter to improve skill and knowledge in specific areas. Each workshop or seminar will be concerned with a single topic. Number of class hours is determined by length and specificity of workshop/seminar. Thirty clock hours equal one semester hour. May be repeated for a maximum of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ATC498": {
+    "course_id": "ATC498",
+    "title": "ATC 498 Research Projects in Athletic Training",
+    "req": "<em>Prerequisite: <span data-link='ATC332'>ATC 332</span> and <span data-link='PSY200'>PSY 200</span>; and permission of program director.</em>",
+    "desc": "This course provides an opportunity to enhance research skills within a specific topic area of athletic training. The student would conduct a research project under faculty supervision. May be repeated once for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "ATC499": {
+    "course_id": "ATC499",
+    "title": "ATC 499 Independent Study in Athletic Training",
+    "req": "<em>Prerequisite: <span data-link='ATC221'>ATC 221</span> and <span data-link='ATC222'>ATC 222</span>; and permission of program director.</em>",
+    "desc": "This course provides opportunities to pursue specific subject areas in Athletic Training. The independent study may be a reading project or a practical application of theories under faculty supervision. May be repeated for a maximum of 3 hours of credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "ATC610": {
+    "course_id": "ATC610",
+    "title": "ATC 610 Leadership Theory and Issues in Athletic Training",
+    "desc": "This course covers an examination and application of leadership and professional theories and the attributes, behaviors, and values necessary for leadership in health professions (specifically to aspects of the practice of athletic training). ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ATC612": {
+    "course_id": "ATC612",
+    "title": "ATC 612 Human Movement",
+    "desc": "This course will address the neuromotor coordination and integration of human movement. Concepts of brain mapping, the visual and vestibular systems, movement, and disassociation will be addressed. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ATC620": {
+    "course_id": "ATC620",
+    "title": "ATC 620 Leadership Concepts in Athletic Training",
+    "desc": "This course covers an examination and application of leadership and professional theories and the attributes, behaviors, and values necessary for leadership in health professions (specially to aspects of the practice of athletic training.) The organization and function of professional associations, activities that serve the professional community and service to the public, the AT&apos;s role in healthcare delivery systems, outcome measurement, the role of evidence-based practice in the AT profession, cultural competence, and medical legal situations will also be covered. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3,
+      "lab": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ATC630": {
+    "course_id": "ATC630",
+    "title": "ATC 630 Leadership Practicum",
+    "req": "<em>Prerequisite: <span data-link='ATC610'>ATC 610</span> and <span data-link='ATC612'>ATC 612</span>.</em>",
+    "desc": "An intensive clinical or administrative leadership experience requiring students to apply leadership knowledge and skills to real world issues. The leadership experience must also embrace the MSA public affairs mission and culminate in a meaningful response to an issue within the athletic training profession. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ATC632": {
+    "course_id": "ATC632",
+    "title": "ATC 632 Manual Therapy Techniques",
+    "desc": "Detailed analysis and application of manual therapy techniques for treating musculoskeletal pathologies involving the spine and upper and lower extremities. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ATC640": {
+    "course_id": "ATC640",
+    "title": "ATC 640 Evidence-Based Practice",
+    "desc": "Course will analyze the clinical reasoning process used in health care disciplines, examine the different types and levels of clinical evidence and explore the implementation of evidence-based practice skills into the student&apos;s health care profession/practice. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ATC710": {
+    "course_id": "ATC710",
+    "title": "ATC 710 Seminar in Athletic Training",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Provides a forum for topics germane to the clinical practice settings and transition to professional practice. Topics of interest will cover areas such as performance enhancement principles, diagnostic assessment techniques, surgical procedures, pediatric athletic medicine, clinical education principles, and current professional topics. May be repeated for a maximum of 2 hours. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ATC723": {
+    "course_id": "ATC723",
+    "title": "ATC 723 Movement Pattern Assessment",
+    "desc": "Introduction of fundamental movement patterns of the body and how to assess these movement patterns. Concepts of neuromotor human development and how these relate to the learning/patterning of these fundamental movement patterns. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ATC732": {
+    "course_id": "ATC732",
+    "title": "ATC 732 Applied Research Methods in Health Care",
+    "desc": "Research course in which students deepen their understanding and enhance their research abilities in order to contribute to the advancement of their chosen health care discipline. Course will explore topics of research design and research methods for conducting applied and clinical research projects with a focus on conducting outcomes-related research that can support clinical practices in the student&apos;s respective health care discipline. Identical with <span data-link='OTE732'>OTE 732</span>. Cannot receive credit for both <span data-link='ATC732'>ATC 732</span> and <span data-link='OTE732'>OTE 732</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ATC733": {
+    "course_id": "ATC733",
+    "title": "ATC 733 Corrective Exercise Techniques/Movement Pattern Interventions",
+    "desc": "This course will cover the corrections of impairments and compensations to the fundamental movement patterns. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "ATC743": {
+    "course_id": "ATC743",
+    "title": "ATC 743 Advanced Therapeutic Interventions",
+    "desc": "Advanced concepts and evidence-based principles of rehabilitation programs. Enhancement of previously learned therapeutic exercise techniques and integration of therapeutic modalities and therapeutic exercise, including objective and functional goal setting and evaluation for appropriate progression and expedited return to activity. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "ATC797": {
+    "course_id": "ATC797",
+    "title": "ATC 797 Non-thesis Project",
+    "req": "<em>Prerequisite: <span data-link='ATC732'>ATC 732</span> and permission of project advisor.</em>",
+    "desc": "Active participation in the ongoing research and/or clinical activities of athletic training faculty or clinical experience supervisor. Culminates in a presentation of an extensive scholarly paper. Must be repeated for a minimum of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "ATC798": {
+    "course_id": "ATC798",
+    "title": "ATC 798 Special Topics",
+    "req": "<em>Prerequisite: permission of program director.</em>",
+    "desc": "Special study of Sports Medicine and Athletic Training. Variable content course. May be repeated for credit to a maximum of 4 hours. Same topic may be repeated once for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "ATC799": {
+    "course_id": "ATC799",
+    "title": "ATC 799 Thesis",
+    "req": "<em>Prerequisite: <span data-link='ATC732'>ATC 732</span> and permission of research advisor.</em>",
+    "desc": "Demonstration of the capacity for research and independent thought culminating in a thesis. Must be repeated for a minimum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "OTE610": {
+    "course_id": "OTE610",
+    "title": "OTE 610 Foundations and Theory in Occupational Therapy",
+    "req": "<em>Prerequisite: admission to the Master of Occupational Therapy program.</em>",
+    "desc": "This course establishes a foundation for how theory, frames of reference, and models guide occupational therapy practice. The history and development of the occupational therapy profession, key terms and concepts utilized in the field, current issues impacting occupational therapy practice, and professional ethics, values and responsibilities are discussed. The various areas of practice and specialization are also introduced. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "OTE612": {
+    "course_id": "OTE612",
+    "title": "OTE 612 Occupational Development Through the Lifespan",
+    "req": "<em>Prerequisite: admission to Master of Occupational Therapy program.</em>",
+    "desc": "The focus of this course is on the skill progressions in typical and atypical development and how these sequences impact occupational performance across the lifespan; environmental and cultural influences on development are also examined. The cognitive, psychosocial and physical aspects of the person on daily function are discussed in relation to occupation-based practice. The acquisition of values, roles, habits, temporal adaptations, interests and interprofessional collaboration are explored. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "OTE615": {
+    "course_id": "OTE615",
+    "title": "OTE 615 Clinical Reasoning and Documentation",
+    "req": "<em>Prerequisite: <span data-link='OTE610'>OTE 610</span>.</em>",
+    "desc": "This course establishes the framework for documenting outcomes of occupation-based practice in an interprofessional environment, summarizes current theories and research about clinical and professional reasoning, and provides learning activities such as case studies designed to promote effective reasoning. Students will learn and apply effective documentation techniques used in the profession including electronic medical records. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "OTE620": {
+    "course_id": "OTE620",
+    "title": "OTE 620 Psychosocial Perspectives in Occupational Therapy Practice",
+    "req": "<em>Prerequisite: <span data-link='OTE610'>OTE 610</span>; and concurrent enrollment in <span data-link='OTE680'>OTE 680</span>.</em>",
+    "desc": "This course provides an overview of psychosocial conditions across the lifespan among various environments that impact client function in the areas of occupation, performance skills and performance patterns. Topics include, but are not limited to crisis intervention, therapeutic use of self, specific intervention strategies, group dynamics, types of groups, group protocol development, and interprofessional collaboration. Cultural and community perspectives of mental and physical health are also examined. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "OTE624": {
+    "course_id": "OTE624",
+    "title": "OTE 624 Therapeutic Modalities",
+    "req": "<em>Prerequisite: <span data-link='OTE610'>OTE 610</span>.</em>",
+    "desc": "A study of the theory and application of various therapeutic modalities used in the treatment of many injuries, including ultrasound, diathermy, electrical stimulation, hydrotherapy, cryotherapy and thermotherapy. May be taught concurrently with <span data-link='ATC324'>ATC 324</span>. Cannot receive credit for both <span data-link='OTE624'>OTE 624</span> and <span data-link='ATC324'>ATC 324</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "OTE640": {
+    "course_id": "OTE640",
+    "title": "OTE 640 Evidenced-Based Practice",
+    "req": "<em>Prerequisite: <span data-link='OTE610'>OTE 610</span>.</em>",
+    "desc": "Course will analyze the clinical reasoning process used in health care disciplines, examine the different types and levels of clinical evidence and explore the implementation of evidence-based practice skills in the client-centered and occupation-based practice. This course establishes a framework to develop interventions, promote health, well-being and community engagement. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "OTE645": {
+    "course_id": "OTE645",
+    "title": "OTE 645 Clinical Gross Anatomy",
+    "req": "<em>Prerequisite: admission to Master of Occupational Therapy program.</em>",
+    "desc": "The course offers in-depth coverage of basic, applied, and clinical aspects of gross anatomy. An advanced, musculoskeletal anatomy course that emphasizes the study of functional relationships between musculature, nervous tissue, vascular, and skeletal components for the extremities and axial skeleton: Cadaver dissection laboratory experience is used to enhance understanding of three dimensional anatomical relationships for specific body regions. Students observe, discuss, teach, learn and dissect all body systems in detail. This course incorporates traditional didactic lectures, discussions, laboratory dissection, students teaching students (peer-teaching) in laboratory sessions, and assignments that rely on critical thinking. Supplemental course fee. Identical with <span data-link='BMS645'>BMS 645</span>. Cannot receive credit for both <span data-link='OTE645'>OTE 645</span> and <span data-link='BMS645'>BMS 645</span>. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "OTE646": {
+    "course_id": "OTE646",
+    "title": "OTE 646 Neuroscience",
+    "req": "<em>Prerequisite: <span data-link='OTE645'>OTE 645</span>.</em>",
+    "desc": "This course covers the foundations of neuroscience as they relate to the evaluation and treatment of occupational therapy clients. Topics include the properties of cells in the nervous system and major structures and functions of the central, peripheral, and autonomic nervous systems; sensory pathways, central processing and output mechanisms and how systems interact to influence occupational performance. Discussion of neurological diagnoses and theories for treatment is included. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "OTE650": {
+    "course_id": "OTE650",
+    "title": "OTE 650 Introduction to Biomedical Biomechanics",
+    "req": "<em>Prerequisite: <span data-link='OTE645'>OTE 645</span>.</em>",
+    "desc": "Biomechanical fundamentals and principles as they apply to the human organism; description of normal motion emphasizing orthopedic biomechanics and neuromuscular control. May be taught concurrently with <span data-link='BMS450'>BMS 450</span>. Cannot receive credit for both <span data-link='OTE650'>OTE 650</span> and <span data-link='BMS450'>BMS 450</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "OTE680": {
+    "course_id": "OTE680",
+    "title": "OTE 680 Fieldwork Level I, Part 1",
+    "req": "<em>Prerequisite: permission of Master of Occupational Therapy Program Director; and concurrent enrollment in <span data-link='OTE620'>OTE 620</span>.</em>",
+    "desc": "This course is designed to provide students familiarity with a variety of clients, diagnoses, age ranges, and contexts; and to see the roles or potential roles of occupational therapists. This is a supervised, 35-40 hour fieldwork experience that provides the opportunity to observe the occupational therapy process and interprofessional practice. This experience will focus on psychosocial issues in occupational therapy. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "OTE690": {
+    "course_id": "OTE690",
+    "title": "OTE 690 Fieldwork Level I, Part 2",
+    "req": "<em>Prerequisite: permission of Master of Occupational Therapy Program Director.</em>",
+    "desc": "This course is designed to provide students with continued familiarity with a variety of clients, diagnoses, age ranges, and contexts; and to see the roles or potential roles of occupational therapists. This is a supervised, 35-40 hour fieldwork experience that provides the opportunity to observe the occupational therapy process and interprofessional practice. Must be repeated twice for a total of 2 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "OTE720": {
+    "course_id": "OTE720",
+    "title": "OTE 720 Conditions I: Cognitive Dysfunction",
+    "req": "<em>Prerequisite: <span data-link='OTE620'>OTE 620</span> and <span data-link='OTE646'>OTE 646</span>.</em>",
+    "desc": "This course provides an overview of the etiology, incidence and prevalence, signs and symptoms, course and prognosis, and medical management of common cognitive conditions impacting occupational performance. The effects of neurological conditions, disabilities, and disorders on individuals are examined within the cultural context of family, community, and society. Relationships among cognitive disorders, impairments, activity limitations, function/dysfunction, and participation restrictions are emphasized in relation to their impact upon occupation. Students begin to explore occupation-based assessment and treatment of the various conditions seen in interprofessional practice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "OTE725": {
+    "course_id": "OTE725",
+    "title": "OTE 725 Environmental Adaptations and Assistive Technology",
+    "req": "<em>Prerequisite: admission to Master of Occupational Therapy program.</em>",
+    "desc": "Concepts, principles, selection and application of environmental adaptations and assistive technology to improve client function across the lifespan will be examined. Domains presented include, but are not limited to vision, hearing, communication, mobility, cognition, and environmental controls, and interprofessional collaboration. Modifications and high and low technology devices used in occupation-based practice will be discussed. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "OTE730": {
+    "course_id": "OTE730",
+    "title": "OTE 730 Conditions II: Physical Dysfunction",
+    "req": "<em>Prerequisite: <span data-link='OTE720'>OTE 720</span>.</em>",
+    "desc": "This course provides an overview of the etiology, incidence and prevalence, signs and symptoms, course and prognosis, and medical management of common physical conditions impacting occupational performance. The effects of neurological conditions, spinal cord injury, other traumatic injury, mental disabilities and disorders, heritable diseases and predisposing genetic conditions, cancer, burns, etc. to the individual within the cultural context of family and society on occupational performance are explored. Relationships among disorders, impairments, activity limitations, function/dysfunction, and participation restrictions are emphasized in relation to their impact upon occupation. Students begin to explore assessment and treatment of the various conditions seen in practice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "OTE732": {
+    "course_id": "OTE732",
+    "title": "OTE 732 Applied Research Methods in Health Care",
+    "req": "<em>Prerequisite: admission to Master of Occupational Therapy program.</em>",
+    "desc": "Research course in which students deepen their understanding and enhance their research abilities in order to contribute to the advancement of their chosen health care discipline. Course will explore topics of research design and research methods for conducting applied and clinical research projects with a focus on conducting outcomes-related research that can support clinical practices in the student&apos;s respective health care discipline. Identical with <span data-link='ATC732'>ATC 732</span>. Cannot receive credit for both <span data-link='OTE732'>OTE 732</span> and <span data-link='ATC732'>ATC 732</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "OTE745": {
+    "course_id": "OTE745",
+    "title": "OTE 745 Therapeutic Skills I: Practice with Adults and Older Adults",
+    "req": "<em>Prerequisite: <span data-link='OTE720'>OTE 720</span>.</em>",
+    "desc": "Provides an overview of scientific inquiry, assessment, intervention planning and implementation of occupation-based practice with adults and older adults aged 21 and older; special consideration is given to the context of the family, community, environment and culture. The effects of selected medical conditions most commonly seen in occupational and interprofessional practice within this age group are covered. Students gain practical experience through the lab portion of the course which includes observation, evaluation, and assessment of adults and older adults. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "OTE746": {
+    "course_id": "OTE746",
+    "title": "OTE 746 Management and Policy in Occupational Therapy Practice",
+    "req": "<em>Prerequisite: <span data-link='OTE615'>OTE 615</span>.</em>",
+    "desc": "This course introduces the student to the role of the occupational therapist as a manager and leader within the broader interprofessional health care system. Students are introduced to management functions, including fiscal management, marketing, and human resource functions. Discussion of regulatory systems, legal considerations, reimbursement mechanisms, current health care policy and emerging issues impacting health care practitioners is provided. Supervisory issues specific to the occupational therapist are explored. Students will identify and illustrate the role of occupational therapy in current policy issues regarding services to underserved communities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "OTE750": {
+    "course_id": "OTE750",
+    "title": "OTE 750 Therapeutic Skills II: Practice with Children and Adolescents",
+    "req": "<em>Prerequisite: <span data-link='OTE745'>OTE 745</span>.</em>",
+    "desc": "Provides an overview of scientific inquiry, assessment, intervention planning, and implementation of occupation-based practice with children and adolescents from birth to age 20; special consideration is given to the context of the family, community, environment and culture. The effects of selected medical conditions more commonly seen in occupational and interprofessional practice with this age group are covered. Students gain practical experience through the lab portion of the course which includes observation, evaluation, and assessment of children. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "OTE760": {
+    "course_id": "OTE760",
+    "title": "OTE 760 Specialty Topics",
+    "req": "<em>Prerequisite: admission to Master of Occupational Therapy program.</em>",
+    "desc": "Variable topics course. In-depth study of contemporary occupation-based practice. Each offering concerns a single topic. Topics of interest will cover areas related to prosthetics and orthotics, low vision, hand/upper extremities, splinting, and current professional issues, interprofessional collaboration, community engagement, faculty expertise, and/or student interest or needs. Must be repeated for minimum of four hours. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "OTE765": {
+    "course_id": "OTE765",
+    "title": "OTE 765 Community and Health Practice in Occupational Therapy",
+    "req": "<em>Prerequisite: admission to Master of Occupational Therapy program.</em>",
+    "desc": "Coursework will focus on the science, theory and practice of occupational therapy in the promotion of health and wellness and the body&apos;s response to stress, illness or injury across the life span. An emphasis will be placed on the cultural and physical context of the community in which occupational and interprofessional healthcare practice occurs. This course integrates knowledge and skills for occupation-based practice to foster healthy development, prevent health problems, maintain optimal function, and enhance the occupational performance skills of individuals, families, and communities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "OTE770": {
+    "course_id": "OTE770",
+    "title": "OTE 770 Professional Capstone: Issues, Diversity, and Ethics",
+    "req": "<em>Prerequisite: <span data-link='OTE732'>OTE 732</span>.</em>",
+    "desc": "This course integrates elements and issues of professional socialization, the process of taking on the identity of an occupational therapist, and internalizing the norms of the profession. Students will incorporate professional ethics, context of services, and current professional and interprofessional issues, clinical reasoning, client-centered practice and evidence-based decision-making into the occupational therapy process. Clinical scenarios related to diverse populations and practice domains will be utilized to synthesize occupation-based interventions. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "OTE780": {
+    "course_id": "OTE780",
+    "title": "OTE 780 Fieldwork Level II, Part 1",
+    "req": "<em>Prerequisite: completion of all didactic coursework; and permission of Master of Occupational Therapy Program Director.</em>",
+    "desc": "This course is the first half of the final practice experience in the curriculum to develop competent, entry-level, generalist occupational therapists. This supervised, 12-week fieldwork experience provides in-depth experience in delivering occupational therapy services to clients, focusing on the application of purposeful and meaningful occupation and/or research, administration and management of occupational therapy services. Students demonstrate an ability to evaluate, treat, document and discharge clients with a variety of conditions across the lifespan and in a variety of practice areas. Professionalism, clinical reasoning skills, reflective and ethical practice, and communication with clients, significant others and professional colleagues are enhanced. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "OTE790": {
+    "course_id": "OTE790",
+    "title": "OTE 790 Fieldwork Level II, Part 2",
+    "req": "<em>Prerequisite: <span data-link='OTE780'>OTE 780</span>; and permission of Master of Occupational Therapy Program Director.</em>",
+    "desc": "This course is the second half of the final practice experience in the curriculum to develop competent, entry-level, generalist occupational therapists. Supervised fieldwork experience provides in-depth experience in delivering occupational therapy services to clients, focusing on the application of purposeful and meaningful occupation and/or research, administration and management of occupational therapy services. Students demonstrate an ability to evaluate, treat, document and discharge clients with a variety of conditions across the lifespan and in a variety of practice areas. Professionalism, clinical reasoning skills, reflective and ethical practice, and communication with clients, significant others and professional colleagues are enhanced. This in-depth supervised fieldwork will be in a different practice setting than Fieldwork Level II, Part 1. Students must complete a total of 12 weeks of Fieldwork Level II, Part 2 coursework in either one 12-week experience or two 6-week experiences. Must be repeated for a total of six hours. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "OTE798": {
+    "course_id": "OTE798",
+    "title": "OTE 798 Research Project",
+    "req": "<em>Prerequisite: <span data-link='OTE732'>OTE 732</span>; and permission of Master of Occupational Therapy Program Director.</em>",
+    "desc": "In-depth scientific study of an occupation-based clinical problem of interest that culminates in a scholarly paper and formal community presentation. Must be repeated three times for a total of three hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  }
+}

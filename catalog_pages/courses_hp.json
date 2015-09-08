@@ -1,0 +1,165 @@
+{
+  "AAS100": {
+    "course_id": "AAS100",
+    "title": "AAS 100 Introduction to African American Studies",
+    "req": "<em>General Education Course (Focus on Humanities).</em>",
+    "desc": "The course provides a multidisciplinary introduction of the many dimensions of the African American experience, including the African heritage and diaspora, slavery and freedom, African American artistic and literary expression, and the problem of racism in American society. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "AAS397": {
+    "course_id": "AAS397",
+    "title": "AAS 397 Topics in African American Studies",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Topics of general interest in the area of African American Studies. Examples: African Independence, Negritude, Harlem Renaissance, 1960s Civil Rights Movement, the Black Panther Party, Nation of Islam in the U.S., Afrocentricism, and African/African American Destiny. May be repeated, as topics change, to a maximum of 6 hours. Variable Content Course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "AAS497": {
+    "course_id": "AAS497",
+    "title": "AAS 497 Directed Reading",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Analysis of various topics in African American Studies not covered in regular courses. May be repeated for a maximum of 6 hours, provided that the topic is different. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DAS100": {
+    "course_id": "DAS100",
+    "title": "DAS 100 Introduction to Disability Studies",
+    "desc": "This course provides a multidisciplinary introduction to the many dimensions of Disability Studies, including the history, social, cultural, political, legal, and economic perspectives on disability in American society. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "DAS397": {
+    "course_id": "DAS397",
+    "title": "DAS 397 Topics in Disability Studies",
+    "req": "<em>Prerequisite: <span data-link='DAS100'>DAS 100</span> and permission.</em>",
+    "desc": "Topics of general interest in the area of Disability Studies. Examples: disability cultures, disability rights movement, deaf culture, disability and the law. Variable content course. May be repeated as topics change to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "DAS497": {
+    "course_id": "DAS497",
+    "title": "DAS 497 Directed Readings",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "Analysis of various topics in Disability Studies not covered in regular courses. May be repeated for a maximum of 6 hours, provided that the topic is different. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GST170": {
+    "course_id": "GST170",
+    "title": "GST 170 Sex, Gender, and Self",
+    "desc": "An introduction to Gender Studies that explores the influence that ideas about sex, gender, and gender roles have on women and men, both as individuals and as social beings. Using new research on gender in many disciplines, it examines representations of male and female experiences, and historical and social constructions of women&apos;s and men&apos;s roles. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GST315": {
+    "course_id": "GST315",
+    "title": "GST 315 The Economics of Gender",
+    "req": "<em>Prerequisite: <span data-link='ECO165'>ECO 165</span>.</em>",
+    "desc": "This course teaches students to analyze the economic decisions made by both males and females in two main areas: the labor market and the household. Specific areas of inquiry include the following: the family as an economic unit, gender differences in labor force participation, occupational gender segregation, explanations for gender earnings differentials and efforts to reduce such differentials, gender earnings discrimination, and international gender issues. Identical with <span data-link='ECO315'>ECO 315</span>. Cannot receive credit for both <span data-link='GST315'>GST 315</span> and <span data-link='ECO315'>ECO 315</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "GST326": {
+    "course_id": "GST326",
+    "title": "GST 326 Feminist Theories of Social Order",
+    "req": "<em>Prerequisite: <span data-link='SOC150'>SOC 150</span> or <span data-link='GST170'>GST 170</span>.</em>",
+    "desc": "This course offers an introductory survey of feminist theories within a sociological framework. Students will read and discuss significant classical and contemporary feminist writings on how social life is organized, maintained or changed. The feminist literature has led to the emergence of diverse theoretical frameworks analyzing historical and contemporary, macro and micro, public and private, local and global issues and concerns. The feminist paradigm, like many other paradigms, is inclusive of many disciplines. The sociological writings within this paradigm provide a wealth of materials on alternative views of social organization, order and conflict. Identical with <span data-link='SOC326'>SOC 326</span>. Cannot receive credit for both <span data-link='GST326'>GST 326</span> and <span data-link='SOC326'>SOC 326</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "GST400": {
+    "course_id": "GST400",
+    "title": "GST 400 Gender in Global Community",
+    "req": "<em>Prerequisite: <span data-link='SOC150'>SOC 150</span> or <span data-link='GST170'>GST 170</span>.</em>",
+    "desc": "This course will explore the effects of an integrated global community on gender; how global trends are gender-based in terms of labor market participation, resource allocation, family regulations, health care, crime, war and regional politics. Students will discuss how events and policies in one part of the globe affect gender relations in another region. May be taught concurrently with <span data-link='SOC600'>SOC 600</span>. Cannot receive credit for both <span data-link='GST400'>GST 400</span> and <span data-link='SOC600'>SOC 600</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "GST497": {
+    "course_id": "GST497",
+    "title": "GST 497 Special Topics in Gender Studies",
+    "req": "<em>Prerequisite: permission.</em>",
+    "desc": "In-depth inquiry into selected topics of Gender Studies. May be repeated to a maximum of 6 hours if the topic is different. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "OZK150": {
+    "course_id": "OZK150",
+    "title": "OZK 150 Introduction to Ozarks Studies",
+    "desc": "This course provides a multidisciplinary introduction to the study of the Ozarks region and its inhabitants, including Ozarks history and geography, regional folk culture and traditions, and current issues. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "OZK300": {
+    "course_id": "OZK300",
+    "title": "OZK 300 Topics in Ozarks Studies",
+    "desc": "In-depth inquiry into topics in Ozarks Studies. May be repeated to a maximum of six hours if the topic is different. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

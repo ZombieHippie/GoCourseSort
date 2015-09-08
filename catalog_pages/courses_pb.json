@@ -1,0 +1,223 @@
+{
+  "PBH720": {
+    "course_id": "PBH720",
+    "title": "PBH 720 Epidemiology",
+    "desc": "An introduction to the epidemiological methods and procedures utilized in the study of the origin, distribution, and control of disease. It will include the study of infectious and non-infectious disease etiology, including vector control, host defenses and resistance, and investigation of disease outbreaks. Students will learn to use basic epidemiological concepts and methods for program planning, evaluation, and research. Basic statistical measures used in the analysis of clinical and epidemiologic evaluations, including measures of disease frequency and measures of absolute and relative effects, will be covered. Identical with <span data-link='NUR700'>NUR 700</span>. Cannot receive credit for <span data-link='PBH720'>PBH 720</span> and <span data-link='NUR700'>NUR 700</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PBH730": {
+    "course_id": "PBH730",
+    "title": "PBH 730 Biostatistics in Health Sciences",
+    "desc": "This course is an introduction to biostatistical methods in the context of public health and medical sciences. Major topics will include: research design and measurement, sampling, exploratory data analysis, probability and sampling distributions, hypothesis testing, contingency table analysis, nonparametric methods, correlation, linear regression, logistic regression and survival analysis. Emphasis will be on developing an understanding of these methods and drawing appropriate conclusions from analysis findings. Students will also be introduced to statistical programming packages. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PBH735": {
+    "course_id": "PBH735",
+    "title": "PBH 735 Software Applications and Data Sources in Public Health",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course will provide an overview of important software and databases that are commonly used in public health surveillance, program planning and research. Students will learn to access, analyze, and interpret morbidity and mortality data from a variety of national and statewide data sources (e.g., NHANS, BRFSS, MICA, CDC Wonder, vital statistics). Data will be analyzed descriptively using statistical software including Excel, CDC&apos;s EpiInfo, SPSS and/or SAS. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PBH740": {
+    "course_id": "PBH740",
+    "title": "PBH 740 Health Behavior",
+    "desc": "This course examines selected theories of health behavior relevant to individual and community health promotion program planning. Students will analyze biological, psychological, sociological, and environmental influences on health behavior and evaluate strategies for health promotion. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PBH745": {
+    "course_id": "PBH745",
+    "title": "PBH 745 Environmental Health",
+    "desc": "This course will investigate and examine the relationships of environmental health problems to human health. Students will survey the major environmental issues facing developed and developing countries. Topics include water supply, air and noise pollution, sewage treatment and waste disposal, pest and pesticides, toxic waste, energy alternatives, food and drug quality assurance, population control, and environmental disease control. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PBH756": {
+    "course_id": "PBH756",
+    "title": "PBH 756 Introduction to Public Health",
+    "desc": "This course will provide a general introduction to public health. It will discuss the history of public health; international, federal, state, and local agencies; voluntary health agencies; professional health organizations; the legislative process as it relates to public health, environmental health, health promotion, basic public health statistics and an introduction to epidemiology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "PBH758": {
+    "course_id": "PBH758",
+    "title": "PBH 758 Contemporary Issues in Public Health",
+    "desc": "In-depth consideration of pertinent issues, trends, controversy, and current research in public health. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PBH760": {
+    "course_id": "PBH760",
+    "title": "PBH 760 Research Methods in Public Health",
+    "desc": "This course is designed to help students gain the necessary knowledge and skills for undertaking research on issues related to public health. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PBH772": {
+    "course_id": "PBH772",
+    "title": "PBH 772 Toxicology and Hazardous Materials",
+    "desc": "A study of toxic substances and their effects in the environment and in living organisms. This course also includes a study of safety methods for identifying, monitoring, handling, processing, containing, storing, and disposing hazardous and toxic substances in the environment and workplace. Students are encouraged to have had courses in physiology, biochemistry and/or pharmacology. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PBH775": {
+    "course_id": "PBH775",
+    "title": "PBH 775 Principles and Skills of Public Health Administration",
+    "desc": "This course is designed to provide a comprehensive overview of the administrative, managerial and organizational practices of health professionals in a variety of settings. Opportunities for the development and application of administrative competencies in health education/health care settings will be provided. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PBH778": {
+    "course_id": "PBH778",
+    "title": "PBH 778 Chronic Disease Epidemiology",
+    "desc": "This course examines problems and methods used in studying chronic diseases. Focus will be on the collection and interpretation of chronic disease data, and application of epidemiological and statistical principles pertaining to cancer, cardiovascular diseases, cerebrovascular diseases, chronic lung diseases, diabetes, musculoskeletal diseases, neurologic disorders and other chronic diseases. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PBH781": {
+    "course_id": "PBH781",
+    "title": "PBH 781 Public Health Preparedness",
+    "desc": "This course will investigate the health risks and hazards associated with emergency situations, and the roles of public health professionals and volunteers in the preparation for and response to emergencies and disasters. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "PBH783": {
+    "course_id": "PBH783",
+    "title": "PBH 783 International Health and Infectious Disease",
+    "desc": "This course will investigate the epidemiology, impact, and control of infectious diseases in the context of the international environment. Topics will include the structure and financing of health systems in the developing world, the medical community&apos;s ability to respond to infectious disease risks, and the specific impacts of major infectious diseases with an emphasis on tuberculosis, AIDS, and malaria. This course is not a clinical course and will not address the diagnosis or treatment of disease. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "PBH785": {
+    "course_id": "PBH785",
+    "title": "PBH 785 Seminar in Public Health",
+    "req": "<em>Prerequisite: permission of Graduate Coordinator.</em>",
+    "desc": "Variable topics course. The study, analysis, and discussion of timely issues in public health. May be repeated for credit if topic is different. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PBH788": {
+    "course_id": "PBH788",
+    "title": "PBH 788 Public Health Practicum",
+    "desc": "The Public Health practicum is required of all students enrolled in the Professional Option of the MPH program. It will involve developing, implementing and establishing a public health intervention that includes, reflects, and integrates public health principles, theory, and practice as identified in the Masters in Public Health curriculum. All required courses must be completed in order to be eligible. Project selection must be approved by the course instructor. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PBH790": {
+    "course_id": "PBH790",
+    "title": "PBH 790 Independent Study in Public Health",
+    "req": "<em>Prerequisite: permission of instructor and program director.</em>",
+    "desc": "The independent study in Public Health is a carefully planned experience which allows the advanced student to investigate a clearly defined problem that will enhance their academic preparation. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PBH798": {
+    "course_id": "PBH798",
+    "title": "PBH 798 Public Health Field Experience",
+    "req": "<em>Prerequisite: students must have successfully completed 33 hours including all public health core and other required courses and passed the core course exam.</em>",
+    "desc": "The required field experience provides experience in program development, community relations, public education, and research. Possible sites include: official health agencies, voluntary health agencies, or community social agencies. Selection is dependent on the students&apos; backgrounds and career expectations. Students may choose to spend their entire time in one agency, or, for shorter periods, in 2 or more agencies. The field experience can be done during the fall, spring, or summer and can be no less than 200 hours. All field experiences must be approved by the field experience faculty supervisor and the Program Director to ensure the site acceptability. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "PBH799": {
+    "course_id": "PBH799",
+    "title": "PBH 799 Capstone Project in Public Health",
+    "req": "<em>Prerequisite: admission to the Master of Public Health program.</em>",
+    "desc": "The Capstone Project provides students the opportunity to integrate knowledge gained in the classroom with real-world problems through completion of a major research, program planning, policy development, management, service delivery, or evaluation project. Some aspect of the project must be original, whether it is the topic itself, an analysis of newly collected or extant data, the reinterpretation of others&apos; finding, or the design and completion of a community project. While student led, the project is designed in consultation with, and carried out under the guidance of, a faculty supervisor. Student must have the capstone project proposal form approved by the faculty supervisor and Program Director prior to enrollment. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

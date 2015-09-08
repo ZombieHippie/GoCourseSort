@@ -1,0 +1,27 @@
+{
+  "GBL250": {
+    "course_id": "GBL250",
+    "title": "GBL 250 Introduction to Global Studies and Globalization",
+    "desc": "Provides students with the basic elements of global studies in order to make them educated persons who have a global awareness; and familiarizes them with the various trends or dimensions of globalization by focusing on geographic, cultural, political, and economic aspects of globalization. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "GBL499": {
+    "course_id": "GBL499",
+    "title": "GBL 499 Internship",
+    "req": "<em>Prerequisite: permission of Global Studies Coordinator.</em>",
+    "desc": "A focused course that students can combine with other classes in order to pursue a special interest within their major. May be repeated to a maximum of 6 hours. Graded Pass/Not Pass only. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

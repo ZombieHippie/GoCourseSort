@@ -1,0 +1,1028 @@
+{
+  "CHM107": {
+    "course_id": "CHM107",
+    "title": "CHM 107 Chemistry for the Citizen",
+    "req": "<em>General Education Course (Focus on Physical Sciences).</em>",
+    "desc": "Concurrent enrollment in <span data-link='CHM108'>CHM 108</span> is highly recommended. A course for the non-science major. Principal concepts and applications of chemistry are presented. The course looks at both the beneficial side of chemical usage and the problems associated with chemical production and usage. The course provides information needed for a better understanding of environmental concerns, the chemical industry, consumer products and our alternate sources and storage of energy. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM108": {
+    "course_id": "CHM108",
+    "title": "CHM 108 Chemistry for the Citizen Laboratory",
+    "req": "<em>Prerequisite: &quot;C-&quot; grade or better in <span data-link='CHM107'>CHM 107</span> or concurrent enrollment. General Education Course (Focus on Physical Sciences).</em>",
+    "desc": "A one semester course for the non-science major. Principal concepts and applications of chemistry are presented. Emphasis on experiments and lab skills associated with the lecture material in <span data-link='CHM107'>CHM 107</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM116": {
+    "course_id": "CHM116",
+    "title": "CHM 116 Fundamentals of Chemistry",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='MTH102'>MTH 102</span> or <span data-link='MTH103'>MTH 103</span> or eligibility for a higher mathematics course. General Education Course (Focus on Physical Sciences).</em>",
+    "desc": "Concurrent enrollment in <span data-link='CHM117'>CHM 117</span> is highly recommended. Emphasis on chemical fundamentals and applications. Recommended for students needing only one semester of introductory chemistry. Cannot be counted towards a chemistry major or minor. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM117": {
+    "course_id": "CHM117",
+    "title": "CHM 117 Fundamentals of Chemistry Laboratory",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM116'>CHM 116</span> or concurrent enrollment; concurrent enrollment in <span data-link='MTH102'>MTH 102</span> or <span data-link='MTH103'>MTH 103</span> or eligibility for a higher mathematics course. General Education Course (Focus on Physical Sciences).</em>",
+    "desc": "Emphasis on experiments and lab skills associated with the lecture material in <span data-link='CHM116'>CHM 116</span>, such as chemical fundamentals and applications. Recommended for students needing only one semester of general chemistry lab. Cannot be counted towards a chemistry major or minor. Cannot be taken Pass/Not Pass. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM160": {
+    "course_id": "CHM160",
+    "title": "CHM 160 General Chemistry I",
+    "req": "<em>Prerequisite: eligibility for <span data-link='MTH135'>MTH 135</span> or higher.</em>",
+    "desc": "Concurrent enrollment in <span data-link='CHM161'>CHM 161</span> is highly recommended. Emphasis on fundamental and theoretical concepts of chemistry. Recommended for all science majors, chemistry majors and minors, and most preprofessional students. A grade of &quot;C-&quot; or better is required in this course in order to take <span data-link='CHM170'>CHM 170</span> or <span data-link='CHM171'>CHM 171</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM161": {
+    "course_id": "CHM161",
+    "title": "CHM 161 General Chemistry I Laboratory",
+    "req": "<em>Prerequisite: <span data-link='CHM160'>CHM 160</span> or concurrent enrollment.</em>",
+    "desc": "An introduction to laboratory chemistry employing principles and techniques that reflect material presented in <span data-link='CHM160'>CHM 160</span>, e.g., synthesis, stoichiometry, physical studies, and data manipulation and interpretation. A grade of &quot;C-&quot; or better is required in this course in order to take <span data-link='CHM171'>CHM 171</span>. Cannot be taken Pass/Not Pass. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM170": {
+    "course_id": "CHM170",
+    "title": "CHM 170 General Chemistry II",
+    "req": "<em>Prerequisite: &quot;C-&quot; grade or better in <span data-link='CHM160'>CHM 160</span>.</em>",
+    "desc": "Concurrent enrollment in <span data-link='CHM171'>CHM 171</span> is highly recommended. Emphasis on reaction kinetics, chemical equilibrium, precipitation reactions, acid-base theory and oxidation-reduction reactions. A grade of &quot;C-&quot; or better is required in this course in order to take <span data-link='CHM342'>CHM 342</span>, 352, or 506. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM171": {
+    "course_id": "CHM171",
+    "title": "CHM 171 General Chemistry II Laboratory",
+    "req": "<em>Prerequisite: <span data-link='CHM170'>CHM 170</span> or concurrent enrollment; and a &quot;C-&quot; or better in <span data-link='CHM160'>CHM 160</span> and <span data-link='CHM161'>CHM 161</span>.</em>",
+    "desc": "An introduction to laboratory chemistry, employing principles and techniques that reflect material presented in <span data-link='CHM170'>CHM 170</span>, e.g., physical studies on kinetics and equilibria of aqueous systems, qualitative and quantitative analysis, and data manipulation and interpretation. A grade of &quot;C-&quot; or better is required in this course in order to take <span data-link='CHM302'>CHM 302</span> or 342. Cannot be taken Pass/Not Pass. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM197": {
+    "course_id": "CHM197",
+    "title": "CHM 197 Chemical Topics",
+    "desc": "For non-science majors: a single topic of contemporary, historical or theoretical significance. Topics may vary each semester; course may be repeated any number of times provided the same topic is not retaken. Variable content course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM201": {
+    "course_id": "CHM201",
+    "title": "CHM 201 Essentials of Organic Chemistry",
+    "req": "<em>Prerequisite: a &quot;C-&quot; grade or better in <span data-link='CHM116'>CHM 116</span> or <span data-link='CHM170'>CHM 170</span>.</em>",
+    "desc": "Principles of organic chemistry and biochemistry. The laboratory associated with this course is <span data-link='CHM202'>CHM 202</span>. Cannot be counted toward a chemistry major or minor if student passes <span data-link='CHM342'>CHM 342</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM202": {
+    "course_id": "CHM202",
+    "title": "CHM 202 Essentials of Organic Chemistry Laboratory",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM117'>CHM 117</span> or <span data-link='CHM161'>CHM 161</span>; &quot;C-&quot; or better in <span data-link='CHM201'>CHM 201</span> or concurrent enrollment.</em>",
+    "desc": "Principles of organic chemistry and biochemistry. Emphasis on experiments and lab skills associate with the lecture material in <span data-link='CHM201'>CHM 201</span>. Cannot be counted towards a chemistry major or minor if the student passes <span data-link='CHM342'>CHM 342</span>. Cannot be taken Pass/Not Pass. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM240": {
+    "course_id": "CHM240",
+    "title": "CHM 240 Glass Working",
+    "req": "<em>Prerequisite: <span data-link='CHM170'>CHM 170</span>.</em>",
+    "desc": "Instruction and practice in glass-working techniques needed to make simple apparatus. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHM260": {
+    "course_id": "CHM260",
+    "title": "CHM 260 Principles of Environmental Chemistry",
+    "req": "<em>Prerequisite: &quot;C-&quot; grade or better in <span data-link='CHM116'>CHM 116</span> and 117 or <span data-link='CHM160'>CHM 160</span>.</em>",
+    "desc": "An introduction to chemical processes occurring in the atmosphere, natural waters and soil. Sources of pollution, effects and remediation strategies are emphasized. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM300": {
+    "course_id": "CHM300",
+    "title": "CHM 300 Service Learning in Chemistry",
+    "req": "<em>Prerequisite: 30 hours, and concurrent registration in a chemistry course designated as a service learning offering.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in chemistry to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the specific course topic and learning objectives; students should investigate possible placements, available through the Chemistry Department and the Citizenship and Service Learning Office, prior to registration. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM302": {
+    "course_id": "CHM302",
+    "title": "CHM 302 Introduction to Analytical Chemistry",
+    "req": "<em>Prerequisite: &quot;C-&quot; grade or better in both <span data-link='CHM170'>CHM 170</span> and <span data-link='CHM171'>CHM 171</span>.</em>",
+    "desc": "Fundamentals of chemical analysis and basic statistics; solution equilibria, fundamentals of spectrophotometric, chromatographic, and electrochemical methods. Laboratory includes both wet chemical and instrumental methods. Representative analyses are performed in laboratory. Supplemental course fee.  ",
+    "hours": {
+      "credit": 5,
+      "lecture": 3,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM342": {
+    "course_id": "CHM342",
+    "title": "CHM 342 Organic Chemistry I",
+    "req": "<em>Prerequisite: &quot;C-&quot; grade or better in both <span data-link='CHM170'>CHM 170</span> and <span data-link='CHM171'>CHM 171</span>.</em>",
+    "desc": "Systematic coverage of reactions and properties of organic compounds. A grade of &quot;C-&quot; or better is required in this course in order to take <span data-link='CHM343'>CHM 343</span>, <span data-link='CHM344'>CHM 344</span> or <span data-link='CHM352'>CHM 352</span>. Cannot be taken Pass/Not Pass. Supplemental course fee. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 4,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM343": {
+    "course_id": "CHM343",
+    "title": "CHM 343 Organic Chemistry II",
+    "req": "<em>Prerequisite: &quot;C-&quot; grade or better in <span data-link='CHM342'>CHM 342</span>.</em>",
+    "desc": "Continuation of <span data-link='CHM342'>CHM 342</span>. A grade of &quot;C-&quot; or better is required in this course in order to take <span data-link='CHM542'>CHM 542</span>. Cannot be taken Pass/Not Pass. Supplemental course fee. ",
+    "hours": {
+      "credit": 5,
+      "lecture": 4,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM344": {
+    "course_id": "CHM344",
+    "title": "CHM 344 Organic Chemistry II",
+    "req": "<em>Prerequisite: &quot;C-&quot; grade or better in <span data-link='CHM342'>CHM 342</span>.</em>",
+    "desc": "Continuation of the lecture part of <span data-link='CHM342'>CHM 342</span>. Identical to lecture part of <span data-link='CHM343'>CHM 343</span>. A grade of &quot;C-&quot; or better is required in this course in order to take <span data-link='CHM542'>CHM 542</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM352": {
+    "course_id": "CHM352",
+    "title": "CHM 352 Introduction to Biochemistry",
+    "req": "<em>Prerequisite: &quot;C-&quot; grade or better in either [<span data-link='CHM201'>CHM 201</span> and 202] or <span data-link='CHM342'>CHM 342</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='BIO121'>BIO 121</span> or <span data-link='BMS110'>BMS 110</span> and 111. Essentials of biochemistry; chemistry and metabolism of biologically important compounds. Does not apply to a chemistry major or minor if the student passes <span data-link='CHM452'>CHM 452</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM353": {
+    "course_id": "CHM353",
+    "title": "CHM 353 Introduction to Biochemistry Laboratory",
+    "req": "<em>Prerequisite: <span data-link='CHM171'>CHM 171</span> or [<span data-link='CHM201'>CHM 201</span> and 202] or <span data-link='CHM342'>CHM 342</span>; and <span data-link='CHM352'>CHM 352</span> or concurrent enrollment.</em>",
+    "desc": "Introduction to modern biochemical techniques including buffer preparation, chromatographic separations and spectrophotometric analysis of biomolecules. <span data-link='CHM353'>CHM 353</span> and 453 cannot both be applied toward a chemistry major or minor. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM375": {
+    "course_id": "CHM375",
+    "title": "CHM 375 Inorganic Chemistry",
+    "req": "<em>Prerequisite: &quot;C-&quot; grade or better in <span data-link='CHM170'>CHM 170</span>.</em>",
+    "desc": "Atomic structure, chemical bonding, acid/base and reduction/oxidation concepts, reactivity of inorganic compounds, chemistry of main group elements, fundamentals of coordination theory. A grade of &quot;C-&quot; or better is required in this course in order to take <span data-link='CHM575'>CHM 575</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM376": {
+    "course_id": "CHM376",
+    "title": "CHM 376 Inorganic Preparation",
+    "req": "<em>Prerequisite: &quot;C-&quot; grades or better in <span data-link='CHM171'>CHM 171</span> and <span data-link='CHM375'>CHM 375</span>.</em>",
+    "desc": "Synthesis of inorganic compounds and measurements of physical and chemical properties of selected inorganic compounds. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM397": {
+    "course_id": "CHM397",
+    "title": "CHM 397 Cooperative Education in Chemistry",
+    "req": "<em>Prerequisite: acceptance into Cooperative Education Program and permission.</em>",
+    "desc": "A combination of supervised work experience in an industrial or governmental laboratory and academic training. May be repeated to a total of 6 semester hours. Variable content course. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM398": {
+    "course_id": "CHM398",
+    "title": "CHM 398 Chemical Symposium",
+    "req": "<em>Prerequisite: 14 hours of chemistry.</em>",
+    "desc": "Recommended Prerequisite: take within the first 75 hours. Introduction to oral and written scientific communication, laboratory safety, ethics, scientific literature searching and software, and current trends in chemical research. Does not count toward a chemistry minor. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM399": {
+    "course_id": "CHM399",
+    "title": "CHM 399 Undergraduate Investigations",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Individual investigation of a chemical problem. May be repeated to a total of 5 hours. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM435": {
+    "course_id": "CHM435",
+    "title": "CHM 435 Investigations in Chemistry for Teachers",
+    "req": "<em>Prerequisite: 15 hours of chemistry or permission.</em>",
+    "desc": "Techniques in performing science investigation with application to secondary and middle school science. May be taught concurrently with <span data-link='CHM735'>CHM 735</span>. Cannot receive credit for both <span data-link='CHM435'>CHM 435</span> and <span data-link='CHM735'>CHM 735</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM452": {
+    "course_id": "CHM452",
+    "title": "CHM 452 Biochemistry I",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM343'>CHM 343</span> or <span data-link='CHM344'>CHM 344</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='BIO121'>BIO 121</span> or <span data-link='BMS110'>BMS 110</span> and 111. Structure and function of biomolecules: proteins, enzymes, nucleic acids, carbohydrates, lipids and membranes. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM453": {
+    "course_id": "CHM453",
+    "title": "CHM 453 Biochemistry Laboratory I",
+    "req": "<em>Prerequisite: <span data-link='CHM452'>CHM 452</span> or concurrent enrollment.</em>",
+    "desc": "A series of multidimensional biochemical experiments designed to explore the biochemical literature, scientific report writing, and the biochemical techniques used to isolate and study biomolecules. <span data-link='CHM353'>CHM 353</span> and 453 cannot both be applied toward a chemistry major or minor. Supplemental course fee. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM460": {
+    "course_id": "CHM460",
+    "title": "CHM 460 Environmental Chemistry: Water and Land",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM170'>CHM 170</span>; and &quot;C-&quot; or better in <span data-link='CHM201'>CHM 201</span> or <span data-link='CHM342'>CHM 342</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='CHM302'>CHM 302</span>. Chemistry of water and soil, water treatment, agricultural chemistry and related topics. May be taught concurrently with <span data-link='CHM760'>CHM 760</span>. Cannot receive credit for both <span data-link='CHM460'>CHM 460</span> and <span data-link='CHM760'>CHM 760</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM461": {
+    "course_id": "CHM461",
+    "title": "CHM 461 Environmental Chemistry: Air and Energy",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM201'>CHM 201</span> or <span data-link='CHM342'>CHM 342</span>.</em>",
+    "desc": "Recommended Prerequisite: some advanced coursework in chemistry, geosciences, biology, or related fields. Atmospheric chemistry; pollution issues related to power production and transportation; energy sources and fuels. May be taught concurrently with <span data-link='CHM761'>CHM 761</span>. Cannot receive credit for both <span data-link='CHM461'>CHM 461</span> and <span data-link='CHM761'>CHM 761</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM462": {
+    "course_id": "CHM462",
+    "title": "CHM 462 Environmental Chemistry Laboratory",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM302'>CHM 302</span> and <span data-link='CHM460'>CHM 460</span>.</em>",
+    "desc": "Techniques and procedures for environmental monitoring to test natural samples. Applications and limitations of wet chemical and instrumental methods such as atomic absorption, gas chromatography, absorption spectrophotometry. May be taught concurrently with <span data-link='CHM762'>CHM 762</span>. Cannot receive credit for both <span data-link='CHM462'>CHM 462</span> and <span data-link='CHM762'>CHM 762</span>. Cannot receive credit for both <span data-link='CHM462'>CHM 462</span> and <span data-link='CHM463'>CHM 463</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM463": {
+    "course_id": "CHM463",
+    "title": "CHM 463 Environmental Analysis",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM302'>CHM 302</span> and <span data-link='CHM460'>CHM 460</span>.</em>",
+    "desc": "Techniques and procedures for environmental analysis of natural water samples with an emphasis on wet chemical methods. Cannot receive credit for both <span data-link='CHM462'>CHM 462</span> and <span data-link='CHM463'>CHM 463</span>. Scheduled as first block class. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM492": {
+    "course_id": "CHM492",
+    "title": "CHM 492 Program Assessment",
+    "req": "<em>Prerequisite: senior standing chemistry major; and permission of department head.</em>",
+    "desc": "Required assessment of undergraduate Comprehensive and Non-comprehensive Chemistry majors, who are required to enroll in this course during their final semester and complete a comprehensive assessment exam, as administered by the department. Graded Pass/Not Pass only. ",
+    "hours": {},
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM498": {
+    "course_id": "CHM498",
+    "title": "CHM 498 Chemistry Careers",
+    "req": "<em>Prerequisite: <span data-link='CHM398'>CHM 398</span> and 60 hours.</em>",
+    "desc": "Writing scientific resumes and cover letters, discussion of chemistry careers, graduate school, job-hunting resources and professional ethics. Outside speakers from chemistry-related employers will be invited. Interaction with the Career Center will be required. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM499": {
+    "course_id": "CHM499",
+    "title": "CHM 499 Advanced Undergraduate Research",
+    "req": "<em>Prerequisite: senior standing Chemistry major.</em>",
+    "desc": "Individual research problems in chemistry. A written report is required for this course. May be repeated to a total of 5 hours. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM502": {
+    "course_id": "CHM502",
+    "title": "CHM 502 Techniques of Instrumental Analysis",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in [<span data-link='CHM201'>CHM 201</span> and 202] or <span data-link='CHM342'>CHM 342</span>; and &quot;C-&quot; or better in <span data-link='CHM302'>CHM 302</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='PHY124'>PHY 124</span> or <span data-link='PHY204'>PHY 204</span>. Applications of instrumental methods for the separation and analysis of materials; included are potentiometry, photometry and chromatography. May be taught concurrently with <span data-link='CHM602'>CHM 602</span>. Cannot receive credit for both <span data-link='CHM602'>CHM 602</span> and <span data-link='CHM502'>CHM 502</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM505": {
+    "course_id": "CHM505",
+    "title": "CHM 505 Fundamentals of Physical Chemistry",
+    "req": "<em>Prerequisite: 20 hours of chemistry coursework; and &quot;C-&quot; or better in either <span data-link='MTH287'>MTH 287</span> or <span data-link='MTH261'>MTH 261</span>.</em>",
+    "desc": "A one semester introduction to physical chemistry including the following topics: thermodynamics, solution chemistry, electrochemistry, kinetics, and atomic and molecular structure. Laboratory experiments will illustrate principles of physical chemistry and techniques of analysis. Does not apply to a Chemistry major or minor if the student passes <span data-link='CHM506'>CHM 506</span>. May be taught concurrently with <span data-link='CHM605'>CHM 605</span>. Cannot receive credit for both <span data-link='CHM605'>CHM 605</span> and <span data-link='CHM505'>CHM 505</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM506": {
+    "course_id": "CHM506",
+    "title": "CHM 506 Physical Chemistry I",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM170'>CHM 170</span>; and <span data-link='MTH280'>MTH 280</span> or <span data-link='MTH288'>MTH 288</span> or concurrent enrollment in <span data-link='MTH280'>MTH 280</span> or <span data-link='MTH288'>MTH 288</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='MTH302'>MTH 302</span>; and <span data-link='PHY124'>PHY 124</span> or <span data-link='PHY204'>PHY 204</span>. First semester of a two-semester series covering aspects of quantum mechanics, classical and statistical thermodynamics, spectroscopy, kinetic theory of gases, and chemical kinetics. A grade of &quot;C-&quot; or better is required in this course in order to take <span data-link='CHM507'>CHM 507</span>. Cannot be taken Pass/Not Pass. May be taught concurrently with <span data-link='CHM606'>CHM 606</span>. Cannot receive credit for both <span data-link='CHM606'>CHM 606</span> and <span data-link='CHM506'>CHM 506</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM507": {
+    "course_id": "CHM507",
+    "title": "CHM 507 Physical Chemistry II",
+    "req": "<em>Prerequisite: &quot;C-&quot; grade or better in <span data-link='CHM506'>CHM 506</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='CHM375'>CHM 375</span>. Second semester of a two-semester series that builds upon and completes the topics introduced in <span data-link='CHM506'>CHM 506</span>. May be taught concurrently with <span data-link='CHM607'>CHM 607</span>. Cannot receive credit for both <span data-link='CHM607'>CHM 607</span> and <span data-link='CHM507'>CHM 507</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM508": {
+    "course_id": "CHM508",
+    "title": "CHM 508 Physical Chemistry Laboratory I",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM302'>CHM 302</span>; and &quot;C-&quot; or better in <span data-link='CHM506'>CHM 506</span> or <span data-link='CHM606'>CHM 606</span> or concurrent enrollment in <span data-link='CHM506'>CHM 506</span> or <span data-link='CHM606'>CHM 606</span>.</em>",
+    "desc": "Experiments in physical chemistry employing principles and techniques reflecting material presented in <span data-link='CHM506'>CHM 506</span>. May be taught concurrently with <span data-link='CHM608'>CHM 608</span>. Cannot receive credit for both <span data-link='CHM608'>CHM 608</span> and <span data-link='CHM508'>CHM 508</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM509": {
+    "course_id": "CHM509",
+    "title": "CHM 509 Physical Chemistry Laboratory II",
+    "req": "<em>Prerequisite: <span data-link='CHM507'>CHM 507</span> or <span data-link='CHM607'>CHM 607</span> or concurrent enrollment; and <span data-link='CHM508'>CHM 508</span> or <span data-link='CHM608'>CHM 608</span>.</em>",
+    "desc": "Experiments in physical chemistry employing principles and techniques reflecting material presented in <span data-link='CHM507'>CHM 507</span>. May be taught concurrently with <span data-link='CHM609'>CHM 609</span>. Cannot receive credit for both <span data-link='CHM609'>CHM 609</span> and <span data-link='CHM509'>CHM 509</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM514": {
+    "course_id": "CHM514",
+    "title": "CHM 514 Polymer Chemistry",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM343'>CHM 343</span> or <span data-link='CHM344'>CHM 344</span>; and &quot;C-&quot; or better in <span data-link='CHM505'>CHM 505</span> or <span data-link='CHM605'>CHM 605</span> or <span data-link='CHM506'>CHM 506</span> or <span data-link='CHM606'>CHM 606</span>.</em>",
+    "desc": "Morphology and chemical structure, polymer characterization, chemical structure and polymer properties, vinyl and non-vinyl polymers and mechanism of formation. Inorganic and partially inorganic polymers. May be taught concurrently with <span data-link='CHM614'>CHM 614</span>. Cannot receive credit for both <span data-link='CHM614'>CHM 614</span> and <span data-link='CHM514'>CHM 514</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM542": {
+    "course_id": "CHM542",
+    "title": "CHM 542 Advanced Organic Chemistry",
+    "req": "<em>Prerequisite: &quot;C-&quot; grade or better in <span data-link='CHM343'>CHM 343</span> or <span data-link='CHM344'>CHM 344</span>.</em>",
+    "desc": "Structure, reaction mechanisms, stereochemistry and other topics of theoretical nature in organic and polymer chemistry. May be taught concurrently with <span data-link='CHM642'>CHM 642</span>. Cannot receive credit for both <span data-link='CHM542'>CHM 542</span> and <span data-link='CHM642'>CHM 642</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM552": {
+    "course_id": "CHM552",
+    "title": "CHM 552 Biochemistry II",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM452'>CHM 452</span>.</em>",
+    "desc": "Bioenergetics--Metabolism of biomolecules including carbohydrates, lipids, amino acids and nucleotides. Photosynthesis. Nitrogen metabolism. Mechanisms of hormone action. May be taught concurrently with <span data-link='CHM652'>CHM 652</span>. Cannot receive credit for both <span data-link='CHM552'>CHM 552</span> and <span data-link='CHM652'>CHM 652</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM553": {
+    "course_id": "CHM553",
+    "title": "CHM 553 Advanced Biochemistry Laboratory",
+    "req": "<em>Prerequisite: <span data-link='CHM453'>CHM 453</span>; and <span data-link='CHM552'>CHM 552</span> or concurrent enrollment.</em>",
+    "desc": "Emphasis on modern techniques in the biochemistry laboratory; enzymology, protein purification and analysis; protein structure determination; isoelectric focusing; HPLC; trace techniques. Supplemental course fee. May be taught concurrently with <span data-link='CHM653'>CHM 653</span>. Cannot receive credit for both <span data-link='CHM553'>CHM 553</span> and <span data-link='CHM653'>CHM 653</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHM575": {
+    "course_id": "CHM575",
+    "title": "CHM 575 Advanced Inorganic Chemistry",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM375'>CHM 375</span>.</em>",
+    "desc": "Theories and techniques of modern inorganic chemistry; correlation of theories with inorganic compounds. May be taught concurrently with <span data-link='CHM675'>CHM 675</span>. Cannot receive credit for both <span data-link='CHM575'>CHM 575</span> and <span data-link='CHM675'>CHM 675</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM597": {
+    "course_id": "CHM597",
+    "title": "CHM 597 Special Topics in Chemistry",
+    "req": "<em>Prerequisite: 18 hours of chemistry.</em>",
+    "desc": "Selected topics of a theoretical or applied nature. May be repeated up to a total of 6 hours with differing topics. May be taught concurrently with <span data-link='CHM697'>CHM 697</span>. Cannot receive credit for both <span data-link='CHM697'>CHM 697</span> and <span data-link='CHM597'>CHM 597</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHM602": {
+    "course_id": "CHM602",
+    "title": "CHM 602 Techniques of Instrumental Analysis",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in either [<span data-link='CHM201'>CHM 201</span> and 202] or <span data-link='CHM342'>CHM 342</span>; and &quot;C-&quot; or better in <span data-link='CHM302'>CHM 302</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='PHY124'>PHY 124</span> or <span data-link='PHY204'>PHY 204</span>. Applications of instrumental methods for the separation and analysis of materials; included are potentiometry, photometry and chromatography. Does not apply to a Chemistry major if the student passes <span data-link='CHM702'>CHM 702</span>. May be taught concurrently with <span data-link='CHM502'>CHM 502</span>. Cannot receive credit for both <span data-link='CHM502'>CHM 502</span> and <span data-link='CHM602'>CHM 602</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM605": {
+    "course_id": "CHM605",
+    "title": "CHM 605 Fundamentals of Physical Chemistry",
+    "req": "<em>Prerequisite: 20 hours of chemistry; and &quot;C-&quot; or better in either <span data-link='MTH287'>MTH 287</span> or <span data-link='MTH261'>MTH 261</span>.</em>",
+    "desc": "A one semester introduction to physical chemistry including the following topics: thermodynamics, solution chemistry, electrochemistry, kinetics, and atomic and molecular structure. Laboratory experiments will illustrate principles of physical chemistry and techniques of analysis. Does not apply to a Chemistry major if the student passes <span data-link='CHM606'>CHM 606</span>. May be taught concurrently with <span data-link='CHM505'>CHM 505</span>. Cannot receive credit for both <span data-link='CHM505'>CHM 505</span> and <span data-link='CHM605'>CHM 605</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM606": {
+    "course_id": "CHM606",
+    "title": "CHM 606 Physical Chemistry I",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM170'>CHM 170</span>; and <span data-link='MTH280'>MTH 280</span> or <span data-link='MTH288'>MTH 288</span> or concurrent enrollment in <span data-link='MTH280'>MTH 280</span> or <span data-link='MTH288'>MTH 288</span>.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='MTH302'>MTH 302</span>; and <span data-link='PHY124'>PHY 124</span> or <span data-link='PHY204'>PHY 204</span>. First semester of a two-semester series covering aspects of quantum mechanics, classical and statistical thermodynamics, spectroscopy, kinetic theory of gases, and chemical kinetics. A grade of &quot;C-&quot; or better is required in this course in order to take <span data-link='CHM607'>CHM 607</span>. May be taught concurrently with <span data-link='CHM506'>CHM 506</span>. Cannot receive credit for both <span data-link='CHM606'>CHM 606</span> and <span data-link='CHM506'>CHM 506</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM607": {
+    "course_id": "CHM607",
+    "title": "CHM 607 Physical Chemistry II",
+    "req": "<em>Prerequisite: &quot;C-&quot; grade or better in <span data-link='CHM506'>CHM 506</span> or 606.</em>",
+    "desc": "Recommended Prerequisite: <span data-link='CHM375'>CHM 375</span>. Second semester of a two-semester series that builds upon and completes the topics introduced in <span data-link='CHM606'>CHM 606</span>. May be taught concurrently with <span data-link='CHM507'>CHM 507</span>. Cannot receive credit for both <span data-link='CHM607'>CHM 607</span> and <span data-link='CHM507'>CHM 507</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM608": {
+    "course_id": "CHM608",
+    "title": "CHM 608 Physical Chemistry Laboratory I",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM302'>CHM 302</span>; and &quot;C-&quot; or better in <span data-link='CHM506'>CHM 506</span> or <span data-link='CHM606'>CHM 606</span> or concurrent enrollment in <span data-link='CHM506'>CHM 506</span> or <span data-link='CHM606'>CHM 606</span>.</em>",
+    "desc": "Experiments in physical chemistry employing principles and techniques reflecting material presented in <span data-link='CHM506'>CHM 506</span> or 606. May be taught concurrently with <span data-link='CHM508'>CHM 508</span>. Cannot receive credit for both <span data-link='CHM608'>CHM 608</span> and <span data-link='CHM508'>CHM 508</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM609": {
+    "course_id": "CHM609",
+    "title": "CHM 609 Physical Chemistry Laboratory II",
+    "req": "<em>Prerequisite: <span data-link='CHM507'>CHM 507</span> or <span data-link='CHM607'>CHM 607</span> or concurrent enrollment; and <span data-link='CHM508'>CHM 508</span> or <span data-link='CHM608'>CHM 608</span>.</em>",
+    "desc": "Experiments in physical chemistry employing principles and techniques reflecting material presented in <span data-link='CHM507'>CHM 507</span> or 607. May be taught concurrently with <span data-link='CHM509'>CHM 509</span>. Cannot receive credit for both <span data-link='CHM609'>CHM 609</span> and <span data-link='CHM509'>CHM 509</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM614": {
+    "course_id": "CHM614",
+    "title": "CHM 614 Polymer Chemistry",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM343'>CHM 343</span> or <span data-link='CHM344'>CHM 344</span>; and <span data-link='CHM505'>CHM 505</span> or <span data-link='CHM605'>CHM 605</span> or <span data-link='CHM506'>CHM 506</span> or <span data-link='CHM606'>CHM 606</span>.</em>",
+    "desc": "Morphology and chemical structure, polymer characterization, chemical structure and polymer properties, vinyl and non-vinyl polymers and mechanism of formation. Inorganic and partially inorganic polymers. May be taught concurrently with <span data-link='CHM514'>CHM 514</span>. Cannot receive credit for both <span data-link='CHM514'>CHM 514</span> and <span data-link='CHM614'>CHM 614</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM642": {
+    "course_id": "CHM642",
+    "title": "CHM 642 Advanced Organic Chemistry",
+    "req": "<em>Prerequisite: &quot;C-&quot; grade or better in <span data-link='CHM343'>CHM 343</span> or <span data-link='CHM344'>CHM 344</span>.</em>",
+    "desc": "Structure, reaction mechanisms, stereochemistry and other topics of theoretical nature in organic and polymer chemistry. May be taught concurrently with <span data-link='CHM542'>CHM 542</span>. Cannot receive credit for both <span data-link='CHM542'>CHM 542</span> and <span data-link='CHM642'>CHM 642</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM652": {
+    "course_id": "CHM652",
+    "title": "CHM 652 Biochemistry II",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM452'>CHM 452</span>.</em>",
+    "desc": "Bioenergetics--Metabolism of biomolecules including carbohydrates, lipids, amino acids and nucleotides. Photosynthesis. Nitrogen metabolism. Mechanisms of hormone action. May be taught concurrently with <span data-link='CHM552'>CHM 552</span>. Cannot receive credit for both <span data-link='CHM552'>CHM 552</span> and <span data-link='CHM652'>CHM 652</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM653": {
+    "course_id": "CHM653",
+    "title": "CHM 653 Advanced Biochemistry Laboratory",
+    "req": "<em>Prerequisite: <span data-link='CHM453'>CHM 453</span>; and <span data-link='CHM552'>CHM 552</span> or <span data-link='CHM652'>CHM 652</span> concurrent enrollment in <span data-link='CHM552'>CHM 552</span> or <span data-link='CHM652'>CHM 652</span>.</em>",
+    "desc": "Emphasis on modern techniques in the biochemistry laboratory; enzymology, protein purification and analysis; protein structure determination; isoelectric focusing; HPLC; trace techniques. Supplemental course fee. May be taught concurrently with <span data-link='CHM553'>CHM 553</span>. Cannot receive credit for both <span data-link='CHM553'>CHM 553</span> and <span data-link='CHM653'>CHM 653</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHM675": {
+    "course_id": "CHM675",
+    "title": "CHM 675 Advanced Inorganic Chemistry",
+    "req": "<em>Prerequisite: &quot;C-&quot; or better in <span data-link='CHM375'>CHM 375</span>.</em>",
+    "desc": "Theories and techniques of modern inorganic chemistry; correlation of theories with inorganic compounds. May be taught concurrently with <span data-link='CHM575'>CHM 575</span>. Cannot receive credit for both <span data-link='CHM575'>CHM 575</span> and <span data-link='CHM675'>CHM 675</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM697": {
+    "course_id": "CHM697",
+    "title": "CHM 697 Special Topics in Chemistry",
+    "req": "<em>Prerequisite: 18 hours of chemistry.</em>",
+    "desc": "Selected topics of a theoretical or applied nature. May be repeated up to a total of 6 hours with differing topics. May be taught concurrently with <span data-link='CHM597'>CHM 597</span>. Cannot receive credit for both <span data-link='CHM597'>CHM 597</span> and <span data-link='CHM697'>CHM 697</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHM700": {
+    "course_id": "CHM700",
+    "title": "CHM 700 Chemistry Colloquium",
+    "desc": "A series of oral presentations on new developments in chemistry. Presentations to be made by faculty members, students, and guest speakers from industry and academe. One of the requirements of this course is an oral presentation. May be repeated, but not more than 2 hours may be counted toward the 32-hour requirement for the MS in Chemistry degree. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM701": {
+    "course_id": "CHM701",
+    "title": "CHM 701 Chemistry Seminar",
+    "desc": "Attendance at oral presentations on new developments in chemistry. Presentations may include those made by departmental faculty members, departmental graduate students, guest speakers from industry and academe and ACS tour speakers. All graduate students not enrolled in <span data-link='CHM700'>CHM 700</span> must be enrolled in <span data-link='CHM701'>CHM 701</span>. Hours earned will not count toward the 32-hour requirement for the MS in Chemistry degree. Graded Pass/Not Pass only. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM702": {
+    "course_id": "CHM702",
+    "title": "CHM 702 Advanced Topics in Analytical Chemistry",
+    "req": "<em>Prerequisite: <span data-link='CHM602'>CHM 602</span>.</em>",
+    "desc": "An advanced topic in analytical chemistry will be addressed via faculty lectures and student projects. Examples of proposed topics include: electroanalytical methods, nanotechnology, forensic chemistry and data acquisition methods. Variable content course. May be repeated to a total of 6 hours with differing topics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHM710": {
+    "course_id": "CHM710",
+    "title": "CHM 710 Special Topics in Chemical Education",
+    "req": "<em>Prerequisite: coursework sufficient to meet Missouri certification standards in chemistry for secondary teaching or permission.</em>",
+    "desc": "A single topic of current interest in the teaching of chemistry will be considered. May be repeated to a total of 9 hours provided the topics are different. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHM720": {
+    "course_id": "CHM720",
+    "title": "CHM 720 Topics in Theoretical Chemistry",
+    "req": "<em>Prerequisite: coursework sufficient to meet Missouri certification standards in chemistry for secondary teaching or permission.</em>",
+    "desc": "Nature of matter including atomic structure, chemical bonding and spectroscopy. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHM735": {
+    "course_id": "CHM735",
+    "title": "CHM 735 Investigation in Chemistry for Teachers",
+    "req": "<em>Prerequisite: coursework sufficient to meet Missouri certification standards for secondary/middle school science teaching.</em>",
+    "desc": "Techniques in performing science investigation with application to secondary and middle school science. May be taught concurrently with <span data-link='CHM435'>CHM 435</span>. Cannot receive credit for both <span data-link='CHM435'>CHM 435</span> and <span data-link='CHM735'>CHM 735</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM740": {
+    "course_id": "CHM740",
+    "title": "CHM 740 Seminar",
+    "desc": "Extensive paper on selected topics to be read before staff seminars. May be repeated to total 4 hours. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHM742": {
+    "course_id": "CHM742",
+    "title": "CHM 742 Physical Organic Chemistry",
+    "req": "<em>Prerequisite: <span data-link='CHM642'>CHM 642</span>.</em>",
+    "desc": "An in-depth study of the experimental techniques and physical principles used for the determination of organic reaction mechanisms. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHM752": {
+    "course_id": "CHM752",
+    "title": "CHM 752 Advanced Topics in Biochemistry",
+    "req": "<em>Prerequisite: <span data-link='CHM652'>CHM 652</span>.</em>",
+    "desc": "An advanced topic in biochemistry will be addressed via faculty lectures and student projects. Examples of proposed topics include: carbohydrates, the cell surface, and physical biochemistry. Variable content course. May be repeated to a total of 6 hours with differing topics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM760": {
+    "course_id": "CHM760",
+    "title": "CHM 760 Chemistry of Environmental Systems: Water and Land",
+    "desc": "Recommended Prerequisite: some advanced coursework in chemistry, geosciences, biology, or related fields. Chemistry of water and soil, water treatment, agricultural chemistry, and related topics. May be taught concurrently with <span data-link='CHM460'>CHM 460</span>. Cannot receive credit for both <span data-link='CHM460'>CHM 460</span> and <span data-link='CHM760'>CHM 760</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM761": {
+    "course_id": "CHM761",
+    "title": "CHM 761 Chemistry of Environmental Systems: Air and Energy",
+    "desc": "Recommended Prerequisite: some advanced coursework in chemistry, geosciences, biology, or related fields. Atmospheric chemistry; pollution issues related to power production and transportation; energy sources and fuels. May be taught concurrently with <span data-link='CHM461'>CHM 461</span>. Cannot receive credit for both <span data-link='CHM761'>CHM 761</span> and <span data-link='CHM461'>CHM 461</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM762": {
+    "course_id": "CHM762",
+    "title": "CHM 762 Chemistry of Environmental Systems Laboratory",
+    "req": "<em>Prerequisite: <span data-link='CHM760'>CHM 760</span> or concurrent enrollment.</em>",
+    "desc": "Techniques and procedures for environmental monitoring to test natural samples. Applications and limitations of wet chemical and instrumental methods such as atomic absorption, gas chromatography, and absorption spectrophotometry. May be taught concurrently with <span data-link='CHM462'>CHM 462</span>. Cannot receive credit for both <span data-link='CHM462'>CHM 462</span> and <span data-link='CHM762'>CHM 762</span>. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "CHM770": {
+    "course_id": "CHM770",
+    "title": "CHM 770 Chemical Kinetics",
+    "req": "<em>Prerequisite: <span data-link='CHM606'>CHM 606</span>.</em>",
+    "desc": "Fundamental concepts of chemical kinetics and dynamics, from both macroscopic and molecular level perspectives. An emphasis will be placed on the interpretation of gas, liquid, surface and catalyst reaction kinetics and mechanisms. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM771": {
+    "course_id": "CHM771",
+    "title": "CHM 771 Chemical Bonding",
+    "req": "<em>Prerequisite: <span data-link='CHM607'>CHM 607</span>.</em>",
+    "desc": "Quantum mechanics; atomic and molecular structure; computational procedures. Independent study project required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM775": {
+    "course_id": "CHM775",
+    "title": "CHM 775 Organometallic Chemistry",
+    "req": "<em>Prerequisite: <span data-link='CHM675'>CHM 675</span>.</em>",
+    "desc": "An in-depth examination of the structure, properties, and reactions of molecules containing one or more metal atoms bonded to organic fragments. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "CHM790": {
+    "course_id": "CHM790",
+    "title": "CHM 790 Advanced Topics in Chemistry",
+    "desc": "Detailed treatment of various advanced topics in chemistry. Topics may include: water analysis, physical chemistry of macromolecules, chemistry of natural products, surface chemistry, and forensic chemistry. Variable content course. May be repeated to a total of 6 hours with differing topics. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "CHM796": {
+    "course_id": "CHM796",
+    "title": "CHM 796 Science Internship",
+    "desc": "Completion of an internship project (80 hours/credit hour) at a discipline-related business, nonprofit organization, or government agency, approved and supervised by both the departmental and internship advisors. Includes a formal report in the appropriate professional format, and an oral presentation at an approved venue. Graded Pass/Not Pass only. No more than 6 hours may count toward a masters degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "CHM798": {
+    "course_id": "CHM798",
+    "title": "CHM 798 Research",
+    "desc": "Supervised research in special chemistry areas. May be repeated, but not more than 6 hours of <span data-link='CHM798'>CHM 798</span> may be counted toward the 32-hour requirement for the MS degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "CHM799": {
+    "course_id": "CHM799",
+    "title": "CHM 799 Thesis",
+    "desc": "Independent research and study connected with preparation of thesis. Not more than 6 hours of <span data-link='CHM799'>CHM 799</span> may be counted toward the 32-hour requirement for the MS degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

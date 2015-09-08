@@ -1,0 +1,1013 @@
+{
+  "BUS135": {
+    "course_id": "BUS135",
+    "title": "BUS 135 Introduction to Business",
+    "desc": "A survey of business which includes an evaluation of the social and economic environment in which it operates, followed by a look at business organization, management, finance, accounting, production, marketing, insurance, law, and data processing. Designed to serve three groups of students--those majoring in other departments who would like to develop a broad understanding of business through a single course; those who are undecided about a major and would like to explore business as a possibility; and those freshmen planning a major in some area of business who would like a broad understanding of business in order to make a specific selection of their major. A declared major in the College of Business who has accumulated more than 30 semester hours of credit at the time of enrollment in the course will not receive credit for the course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BUS200": {
+    "course_id": "BUS200",
+    "title": "BUS 200 Topics in Business",
+    "desc": "A variable content course with topics that can change from semester to semester. Topics are identified by title in the class schedule. Examples are: Personal Budgeting, Residential Home Construction, Insurance for the Family, Personal Credit Management, and Business Ethics. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BUS303": {
+    "course_id": "BUS303",
+    "title": "BUS 303 History of Business",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "History of business; contributions of individuals and companies in evolution of modern business principles and practices. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BUS305": {
+    "course_id": "BUS305",
+    "title": "BUS 305 Service Learning in Business",
+    "req": "<em>Prerequisite: 30 hours and concurrent registration in a Finance and General Business department course designated as a service learning offering; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This service component for an existing course incorporates community service with classroom instruction in business to provide an integrative learning experience that addresses the practice of citizenship and promotes an awareness of and participation in public affairs. Includes 40 hours of service that benefits an external community organization, agency, or public service provider. Approved service placements and assignments will vary depending on the course topic and learning objectives; a list of approved placements and assignments is available from the instructor and the Citizenship and Service Learning Office. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BUS307": {
+    "course_id": "BUS307",
+    "title": "BUS 307 Business in the Community",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Study and application of business within the community. Topics include: planning and management of organizations from the viewpoint of education, community, and business; development of new business; organizational structure; interpersonal skills; funding and allocation resources of private, public and non-profit organizations. Allows for direct contact with local community leaders in education and business as well as opportunity to develop individual skills. Group dynamics and individual initiative are emphasized. May be available with <span data-link='BUS305'>BUS 305</span> Service Learning option and be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BUS394": {
+    "course_id": "BUS394",
+    "title": "BUS 394 Cooperative Education in Business",
+    "req": "<em>Prerequisite: acceptance into Cooperative Education Program and permission of department head; undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "The opportunity to earn academic credit in a planned learning process that integrates academic training with a supervised work experience. This is a variable content course that may be repeated to a total of 6 hours in Cooperative Education. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BUS397": {
+    "course_id": "BUS397",
+    "title": "BUS 397 Topics in Business",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A variable content course with topics that can change from semester to semester. Topics are identified by title in the schedule of classes. Examples include: Employment Discrimination Law, Tax Planning for Real Estate Investments, and special courses in Insurance. May be repeated to a total of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BUS494": {
+    "course_id": "BUS494",
+    "title": "BUS 494 Internship",
+    "req": "<em>Prerequisite: 80 hours; academic preparation in the field of internship; permission of department head; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A variable content course. Internships to be identified by title in the schedule of classes include Finance, Financial Planning, General Business, Insurance, and Real Estate. Opportunity to obtain practical understanding through work experience with a cooperating business or financial institution, financial planning firm, insurance company or real estate firm. Employment and outline of study must be company approved prior to enrollment. May be repeated to a total of 3 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BUS510": {
+    "course_id": "BUS510",
+    "title": "BUS 510 E-Business and Online Entrepreneurship",
+    "req": "<em>Prerequisite: 54 hours; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A study of e-business and online entrepreneurship from an applied, best practices point of view. Classroom visits by online entrepreneurs provide unique, real-world insights into the advantages, disadvantages, and challenges of doing business over the Internet. May be taught concurrently with <span data-link='BUS610'>BUS 610</span>. Cannot receive credit for both <span data-link='BUS510'>BUS 510</span> and <span data-link='BUS610'>BUS 610</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BUS550": {
+    "course_id": "BUS550",
+    "title": "BUS 550 Negotiation, Mediation, and Arbitration in Business",
+    "req": "<em>Prerequisite: 60 hours; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A practical, skills-based study of negotiation, mediation, and arbitration from the business manager&apos;s perspective. This hands-on course is designed to develop the skills necessary to enable the business manager to effectively participate in negotiation, mediation, and arbitration as alternatives to litigation for resolving business disputes. Identical with <span data-link='LAW550'>LAW 550</span>. May be taught concurrently with <span data-link='BUS650'>BUS 650</span>. Cannot receive credit for more than one of <span data-link='BUS550'>BUS 550</span>, <span data-link='BUS650'>BUS 650</span>, <span data-link='LAW550'>LAW 550</span>, or <span data-link='LAW650'>LAW 650</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "BUS610": {
+    "course_id": "BUS610",
+    "title": "BUS 610 E-Business and Online Entrepreneurship",
+    "desc": "A study of e-business and online entrepreneurship from an applied, best practices point of view. Classroom visits by online entrepreneurs provide unique, real-world insights into the advantages, disadvantages, and challenges of doing business over the Internet. May be taught concurrently with <span data-link='BUS510'>BUS 510</span>. Cannot receive credit for both <span data-link='BUS610'>BUS 610</span> and <span data-link='BUS510'>BUS 510</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "BUS650": {
+    "course_id": "BUS650",
+    "title": "BUS 650 Negotiation, Mediation, and Arbitration in Business",
+    "desc": "A practical, skills-based study of negotiation, mediation, and arbitration from the business manager&apos;s perspective. This hands-on course is designed to develop the skills necessary to enable the business manager to effectively participate in negotiation, mediation, and arbitration as alternatives to litigation for resolving business disputes. Identical with <span data-link='LAW650'>LAW 650</span>. May be taught concurrently with <span data-link='BUS550'>BUS 550</span>. Cannot receive credit for more than one of <span data-link='BUS550'>BUS 550</span>, <span data-link='BUS650'>BUS 650</span>, <span data-link='LAW550'>LAW 550</span>, or <span data-link='LAW650'>LAW 650</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN150": {
+    "course_id": "FIN150",
+    "title": "FIN 150 Personal Finance",
+    "desc": "A study of personal finance topics from the consumer and societal perspectives. Topics include the preparation and interpretation of personal financial statements and budgets, the time value of money, personal saving, financial market and investment fundamentals, the effective use of consumer credit, personal bankruptcy, insurance principles, automotive and housing decisions, principles of personal taxation, and retirement planning. This course will provide students with the concepts and critical thinking skills to understand the effects of financial decisions on individuals, families, and society. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN266": {
+    "course_id": "FIN266",
+    "title": "FIN 266 Principles of Real Estate",
+    "req": "<em>Prerequisite: 24 hours.</em>",
+    "desc": "An introduction to the study of real estate. Topics covered include legal aspects of real property, real estate financing, appraisal, brokerage, land-use control, property management, and investing in real estate. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN310": {
+    "course_id": "FIN310",
+    "title": "FIN 310 Fundraising Principles and Practices for Nonprofit Agencies",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Comprehensive study of various funding sources for not-for-profit organizations. Explores relationships with umbrella organizations, techniques of fundraising, government funding, grantsmanship, budget control and accountability. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FIN350": {
+    "course_id": "FIN350",
+    "title": "FIN 350 Entrepreneurial Finance",
+    "req": "<em>Prerequisite: <span data-link='ACC201'>ACC 201</span>.</em>",
+    "desc": "This course introduces the non-business major to the finance function within the small business. Topics include financial statement analysis, financial planning and forecasting, asset valuation, the time value of money, capital budgeting, cost of capital, working capital, break-even, leverage, business plans, and venture capital. Course cannot be used to satisfy any requirement for a College of Business major. Cannot receive credit for both <span data-link='FIN350'>FIN 350</span> and <span data-link='FIN380'>FIN 380</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FIN367": {
+    "course_id": "FIN367",
+    "title": "FIN 367 Principles of Real Estate Appraisal",
+    "req": "<em>Prerequisite: <span data-link='FIN266'>FIN 266</span>; undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An introduction to the study of real estate appraisal. Topics covered include data collection and analysis, neighborhood and regional analysis, land and building function and description, highest and best use analysis, land valuation and improved property valuation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FIN368": {
+    "course_id": "FIN368",
+    "title": "FIN 368 Real Estate Law",
+    "req": "<em>Prerequisite: <span data-link='FIN266'>FIN 266</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Rights and interests in land; evidence of title; co-ownership; contracts for sale of land; deeds; wills and descent; mortgages; liens; landlord and tenant; restrictions; zoning; brokers. Identical with <span data-link='LAW368'>LAW 368</span>. May no receive credit for both <span data-link='FIN368'>FIN 368</span> and <span data-link='LAW368'>LAW 368</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FIN369": {
+    "course_id": "FIN369",
+    "title": "FIN 369 Real Estate Development",
+    "req": "<em>Prerequisite: <span data-link='FIN266'>FIN 266</span>; undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This course introduces the development process through its four major phases: concept, land acquisition, construction, and sales. Topics covered include project selection, debt and equity funding (obtainable from individual, institutional, and governmental sources), regulatory approval, environmental impact, and marketing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FIN380": {
+    "course_id": "FIN380",
+    "title": "FIN 380 Financial Management",
+    "req": "<em>Prerequisite: 54 hours including <span data-link='ACC201'>ACC 201</span> and <span data-link='ACC211'>ACC 211</span> and <span data-link='ECO155'>ECO 155</span> and <span data-link='ECO165'>ECO 165</span>; and <span data-link='QBA237'>QBA 237</span> or equivalent; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An introduction to topics in corporate financial management, including financial markets, time value of money, asset valuation, risk and return, financial analysis and forecasting, capital budgeting, sources, and costs of capital. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN381": {
+    "course_id": "FIN381",
+    "title": "FIN 381 Personal Financial Planning",
+    "req": "<em>Prerequisite: 54 hours; undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A course designed to introduce students to most of the major personal financial planning problems that individuals and families encounter. Emphasis is placed on the financial planner&apos;s activities to assist individuals and families in creating personal financial statements and household budgets, developing effective money management practices, and addressing taxation, housing, credit, insurance, investment, estate planning and other important finance issues. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN384": {
+    "course_id": "FIN384",
+    "title": "FIN 384 Financial Markets and Intermediaries",
+    "req": "<em>Prerequisite: <span data-link='ACC201'>ACC 201</span> and <span data-link='ACC211'>ACC 211</span> and <span data-link='ECO155'>ECO 155</span> and <span data-link='ECO165'>ECO 165</span>; undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An overview of the organization and operation of major financial markets including money, bond, mortgage, equity, derivative, and international markets, and financial intermediaries including lenders, insurance companies, pension funds, investment banks, investment companies, and real estate investment trusts. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN390": {
+    "course_id": "FIN390",
+    "title": "FIN 390 Intermediate Financial Management",
+    "req": "<em>Prerequisite: grade of B- or better in <span data-link='FIN380'>FIN 380</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An in-depth study of corporate financial management concepts, including risk and return, valuation, financial analysis and forecasting, capital budgeting, cost of capital, capital structure, working capital, leasing, and global finance. The course utilizes electronic spreadsheets as a tool to enhance the quality of financial decisions. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN480": {
+    "course_id": "FIN480",
+    "title": "FIN 480 Financial Decision Making",
+    "req": "<em>Prerequisite: <span data-link='FIN390'>FIN 390</span>; undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Application of the concepts and techniques of finance to solve financial management problems faced by contemporary companies. The course emphasizes the development of financial decision-making skills through in-depth case analysis. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN485": {
+    "course_id": "FIN485",
+    "title": "FIN 485 Investments I",
+    "req": "<em>Prerequisite: grade of B- or better in <span data-link='FIN380'>FIN 380</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A survey of investment principles, investment environments, security valuation, and financial markets. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN487": {
+    "course_id": "FIN487",
+    "title": "FIN 487 Investments II",
+    "req": "<em>Prerequisite: <span data-link='FIN485'>FIN 485</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An extension of Investments I, including an in-depth study of security analysis, investment strategy, portfolio theory, risk analysis, and management. Hedging and speculating with domestic and international securities will also be explored. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN496": {
+    "course_id": "FIN496",
+    "title": "FIN 496 Readings in Finance",
+    "req": "<em>Prerequisite: permission of department head; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Planned readings designed to intensify and supplement the area of finance. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FIN538": {
+    "course_id": "FIN538",
+    "title": "FIN 538 Introduction to Estate Planning",
+    "req": "<em>Prerequisite: 80 hours; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Estate planning process; fundamentals of intestate distribution, wills, trusts, gifts, life insurance; taxes incidental to an estate; administration of estates and trusts; analysis and selection of devices for lifetime and testamentary transfers of property. Identical with <span data-link='INS538'>INS 538</span>. May be taught concurrently with <span data-link='FIN638'>FIN 638</span>. Cannot receive credit for more than one of <span data-link='FIN538'>FIN 538</span>, <span data-link='FIN638'>FIN 638</span>, <span data-link='INS538'>INS 538</span>, or <span data-link='INS638'>INS 638</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FIN581": {
+    "course_id": "FIN581",
+    "title": "FIN 581 Professional Financial Planning",
+    "req": "<em>Prerequisite: <span data-link='ACC321'>ACC 321</span> and <span data-link='FIN381'>FIN 381</span> and <span data-link='FIN485'>FIN 485</span> and <span data-link='INS211'>INS 211</span> and <span data-link='LAW231'>LAW 231</span>; and <span data-link='INS314'>INS 314</span> or concurrent enrollment; and FIN/<span data-link='INS538'>INS 538</span> or <span data-link='ACC524'>ACC 524</span> or concurrent enrollment; and undergraduate students must be admitted to degree program.</em>",
+    "desc": "A case-oriented study of comprehensive financial planning for client families. This course integrates prior knowledge of financial planning principles and practice, investments, insurance, law, tax planning, retirement planning, and estate planning. Advanced topics in these subjects are also presented. The financial planning process, standards of professional practice, and planner ethics are emphasized. May be taught concurrently with <span data-link='FIN681'>FIN 681</span>. Cannot receive credit for both <span data-link='FIN581'>FIN 581</span> and <span data-link='FIN681'>FIN 681</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FIN582": {
+    "course_id": "FIN582",
+    "title": "FIN 582 International Financial Management",
+    "req": "<em>Prerequisite: grade of B- or better in <span data-link='FIN380'>FIN 380</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "This course is designed to survey how the key concepts of business finance can be applied in the context of a multinational firm. Topics include: the nature and functioning of the foreign exchange market, parity conditions, foreign exchange risk management, and international investment and financing decisions. May be taught concurrently with <span data-link='FIN682'>FIN 682</span>. Cannot receive credit for both <span data-link='FIN582'>FIN 582</span> and <span data-link='FIN682'>FIN 682</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN586": {
+    "course_id": "FIN586",
+    "title": "FIN 586 International Financial Statement Analysis",
+    "req": "<em>Prerequisite: grade of B- or better in <span data-link='FIN380'>FIN 380</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "An introduction to the study of international financial statement analysis emphasizing the financial statement analysis portion of the common body of knowledge from the Chartered Financial Analyst (CFA) program. May be taught concurrently with <span data-link='FIN686'>FIN 686</span>. Cannot receive credit for both <span data-link='FIN586'>FIN 586</span> and <span data-link='FIN686'>FIN 686</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN589": {
+    "course_id": "FIN589",
+    "title": "FIN 589 Management of Financial Institutions",
+    "req": "<em>Prerequisite: grade of B- or better in <span data-link='FIN380'>FIN 380</span>; and either <span data-link='FIN384'>FIN 384</span> or <span data-link='ECO305'>ECO 305</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A study of the theory and practice of managing depository and non-depository financial institutions. The principal focus is asset and liability management, especially with respect to the risks associated with establishing the ideal balance between the two. Such risks include interest rate, liquidity, credit, foreign exchange and capital risk. The use of money and credit markets, as well as derivative securities to minimize risk as well as to achieve strategic financial objectives is stressed. Management implications of current developments in the interaction between financial institutions and markets are discussed. May be taught concurrently with <span data-link='FIN689'>FIN 689</span>. Cannot receive credit for both <span data-link='FIN589'>FIN 589</span> and <span data-link='FIN689'>FIN 689</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN595": {
+    "course_id": "FIN595",
+    "title": "FIN 595 Financial Markets Study Tour",
+    "req": "<em>Prerequisite: <span data-link='FIN384'>FIN 384</span> and <span data-link='FIN485'>FIN 485</span>; a combined (Missouri State and transfer) GPA of 3.40 or higher; recommendation of a finance faculty member; permission of department head; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "The course consists of three parts; 1. Background research and discussion of selected companies and institutions of one or more major financial center(s) (e.g. New York, Chicago, and/or London) and the economic, political, international, historical, social, ethical, and cultural environment in which they function. 2. A visit of approximately seven days&apos; duration to the financial center(s) to visit selected companies, financial markets, and cultural icons. 3. A final written project and group discussion of the experience. The course involves extensive research, written and oral reporting, and group interaction based upon trust, respect and integrity. May be taught concurrently with <span data-link='FIN695'>FIN 695</span>. Cannot receive credit for both <span data-link='FIN595'>FIN 595</span> and <span data-link='FIN695'>FIN 695</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FIN596": {
+    "course_id": "FIN596",
+    "title": "FIN 596 Research Issues and Problems: Finance",
+    "req": "<em>Prerequisite: 60 hours; and permission of department head; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Research issues and problems growing from special areas of a student&apos;s interest which may require additional depth or breadth of study. Student&apos;s proposal and outline of study must be approved prior to enrolling. May be taught concurrently with <span data-link='FIN697'>FIN 697</span>. Cannot receive credit for more than 6 hours of <span data-link='FIN596'>FIN 596</span> and <span data-link='FIN697'>FIN 697</span> combined. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FIN599": {
+    "course_id": "FIN599",
+    "title": "FIN 599 Directed Study for CFA Level I Exam",
+    "req": "<em>Prerequisite: permission of instructor; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "The professor and student will devise a study plan, based upon the CFA Institute&apos;s Common Body of Knowledge, that will best-prepare the student to pass the CFA Level I Exam in June of the current year. May be taught concurrently with <span data-link='FIN699'>FIN 699</span>. Cannot receive credit for both <span data-link='FIN599'>FIN 599</span> and <span data-link='FIN699'>FIN 699</span>. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FIN600": {
+    "course_id": "FIN600",
+    "title": "FIN 600 Managerial Finance",
+    "req": "<em>Prerequisite: <span data-link='ACC600'>ACC 600</span> and <span data-link='ECO600'>ECO 600</span>; and permission of a director of a College of Business Graduate Program.</em>",
+    "desc": "Comprehensive study of the finance function in the business enterprise, including financial analysis-planning-forecasting, capital budgeting, leasing, working capital management, capital structure, dividend policy, and multinational finance. Designed for graduate students who have not had an undergraduate course in financial management in the last five years. This course will not be counted in the hours required for a College of Business undergraduate or graduate degree. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN638": {
+    "course_id": "FIN638",
+    "title": "FIN 638 Introduction to Estate Planning",
+    "req": "<em>Prerequisite: <span data-link='LAW231'>LAW 231</span> or <span data-link='LAW600'>LAW 600</span>.</em>",
+    "desc": "Estate planning process; fundamentals of intestate distribution, wills, trusts, gifts, life insurance; taxes incidental to an estate; administration of estates and trusts; analysis and selection of devices for lifetime and testamentary transfers of property. Identical with <span data-link='INS638'>INS 638</span>. May be taught concurrently with <span data-link='FIN538'>FIN 538</span>. Cannot receive credit for more than one of <span data-link='FIN538'>FIN 538</span>, <span data-link='FIN638'>FIN 638</span>, <span data-link='INS538'>INS 538</span>, or <span data-link='INS638'>INS 638</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FIN681": {
+    "course_id": "FIN681",
+    "title": "FIN 681 Professional Financial Planning",
+    "req": "<em>Prerequisite: <span data-link='ACC321'>ACC 321</span> and <span data-link='FIN381'>FIN 381</span> and <span data-link='FIN485'>FIN 485</span> and <span data-link='INS211'>INS 211</span> and <span data-link='LAW231'>LAW 231</span>; and <span data-link='INS314'>INS 314</span> or concurrent enrollment; and FIN/<span data-link='INS538'>INS 538</span>/638 or <span data-link='ACC524'>ACC 524</span>/624 or concurrent enrollment.</em>",
+    "desc": "A case-oriented study of comprehensive financial planning for client families. This course integrates prior knowledge of financial planning principles and practice, investments, insurance, law, tax planning, retirement planning, and estate planning. Advanced topics in these subjects are also presented. The financial planning process, standards of professional practice, and planner ethics are emphasized. May be taught concurrently with <span data-link='FIN581'>FIN 581</span>. Cannot receive credit for both <span data-link='FIN681'>FIN 681</span> and <span data-link='FIN581'>FIN 581</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FIN682": {
+    "course_id": "FIN682",
+    "title": "FIN 682 International Financial Management",
+    "req": "<em>Prerequisite: admission to the MBA program, or admission to a graduate certificate program within the Finance and General Business Department, or permission from the MBA Program Director, or a director of a graduate program within the College of Business; and grade of B- or better in <span data-link='FIN380'>FIN 380</span> or <span data-link='FIN600'>FIN 600</span>.</em>",
+    "desc": "This course is designed to survey how the key concepts of business finance can be applied in the context of a multinational firm. Topics include: the nature and functioning of the foreign exchange market, parity conditions, foreign exchange risk management, and international investment and financing decisions. May be taught concurrently with <span data-link='FIN582'>FIN 582</span>. Cannot receive credit for both <span data-link='FIN682'>FIN 682</span> and <span data-link='FIN582'>FIN 582</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN686": {
+    "course_id": "FIN686",
+    "title": "FIN 686 International Financial Statement Analysis",
+    "req": "<em>Prerequisite: admission to the MBA program, or admission to a graduate certificate program within the Finance and General Business Department, or permission from the MBA Program Director, or a director of a graduate program within the College of Business; and a grade of B- or better in <span data-link='FIN380'>FIN 380</span> or <span data-link='FIN600'>FIN 600</span>.</em>",
+    "desc": "An introduction to the study of international financial statement analysis emphasizing the financial statement analysis portion of the common body of knowledge from the Chartered Financial Analyst (CFA) program. May be taught concurrently with <span data-link='FIN586'>FIN 586</span>. Cannot receive credit for both <span data-link='FIN686'>FIN 686</span> and <span data-link='FIN586'>FIN 586</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN689": {
+    "course_id": "FIN689",
+    "title": "FIN 689 Management of Financial Institutions",
+    "req": "<em>Prerequisite: grade of B- or better in <span data-link='FIN380'>FIN 380</span>; and either <span data-link='FIN384'>FIN 384</span> or <span data-link='ECO305'>ECO 305</span>.</em>",
+    "desc": "A study of the theory and practice of managing depository and non-depository financial institutions. The principal focus is asset and liability management, especially with respect to the risks associated with establishing the ideal balance between the two. Such risks include interest rate, liquidity, credit, foreign exchange and capital risk. The use of money and credit markets, as well as derivative securities to minimize risk as well as to achieve strategic financial objectives is stressed. Management implications of current developments in the interaction between financial institutions and markets are discussed. May be taught concurrently with <span data-link='FIN589'>FIN 589</span>. Cannot receive credit for both <span data-link='FIN589'>FIN 589</span> and <span data-link='FIN689'>FIN 689</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN695": {
+    "course_id": "FIN695",
+    "title": "FIN 695 Financial Markets Study Tour",
+    "req": "<em>Prerequisite: a graduate GPA (Missouri State and transfer) of 3.50 or higher; recommendation of a finance faculty member; permission of department head.</em>",
+    "desc": "The course consists of three parts; 1. Background research and discussion of selected companies and institutions of one or more major financial center(s) (e.g. New York, Chicago, and/or London) and the economic, political, international, historical, social, ethical, and cultural environment in which they function. 2. A visit of approximately seven days&apos; duration to the financial center(s) to visit selected companies, financial markets, and cultural icons. 3. A final written project and group discussion of the experience. The course involves extensive research, written and oral reporting, and group interaction based upon trust, respect and integrity. May be taught concurrently with <span data-link='FIN595'>FIN 595</span>. Cannot receive credit for both <span data-link='FIN695'>FIN 695</span> and <span data-link='FIN595'>FIN 595</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FIN697": {
+    "course_id": "FIN697",
+    "title": "FIN 697 Research Issues and Problems: Finance",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Research issues and problems growing from special areas of a student&apos;s interest which may require additional depth or breadth of study. Student&apos;s proposal and outline of study must be approved prior to enrolling. May be repeated to a total of 6 hours. May be taught concurrently with <span data-link='FIN596'>FIN 596</span>. Cannot receive credit for more than 6 hours of <span data-link='FIN596'>FIN 596</span> and <span data-link='FIN697'>FIN 697</span> combined. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FIN699": {
+    "course_id": "FIN699",
+    "title": "FIN 699 Directed Study for CFA Level I Exam",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "The professor and student will devise a study plan, based upon the CFA Institute&apos;s Common Body of Knowledge, that will best-prepare the student to pass the CFA Level I Exam in June of the current year. May be taught concurrently with <span data-link='FIN599'>FIN 599</span>. Cannot receive credit for both <span data-link='FIN699'>FIN 699</span> and <span data-link='FIN599'>FIN 599</span>. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FIN780": {
+    "course_id": "FIN780",
+    "title": "FIN 780 Advanced Financial Management",
+    "req": "<em>Prerequisite: admission to the MBA program, or admission to a graduate certificate program within the Finance and General Business Department, or permission from the MBA Program Director, or a director of a graduate program within the College of Business; and <span data-link='ACC711'>ACC 711</span>; and a grade of B- or better in <span data-link='FIN600'>FIN 600</span>.</em>",
+    "desc": "An advanced study of the theory and practice of corporate financial management, including financial analysis and forecasting, working capital, capital budgeting, cost of capital, capital structure, mergers and acquisitions, and valuation. The course utilizes cases to emphasize both theory and technology in supporting sound financial decision-making. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN785": {
+    "course_id": "FIN785",
+    "title": "FIN 785 Investment Management",
+    "req": "<em>Prerequisite: <span data-link='FIN780'>FIN 780</span>.</em>",
+    "desc": "A study of investment theory and practice. Topics include portfolio theory, equilibrium in capital markets, equity and fixed income security analysis, derivatives (options, futures, swaps), portfolio management and strategies. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FIN787": {
+    "course_id": "FIN787",
+    "title": "FIN 787 Seminar in Derivatives",
+    "req": "<em>Prerequisite: <span data-link='FIN780'>FIN 780</span>.</em>",
+    "desc": "A study of the fundamentals, pricing, and trading strategies of options, forwards, futures and swaps. Emphasis is placed on the modeling tools most widely used for calculating their prices and related hedging parameters. The course includes an exploration of current/relevant literature concerning market mechanics, participants, and government regulation. Each student will participate in the preparation of a significant team project and presentation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "FIN788": {
+    "course_id": "FIN788",
+    "title": "FIN 788 Healthcare Financial Management",
+    "desc": "An introduction to fundamental financial management concepts and skills necessary for managers at a variety of levels in healthcare organizations. The course provides an overview of financial management and how the finance function is organized in healthcare organizations. Topics covered include: tax status, third-party payers, payment methodologies, Medicare and Medicaid, cost accounting and analysis, rate setting, working capital, accounts receivable, budgeting, and financial analysis. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "FIN790": {
+    "course_id": "FIN790",
+    "title": "FIN 790 Seminar in Finance",
+    "req": "<em>Prerequisite: 15 graduate hours in business administration and economics including <span data-link='FIN780'>FIN 780</span> and permission of the coordinator of graduate studies.</em>",
+    "desc": "Critical evaluation and interpretation of research and literature in finance. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "FIN794": {
+    "course_id": "FIN794",
+    "title": "FIN 794 Internship: Finance",
+    "req": "<em>Prerequisite: permission of the director of the appropriate graduate program and department head.</em>",
+    "desc": "In consultation with the coordinating professor, the student is engaged in on-the-job experience with a business, organization, or other professional entity. A portfolio of assigned work shall be collected, examined and evaluated during the semester. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "FIN796": {
+    "course_id": "FIN796",
+    "title": "FIN 796 Independent Study: Finance",
+    "req": "<em>Prerequisite: permission of the director of the appropriate graduate program and department head.</em>",
+    "desc": "In consultation with the advisor, student selects for intensive study a specific area of concern related to the student&apos;s program with emphasis on research. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "INS211": {
+    "course_id": "INS211",
+    "title": "INS 211 Insurance",
+    "req": "<em>Prerequisite: 24 hours.</em>",
+    "desc": "Principles and functions of property, casualty and life insurance with applications in both personal and business situations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "INS312": {
+    "course_id": "INS312",
+    "title": "INS 312 Life Insurance",
+    "req": "<em>Prerequisite: <span data-link='INS211'>INS 211</span>; undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Nature and types of life insurance and annuity contracts insuring human life values for business and personal purposes; principles underlying the calculation of life insurance and annuity premiums, reserves, nonforfeiture values and dividends; introduction of group life insurance, pensions, health, social insurance, settlement options, taxation as related to life insurance programming. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "INS313": {
+    "course_id": "INS313",
+    "title": "INS 313 Property and Liability Insurance",
+    "req": "<em>Prerequisite: <span data-link='INS211'>INS 211</span>; undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Analysis and application of risk and insurance principles to direct and consequential losses in fire, marine, inland marine, multiple-line coverages, liability, workers&apos; compensation, fidelity, surety, and crime perils. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "INS314": {
+    "course_id": "INS314",
+    "title": "INS 314 Employee Benefits and Social Insurance",
+    "req": "<em>Prerequisite: 30 hours; undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "The study of group life and health insurance, retirement programs, Social Security, and other social insurance programs as devices to mitigate economic losses from death, disability, medical costs, retirement, and unemployment in relation to personal and business risk problems. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "INS397": {
+    "course_id": "INS397",
+    "title": "INS 397 Topics in Insurance",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Students taking course as independent study, readings, or professional designation courses must obtain department head approval prior to enrollment. A variable content course to intensify and supplement the study of insurance, designed for students desiring to develop toward professional competence in property/casualty, risk management, life/health, employee benefits, financial services, and insurance-related areas. Course design may include independent study, readings, professional designation courses, and/or traditional classroom work. May be repeated for a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "INS415": {
+    "course_id": "INS415",
+    "title": "INS 415 Risk Management",
+    "req": "<em>Prerequisite: 80 hours including <span data-link='INS211'>INS 211</span>; undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Identifying and analyzing the loss exposures. Developing alternative techniques for treating each exposure with emphasis on risk control and risk financing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "INS538": {
+    "course_id": "INS538",
+    "title": "INS 538 Introduction to Estate Planning",
+    "req": "<em>Prerequisite: 80 hours; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Estate planning process; fundamentals of intestate distribution, wills, trusts, gifts, life insurance; taxes incidental to an estate; administration of estates and trusts; analysis and selection of devices for lifetime and testamentary transfers of property. Identical with <span data-link='FIN538'>FIN 538</span>. May be taught concurrently with <span data-link='INS638'>INS 638</span>. Cannot receive credit for more than one of <span data-link='FIN538'>FIN 538</span>, <span data-link='FIN638'>FIN 638</span>, <span data-link='INS538'>INS 538</span>, or <span data-link='INS638'>INS 638</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "INS638": {
+    "course_id": "INS638",
+    "title": "INS 638 Introduction to Estate Planning",
+    "req": "<em>Prerequisite: <span data-link='LAW231'>LAW 231</span> or <span data-link='LAW600'>LAW 600</span>.</em>",
+    "desc": "Estate planning process; fundamentals of intestate distribution, wills, trusts, gifts, life insurance; taxes incidental to an estate; administration of estates and trusts; analysis and selection of devices for lifetime and testamentary transfers of property. Identical with <span data-link='FIN638'>FIN 638</span>. May be taught concurrently with <span data-link='INS538'>INS 538</span>. Cannot receive credit for more than one of <span data-link='FIN538'>FIN 538</span>, <span data-link='FIN638'>FIN 638</span>, <span data-link='INS538'>INS 538</span>, or <span data-link='INS638'>INS 638</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "LAW231": {
+    "course_id": "LAW231",
+    "title": "LAW 231 Legal Environment of Business",
+    "req": "<em>Prerequisite: 24 hours.</em>",
+    "desc": "Ethical and legal issues in the domestic and international regulatory environment of business. Foundations of legal reasoning, case analysis, legal dispute resolution and reporting, court systems and sources of law. Substantive areas of torts, contracts, sales, products liability and consumer rights and remedies. Contemporary legal issues explored in such areas as: regulation of environmental practices, deceptive advertising, debt collection, employment, anti-trust and computer law. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "LAW332": {
+    "course_id": "LAW332",
+    "title": "LAW 332 Debtor and Creditor Rights and Remedies",
+    "req": "<em>Prerequisite: <span data-link='LAW231'>LAW 231</span>; undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Legal aspects of financial transactions. The rules of law governing financial transactions in today&apos;s business and personal affairs. Topical areas include commercial paper, secured transactions, and bankruptcy. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "LAW335": {
+    "course_id": "LAW335",
+    "title": "LAW 335 Business Enterprises, Rights/Liabilities",
+    "req": "<em>Prerequisite: <span data-link='LAW231'>LAW 231</span> and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Legal alternatives in the structuring of the business enterprise and its relationship with employees. Topical areas include personal property, bailments, real property, leaseholds, intellectual property rights, franchises, sole proprietorships, partnerships, corporations, LLC&apos;s, agency and employment law. Cannot receive credit for both <span data-link='LAW335'>LAW 335</span> and <span data-link='LAW532'>LAW 532</span>. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "LAW341": {
+    "course_id": "LAW341",
+    "title": "LAW 341 Legal Research and Writing",
+    "req": "<em>Prerequisite: <span data-link='LAW231'>LAW 231</span>; undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Use of primary and secondary legal sources and indexes are examined, including state and federal statutes, government regulations, cases, Shepard&apos;s, Missouri Practice series, law reviews and legal encyclopedias; types of legal writing are introduced; research techniques are applied to case analysis and legal writing. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "LAW368": {
+    "course_id": "LAW368",
+    "title": "LAW 368 Real Estate Law",
+    "req": "<em>Prerequisite: <span data-link='FIN266'>FIN 266</span>; and undergraduate business majors must be admitted to degree program Rights and interests in land; evidence of title; co-ownership; contracts for sale of land; deeds; wills and descent; mortgages; liens; landlord and tenant; restrictions; zoning; brokers.</em>",
+    "desc": "Identical with <span data-link='FIN368'>FIN 368</span>. Cannot receive credit for both <span data-link='LAW368'>LAW 368</span> and <span data-link='FIN368'>FIN 368</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "LAW531": {
+    "course_id": "LAW531",
+    "title": "LAW 531 Labor Law and Employment Discrimination",
+    "req": "<em>Prerequisite: <span data-link='LAW231'>LAW 231</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Legal, regulatory, and ethical issues related to employer-employee relationship, including employment-at-will doctrine, discrimination and union contracts. May be taught concurrently with <span data-link='LAW631'>LAW 631</span>. Cannot receive credit for both <span data-link='LAW531'>LAW 531</span> and <span data-link='LAW631'>LAW 631</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "LAW532": {
+    "course_id": "LAW532",
+    "title": "LAW 532 Legal Environment of Business Organizations for Professionals",
+    "req": "<em>Prerequisite: <span data-link='LAW231'>LAW 231</span>; and 90 hours; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Agency and employment responsibilities and liabilities facing new and traditional forms of business organizations are compared, along with selected tax and security regulation issues. Personal and real property concepts are examined, along with environmental exposure issues. Selected contract and UCC concepts are reviewed. Issue recognition, problem analysis approach and testing mechanisms are especially appropriate for individuals taking the CPA or other professional exams. Cannot receive credit for both <span data-link='LAW532'>LAW 532</span> and <span data-link='LAW335'>LAW 335</span>. May be taught concurrently with <span data-link='LAW632'>LAW 632</span>. Cannot receive credit for both <span data-link='LAW532'>LAW 532</span> and <span data-link='LAW632'>LAW 632</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LAW537": {
+    "course_id": "LAW537",
+    "title": "LAW 537 Environmental Regulation",
+    "req": "<em>Prerequisite: undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Laws and government environmental regulation of air, water and soil quality, energy resources, solid and toxic waste disposal, storage tanks, toxic torts, labeling of toxic substances, recycling; ethical, public policy and international implications such regulations pose for business practices, natural resource utilization, health quality and biodiversity. May be taught concurrently with <span data-link='LAW637'>LAW 637</span>. Cannot receive credit for both <span data-link='LAW537'>LAW 537</span> and <span data-link='LAW637'>LAW 637</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "LAW539": {
+    "course_id": "LAW539",
+    "title": "LAW 539 Legal Regulation of International Commerce",
+    "req": "<em>Prerequisite: <span data-link='LAW231'>LAW 231</span>; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "Legal and ethical issues associated with doing business in a global economy. Difference in approach to contracting and merchandising; product standards, protection and liability; trade barriers and regulation of business practices. May be taught concurrently with <span data-link='LAW639'>LAW 639</span>. Cannot receive credit for both <span data-link='LAW539'>LAW 539</span> and <span data-link='LAW639'>LAW 639</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LAW550": {
+    "course_id": "LAW550",
+    "title": "LAW 550 Negotiation, Mediation, and Arbitration in Business",
+    "req": "<em>Prerequisite: 60 hours; and undergraduate business majors must be admitted to degree program.</em>",
+    "desc": "A practical, skills-based study of negotiation, mediation, and arbitration from the business manager&apos;s perspective. This hands-on course is designed to develop the skills necessary to enable the business manager to effectively participate in negotiation, mediation, and arbitration as alternatives to litigation for resolving business disputes. Identical with <span data-link='BUS550'>BUS 550</span>. May be taught concurrently with <span data-link='LAW650'>LAW 650</span>. Cannot receive credit for more than one of <span data-link='BUS550'>BUS 550</span>, <span data-link='BUS650'>BUS 650</span>, <span data-link='LAW550'>LAW 550</span>, or <span data-link='LAW650'>LAW 650</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "LAW600": {
+    "course_id": "LAW600",
+    "title": "LAW 600 Legal Environment for Business Managers",
+    "req": "<em>Prerequisite: permission of a director of a College of Business Graduate Program.</em>",
+    "desc": "Contemporary legal and ethical issues encountered by business managers will be discussed, including issues related to torts, vicarious liability, products liability issues; formation and enforcement of contracts and sale of goods; regulatory environment affecting employment practices/discrimination, product advertising and environmental responsibility; economic development issues associated with environmental sustainability, property rights, constitutional law and city planning. Agency liabilities and fiduciary responsibilities of agents and managers in business organizations will be examined. An overview of the court system and legal dispute resolution mechanisms will be integrated. This course is primarily intended for MBA students who do not have equivalent undergraduate business law course work, and this course will not be counted in the hours required for a College of Business graduate degree. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "LAW631": {
+    "course_id": "LAW631",
+    "title": "LAW 631 Labor Law and Employment Discrimination",
+    "req": "<em>Prerequisite: <span data-link='LAW231'>LAW 231</span> or <span data-link='LAW600'>LAW 600</span>.</em>",
+    "desc": "Legal, regulatory, and ethical issues related to employer-employee relationship, including employment-at-will doctrine, discrimination and union contracts. May be taught concurrently with <span data-link='LAW531'>LAW 531</span>. Cannot receive credit for both <span data-link='LAW631'>LAW 631</span> and <span data-link='LAW531'>LAW 531</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "LAW632": {
+    "course_id": "LAW632",
+    "title": "LAW 632 Legal Environment of Business Organizations for Professionals",
+    "req": "<em>Prerequisite: <span data-link='LAW231'>LAW 231</span> or <span data-link='LAW600'>LAW 600</span>.</em>",
+    "desc": "Agency and employment responsibilities and liabilities facing new and traditional forms of business organizations are compared, along with selected tax and security regulation issues. Personal and real property concepts are examined, along with environmental exposure issues. Selected contract and UCC concepts are reviewed. Issue recognition, problem analysis approach and testing mechanisms are especially appropriate for individuals taking the CPA or other professional exams. May be taught concurrently with <span data-link='LAW532'>LAW 532</span>. Cannot receive credit for both <span data-link='LAW632'>LAW 632</span> and <span data-link='LAW532'>LAW 532</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LAW637": {
+    "course_id": "LAW637",
+    "title": "LAW 637 Environmental Regulation",
+    "desc": "Laws and government environmental regulation of air, water and soil quality, energy resources, solid and toxic waste disposal, storage tanks, toxic torts, labeling of toxic substances, recycling; ethical, public policy and international implications such regulations pose for business practices, natural resource utilization, health quality and biodiversity. May be taught concurrently with <span data-link='LAW537'>LAW 537</span>. Cannot receive credit for both <span data-link='LAW637'>LAW 637</span> and <span data-link='LAW537'>LAW 537</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "LAW639": {
+    "course_id": "LAW639",
+    "title": "LAW 639 Legal Regulation of International Commerce",
+    "req": "<em>Prerequisite: <span data-link='LAW231'>LAW 231</span> or <span data-link='LAW600'>LAW 600</span>.</em>",
+    "desc": "Legal and ethical issues associated with doing business in a global economy. Difference in approach to contracting and merchandising; product standards, protection and liability; trade barriers and regulation of business practices. May be taught concurrently with <span data-link='LAW539'>LAW 539</span>. Cannot receive credit for both <span data-link='LAW639'>LAW 639</span> and <span data-link='LAW539'>LAW 539</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LAW650": {
+    "course_id": "LAW650",
+    "title": "LAW 650 Negotiation, Mediation, and Arbitration in Business",
+    "desc": "A practical, skills-based study of negotiation, mediation, and arbitration from the business manager&apos;s perspective. This hands-on course is designed to develop the skills necessary to enable the business manager to effectively participate in negotiation, mediation, and arbitration as alternatives to litigation for resolving business disputes. Identical with <span data-link='BUS650'>BUS 650</span>. May be taught concurrently with <span data-link='LAW550'>LAW 550</span>. Cannot receive credit for more than one of <span data-link='BUS550'>BUS 550</span>, <span data-link='BUS650'>BUS 650</span>, <span data-link='LAW550'>LAW 550</span>, or <span data-link='LAW650'>LAW 650</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "LAW730": {
+    "course_id": "LAW730",
+    "title": "LAW 730 Seminar: Contemporary Legal Issues",
+    "req": "<em>Prerequisite: <span data-link='LAW231'>LAW 231</span> or <span data-link='LAW600'>LAW 600</span>.</em>",
+    "desc": "In-depth study of selected contemporary legal issues and their impact on the environment of business. Exploration of legal resources relevant to the topics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "LAW733": {
+    "course_id": "LAW733",
+    "title": "LAW 733 Legal Regulation of Competition and Monopoly",
+    "req": "<em>Prerequisite: <span data-link='LAW231'>LAW 231</span> and <span data-link='LAW335'>LAW 335</span>; or <span data-link='LAW600'>LAW 600</span>.</em>",
+    "desc": "Evolution of legal theory regarding governmental regulation of business. The judicial application of laws relating to anti-trust, price discrimination, entry regulation, rate making. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}

@@ -1,0 +1,2647 @@
+{
+  "HLH195": {
+    "course_id": "HLH195",
+    "title": "HLH 195 Introduction to the Health Professions",
+    "desc": "Designed to familiarize students with a variety of health career opportunities, and to provide guidance in early curriculum planning and alternative career options. Identical with <span data-link='BMS195'>BMS 195</span>. Cannot receive credit for both <span data-link='HLH195'>HLH 195</span> and <span data-link='BMS195'>BMS 195</span>. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HLH399": {
+    "course_id": "HLH399",
+    "title": "HLH 399 Cooperative Education in the Health Sciences",
+    "req": "<em>Prerequisite: acceptance into the Cooperative Education Program and permission of Director of Health Arts and Sciences.</em>",
+    "desc": "A supervised learning experience that integrates on-the-job training with academic credit. The student will be required to complete assigned academic work related to the area of practical experience. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "HLH700": {
+    "course_id": "HLH700",
+    "title": "HLH 700 Research Methods in Health, Physical Education and Recreation",
+    "desc": "Nature of research methodology, experimental design and scientific writing. Opportunity to explore research literature and to conduct research. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "HLH710": {
+    "course_id": "HLH710",
+    "title": "HLH 710 Introduction to Health Promotion and Wellness Management",
+    "desc": "This is an introductory course in which students will gain a general understanding of the health promotion and wellness management (HPWM) field. The job opportunities, history, mission, terminology, philosophy, ethical principles, organizations, concepts and foundations of HPWM will be explored. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "HLH750": {
+    "course_id": "HLH750",
+    "title": "HLH 750 Programming Approaches in Wellness/Health Promotion",
+    "desc": "Organizational and administrative approaches utilized in the conduct of wellness/health promotion programs will be studied. Emphasis will be placed upon the selection, development, promotion, conduct, and evaluation of the various components of wellness/health promotion programs. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HLH752": {
+    "course_id": "HLH752",
+    "title": "HLH 752 Health Risk Identification and Management",
+    "desc": "Procedures and instrumentation utilized in the identification and assessment of risk factors associated with cardiovascular and other major life-style generated diseases and conditions will be studied. Emphasis will be placed upon the utilization of risk factor data in the conduct of a wellness/health promotion program. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HLH760": {
+    "course_id": "HLH760",
+    "title": "HLH 760 Health Promotion Planning",
+    "desc": "A culminating course in the MS in Health Promotion and Wellness Management degree program. This course will focus on the development of health promotion in the workplace: Topics discussed will include effects of health promotion, the compression of morbidity, developing awareness strategies, health assessments, theories of health behavior (self-efficacy, social learning theory, health belief model, theory of planned behavior, stages of change theory), and evaluating existing workplace health promotion programs (physical activity in the workplace, worksite nutrition programs, worksite weight management, tobacco control and cessation, and stress management). The current professional literature related to health promotion will also be reviewed. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HLH770": {
+    "course_id": "HLH770",
+    "title": "HLH 770 Seminar in Health Promotion and Wellness Management",
+    "desc": "Review of the professional literature relating to current issues in health promotion and wellness. Topics researched and discussed include health care ethics, diversity, cultural aspects, long-range planning, public relations, legal considerations, and grant-writing. Includes guided development and completion of an extensive research paper. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "HLH791": {
+    "course_id": "HLH791",
+    "title": "HLH 791 Wellness Internship",
+    "req": "<em>Prerequisite: permission of Health Internship Coordinator.</em>",
+    "desc": "Supervised field experience in a health promotion or health care setting. Directly involves the student in the application of organizational skills and wellness manager skills. Student must complete a minimum number of clinical hours. May be repeated. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "KIN101": {
+    "course_id": "KIN101",
+    "title": "KIN 101 Beginning Swimming",
+    "desc": "Designed to teach novice swimmer basic swimming skills. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN102": {
+    "course_id": "KIN102",
+    "title": "KIN 102 Intermediate Swimming",
+    "req": "<em>Prerequisite: <span data-link='KIN101'>KIN 101</span> or demonstrate swimming skill first day of class; first aid and CPR certification.</em>",
+    "desc": "Review of basic strokes. Instruction in competitive strokes. Basic diving instruction. May be taken twice for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Summer": true
+    }
+  },
+  "KIN103": {
+    "course_id": "KIN103",
+    "title": "KIN 103 Lifesaving",
+    "req": "<em>Prerequisite: <span data-link='KIN102'>KIN 102</span> or demonstrate swimming skill first day of class, first aid and CPR certification.</em>",
+    "desc": "Development of personal safety skills and techniques of aquatic rescue for lifeguarding; certification in American Red Cross Life Guard Training may be obtained. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN104": {
+    "course_id": "KIN104",
+    "title": "KIN 104 Water Safety Instruction",
+    "req": "<em>Prerequisite: <span data-link='KIN103'>KIN 103</span> and permission of instructor.</em>",
+    "desc": "Prepares the student for complete American Red Cross Water Safety Instruction Certificate. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "KIN105": {
+    "course_id": "KIN105",
+    "title": "KIN 105 Alpine Skiing",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Fundamental skills of alpine skiing; required Student Union ski trip for the purpose of instruction and practice on snow. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "KIN106": {
+    "course_id": "KIN106",
+    "title": "KIN 106 Sailing",
+    "req": "<em>Prerequisite: demonstrate swimming skill first day of class.</em>",
+    "desc": "Development of skills and knowledge of sailing. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN107": {
+    "course_id": "KIN107",
+    "title": "KIN 107 Intermediate Sailing",
+    "req": "<em>Prerequisite: <span data-link='KIN106'>KIN 106</span> or comparable skill and swimming skills.</em>",
+    "desc": "The course includes a refinement of basic skills and discussion of sailing theory and sailboat racing tactics. May be repeated to a maximum of 2 hours credit. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN109": {
+    "course_id": "KIN109",
+    "title": "KIN 109 Cycling",
+    "desc": "Cycling as a means of transportation, leisure activity, and fitness medium. Emphasis placed on safety, bikepacking, and cycle maintenance. Student must furnish a bicycle (ten-speed recommended). Field trips required. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN110": {
+    "course_id": "KIN110",
+    "title": "KIN 110 Backpacking",
+    "desc": "Backpacking as a lifetime leisure activity. Emphasis on equipment, safety, techniques, and trip planning. Field trips required. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN111": {
+    "course_id": "KIN111",
+    "title": "KIN 111 Beginning Badminton",
+    "desc": "Fundamentals of grip, stance, footwork and badminton strokes. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN112": {
+    "course_id": "KIN112",
+    "title": "KIN 112 Beginning Handball",
+    "desc": "Rules, techniques and strategy of four wall handball. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN113": {
+    "course_id": "KIN113",
+    "title": "KIN 113 Beginning Racquetball",
+    "desc": "Fundamental skills, rules, techniques and strategy of racquetball. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN114": {
+    "course_id": "KIN114",
+    "title": "KIN 114 Canoeing",
+    "req": "<em>Prerequisite: demonstrate swimming skill first day of class.</em>",
+    "desc": "River canoeing as a lifetime leisure activity. Emphasis on safety, techniques, trip planning, and equipment. Field trips required. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN118": {
+    "course_id": "KIN118",
+    "title": "KIN 118 Bowling",
+    "desc": "History, fundamental skills, techniques, terminology, rules, strategy and safety skills of bowling. Supplemental course fee. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN120": {
+    "course_id": "KIN120",
+    "title": "KIN 120 Beginning Gymnastics",
+    "desc": "Emphasis on skill progressions in tumbling and vaulting with an introduction to apparatus and balance work. Principles of training, conditioning, and spotting included. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN121": {
+    "course_id": "KIN121",
+    "title": "KIN 121 Intermediate to Advanced Gymnastics",
+    "req": "<em>Prerequisite: <span data-link='KIN120'>KIN 120</span>.</em>",
+    "desc": "Emphasis on skill progressions for the Olympic events. Principles of training, conditioning, and spotting are included. May be repeated for a maximum of 3 hours. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN122": {
+    "course_id": "KIN122",
+    "title": "KIN 122 Fencing",
+    "desc": "History, fundamental skills, techniques, terminology, nomenclature, rules, strategy and safety skills of fencing. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN123": {
+    "course_id": "KIN123",
+    "title": "KIN 123 Intermediate Fencing",
+    "req": "<em>Prerequisite: <span data-link='KIN122'>KIN 122</span>.</em>",
+    "desc": "Advanced compound offenses and defenses; detailed work on competitive techniques. May be taken twice for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN124": {
+    "course_id": "KIN124",
+    "title": "KIN 124 Techniques and Principles of Hunting and Fishing",
+    "desc": "Skills and safety factors of hunting and fishing; Missouri hunting, fishing, and conservation laws and principles upon which these laws are founded. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN125": {
+    "course_id": "KIN125",
+    "title": "KIN 125 Aerobic Dance",
+    "desc": "Aerobic Dance is an exercise program of choreographed routines involving continuous rhythmic activity. The combination of motor skills, jogging, dancing, and vigorous exercise are set to music in a motivational manner. The routines are designed to be simple enough for all individuals to be successful as they move toward cardiovascular fitness. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN126": {
+    "course_id": "KIN126",
+    "title": "KIN 126 Folk and Square Dance",
+    "desc": "Understanding folk and square dance skills, directional patterns, structure. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN127": {
+    "course_id": "KIN127",
+    "title": "KIN 127 Weight Training",
+    "desc": "Scientifically founded isotonic and isometric weight training programs; development of cardiovascular and muscular endurance, strength and flexibility. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN128": {
+    "course_id": "KIN128",
+    "title": "KIN 128 Western Square Dance",
+    "desc": "Review of the 50 basics and introduction to the 25 extended basic skills and patterns of Western Square Dance. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN130": {
+    "course_id": "KIN130",
+    "title": "KIN 130 Adapted Physical Activity",
+    "req": "<em>Prerequisite: physician&apos;s approval.</em>",
+    "desc": "Adapted physical activity to meet the needs of students with disabilities and other physical limitations. May be repeated for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN133": {
+    "course_id": "KIN133",
+    "title": "KIN 133 Volleyball",
+    "desc": "Basic skills of power volleyball. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN135": {
+    "course_id": "KIN135",
+    "title": "KIN 135 Selected Activities",
+    "desc": "A variable content course designed to develop lifetime skills in sports, fitness, and/or leisure activities. Activities selected will vary according to demand. Course may be repeated any number of times provided the same activity is not retaken. Supplemental course fee may be assessed (variable by section). ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN136": {
+    "course_id": "KIN136",
+    "title": "KIN 136 Ballroom Dance",
+    "desc": "Ballroom dances: technique, lead and style. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN138": {
+    "course_id": "KIN138",
+    "title": "KIN 138 Archery",
+    "desc": "Cultural aspects of archery throughout history; target archery, field archery, bowhunting and bowfishing. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN143": {
+    "course_id": "KIN143",
+    "title": "KIN 143 Beginning Tennis",
+    "desc": "Fundamental tennis skills and mechanical principles. Rules, courtesies and etiquette. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN144": {
+    "course_id": "KIN144",
+    "title": "KIN 144 Intermediate Tennis",
+    "req": "<em>Prerequisite: <span data-link='KIN143'>KIN 143</span>.</em>",
+    "desc": "Instruction in intermediate and advanced elements of strokes and strategy used in singles and doubles. May be taken twice for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN145": {
+    "course_id": "KIN145",
+    "title": "KIN 145 Beginning Golf",
+    "desc": "Choice and use of clubs, form to be used, rules and courtesies of golf. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN146": {
+    "course_id": "KIN146",
+    "title": "KIN 146 Intermediate Golf",
+    "req": "<em>Prerequisite: <span data-link='KIN145'>KIN 145</span>.</em>",
+    "desc": "Correction of errors in basic strokes with all clubs. Application of mechanical principles. Instruction concerning strategy used on different golf courses in variable weather. May be taken twice for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN147": {
+    "course_id": "KIN147",
+    "title": "KIN 147 Beginning Judo",
+    "desc": "Fundamental falling (ukemi), holding techniques (Katamewaza), basic mat and free exercises (mat randori), and history of judo. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN148": {
+    "course_id": "KIN148",
+    "title": "KIN 148 Intermediate Judo",
+    "req": "<em>Prerequisite: <span data-link='KIN147'>KIN 147</span> or Brown or Black Belt Ranking.</em>",
+    "desc": "Basic throwing techniques of judo; all mat techniques required for third degree brown belt status (sankyu). May be taken twice for credit. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "KIN149": {
+    "course_id": "KIN149",
+    "title": "KIN 149 Self Defense",
+    "req": "<em>Prerequisite: <span data-link='KIN147'>KIN 147</span>.</em>",
+    "desc": "Introduction to self-defense techniques including combative and defensive stances and position, taisabaki movement, parries, counterattack movement, hold releases, attack techniques, and ground defense. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN200": {
+    "course_id": "KIN200",
+    "title": "KIN 200 Foundations of Education and Physical Education",
+    "req": "<em>Prerequisite: <span data-link='KIN210'>KIN 210</span>; <span data-link='COM115'>COM 115</span> with a &quot;C&quot; grade or better; and combined (Missouri State and transfer) GPA of 2.50 or better.</em>",
+    "desc": "This course introduces the physical education major to the profession of education while focusing on the discipline of health and physical education in American education. It provides the prospective teacher/coach a knowledge base in the theoretical aspects of PK-12 education. Additionally, this course examines both the nature and history of the teaching profession, PK-12 school orientation, educational theories, and legal issues pertaining to the American educational institution. It also explores the nature of physical movement, as well as the breadth, scope, and significance of physical education and its role and relationship to the overall curriculum of the American public schools. Emphasis will be placed on professional competencies required for certification and professional development. This course also requires a twenty (20) hour observational experience, utilizing the Systematic Supervision Model, designed to explore professional teaching qualifications, cultural diversity, student needs, and school orientation with emphasis on training educators as reflective-decision makers. This observational experience will include both on-campus and approved PK-12 off-campus placement sites. As a portion of the course grade students will be required to satisfy the first checkpoint of the artifact development as required for the Professional Preparation Portfolio. A grade of &quot;C&quot; or better is required in this course for graduation. The Missouri State Board of Education entry examination must be taken during enrollment in this course. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN201": {
+    "course_id": "KIN201",
+    "title": "KIN 201 Introduction to Biomechanics",
+    "req": "<em>Prerequisite: 30 hours.</em>",
+    "desc": "Mechanics of sports; principles of motion related to individual and team sports. Techniques to analyze individual sport skills. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN210": {
+    "course_id": "KIN210",
+    "title": "KIN 210 Healthy Lifestyles: Preventive Approaches",
+    "req": "<em>Prerequisite: 12 hours. General Education Course (Focus on Public Issues).</em>",
+    "desc": "This course introduces conceptual and practical information relating to the impact of lifestyle choices on the health and wellness of the individual and society. Students in this course study a variety of fitness-wellness topics while initially and summatively garnering personal fitness-wellness data in both academic and laboratory settings. Collected data are synthesized and critically appraised, resulting in the construction of individualized fitness-wellness programs implemented and periodically re-evaluated over the course of the semester via reflective journal writing; and periodic quizzes and examinations that tie lecture theories to laboratory practices in critical thinking-peer teaching contexts. Laboratory activities help the individual discover his/her needs for achieving and maintaining high level wellness. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN212": {
+    "course_id": "KIN212",
+    "title": "KIN 212 Introduction to Exercise Science",
+    "desc": "Orientation for students interested in exercise science. Various professional options will be discussed and research methodology in the field will be explored through applied examples. Exercise and Movement Science majors are required to earn a grade of &quot;C&quot; or better in this course. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN218": {
+    "course_id": "KIN218",
+    "title": "KIN 218 Organization and Administration of Intramurals",
+    "req": "<em>Prerequisite: 30 hours.</em>",
+    "desc": "Organization and administration of an effective program of intramural activities for secondary and college levels. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN234": {
+    "course_id": "KIN234",
+    "title": "KIN 234 Sports Officiating",
+    "desc": "Procedures and requirements for registration as a Missouri State High School Activities Association (MSHSAA) Sports Official. Ethical standards and development of a philosophy for an official. Knowledge, rules and basic skills for officiating basketball, football, baseball, softball, track and field, volleyball, and wrestling. Students select a practicum experience in at least one sport. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2,
+      "lab": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN240": {
+    "course_id": "KIN240",
+    "title": "KIN 240 Creative Dance and Exploratory Activities for Children",
+    "desc": "Creative activities for movement and dance necessary for the physical development of elementary school students. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN250": {
+    "course_id": "KIN250",
+    "title": "KIN 250 Applied Human Anatomy",
+    "req": "<em>Prerequisite: <span data-link='BIO101'>BIO 101</span> and 111, or <span data-link='BIO121'>BIO 121</span> or <span data-link='BMS110'>BMS 110</span>.</em>",
+    "desc": "Study of the structure of the human body with emphasis on the organ systems operational in effecting human movement. Integrating structural and biomechanical aspects of movement; focusing on functional anatomy using a systematic approach. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='KIN360'>KIN 360</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN252": {
+    "course_id": "KIN252",
+    "title": "KIN 252 Applied Human Physiology",
+    "req": "<em>Prerequisite: <span data-link='CHM116'>CHM 116</span> or <span data-link='CHM160'>CHM 160</span>; and <span data-link='BMS307'>BMS 307</span> or a grade of &quot;C&quot; or better in <span data-link='KIN250'>KIN 250</span>.</em>",
+    "desc": "Study of the function and responses of each organ system in the body. Emphasis is directed toward a process of examining functional concepts requisite to critical assessment and description of human movement, exercise, sport and wellness. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='KIN362'>KIN 362</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN253": {
+    "course_id": "KIN253",
+    "title": "KIN 253 First Aid",
+    "desc": "First aid and civil defense knowledge; procedures in times of emergency, sickness, wounds, shock, poisoning, fractures, unconsciousness, stoppage of breathing. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN256": {
+    "course_id": "KIN256",
+    "title": "KIN 256 Community Health",
+    "desc": "School, community, state, national and international health programs; their relationship to the student; major communicable and non-communicable diseases and community health. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN257": {
+    "course_id": "KIN257",
+    "title": "KIN 257 Personal Health",
+    "desc": "Health problems; factors that contribute to development and maintenance of health for the individual living in a contemporary, automated society. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN260": {
+    "course_id": "KIN260",
+    "title": "KIN 260 Outdoor Leisure Education",
+    "desc": "Introduction to outdoor leisure skills. Selected outdoor education activities, e.g. orienteering, hiking, etc. Field trips required. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN261": {
+    "course_id": "KIN261",
+    "title": "KIN 261 Wrestling Techniques",
+    "desc": "Fundamental wrestling skills necessary for demonstration purposes in teaching-coaching situations. Recommended for men only. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "KIN264": {
+    "course_id": "KIN264",
+    "title": "KIN 264 Team Sports",
+    "desc": "Fundamental skills and techniques of basketball, field hockey, soccer/speedball, softball and volleyball; emphasis on demonstration in teaching-coaching situations. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN270": {
+    "course_id": "KIN270",
+    "title": "KIN 270 Recreational and Aerobic Dance Techniques",
+    "desc": "Fundamental skills in folk, square, social, and aerobic dance necessary for demonstration purposes in teaching situations. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN273": {
+    "course_id": "KIN273",
+    "title": "KIN 273 Aquatics",
+    "req": "<em>Prerequisite: demonstrate swimming skill first day of classes.</em>",
+    "desc": "Emphasis on stroke mechanics for swimming and basic diving. Development of the skills necessary to demonstrate in teaching-coaching situations. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN277": {
+    "course_id": "KIN277",
+    "title": "KIN 277 Individual and Dual Sports",
+    "desc": "Fundamental skills and techniques of golf, racket sports, track and field, and tumbling/apparatus; emphasis on demonstration in teaching-coaching situations. ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN281": {
+    "course_id": "KIN281",
+    "title": "KIN 281 The Athlete's Diet",
+    "desc": "Instruction on the current research and concepts on diet and exercise performance, body weight and composition, fluid and electrolyte balance during exercise, and selected topics on proposed dietary ergogenic aids. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN282": {
+    "course_id": "KIN282",
+    "title": "KIN 282 Sports Conditioning",
+    "desc": "Instruction on the theory and practical aspects of designing and evaluating training and conditioning programs for competitive athletes. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN286": {
+    "course_id": "KIN286",
+    "title": "KIN 286 Ethics and Diversity in American Sport",
+    "req": "<em>Prerequisite: 12 hours. General Education Course (Focus on Public Issues).</em>",
+    "desc": "This course introduces students to the current and pervasive ethical and diversity issues present in contemporary American sport. Particular attention is given to the practical application of decision-making processes and to the development of sensitivity to divergent views of ethical and diversity issues in sport settings (e.g., cheating, race, gender, disability, youth sport, ethical leadership.) ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN297": {
+    "course_id": "KIN297",
+    "title": "KIN 297 Special Topics",
+    "desc": "Special study of physical education or leisure skills. Variable content and variable credit course. May be repeated for credit to a maximum of 4 credit hours. Same topic may be repeated once for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN300": {
+    "course_id": "KIN300",
+    "title": "KIN 300 Teaching and Coaching Volleyball",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Analysis of volleyball skills. Strengths and weaknesses of various offensive and defensive systems. Development of coaching and game plays, discussion of strategies, screening and selection of player personnel. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN301": {
+    "course_id": "KIN301",
+    "title": "KIN 301 Teaching and Coaching Football",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Analysis of football skills. Offensive and defensive systems applicable to varying skill levels. Analysis of game strategy, scouting, yearly organization. Training, recruiting and organization of coaching personnel and daily coaching plans. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN302": {
+    "course_id": "KIN302",
+    "title": "KIN 302 Teaching and Coaching Basketball",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Analysis of basketball Skills. Factors which compose the game of basketball; analysis of varying offenses and defenses used in competition. Team selection, development and organization. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN303": {
+    "course_id": "KIN303",
+    "title": "KIN 303 Teaching and Coaching Track and Field",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Analysis of track and field skills. Organization and development of a track and field team. Preparation and selection of athletes for competition. Practical application of meet management techniques. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN304": {
+    "course_id": "KIN304",
+    "title": "KIN 304 Teaching and Coaching Baseball",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Analysis of baseball skills. Development of a baseball team, selection of players by position, team drills, offensive and defensive strategies, scouting, management of players. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN305": {
+    "course_id": "KIN305",
+    "title": "KIN 305 Teaching and Coaching Softball",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Analysis of softball skills. Development of competitive softball team, player selection by position, team drills, offensive and defensive strategies, scouting and player management. ",
+    "hours": {
+      "credit": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN310": {
+    "course_id": "KIN310",
+    "title": "KIN 310 Philosophical and Historical Issues in Physical Education, Recreation and Sport",
+    "req": "<em>Prerequisite: <span data-link='ENG110'>ENG 110</span> and <span data-link='KIN200'>KIN 200</span> or <span data-link='REC152'>REC 152</span>; and 45 credit hours.</em>",
+    "desc": "A writing intensive course focusing on the synthesis or philosophical and historically relevant material emanating from contemporary problems in physical education, recreation and sport. Writing tasks will involve the use of extensive research and critical analysis of major issues in the fields of physical education and recreation to bridge the gap between theory and practice. Areas of coverage will vary with the instructor. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN335": {
+    "course_id": "KIN335",
+    "title": "KIN 335 Organization and Administration of Physical Education and Sport",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Organizational procedures and management principles of sport and physical education programs. Directed coaching experience on campus and in the middle/secondary school setting is required. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN341": {
+    "course_id": "KIN341",
+    "title": "KIN 341 Physical Education for Elementary Teachers",
+    "req": "<em>Prerequisite: <span data-link='KIN210'>KIN 210</span>.</em>",
+    "desc": "Games, rhythms, material and methods utilized by elementary school classroom teachers to teach physical education. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN350": {
+    "course_id": "KIN350",
+    "title": "KIN 350 Health and Wellness Promotion",
+    "desc": "Principles and objectives of health and wellness promotion. Critical issues in health and wellness. The structure, function, and contribution of public, private, and voluntary agencies involved in health and wellness promotion. Individual and group factors related to the promotion, maintenance, and restoration of health. Exercise and Movement Science majors are required to earn a grade of &quot;C&quot; or better in this course. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='KIN550'>KIN 550</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN358": {
+    "course_id": "KIN358",
+    "title": "KIN 358 Health Education Methods",
+    "desc": "Methods, materials and resources for preparation, development and implementation of an effective school Health Education program. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN360": {
+    "course_id": "KIN360",
+    "title": "KIN 360 Kinesiology",
+    "req": "<em>Prerequisite: <span data-link='BMS307'>BMS 307</span> or grade of &quot;C&quot; or better in <span data-link='KIN250'>KIN 250</span>.</em>",
+    "desc": "Mechanics of sports and related activities; principles of motion, body movements, muscle action and joint mechanics in relation to human movement. Principles of anatomic and biomechanical analysis. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='KIN468'>KIN 468</span>. A maximum of 4 credit hours will be granted for <span data-link='KIN201'>KIN 201</span> and <span data-link='KIN360'>KIN 360</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN361": {
+    "course_id": "KIN361",
+    "title": "KIN 361 Principles of Motor Learning in Physical Education",
+    "req": "<em>Prerequisite: <span data-link='BMS307'>BMS 307</span> or grade of &quot;C&quot; or better in <span data-link='KIN250'>KIN 250</span>; and <span data-link='BMS308'>BMS 308</span> or grade of &quot;C&quot; or better in <span data-link='KIN252'>KIN 252</span>.</em>",
+    "desc": "Process by which motor skills are learned; individual variables which affect acquisition of motor skills; techniques of improving motor performance. Exercise and Movement Science majors and Physical Education majors are required to earn a grade of &quot;C&quot; or better in this course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN362": {
+    "course_id": "KIN362",
+    "title": "KIN 362 Exercise Physiology",
+    "req": "<em>Prerequisite: <span data-link='BMS308'>BMS 308</span> or grade of &quot;C&quot; or better in <span data-link='KIN252'>KIN 252</span>.</em>",
+    "desc": "Physiologic effects of muscular activity under different intensities, durations and environments on the human organism. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='KIN465'>KIN 465</span>, 468, 569 and <span data-link='BMS563'>BMS 563</span>. Cannot not be taken Pass/Not Pass. Cannot receive credit for both <span data-link='KIN362'>KIN 362</span> and <span data-link='KIN366'>KIN 366</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN366": {
+    "course_id": "KIN366",
+    "title": "KIN 366 Exercise Physiology",
+    "req": "<em>Prerequisite: <span data-link='BMS308'>BMS 308</span> or grade of &quot;C&quot; or better in <span data-link='KIN252'>KIN 252</span>.</em>",
+    "desc": "Same course as <span data-link='KIN362'>KIN 362</span> except it does not include a laboratory component. Course counts on a coaching minor only and cannot count toward a physical education major. Cannot receive credit for both <span data-link='KIN362'>KIN 362</span> and <span data-link='KIN366'>KIN 366</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN370": {
+    "course_id": "KIN370",
+    "title": "KIN 370 Introduction to Safety Education",
+    "desc": "General safety education in the instruction program of elementary and secondary schools; accident causes and remedial action. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN371": {
+    "course_id": "KIN371",
+    "title": "KIN 371 Driver Task Analysis",
+    "req": "<em>Prerequisite: valid operator&apos;s license.</em>",
+    "desc": "Prepares student to teach driver education in secondary school. Methods, lesson planning, psychophysical testing and driver education materials presented. Each student instructs one individual to operate an automobile. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN372": {
+    "course_id": "KIN372",
+    "title": "KIN 372 Developing Vehicle Operation Skills and Competencies",
+    "req": "<em>Prerequisite: <span data-link='KIN371'>KIN 371</span>.</em>",
+    "desc": "Acquaints the prospective driver education teacher with problems of automotive and traffic safety. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN373": {
+    "course_id": "KIN373",
+    "title": "KIN 373 Developing Classroom Knowledge",
+    "req": "<em>Prerequisite: <span data-link='KIN371'>KIN 371</span> and <span data-link='KIN372'>KIN 372</span>.</em>",
+    "desc": "Course provides students the opportunity to do an action research project with regard to knowledge and skills necessary to provide quality classroom instruction. successfully manage the on-street activities and provide for appropriate student evaluation. This course should be viewed as the culmination of the Driver Education endorsement. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN386": {
+    "course_id": "KIN386",
+    "title": "KIN 386 Social Basis of Physical Activity and Sport",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "Study of the growth and development of physical education, athletics and sports organization and their effect on participants, spectators, and communities in America since 1875. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN392": {
+    "course_id": "KIN392",
+    "title": "KIN 392 Coaching Practicum",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Students should have completed coursework or concentrated experience in an area selected for practicum. A practical experience which students can relate to coaching theory. The students are assigned to participate in coaching related activities on or off campus in the secondary schools for exposure to coaching philosophies, organization, methods and procedures for preparing athletes and athletic teams for competition. May be taken twice for credit. 1(0-2) or ",
+    "hours": {
+      "credit": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN400": {
+    "course_id": "KIN400",
+    "title": "KIN 400 Movement to Enhance Cognition: Elementary Physical Education for Elementary Teachers",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='ELE500'>ELE 500</span> for 4 hours.</em>",
+    "desc": "Games, rhythms, materials, and methods utilized by elementary school classroom teachers to teach physical education and integrate kinesthetic movement into classroom instruction. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "KIN402": {
+    "course_id": "KIN402",
+    "title": "KIN 402 Women In Sport",
+    "req": "<em>Prerequisite: 60 hours.</em>",
+    "desc": "A survey of the role of women in sport and how they have developed to present status. Topics to be covered include women in the history of sport: athletic injury specific to women, care and prevention: physiology of the woman athlete and sport psychology for the woman athlete. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "KIN405": {
+    "course_id": "KIN405",
+    "title": "KIN 405 Gender and Sport",
+    "desc": "An examination of sport as a major institutional locus for the historical and contemporary construction of gender relations. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN411": {
+    "course_id": "KIN411",
+    "title": "KIN 411 Teaching of Secondary Physical Education",
+    "req": "<em>Prerequisite: <span data-link='KIN264'>KIN 264</span> and <span data-link='KIN270'>KIN 270</span> and <span data-link='KIN273'>KIN 273</span> and <span data-link='KIN277'>KIN 277</span> and <span data-link='KIN360'>KIN 360</span>; and at least &quot;C&quot; grades in <span data-link='KIN431'>KIN 431</span> and <span data-link='KIN440'>KIN 440</span>; and admitted to teacher education program; and combined (Missouri State and transfer) GPA of 2.75 or higher; and passed all sections of the Missouri State Board of Education entry examination.</em>",
+    "desc": "Exploration of various teaching methods and selection of activities as they apply to secondary physical education. Unit planning, lesson planning and micro teaching of physical education activities. Second portfolio checkpoint and participation in clinical/field experiences in area secondary schools is required. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='KIN493'>KIN 493</span> or <span data-link='KIN496'>KIN 496</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN430": {
+    "course_id": "KIN430",
+    "title": "KIN 430 History and Philosophy of Physical Education",
+    "req": "<em>Prerequisite: <span data-link='KIN200'>KIN 200</span> and 75 hours.</em>",
+    "desc": "Synthesis of historically relevant material emanating from contemporary problems in physical education and Sport. Use of critical analysis of physical education concepts in teaching to bridge the gap between theory and practice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN431": {
+    "course_id": "KIN431",
+    "title": "KIN 431 Teaching K-4 Physical Education",
+    "req": "<em>Prerequisite: <span data-link='KIN240'>KIN 240</span> and <span data-link='KIN264'>KIN 264</span> and <span data-link='KIN270'>KIN 270</span>; and admitted to Teacher Education Program; and combined (Missouri State and transfer) GPA of 2.75 or higher; and passed all sections of the Missouri State Board of Education entry examination.</em>",
+    "desc": "Emphasis on current teaching methods, management skills, and curriculum development for teaching physical education to K-4 students. An on-campus lecture/lab and participation in clinical/field experiences in the area elementary schools. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='KIN493'>KIN 493</span> or <span data-link='KIN496'>KIN 496</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN440": {
+    "course_id": "KIN440",
+    "title": "KIN 440 Middle School (5-9) Physical Education",
+    "req": "<em>Prerequisite: <span data-link='KIN240'>KIN 240</span> and <span data-link='KIN264'>KIN 264</span> and <span data-link='KIN270'>KIN 270</span> and <span data-link='KIN360'>KIN 360</span>; and admitted to Teacher Education Program; and combined (Missouri State and transfer) GPA of 2.75 or higher; and passed all sections of the Missouri State Board of Education entry examination.</em>",
+    "desc": "Emphasis on current teaching methods, management skills, and curriculum development for teaching physical education in the middle school (5-9). An on campus lecture/lab and clinical/field experiences in area middle schools. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='KIN493'>KIN 493</span> or <span data-link='KIN496'>KIN 496</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN445": {
+    "course_id": "KIN445",
+    "title": "KIN 445 Teaching of Middle and Secondary Physical Education",
+    "req": "<em>Prerequisite: <span data-link='KIN200'>KIN 200</span>, 240, 250, 252, 261, 264, 270, 273, 277, 360; and combined (Missouri State and transfer) GPA of 2.75 or higher; and pass all sections of the Missouri State Board of Education entry examination; and completion of 70 hours.</em>",
+    "desc": "Course will include exploration of Mosston and Ashworth&apos;s teaching spectrum, teaching methods, and selection of activities. Emphasis will be placed on current teaching methodology, program content inclusive to MOSTEP and NASPE standards, scope and sequencing of physical activities, development of unit and lesson plans, and classroom management for middle and secondary school physical education. Also included will be discussions regarding legal issues and the attitudes and values surrounding middle and secondary education. Additional focus will be placed on curriculum development, implementation, and assessment of the curriculum process. To promote critical thinking and reflective decision making, a comprehensive field experience in both middle and secondary physical education settings is required. This course is credited only on the BS in Education degree. Students will be required to generate selected artifacts as required for completion of the Professional Preparation Portfolio. A grade of &quot;C&quot; or better is required in this course in order to enroll in <span data-link='KIN493'>KIN 493</span> or <span data-link='KIN496'>KIN 496</span>. Cannot be taken Pass/Not Pass. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN465": {
+    "course_id": "KIN465",
+    "title": "KIN 465 Exercise Prescription: Strength and Conditioning",
+    "req": "<em>Prerequisite: &quot;C&quot; or better in <span data-link='KIN362'>KIN 362</span>.</em>",
+    "desc": "Physiology and biomechanics of strength training and conditioning. Topics include: testing and evaluation of athletics, resistance training techniques, training program design, and organization and administration of a strength training facility. This course is designed to prepare students to apply the skills needed to be a leader in strength and conditioning. Exercise and Movement Science majors are required to earn a grade of &quot;C&quot; or better in this course. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN466": {
+    "course_id": "KIN466",
+    "title": "KIN 466 Physical Education for Intellectual Disabilities",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Identification and program development of physical activities for individuals with varying levels of intellectual disabilities. Laboratory is off campus. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "KIN468": {
+    "course_id": "KIN468",
+    "title": "KIN 468 Adapted Physical Education",
+    "req": "<em>Prerequisite: grade of &quot;C&quot; or better in <span data-link='KIN360'>KIN 360</span> and in <span data-link='KIN362'>KIN 362</span>; and cumulative GPA of 2.50 or better for EMS majors and a combined (Missouri State and transfer) GPA of 2.75 or higher for Physical Education majors.</em>",
+    "desc": "Emphasizes nature and scope of physical, cognitive, and emotional disabilities; referral, placement, and programming in physical education; federal and state laws that pertain to the education and physical education of special populations; and instruction in the modification of motor and fitness activities, and therapeutic exercise. Three hours of directed practicum per week. Exercise and Movement Science majors are required to earn a grade of &quot;C&quot; or better in this course. A grade of &quot;C&quot; or better is required in this course in order to take <span data-link='KIN493'>KIN 493</span> or <span data-link='KIN496'>KIN 496</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 2,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN485": {
+    "course_id": "KIN485",
+    "title": "KIN 485 Psychology of Sport and Physical Activity",
+    "req": "<em>Prerequisite: <span data-link='PSY121'>PSY 121</span>.</em>",
+    "desc": "Inquiry into the psychological implications of sport and physical activity participation in relation to motivation and behavior of the participant. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN490": {
+    "course_id": "KIN490",
+    "title": "KIN 490 Sports Practicum",
+    "req": "<em>Prerequisite: senior or graduate standing.</em>",
+    "desc": "Short-term course updates physical educators in new developments within selected sport areas. Techniques of coaching and conditioning. May be repeated for credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN491": {
+    "course_id": "KIN491",
+    "title": "KIN 491 Field Experience",
+    "req": "<em>Prerequisite: 80 hours and permission.</em>",
+    "desc": "Supervised experience or internship in a cooperative program with business, government, community, clinical, or related establishments in exercise science, health, or health promotion. Credit will be based on the length and scope of the field experience/internship. May be repeated for credit but no more than 12 hours will be credited toward a degree. Exercise and Movement Science majors are required to earn a grade of &quot;C&quot; or better in this course. Public Affairs Capstone Experience course. 3 or 6 or ",
+    "hours": {
+      "credit": 12
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "KIN493": {
+    "course_id": "KIN493",
+    "title": "KIN 493 Supervised Teaching (Secondary Physical Education)",
+    "req": "<em>Prerequisite: completion of all method courses in physical education; and a grade of &quot;C&quot; or better in all professional education courses; and current pre-professional liability insurance; and completion of portfolio checkpoints 1 and 2; and a combined (Missouri State and transfer) GPA of 2.75 or higher; and approval for supervised teaching.</em>",
+    "desc": "Student observes then teaches physical education classes under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. Course will not count toward the major GPA. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN496": {
+    "course_id": "KIN496",
+    "title": "KIN 496 Supervised Teaching (Elementary Physical Education)",
+    "req": "<em>Prerequisite: concurrent enrollment in <span data-link='KIN493'>KIN 493</span>.</em>",
+    "desc": "Student observes, then teaches physical education classes under the direction of the cooperating teacher and the university supervisor. Student participates in school-related activities appropriate to the assignment and attends all required meetings. In order to receive a grade in this course, the student&apos;s professional portfolio must meet or exceed final criteria. The course will not count toward the major GPA. Supplemental course fee. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 5
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN498": {
+    "course_id": "KIN498",
+    "title": "KIN 498 Clinical Experiences in Teaching II",
+    "req": "<em>Prerequisite: <span data-link='EDC199'>EDC 199</span>; and admitted to Teacher Education Program; and grades of &quot;C&quot; or better in all professional education courses; and completion of portfolio checkpoints 1 and 2; and current pre-professional liability insurance; and program approval.</em>",
+    "desc": "This course is designed to meet HB 1711 for student&apos;s experience as a Teacher&apos;s Aide or Assistant Rule (Rule 5 CSR 80-805.040), to that of conventional student teachers within the same program. It is also designed to support completion of additional clinical requirements within that program including: seminars and workshops, required meetings, school related activities appropriate to the assignment, demonstrated mastery of the MoSPE standards and completion and overall assessment of a Professional Preparation Portfolio. This course is credited only on BSEd or appropriate masters-level certification programs. Can only receive credit for one of the following: <span data-link='AGE499'>AGE 499</span>, <span data-link='AGT499'>AGT 499</span>, <span data-link='ART469'>ART 469</span>, <span data-link='BSE499'>BSE 499</span>, <span data-link='COM493'>COM 493</span>, <span data-link='ECE499'>ECE 499</span>, <span data-link='ELE499'>ELE 499</span>, <span data-link='ENG434'>ENG 434</span>, <span data-link='FCS498'>FCS 498</span>, <span data-link='HST499'>HST 499</span>, <span data-link='KIN498'>KIN 498</span>, <span data-link='MCL491'>MCL 491</span>, <span data-link='MID499'>MID 499</span>, <span data-link='MTH496'>MTH 496</span>, <span data-link='MUS499'>MUS 499</span>, <span data-link='SCI499'>SCI 499</span>, <span data-link='SEC499'>SEC 499</span>, <span data-link='SPE499'>SPE 499</span>, <span data-link='THE493'>THE 493</span>. Supplemental course fee. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN499": {
+    "course_id": "KIN499",
+    "title": "KIN 499 Special Problems",
+    "req": "<em>Prerequisite: permission of department head.</em>",
+    "desc": "Investigation of a problem within physical education, leisure services, dance, safety education, or coaching as assigned by members of the departmental faculty. May be repeated up to a maximum of 5 hours of credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN500": {
+    "course_id": "KIN500",
+    "title": "KIN 500 Seminar in Physical Education",
+    "req": "<em>Prerequisite: 60 hours and permission of department head.</em>",
+    "desc": "Directed reading and special investigation of selected subjects in physical education, health, and safety; research projects under faculty supervision. May be repeated for a maximum of 9 hours of credit. Variable content course. May be taught concurrently with <span data-link='KIN600'>KIN 600</span>. Cannot receive credit for both <span data-link='KIN500'>KIN 500</span> and <span data-link='KIN600'>KIN 600</span>. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN545": {
+    "course_id": "KIN545",
+    "title": "KIN 545 Perceptual and Motor Development",
+    "req": "<em>Prerequisite: <span data-link='PSY360'>PSY 360</span> or <span data-link='PSY380'>PSY 380</span> or <span data-link='PSY385'>PSY 385</span> or <span data-link='PSY390'>PSY 390</span> or <span data-link='CFD160'>CFD 160</span>; and 90 hours.</em>",
+    "desc": "Perceptual and motor development from prenatal life to adolescence; relationships of growth factors that influence motor abilities; difficulties that may arise when the normal course of development is interrupted. Includes a laboratory and a practicum experience. May be taught concurrently with <span data-link='KIN645'>KIN 645</span>. Cannot receive credit for both <span data-link='KIN545'>KIN 545</span> and <span data-link='KIN645'>KIN 645</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN550": {
+    "course_id": "KIN550",
+    "title": "KIN 550 Organization and Administration for Kinesiology Professionals",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='KIN350'>KIN 350</span>.</em>",
+    "desc": "This course will cover the fundamentals of program administration, legal considerations of health and exercise business management, and basic leadership responsibilities. This course will provide students the knowledge and skills associated with the resources required to implement health and physical activity programs and run exercise-related businesses. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "KIN567": {
+    "course_id": "KIN567",
+    "title": "KIN 567 Physical and Leisure Activities for the Aging Adult",
+    "req": "<em>Prerequisite: <span data-link='KIN250'>KIN 250</span> or <span data-link='BMS307'>BMS 307</span>; and <span data-link='KIN252'>KIN 252</span> or <span data-link='BMS308'>BMS 308</span>.</em>",
+    "desc": "The effects of aging and common degenerative diseases of the aged on physical performance and leisure. Included are units on assessment of physical working capacity, flexibility, body composition, strength maintenance. Also, units on selection of recreational and performance activities commensurate with functioning capacity. May be taught concurrently with <span data-link='KIN667'>KIN 667</span>. Cannot receive credit for both <span data-link='KIN567'>KIN 567</span> and <span data-link='KIN667'>KIN 667</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN569": {
+    "course_id": "KIN569",
+    "title": "KIN 569 Health Appraisal and Exercise Testing Techniques",
+    "req": "<em>Prerequisite: &quot;C&quot; grade or better in <span data-link='KIN362'>KIN 362</span>.</em>",
+    "desc": "Introduction to appropriate health appraisal and exercise tests for the purpose of exercise programming and prescription. Supplemental course fee. May be taught concurrently with <span data-link='KIN669'>KIN 669</span>. Cannot receive credit for both <span data-link='KIN669'>KIN 669</span> and <span data-link='KIN569'>KIN 569</span>. Exercise and Movement Science majors are required to earn a grade of &quot;C&quot; or better in this course. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN575": {
+    "course_id": "KIN575",
+    "title": "KIN 575 Measurement and Evaluation Applied to Physical Education",
+    "req": "<em>Prerequisite: 90 hours; and admitted to Teacher Education Program, and a combined (Missouri State and transfer) GPA of 2.75 or higher.</em>",
+    "desc": "Use of authentic and traditional assessment techniques in assessing student performance and informing curricular change. Includes basic statistics, use of statistical software packages, evaluation of test validity and bias, and written test construction. A grade of &quot;C&quot; or better required in this course in order to take <span data-link='KIN493'>KIN 493</span> or <span data-link='KIN496'>KIN 496</span>. Cannot be taken Pass/Not Pass. May be taught concurrently with <span data-link='KIN675'>KIN 675</span>. Cannot receive credit for both <span data-link='KIN575'>KIN 575</span> and <span data-link='KIN675'>KIN 675</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN582": {
+    "course_id": "KIN582",
+    "title": "KIN 582 Motivational Interviewing for Health Professionals",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This is an advanced level course for students who have had an introduction into health behavior theories and are interested in working in the health field. Course content will include an exploration into the attitudes and motivations of personal health behavior and an in-depth exploration of motivational interviewing principles and applications. May be taught concurrently with <span data-link='KIN582'>KIN 582</span>. Cannot receive credit for both <span data-link='KIN682'>KIN 682</span> and <span data-link='KIN582'>KIN 582</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN600": {
+    "course_id": "KIN600",
+    "title": "KIN 600 Seminar in Physical Education",
+    "desc": "Directed reading and special investigation of selected subjects in physical education, health, and safety; research projects under faculty supervision. May be repeated for a maximum of 9 hours of credit. Variable content course. May be taught concurrently with <span data-link='KIN500'>KIN 500</span>. Cannot receive credit for both <span data-link='KIN600'>KIN 600</span> and <span data-link='KIN500'>KIN 500</span>. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN645": {
+    "course_id": "KIN645",
+    "title": "KIN 645 Perceptual and Motor Development",
+    "desc": "Recommended Prerequisite: <span data-link='PSY360'>PSY 360</span>. Perceptual and motor development from prenatal life to adolescence; relationships of growth factors that influence motor abilities; difficulties that may arise when the normal course of development is interrupted. Includes a laboratory and a practicum experience. May be taught concurrently with <span data-link='KIN545'>KIN 545</span>. Cannot receive credit for both <span data-link='KIN645'>KIN 645</span> and <span data-link='KIN545'>KIN 545</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN667": {
+    "course_id": "KIN667",
+    "title": "KIN 667 Physical and Leisure Activities for the Aging Adult",
+    "desc": "The effects of aging and common degenerative diseases of the aged on physical performance and leisure. Included are units on assessment of physical working capacity, flexibility, body composition, strength maintenance. Also, units on selection of recreational and performance activities commensurate with functioning capacity. May be taught concurrently with <span data-link='KIN567'>KIN 567</span>. Cannot receive credit for both <span data-link='KIN667'>KIN 667</span> and <span data-link='KIN567'>KIN 567</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN669": {
+    "course_id": "KIN669",
+    "title": "KIN 669 Health Appraisal and Exercise Testing Techniques",
+    "desc": "Introduction to appropriate health appraisal and exercise tests for the purpose of exercise programming and prescription. Supplemental course fee. May be taught concurrently with <span data-link='KIN569'>KIN 569</span>. Cannot receive credit for both <span data-link='KIN669'>KIN 669</span> and <span data-link='KIN569'>KIN 569</span>. ",
+    "hours": {
+      "credit": 4,
+      "lecture": 3,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN675": {
+    "course_id": "KIN675",
+    "title": "KIN 675 Measurement and Evaluation Applied to Physical Education",
+    "desc": "Use of authentic and traditional assessment techniques in assessing student performance and informing curricular change. Includes basic statistics, use of statistical software packages, evaluation of test validity and bias, and written test construction. May be taught concurrently with <span data-link='KIN575'>KIN 575</span>. Cannot receive credit for both <span data-link='KIN675'>KIN 675</span> and <span data-link='KIN575'>KIN 575</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN682": {
+    "course_id": "KIN682",
+    "title": "KIN 682 Motivational Interviewing for Health Professionals",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This is an advanced level course for students who have had an introduction into health behavior theories and are interested in working in the health field. Course content will include an exploration into the attitudes and motivations of personal health behavior and an in-depth exploration of motivational interviewing principles and applications. May be taught concurrently with <span data-link='KIN582'>KIN 582</span>. Cannot receive credit for both <span data-link='KIN682'>KIN 682</span> and <span data-link='KIN582'>KIN 582</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN705": {
+    "course_id": "KIN705",
+    "title": "KIN 705 Applied Statistics in Health, Physical Education, and Recreation",
+    "req": "<em>Prerequisite: <span data-link='HLH700'>HLH 700</span> or equivalent or permission of instructor.</em>",
+    "desc": "Applications of descriptive and inferential statistics to research problems in Health, Physical Education, and Recreation. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN733": {
+    "course_id": "KIN733",
+    "title": "KIN 733 Current Problems in Sports Administration",
+    "desc": "Identification, analysis, and evaluation of current problems, research and trends in sports administration. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "KIN735": {
+    "course_id": "KIN735",
+    "title": "KIN 735 Administration of School Physical Education and Athletic Programs",
+    "desc": "Financial and legal aspects, personnel management, program development, public relations, and evaluation as they apply to physical education and athletics. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN737": {
+    "course_id": "KIN737",
+    "title": "KIN 737 Curriculum Designs in Physical Education",
+    "desc": "A comprehensive inquiry of the principles underlying the curriculum of physical education in grades K-12. An in-depth analysis will be given to the problems in development and evaluation of physical education curriculum. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN739": {
+    "course_id": "KIN739",
+    "title": "KIN 739 Principles of Sports Management",
+    "desc": "Introduction to theories and principles of sports management as applied to all segments of the sports industry from high school, collegiate, professional and international sports, to health, fitness and recreational settings. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "KIN755": {
+    "course_id": "KIN755",
+    "title": "KIN 755 Fitness as Preventive Medicine",
+    "desc": "Recommended Prerequisite: <span data-link='KIN362'>KIN 362</span> or equivalent. Development and implementation of scientifically-based fitness programs as vehicles of preventative medicine. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN759": {
+    "course_id": "KIN759",
+    "title": "KIN 759 Contemporary Health Problems",
+    "desc": "In-depth consideration of relevant pertinent health issues, trends, controversy, and current research in Health Education. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN760": {
+    "course_id": "KIN760",
+    "title": "KIN 760 Applied Biomechanics of Human Movement",
+    "desc": "Recommended Prerequisite: <span data-link='KIN360'>KIN 360</span> or equivalent. Biomechanical principles applied to the analysis of human motion and performance. Techniques of cinematography, computerized motion analysis and other methods of analysis will be used. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN762": {
+    "course_id": "KIN762",
+    "title": "KIN 762 Applied Exercise Physiology",
+    "desc": "Recommended Prerequisite: <span data-link='KIN362'>KIN 362</span> or equivalent. A study of the mechanisms underlying the body&apos;s physiological responses and adaptations to exercise and training. Application is made to health-related concerns, environmental stress, exercise practices, and the aging process. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN780": {
+    "course_id": "KIN780",
+    "title": "KIN 780 Legal Aspects in Sports, Physical Education, and Wellness Programs",
+    "desc": "The legal aspects in sports, physical education, recreation and wellness programs as related to personnel, facilities, participants, spectators and contracts. Includes a review of legal concepts, necessary for in-depth study of the law, as it relates to sports, or other programmed activities. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "KIN781": {
+    "course_id": "KIN781",
+    "title": "KIN 781 Contemporary Issues in Physical Education",
+    "desc": "Exploration of basic issues and trends in physical education using a philosophical approach to contemporary American education. Individual problem solving will assist the student in identifying, analyzing and evaluating recent developments and basic issues in physical education and sport. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "KIN795": {
+    "course_id": "KIN795",
+    "title": "KIN 795 Research Project",
+    "req": "<em>Prerequisite: <span data-link='HLH700'>HLH 700</span> or equivalent; a statistics course; and permission of graduate coordinator.</em>",
+    "desc": "Original research supervised by the departmental staff. Designed to enable students through firsthand experience to understand the various parts of research papers, methods of gathering data, appropriate statistical tests, interpretation of findings and implications for further study. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN797": {
+    "course_id": "KIN797",
+    "title": "KIN 797 Graduate Seminar",
+    "desc": "Selected topics in health, physical education, and recreation. Topics may vary from semester to semester. May be repeated for credit when topic varies. A total of 6 hours may be applied to a degree program. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN798": {
+    "course_id": "KIN798",
+    "title": "KIN 798 Field Experience in Sports Management",
+    "req": "<em>Prerequisite: completion of the application process for the field experience and 12 credits in the certificate program.</em>",
+    "desc": "The Field Experience is the culminating experience for all students in the certificate program. The field experience provides students the opportunity to become directly involved in the application of organizational and sport management skills in sport related venues. Possible sites include: professional or club sports teams, university athletic departments, sports sales, sports agencies, professional and university sports facilities. Selection is dependent on the students&apos; background and career expectations. All required courses must be completed in order to be eligible. The field experience can be completed during the fall, spring, or summer and requires at least 400 hours. All field experiences must be approved by the internship coordinator. ",
+    "hours": {
+      "credit": 6
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "KIN799": {
+    "course_id": "KIN799",
+    "title": "KIN 799 Thesis",
+    "req": "<em>Prerequisite: <span data-link='HLH700'>HLH 700</span> or equivalent; a statistics course; and permission of graduate coordinator.</em>",
+    "desc": "Independent research and study connected with the preparation of a thesis. May be repeated but no more than 6 hours may be counted toward degree. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD110": {
+    "course_id": "RAD110",
+    "title": "RAD 110 Introduction to Radiologic Technology",
+    "desc": "An introduction to the field, orientation to hospital and school policies, history, and fundamentals of radiography, basic radiation protection, professional ethics, patient care, nursing procedures, and basic cardiac life support (CPR). ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD120": {
+    "course_id": "RAD120",
+    "title": "RAD 120 Radiographic Anatomy",
+    "desc": "An introduction to human anatomy with a detailed study of the structure of the human skeletal system with special emphasis on radiographic landmarks. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD130": {
+    "course_id": "RAD130",
+    "title": "RAD 130 Radiographic Procedures I",
+    "desc": "Fundamentals of radiographic procedures and terminology. This course includes all routine positions and a discussion of the resulting radiographic projections. Includes image analysis, lab demonstrations, practice, and lab evaluations. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD140": {
+    "course_id": "RAD140",
+    "title": "RAD 140 Medical Terminology",
+    "desc": "A structural analysis of word roots, suffixes, and prefixes for terms pertinent to the medical field with an emphasis on radiologic technology. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD150": {
+    "course_id": "RAD150",
+    "title": "RAD 150 Radiologic Science I",
+    "desc": "A study of the fundamentals of atomic theory, basic electricity and x-ray circuitry, construction of x-ray tubes, the production of x-radiation, and interactions of x-radiation with matter. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD160": {
+    "course_id": "RAD160",
+    "title": "RAD 160 Radiographic Procedures II",
+    "desc": "Advanced procedures and positioning techniques with emphasis on trauma and special views of bony anatomy. Includes image analysis, lab demonstrations, practice, and lab evaluations. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD170": {
+    "course_id": "RAD170",
+    "title": "RAD 170 Image Processing",
+    "desc": "A study of the equipment, materials, and procedures used to produce radiographic images to include quality control procedures and image analysis. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD180": {
+    "course_id": "RAD180",
+    "title": "RAD 180 Radiographic Imaging I",
+    "desc": "A study of the formation of radiographic images to include a discussion of the image devices, exposure factors, and the geometric properties of the x-ray beam. Methods of improving image quality, reducing patient exposure to ionizing radiation, and image analysis are also included. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD190": {
+    "course_id": "RAD190",
+    "title": "RAD 190 Practicum I",
+    "desc": "First-year student clinical training. Duties begin under the direct supervision of the Registered Technologists. This will involve duties performed by a practicing technologist including the following: routine radiography, tomography, fluoroscopy, digital imaging, portable radiography, trauma radiography, and surgical radiography. Also included is an extensive clinical competency and performance evaluation system. ",
+    "hours": {
+      "credit": 7,
+      "lecture": 1,
+      "lab": 12
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD310": {
+    "course_id": "RAD310",
+    "title": "RAD 310 Radiologic Physiology",
+    "desc": "Normal structure and function of human systems with emphasis on related radiographic examinations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD315": {
+    "course_id": "RAD315",
+    "title": "RAD 315 Radiologic Pathology",
+    "desc": "The study of human disease to include disease etiology, diagnosis, clinical interpretation and treatment. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD320": {
+    "course_id": "RAD320",
+    "title": "RAD 320 Radiographic Procedures III",
+    "desc": "A comprehensive study of examinations utilizing contrast media to visualize various aspects of the digestive and urinary systems. Includes image analysis, lab demonstrations, practice, and lab evaluations. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD330": {
+    "course_id": "RAD330",
+    "title": "RAD 330 Radiographic Procedures IV",
+    "desc": "A general overview of the examinations requiring special techniques and/or contrast agents. Special emphasis is placed on new modalities or procedures that may have replaced these examinations. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD340": {
+    "course_id": "RAD340",
+    "title": "RAD 340 Contrast Agents",
+    "desc": "A general study of contrast agents and pharmacology, including types, uses, patient reactions, and emergency treatment for reactions. The basic techniques of venipuncture are included. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD350": {
+    "course_id": "RAD350",
+    "title": "RAD 350 Radiographic Science II",
+    "desc": "An in-depth study of radiation biology to include the effects of ionizing radiation on living tissues, organs, and systems. Advanced study of radiation protection principles and regulations. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD360": {
+    "course_id": "RAD360",
+    "title": "RAD 360 Radiographic Imaging II",
+    "desc": "A study of specialized imaging technologies to include fluoroscopy, digital imaging, tomography, and other modalities. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 1,
+      "lab": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD370": {
+    "course_id": "RAD370",
+    "title": "RAD 370 Radiographic Procedures V",
+    "desc": "An introduction to advanced procedures to include: interventional technology, computerized tomography, diagnostic medical sonography, nuclear medicine, radiation therapy, and magnetic resonance imaging. Includes resume and cover letter writing and the job interview process. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RAD380": {
+    "course_id": "RAD380",
+    "title": "RAD 380 Practicum II",
+    "desc": "Second-year clinical training includes a continuation of first-year duties with increased responsibilities under supervision of Registered Technologists. Rotations will include but may not be limited to: interventional technology, cardiac cath lab, computed tomography, nuclear medicine, diagnostic medical sonography, radiation therapy, and magnetic resonance imaging. ",
+    "hours": {
+      "credit": 8,
+      "lecture": 1,
+      "lab": 14
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "REC152": {
+    "course_id": "REC152",
+    "title": "REC 152 Introduction to Recreation, Sport, and Park Administration",
+    "desc": "Implications of leisure values in society and the role that organizations, agencies, institutions and municipalities have played in the recreation, sport, and park industries. Theories, concepts, and philosophies of leisure and recreation in society. A survey of the career opportunities in the recreation, sport and park venues. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC160": {
+    "course_id": "REC160",
+    "title": "REC 160 Outdoor Initiatives",
+    "desc": "This course is designed to give the student an experiential exposure to the processes of facilitating individual and group outdoor initiatives. Students will be actively involved in a weekend course experience which includes individual and group activities, initiative games, trust building activities and low and high ropes activities. Concepts of dynamic group leadership, facilitation skills, group decision making and problem solving as well as personal development will be incorporated in the weekend experience. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC161": {
+    "course_id": "REC161",
+    "title": "REC 161 Basic Low Impact Camping",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course is designed to provide the students with practical skills in camping. Basic campcraft skills such as toolcraft, firecraft, ropecraft, outdoor cooking, map and compass will be included with a minimum impact camping orientation. Skills will be taught with an emphasis on appropriately leading others in outdoor settings and with safety and risk management considered. Field trips required. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC190": {
+    "course_id": "REC190",
+    "title": "REC 190 Applied Social Recreation",
+    "desc": "Applied approach to developing leadership skills in games, activities, contests and social recreation activities. Activity analysis as applied to expected outcomes, instructional techniques, age appropriateness, and activity leadership skills is emphasized. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC205": {
+    "course_id": "REC205",
+    "title": "REC 205 Concepts in Therapeutic Recreation",
+    "req": "<em>Prerequisite: <span data-link='REC152'>REC 152</span> or concurrent enrollment.</em>",
+    "desc": "Orientation to the broad applications of clinical and community based therapeutic recreation approaches to programs and services for individuals with disabilities. Specific considerations given to mental retardation, developmental disabilities, mental illness, physical disabilities, aging, juvenile and adult corrections. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC210": {
+    "course_id": "REC210",
+    "title": "REC 210 Camp Counseling",
+    "desc": "Overview of the camping movement in America, the role of the counselor, and the personal development of the camper. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC211": {
+    "course_id": "REC211",
+    "title": "REC 211 Principles of Outdoor Recreation",
+    "desc": "An analysis of the history, nature, and importance of the outdoor recreation field. An overall view of outdoor recreation philosophy based on legislation, theory, geographic factors, land use, and open space factors. Field trips may be required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC235": {
+    "course_id": "REC235",
+    "title": "REC 235 Adaptive Recreation Techniques Equipment",
+    "desc": "The identification of techniques associated with the utilization of adapted and modified recreational and personal aids, appliances, and equipment utilized in leisure pursuits by individuals with physical impairments. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC301": {
+    "course_id": "REC301",
+    "title": "REC 301 The Role of Animals in Recreation",
+    "desc": "In rural or urban, public or private settings, humans are attracted to domestic or wild animals as a recreation activity...keeping, observing, showing, breeding, harvesting, capturing, fighting, training, and riding. This is a seminar course that will offer the student an opportunity to make a critical survey of the &quot;recreational role of animals&quot; in society (for persons with or without disability) as well as its surrounding commercial recreation industry and technology. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC302": {
+    "course_id": "REC302",
+    "title": "REC 302 Ecotourism",
+    "desc": "Students will gain an appreciation for ecotourism as a recreation experience. The course will examine our local ecotourism resources and compare them to the international trends and issues related to ecotourism, models of tourism and recreation planning, and ecotourism, especially focusing on the issue of sustainability. Field trips required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC303": {
+    "course_id": "REC303",
+    "title": "REC 303 Recreational Tourism Frontiers",
+    "desc": "This is a seminar course that will offer the student an opportunity to make a critical survey of current trends and issues (some controversial) in the field of recreational tourism. Recreational trends such as health, sport, festivals, gambling, genealogy/reunions, incentive travel, adventure, contests/shows/meetings, heritage/nostalgia, tourism for the disabled, nature, arts, farm/home visits and more...seem to be on the cusp of popularity. Students will examine practices, resources, delivery systems, ethics, career development issues, literature, and research. ",
+    "hours": {
+      "credit": 2,
+      "lecture": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "REC304": {
+    "course_id": "REC304",
+    "title": "REC 304 Community Recreation and Tourism",
+    "desc": "This course focuses on inventory, survey, assessment, and promotion of products/services of community recreation resources for visitors and residents. Students will learn how tourism is an important component of community recreation programming. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "REC305": {
+    "course_id": "REC305",
+    "title": "REC 305 Meeting Planning",
+    "desc": "This course presents concepts necessary for the meeting planner to successfully solicit/develop and manage conventions and special events, commonly participated in during leisure time. Techniques of delivery, planning, managing and assessing economic impact, as well as highlighting the role of the convention and visitors bureau as a catalyst for regional leisure economic development of business travel will be included. As an elective, this course is for students in recreation, communications, marketing, and other fields. Though the course makes reference to the hotel industry, it is taught from the perspective of the meeting planner. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC311": {
+    "course_id": "REC311",
+    "title": "REC 311 Outdoor/Adventure Education",
+    "desc": "The scope, methods, and importance of using the outdoors as a teaching tool for both individual and group education settings. Field trip(s) required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC315": {
+    "course_id": "REC315",
+    "title": "REC 315 Introduction to Private/Commercial Recreation",
+    "desc": "Overview of the spectrum of private planning, delivery and assessment of goods and services in the private and commercial sector. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC320": {
+    "course_id": "REC320",
+    "title": "REC 320 Fundamentals of Tourism",
+    "desc": "Geographical and recreational elements of tourism and travel including social, economic, environmental and political factors. Career options will be identified. Students participate in tourism research projects. One field trip may be required. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "REC325": {
+    "course_id": "REC325",
+    "title": "REC 325 Leisure Education",
+    "desc": "This course is designed to identify and experientially implement the concept of leisure education and examine individual interview techniques, group process approaches, techniques, and strategies, and other appropriate materials facilitating the leisure education process. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC328": {
+    "course_id": "REC328",
+    "title": "REC 328 Statistical Applications in Recreation, Sport and Park Administration",
+    "req": "<em>Prerequisite: 30 hours and completion of General Education mathematics requirement.</em>",
+    "desc": "Introduction to statistical applications most commonly used in recreation, sport, and park administration services research; analysis, interpretation and presentation of data related to recreation, sport, and park administration services; particularly measures of central tendency and dispersion, elementary probability, probability distributions, sampling, standard error, interval estimation, and hypothesis testing. This course cannot be credited toward a degree if a student has passed any of the following: <span data-link='AGR330'>AGR 330</span>, <span data-link='MTH340'>MTH 340</span>, <span data-link='PSY200'>PSY 200</span>, <span data-link='QBA237'>QBA 237</span>, <span data-link='SOC302'>SOC 302</span>. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC330": {
+    "course_id": "REC330",
+    "title": "REC 330 Leisure Research Applications",
+    "req": "<em>Prerequisite: <span data-link='REC152'>REC 152</span> and <span data-link='REC328'>REC 328</span>.</em>",
+    "desc": "An overview of the purpose, basic procedures, research designs, and computer applications in leisure research. Familiarization with and interpretation of research literature in the field of recreation, sport, and park services. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC335": {
+    "course_id": "REC335",
+    "title": "REC 335 Recreation, Sport, and Park Administration Practicum",
+    "req": "<em>Prerequisite: <span data-link='REC152'>REC 152</span> and <span data-link='REC190'>REC 190</span> and <span data-link='REC205'>REC 205</span>; and permission of practicum instructor.</em>",
+    "desc": "A practical experience which the student can relate to classroom theory. Students are assigned to recreation, sport, and park administration agencies for exposure to structure, programming, and philosophy of the cooperating agency. Practicum experience must be a minimum of 100 hours. Students should report to the Recreation, Sport, and Park Administration office at least six (6) months prior to the semester the practicum is desired. May be repeated once for credit but each practicum must be in a different recreation, sport, and park administration agency. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 3,
+      "lab": 6
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "REC390": {
+    "course_id": "REC390",
+    "title": "REC 390 Recreation Programming",
+    "req": "<em>Prerequisite: <span data-link='REC152'>REC 152</span> and <span data-link='REC190'>REC 190</span> and <span data-link='REC205'>REC 205</span> and 60 credit hours.</em>",
+    "desc": "Students will examine various program areas and various approaches to program determination; development process for program planning, and gain experience in brochure and survey development. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC400": {
+    "course_id": "REC400",
+    "title": "REC 400 Therapeutic Recreation Foundations",
+    "req": "<em>Prerequisite: <span data-link='REC205'>REC 205</span>; and either <span data-link='KIN250'>KIN 250</span> or <span data-link='BMS307'>BMS 307</span> or concurrent enrollment.</em>",
+    "desc": "Acquaint students with history, philosophy, theories, principles, concepts, techniques, and skills in the provision of therapeutic recreation programs and services. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "REC401": {
+    "course_id": "REC401",
+    "title": "REC 401 Therapeutic Recreation Assessment Evaluation, Intervention Techniques and Modalities",
+    "req": "<em>Prerequisite: <span data-link='REC400'>REC 400</span>.</em>",
+    "desc": "Focuses on use of assessment, evaluation, and facilitation technique in the delivery of treatment program modalities commonly found in therapeutic recreation practice. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "REC405": {
+    "course_id": "REC405",
+    "title": "REC 405 Camp Administration",
+    "desc": "A study of the techniques and principles involved in the administration of modern camps. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC406": {
+    "course_id": "REC406",
+    "title": "REC 406 Promoting Leisure Services",
+    "req": "<em>Prerequisite: <span data-link='REC152'>REC 152</span>.</em>",
+    "desc": "To provide the Recreation, Sport, and Park Administration students with an emphasis in Recreation Management or Sport Administration with an overview of low-cost strategies of planning and executing promotion for non-profit, government and profit making leisure services. Emphasis will be made on working with non-profit organizations. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC410": {
+    "course_id": "REC410",
+    "title": "REC 410 Recreation Leadership Supervision",
+    "req": "<em>Prerequisite: <span data-link='REC152'>REC 152</span> and <span data-link='REC190'>REC 190</span> and <span data-link='REC205'>REC 205</span> and 60 credit hours.</em>",
+    "desc": "A study of the processes, methods, and characteristics of leadership and supervision in the delivery of leisure services. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC411": {
+    "course_id": "REC411",
+    "title": "REC 411 Outdoor Pursuits",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "To acquaint the student with a variety of outdoor pursuit activities. Skill development, environmental values and impact considerations of outdoor experiences will be emphasized. Field trips and a weekend educational outing required. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 2,
+      "lab": 2
+    },
+    "offered": {
+      "Spring": true
+    }
+  },
+  "REC415": {
+    "course_id": "REC415",
+    "title": "REC 415 Risk Management for Recreation, Sport, and Park Agencies",
+    "req": "<em>Prerequisite: 75 hours.</em>",
+    "desc": "This course is designed to look at the various risk management concepts, laws, and administrative practices that address the legal environment of recreation, sport, and park agencies within the scope of our legal culture. Our Constitution, legal liability related to safe environs, crowd control, transportation, employee rules and regulations, workplace risk, and the general management of risk situations and aspects will be the central core of this course. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC420": {
+    "course_id": "REC420",
+    "title": "REC 420 Trends and Issues in Therapeutic Recreation",
+    "req": "<em>Prerequisite: <span data-link='REC401'>REC 401</span>; and either <span data-link='KIN252'>KIN 252</span> or <span data-link='BMS308'>BMS 308</span> or concurrent enrollment.</em>",
+    "desc": "Designed to focus on contemporary issues, trends, practices, and professional literature, media resources, and research related to the delivery of therapeutic recreation services. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true
+    }
+  },
+  "REC422": {
+    "course_id": "REC422",
+    "title": "REC 422 Recreation Facility and Area Management",
+    "req": "<em>Prerequisite: admission to the Recreation, Sport, and Park Administration program (major or minor); and 90 hours; and <span data-link='REC390'>REC 390</span>.</em>",
+    "desc": "Elements of locating, planning, developing, maintaining, and financing various recreation facilities and areas management. Study of management principles and responsibilities applicable to leisure settings. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC423": {
+    "course_id": "REC423",
+    "title": "REC 423 Administration of Recreation, Sport, and Park Agencies",
+    "req": "<em>Prerequisite: admission to the Recreation, Sport, and Park Administration program (major or minor); and 90 hours; and <span data-link='REC390'>REC 390</span>.</em>",
+    "desc": "This course is usually taken with <span data-link='REC422'>REC 422</span>. Presentation of administrative principles of leisure oriented agencies. Specific approaches to financing, personnel budgets, facility operation, policy development, departmental structure, public relations, legal aspects, and evaluation procedures are presented. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 3
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC451": {
+    "course_id": "REC451",
+    "title": "REC 451 Outdoor Leadership",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "This course emphasizes experiential teaching/learning using the Wilderness Education Association curriculum under field conditions which builds upon the student&apos;s prior outdoor study and experience. The result is a practical group experience in the outdoors spent enjoyably and safely with minimum harm to the environment. This environmental stewardship course stresses leadership, decision making, low impact camping, sound expedition behavior and environmental ethics. Field trips will be required. May be repeated once. Supplemental course fee. ",
+    "hours": {
+      "credit": 3,
+      "lecture": 1,
+      "lab": 4
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "REC490": {
+    "course_id": "REC490",
+    "title": "REC 490 Orientation to Internship",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Orientation to the internship experience, including the student application process, the agency application and contractual agreement, the expectations of the University, the responsibilities of the student and the agency, appropriate completion of logs, planned experiences, time summaries and assigned problems. Students planning to intern in the Spring semester must enroll in this course during the preceding Fall semester, and students planning to intern in the Summer or Fall semesters must enroll in this course during the preceding Spring semester. ",
+    "hours": {
+      "credit": 1,
+      "lecture": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true
+    }
+  },
+  "REC491": {
+    "course_id": "REC491",
+    "title": "REC 491 Recreation, Sport, and Park Administration Internship",
+    "req": "<em>Prerequisite: complete all other coursework (including General Education Program, major(s), minors(s), if applicable, and all general baccalaureate degree requirements); and cumulative Missouri State GPA of at least 2.20; and first-aid and CPR competency met and maintained current throughout internship; and permission of internship coordinator.</em>",
+    "desc": "Supervised field experience which provides the student with an opportunity to make the transition from the classroom to actual involvement in a leisure service agency. In addition to the 10 week (optional 15 week) involvement, students are required to (l) meet with the Recreation, Sport, and Park Administration internship coordinator during the preceding semester to secure an internship site and clarify internship responsibilities, and (2) complete a notebook during the internship. Credit will be based on the length of the internship period and students receive either 8 hours or 12 hours. Public Affairs Capstone Experience course. ",
+    "hours": {
+      "credit": 8
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "REC495": {
+    "course_id": "REC495",
+    "title": "REC 495 Seminar in Recreation, Sport, and Park Administration",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Study of various recreation, sport, and park administration topics from contemporary and/or technical points of view. Students should check the current class schedule to determine the topic. May be repeated, provided the topic is different, to a maximum of 6 hours. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "REC499": {
+    "course_id": "REC499",
+    "title": "REC 499 Special Problems",
+    "req": "<em>Prerequisite: permission of Recreation, Sport, and Park Administration Program Director.</em>",
+    "desc": "Directed reading or special investigation of a particular problem within the field of recreation, sport, and park administration and research projects under faculty supervision. May be repeated up to a maximum of 5 hours of credit. ",
+    "hours": {
+      "credit": 1
+    },
+    "offered": {
+      "Fall": true,
+      "Spring": true,
+      "Summer": true
+    }
+  },
+  "RTH111": {
+    "course_id": "RTH111",
+    "title": "RTH 111 Fundamentals of Respiratory Therapy I",
+    "desc": "Topics in medical terminology, function of the respiratory system including: ventilatory mechanisms, gas transport in the blood and regulation of ventilation. Medical gas delivery devices will be considered with classroom knowledge being used to develop skills in the clinical setting. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RTH112": {
+    "course_id": "RTH112",
+    "title": "RTH 112 Fundamentals of Respiratory Therapy II",
+    "desc": "A continuation of fundamentals with major emphasis and topics of aerosols, humidity, equipment maintenance, IPPB therapy and asepsis techniques. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RTH113": {
+    "course_id": "RTH113",
+    "title": "RTH 113 Fundamentals of Respiratory Therapy III",
+    "desc": "Ventilatory insufficiency and failure, mechanical ventilation, and chest physio-therapy. Skills and techniques are developed in the clinical setting. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RTH311": {
+    "course_id": "RTH311",
+    "title": "RTH 311 Pulmonary Functions",
+    "desc": "Application of specialized diagnostic facilities including pulmonary function and blood gas analysis. Approach and application of fundamental skills are extended to primary intensive care facilities of the participating institution. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RTH313": {
+    "course_id": "RTH313",
+    "title": "RTH 313 Clinical Application of Acid-Base Balance",
+    "req": "<em>Prerequisite: <span data-link='RTH311'>RTH 311</span>.</em>",
+    "desc": "Acid-Base Homeostasis is related to clinical therapeutics. Topics include expired gas analysis, hemodynamics, biomedical instrumentation of biostatistical analysis. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RTH350": {
+    "course_id": "RTH350",
+    "title": "RTH 350 Respiratory Therapy Pharmacology",
+    "desc": "Provides the student with the skills and knowledge for the safe usage of therapeutic drugs. An introduction to the general principles and mechanisms of drug actions, interactions, and toxicity of the use of therapeutic drugs. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RTH352": {
+    "course_id": "RTH352",
+    "title": "RTH 352 Pathology and Chest Disease",
+    "desc": "Physio-pathology of respiratory disease states as they relate to normal structure. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RTH360": {
+    "course_id": "RTH360",
+    "title": "RTH 360 Respiratory Therapy Practicum",
+    "desc": "Departmental responsibilities including principles and practices of planning, directing and evaluating a respiratory therapy department. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RTH361": {
+    "course_id": "RTH361",
+    "title": "RTH 361 Respiratory Physiology",
+    "desc": "In-depth study and analysis of ventilation, the response to chemical and gaseous agents and manifestation and diagnosis and treatment of pulmonary disease. ",
+    "hours": {
+      "credit": 2
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RTH370": {
+    "course_id": "RTH370",
+    "title": "RTH 370 Advanced Clinical Techniques",
+    "req": "<em>Prerequisite: permission of instructor.</em>",
+    "desc": "Selected topics in the use of biomedical electronic and health related equipment as applied to Respiratory Therapy. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RTH371": {
+    "course_id": "RTH371",
+    "title": "RTH 371 Cardiovascular Physiology",
+    "desc": "A course describing detailed anatomy and physiology of the cardiovascular system. Topics included are: neurogenic and histogenic homeostasis, shock, disease processes and diagnostic testing. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RTH380": {
+    "course_id": "RTH380",
+    "title": "RTH 380 Special Studies in Respiratory Therapy",
+    "desc": "Provides the student with the opportunity for advanced work in a specialty area on an individual basis. ",
+    "hours": {
+      "credit": 4
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RTH381": {
+    "course_id": "RTH381",
+    "title": "RTH 381 Clinical Practicum in Respiratory Care",
+    "desc": "Supervised practical application of various respiratory care procedures performed in clinical settings. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RTH382": {
+    "course_id": "RTH382",
+    "title": "RTH 382 Clinical Practicum in Respiratory Care",
+    "req": "<em>Prerequisite: <span data-link='RTH381'>RTH 381</span>.</em>",
+    "desc": "Supervised practical application of various respiratory care procedures performed in clinical settings. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  },
+  "RTH383": {
+    "course_id": "RTH383",
+    "title": "RTH 383 Clinical Practicum in Respiratory Care",
+    "req": "<em>Prerequisite: <span data-link='RTH382'>RTH 382</span>.</em>",
+    "desc": "Continuation of <span data-link='RTH382'>RTH 382</span>. ",
+    "hours": {
+      "credit": 3
+    },
+    "offered": {
+      "Upon demand": true
+    }
+  }
+}
