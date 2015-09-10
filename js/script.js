@@ -7,6 +7,20 @@ head.appendChild(style)
 
 var goCourseSort = new GoCourseSort("ws://" + window.location.host + "/websocket")
 
+// expose for testing console
+this.goCourseSort = goCourseSort;
+this.cblog = function (error, res) {
+  if (error) console.error(error)
+  else {
+    console.log(res)
+    if (res != null && res.Results != null && res.Results.length > 0) {
+      for (var i = 0; i < res.Results.length; i++) {
+        console.log(i,res.Results[i])
+      }
+    }
+  }
+}
+
 var outputElem = document.getElementById("output")
 
 document.getElementById("searchGoCourseSort")
@@ -18,7 +32,7 @@ document.getElementById("searchGoCourseSort")
       console.log("Search '" + searchSrc + "':", data)
       var newOutput = "";
       for (var i = 0; i < data.Results.length; i++) {
-        newOutput += "<div>" + data.Results[i].T + "</div>"
+        newOutput += "<div>" + data.Results[i].Title + "</div>"
       };
       newOutput += "<br><i>Total Results: " + data.TotalResults + "    Execution Time: " + (Math.ceil(data.ExecutionTime * 1E4) / 1E4) + "s</i></div>";
       outputElem.innerHTML = newOutput;

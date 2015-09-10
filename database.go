@@ -33,6 +33,7 @@ type Course struct {
 }
 type CourseDB struct {
 	coursesById map[string]*Course
+	coursesByLink map[string][]*Course
 	kwIndex map[string][]KeywordLink
 	keywords []string
 }
@@ -43,6 +44,19 @@ func (db *CourseDB) GetCourse (id string) (course *Course, err error) {
 		return nil, errors.New("Course with id: '" + id + "' does not exist in database.")
 	}
 	return course, nil
+}
+
+func (db *CourseDB) GetCourses (ids []string) DatabaseResults {
+	timerStart := time.Now()
+	res := make([]*Course, len(ids))
+	for i, id := range ids {
+		res[i], _ = db.GetCourse(id)
+	}
+	return DatabaseResults{
+		Results: res,
+		TotalResults: len(ids),
+		ExecutionTime: 1E-9 * float64(time.Now().Sub(timerStart).Nanoseconds()),
+	}
 }
 
 func (db CourseDB) String () string {
@@ -97,13 +111,13 @@ func (st searchTermRelevance) Less(st2 searchTermRelevance) bool {
 }
 
 
-type SearchResults struct {
+type DatabaseResults struct {
 	Results []*Course
 	TotalResults int
 	ExecutionTime float64
 }
 
-func (db *CourseDB) SearchKeywords (term string) SearchResults {
+func (db *CourseDB) SearchKeywords (term string) DatabaseResults {
 	timerStart := time.Now()
 	// create a map of courses to keywords with ranks
 	var keywordLinks = make(map[*Course][]KeywordLinkRank)
@@ -191,7 +205,119 @@ func (db *CourseDB) SearchKeywords (term string) SearchResults {
 	for i, sr := range searchRes[:limit] {
 		res[i] = sr.Target
 	}
-	return SearchResults{
+	return DatabaseResults{
+		Results: res,
+		TotalResults: len(searchRes),
+		ExecutionTime: 1E-9 * float64(time.Now().Sub(timerStart).Nanoseconds()),
+	}
+}
+
+func (db *CourseDB) GetCoursesByLink (link string) DatabaseResults {
+	timerStart := time.Now()
+	
+	res, exists := db.coursesByLink[link]; if !exists {
+		res = make([]*Course,0)
+	}
+	
+	return DatabaseResults{
+		Results: res,
+		TotalResults: len(res),
+		ExecutionTime: 1E-9 * float64(time.Now().Sub(timerStart).Nanoseconds()),
+	}
+}
+func (db *CourseDB) SearchKeywordsExact (term string) DatabaseResults {
+	timerStart := time.Now()
+	// create a map of courses to keywords with ranks
+	var keywordLinks = make(map[*Course][]KeywordLinkRank)
+	
+	termWords := regexp.MustCompile(`([a-zA-Z']+|\d+)`).FindAllString(term, -1)
+	termWordsLen := len(termWords)
+	for termWordIndex, termWord := range termWords {
+		// each term
+		termWordLower := strings.ToLower(termWord)
+		matchKeywords := make([]string, 0)
+		// find exact matching keywords
+		for _, keyword := range db.keywords {
+			if keyword == termWordLower {
+				matchKeywords = append(matchKeywords, keyword)
+			}
+		}
+		if len(matchKeywords) > 0 {
+			// highest distance from each matched keyword to term
+			for _, matchKeyword := range matchKeywords {
+				// sorted ranked keywords against term
+				for _, kwLink := range db.kwIndex[matchKeyword] {
+					// courses with matched keyword
+					klnkrnk := KeywordLinkRank{
+						CourseTitle: kwLink.Course.Title,
+						Keyword: matchKeyword,
+						KeywordIndexInTitle: kwLink.Index,
+						SearchTerm: termWord,
+						SearchTermIndex: termWordIndex,
+					}
+					_, ok := keywordLinks[kwLink.Course]; if !ok {
+						keywordLinks[kwLink.Course] = []KeywordLinkRank{
+							klnkrnk,
+						}
+					} else {
+						keywordLinks[kwLink.Course] = append(keywordLinks[kwLink.Course], klnkrnk)
+					}
+				}
+			}
+		}
+	}
+	
+	// Calculate total distances
+	var searchRes = make(ranks, 0, len(keywordLinks))
+	
+	for course, keywordLinkRanks := range keywordLinks {
+		// make sure all termWords match something in the title
+		searchTermPresence := make(map[string]searchTermRelevance)
+		for _, term := range termWords {
+			// initiallize empty
+			searchTermPresence[term] = searchTermRelevance{}
+		}
+
+		for _, klr := range keywordLinkRanks {
+			relevance := 1.0 - (float64(klr.KeywordIndexInTitle) / float64(course.titleKeywordsLen))
+			// the exactness tells us approximately how likely the word is relevant
+			exactness := 1.0 - (float64(klr.SearchTermDistance) / float64(len(klr.Keyword)))
+			relevance2 := 1.0 - (float64(klr.SearchTermIndex) / float64(termWordsLen))
+			
+			newSt := searchTermRelevance{
+				r1: relevance,
+				r2: relevance2,
+				ex: exactness,
+			}
+			st := searchTermPresence[klr.SearchTerm]; if st.Less(newSt) {
+				searchTermPresence[klr.SearchTerm] = newSt
+			}
+		}
+		
+		totalRelevance := 1.0
+		for _, strelev := range searchTermPresence {
+			totalRelevance *= strelev.score()
+		}
+		
+		if totalRelevance > 0 {
+			searchRes = append(searchRes, sRank{
+				Target: course,
+				Distance: int(1000 * totalRelevance),
+			})
+		}
+	}
+	
+	sort.Sort(searchRes)
+	
+	limit := 10
+	if limit > len(searchRes) {
+		limit = len(searchRes)
+	}
+	res := make([]*Course, limit)
+	for i, sr := range searchRes[:limit] {
+		res[i] = sr.Target
+	}
+	return DatabaseResults{
 		Results: res,
 		TotalResults: len(searchRes),
 		ExecutionTime: 1E-9 * float64(time.Now().Sub(timerStart).Nanoseconds()),
@@ -207,6 +333,13 @@ func (db *CourseDB) CreateIndexCourseKeywords () {
 	re := regexp.MustCompile(`([a-zA-Z']+|\d+)`)
 	db.kwIndex = make(map[string][]KeywordLink)
 	for _, course := range db.coursesById {
+		// index courses by link
+		byLink, exists := db.coursesByLink[course.Link]; if !exists {
+			byLink = make([]*Course,0)
+		}
+		db.coursesByLink[course.Link] = append(byLink, course)
+		
+		// index keywords
 		titleKeywords := re.FindAllString(course.Title, -1)
 		course.titleKeywordsLen = len(titleKeywords)
 		for titleWordIndex, word := range titleKeywords {

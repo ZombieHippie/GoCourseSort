@@ -8,6 +8,7 @@ import (
 	"os"
 	"fmt"
 	"github.com/gorilla/websocket"
+	"strings"
 )
 
 //const relSrcDir = "./src/github.com/ZombieHippie/GoCourseSort"
@@ -20,6 +21,7 @@ func main() {
 	
 	db := CourseDB{
 		coursesById: map[string]*Course{},
+		coursesByLink: map[string][]*Course{},
 	}
 	
 	relSrcDir := os.Args[2]
@@ -106,18 +108,38 @@ func main() {
 	        messageType, messageString = messageString[0], messageString[1:]
 	        switch messageType {
 	        	case '!':
-				course, getCourseErr := db.GetCourse(messageString); if getCourseErr != nil {
+	        	// get by id
+				courseResult, getCourseErr := db.GetCourse(messageString); if getCourseErr != nil {
 					conn.WriteJSON(getCourseErr.Error())
 					continue
 				}
-				writeErr := conn.WriteJSON(course); if writeErr != nil {
+				writeErr := conn.WriteJSON(courseResult); if writeErr != nil {
 					continue
 				}
 				case '?':
 				// do search		
 				searchResults := db.SearchKeywords(messageString)
-				
-				conn.WriteJSON(searchResults)
+				writeErr := conn.WriteJSON(searchResults); if writeErr != nil {
+					continue
+				}
+				case '=':
+				// do search exact keywords		
+				searchResults := db.SearchKeywordsExact(messageString)
+				writeErr := conn.WriteJSON(searchResults); if writeErr != nil {
+					continue
+				}
+				case '&':
+				// get multiple
+				results := db.GetCourses(strings.Split(messageString, ";"))
+				writeErr := conn.WriteJSON(results); if writeErr != nil {
+					continue
+				}
+				case 'L':
+				// get multiple
+				results := db.GetCoursesByLink(messageString)
+				writeErr := conn.WriteJSON(results); if writeErr != nil {
+					continue
+				}
 	        }
 	    }
 	}
