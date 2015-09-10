@@ -1,0 +1,17 @@
+{
+  "name": "www",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZombieHippie/GoCourseSort"
+  },
+  "dependencies": {
+    "babel-loader": "latest",
+    "jquery": "~2.1",
+    "webpack": "~1.9",
+    "extract-text-webpack-plugin": "latest",
+    "css-loader": "latest",
+    "jade-loader": "latest",
+    "angular": "latest"
+  }
+}
