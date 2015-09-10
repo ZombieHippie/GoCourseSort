@@ -356,10 +356,11 @@ func (db *CourseDB) CreateIndexCourseKeywords () {
 		db.coursesByLink[course.Link] = append(byLink, course)
 		
 		// index courses by department
-		byDept, exists := db.coursesByDepartment[course.Link]; if !exists {
+		dept := course.Id[:3]
+		byDept, exists := db.coursesByDepartment[dept]; if !exists {
 			byDept = make([]*Course,0)
 		}
-		db.coursesByDepartment[course.Id[:3]] = append(byDept, course)
+		db.coursesByDepartment[dept] = append(byDept, course)
 
 		// index keywords
 		titleKeywords := re.FindAllString(course.Title, -1)
