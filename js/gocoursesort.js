@@ -67,6 +67,9 @@ GoCourseSort.prototype.getAll = function(course_ids, callback) {
 GoCourseSort.prototype.getLink = function(link, callback) {
   this._send("L" + link, new _DatabaseResultsConverter(callback));
 };
+GoCourseSort.prototype.getDept = function(dept, callback) {
+  this._send("D" + dept, new _DatabaseResultsConverter(callback));
+};
 GoCourseSort.prototype._send = function(message, callback) {
   var self = this;
   if (self.wss != null && typeof(self.wss.send) === "function") {
