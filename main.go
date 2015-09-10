@@ -22,6 +22,7 @@ func main() {
 	db := CourseDB{
 		coursesById: map[string]*Course{},
 		coursesByLink: map[string][]*Course{},
+		coursesByDepartment: map[string][]*Course{},
 	}
 	
 	relSrcDir := os.Args[2]
@@ -135,8 +136,14 @@ func main() {
 					continue
 				}
 				case 'L':
-				// get multiple
+				// get by link
 				results := db.GetCoursesByLink(messageString)
+				writeErr := conn.WriteJSON(results); if writeErr != nil {
+					continue
+				}
+				case 'D':
+				// get by department
+				results := db.GetCoursesByDepartment(messageString)
 				writeErr := conn.WriteJSON(results); if writeErr != nil {
 					continue
 				}

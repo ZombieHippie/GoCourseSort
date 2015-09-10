@@ -34,6 +34,7 @@ type Course struct {
 type CourseDB struct {
 	coursesById map[string]*Course
 	coursesByLink map[string][]*Course
+	coursesByDepartment map[string][]*Course
 	kwIndex map[string][]KeywordLink
 	keywords []string
 }
@@ -55,6 +56,34 @@ func (db *CourseDB) GetCourses (ids []string) DatabaseResults {
 	return DatabaseResults{
 		Results: res,
 		TotalResults: len(ids),
+		ExecutionTime: 1E-9 * float64(time.Now().Sub(timerStart).Nanoseconds()),
+	}
+}
+
+func (db *CourseDB) GetCoursesByLink (link string) DatabaseResults {
+	timerStart := time.Now()
+	
+	res, exists := db.coursesByLink[link]; if !exists {
+		res = make([]*Course,0)
+	}
+	
+	return DatabaseResults{
+		Results: res,
+		TotalResults: len(res),
+		ExecutionTime: 1E-9 * float64(time.Now().Sub(timerStart).Nanoseconds()),
+	}
+}
+
+func (db *CourseDB) GetCoursesByDepartment (department string) DatabaseResults {
+	timerStart := time.Now()
+	
+	res, exists := db.coursesByDepartment[department]; if !exists {
+		res = make([]*Course,0)
+	}
+	
+	return DatabaseResults{
+		Results: res,
+		TotalResults: len(res),
 		ExecutionTime: 1E-9 * float64(time.Now().Sub(timerStart).Nanoseconds()),
 	}
 }
@@ -212,19 +241,6 @@ func (db *CourseDB) SearchKeywords (term string) DatabaseResults {
 	}
 }
 
-func (db *CourseDB) GetCoursesByLink (link string) DatabaseResults {
-	timerStart := time.Now()
-	
-	res, exists := db.coursesByLink[link]; if !exists {
-		res = make([]*Course,0)
-	}
-	
-	return DatabaseResults{
-		Results: res,
-		TotalResults: len(res),
-		ExecutionTime: 1E-9 * float64(time.Now().Sub(timerStart).Nanoseconds()),
-	}
-}
 func (db *CourseDB) SearchKeywordsExact (term string) DatabaseResults {
 	timerStart := time.Now()
 	// create a map of courses to keywords with ranks
@@ -338,6 +354,13 @@ func (db *CourseDB) CreateIndexCourseKeywords () {
 			byLink = make([]*Course,0)
 		}
 		db.coursesByLink[course.Link] = append(byLink, course)
+		
+		// index courses by department
+		byDept, exists := db.coursesByDepartment[course.Link]; if !exists {
+			byDept = make([]*Course,0)
+		}
+		db.coursesByDepartment[course.Id[:3]] = append(byDept, course)
+		coursesByDepartment[department]
 		
 		// index keywords
 		titleKeywords := re.FindAllString(course.Title, -1)
