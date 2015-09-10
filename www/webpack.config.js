@@ -13,7 +13,10 @@ module.exports = {
       { test: /\.png$/, loader: "file-loader" },
       { test: /\.jsx?$/,
         exclude: /(node_modules|bower_components)/,
-        loader: 'babel' }
+        loader: 'babel' },
+      { test: /\.jade$/,
+        exclude: /(node_modules|bower_components)/,
+        loader: 'jade' }
     ]
   },
   resolve: {
@@ -24,10 +27,10 @@ module.exports = {
   },
   plugins: [
     new ExtractTextPlugin("bundle.css", { allChunks: true })
-    , new webpack.optimize.UglifyJsPlugin({
-      mangle: {
-        except: ['$', 'exports', 'require']
-      }
-    })
+    //, new webpack.optimize.UglifyJsPlugin({
+    //  mangle: {
+    //    except: ['$', 'exports', 'require']
+    //  }
+    //})
   ]
 };
