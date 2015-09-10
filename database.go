@@ -360,8 +360,7 @@ func (db *CourseDB) CreateIndexCourseKeywords () {
 			byDept = make([]*Course,0)
 		}
 		db.coursesByDepartment[course.Id[:3]] = append(byDept, course)
-		coursesByDepartment[department]
-		
+
 		// index keywords
 		titleKeywords := re.FindAllString(course.Title, -1)
 		course.titleKeywordsLen = len(titleKeywords)
