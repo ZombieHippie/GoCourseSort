@@ -1,0 +1,13 @@
+h3
+  a(ng-bind="course.Title" ng-href="#/courses/{{course.Id}}")
+p.prereqs(ng-bind-html="course.Prereqs")
+p.desc(ng-bind-html="course.Desc")
+div.hours
+  div.credit-hours(ng-bind="course.Hours.Credit")
+  div.lecture-hours(ng-bind="course.Hours.Lecture")
+  div.lab-hours(ng-bind="course.Hours.Lab")
+div.offered
+  strong Typically offered:&nbsp;
+  span(ng-if="course.Offered.Fall") Fall&nbsp;
+  span(ng-if="course.Offered.Spring") Spring&nbsp;
+  span(ng-if="course.Offered.Summer") Summer&nbsp;

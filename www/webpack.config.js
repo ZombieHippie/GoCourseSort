@@ -17,7 +17,10 @@ module.exports = {
         loader: 'babel?optional[]=runtime&stage=0' },
       { test: /\.jade$/,
         exclude: /(node_modules|bower_components)/,
-        loader: 'jade' }
+        loader: 'jade' },
+      { test: /\.styl$/,
+        exclude: /(node_modules|bower_components)/,
+        loader: ExtractTextPlugin.extract("css-loader!stylus-loader") }
     ]
   },
   resolve: {

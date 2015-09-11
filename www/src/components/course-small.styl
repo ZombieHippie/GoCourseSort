@@ -1,0 +1,28 @@
+.course-small
+  width 300px
+  padding 10px
+  display inline-block
+  margin-top 20px
+  font-size:14px
+  h3
+    margin 0
+  .hours
+    position:relative
+    >.credit-hours:before
+      content: "Credit hrs: "
+    >.lecture-hours:before
+      content: "Lecture hrs: "
+    >.lab-hours:before
+      content: "Lab hrs: "
+    >div:before
+      font-weight: bold
+    >div
+      width: 33%
+      float: left
+      padding: 0
+  .close
+    display none
+  &.search-result
+    display block
+    width auto
+    max-width 512px

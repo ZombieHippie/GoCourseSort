@@ -1,0 +1,6 @@
+div(ng-if="error")
+  .error {{ error }}
+div(ng-if="!error")
+  h1 {{ course.Title }}
+  p(ng-bind-html="course.Prereqs")
+  p {{ course.Desc }}

@@ -14,8 +14,10 @@
     "jade-loader": "latest",
     "angular": "latest",
     "angular-route": "~1.4.0",
+    "angular-sanitize": "~1.4.5",
     "async": "~1.4.2",
     "lz-string": "~1.4.4",
-    "browser-store": "~1.0.2"
+    "browser-store": "~1.0.2",
+    "stylus-loader": "~1.3.0"
   }
 }

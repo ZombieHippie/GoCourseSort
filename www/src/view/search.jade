@@ -1,12 +1,12 @@
-h1 Search
-pre {{ query }}
-div(ng-repeat="course in courses")
-  h3 {{course.Title}}
-  p.desc {{course.Desc}}
-  div.hours
-    div.credit-hours {{course.Hours.Credit}}
-    div.lecture-hours {{course.Hours.Lecture}}
-    div.lab-hours  {{course.Hours.Lab}}
-  div.offered
-    strong Typically offered:
-    
+div.search-info
+  table
+    tbody
+      tr
+        td
+          | Total Results:&nbsp;
+          span(ng-bind="searchResults.TotalResults")
+        td
+          | Execution Time:&nbsp;
+          span(ng-bind="executionTimeSimplified")
+          | s
+.course-small.search-result(ng-repeat="course in searchResults.Results")
