@@ -3,7 +3,9 @@ var GoCourseSort = require("./gocoursesort.js"),
 
 window.cblog = require("./debug.jsx").Cblog
 
-window.gocoursesort = new GoCourseSort("ws://test.mostate.io:8080/websocket")
+var appconfig = require("../appconfig.js")
+
+window.gocoursesort = new GoCourseSort(appconfig.websocket_uri)
 
 require("angular-route")
 require("angular-sanitize")

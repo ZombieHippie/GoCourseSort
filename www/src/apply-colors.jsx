@@ -7,7 +7,6 @@ var mapColorToLink = {}
 for (var i = 0, m; i < colors.length; i++) {
   mapColorToLink[colors[i]] = []
 }
-console.log(mapColorToLink)
 for (var j = 0; j < courseLinks.length; j++) {
   mapColorToLink[colors[j % colors.length]].push(courseLinks[j])
 }
