@@ -56,35 +56,31 @@ func main() {
 	fmt.Printf("Populated Database with %d courses.\n", len(db.coursesById))
 	db.CreateIndexCourseKeywords()
 	
-	//var scriptJS string
-	http.HandleFunc("/js/", func (w http.ResponseWriter, r *http.Request) {
-		file, err := os.Open(relSrcDir + "/js/" + r.URL.Path[4:]); if err != nil {
+	http.HandleFunc("/", func (w http.ResponseWriter, r *http.Request) {
+		access := r.URL.Path[1:]
+		contentType := "text/plain"
+		switch access {
+			case "bundle.js":
+				contentType = "text/javascript"
+			case "bundle.css":
+				contentType = "text/css"
+			case "favicon.ico":
+				contentType = "image/ico"
+			case "":
+				access = "index.html"
+				contentType = "text/html"
+			default:
+				w.Header().Add("Location", "/")
+				w.WriteHeader(404)
+				w.Write([]byte("Location not found."))
+				return
+		}
+		file, err := os.Open(relSrcDir + "/www/" + access); if err != nil {
 			w.WriteHeader(500)
 			w.Write([]byte(err.Error()))
 		}
-		w.Header().Add("Content-Type", "text/javascript")
+		w.Header().Add("Content-Type", contentType)
 		io.Copy(w, file)
-	})
-	
-	http.HandleFunc("/", func (w http.ResponseWriter, r *http.Request) {
-		w.Write([]byte(`<html>
-<head>
-<title>GoCourseSort - Missouri State Catalog Utility</title>
-</head>
-<body>
-<h1>GoCourseSort</h1>
-<br>
-<form id="searchGoCourseSort">
-<label for="searchCourses">Search</label>
-<input id="searchCourses" name="q" type="text">
-<input type="submit" value="Go">
-</form>
-<br>
-<div id="output"></div>
-<script src="/js/gocoursesort.js" type="text/javascript"></script>
-<script src="/js/script.js" type="text/javascript"></script>
-</body>
-</html>`))
 	})
 	
 	
