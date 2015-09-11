@@ -164,7 +164,7 @@ GoCourseSort.prototype._connectWebsocket = function () {
   var self = this;
   self.wss = new window.WebSocket(self.ws_uri);
   self.wss.onopen = function () {
-    this.isReady = true;
+    self.isReady = true;
     while(self._readyCallbacks.length > 0) {
        self._readyCallbacks.pop()();
     }
