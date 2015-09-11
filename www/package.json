@@ -13,6 +13,9 @@
     "css-loader": "latest",
     "jade-loader": "latest",
     "angular": "latest",
-    "angular-route": "~1.4.0"
+    "angular-route": "~1.4.0",
+    "async": "~1.4.2",
+    "lz-string": "~1.4.4",
+    "browser-store": "~1.0.2"
   }
 }

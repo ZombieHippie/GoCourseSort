@@ -1,9 +1,9 @@
-var GoCourseSort = require("gocoursesort"),
+var GoCourseSort = require("./gocoursesort.js"),
   $ = require("jquery")
 
 window.cblog = require("./debug.jsx").Cblog
 
-window.gocoursesort = new GoCourseSort("ws://catalog.mostate.io/websocket")
+window.gocoursesort = new GoCourseSort("ws://test.mostate.io:8080/websocket")
 
 require("angular-route")
 

@@ -6,12 +6,13 @@ module.exports = {
     filename: 'bundle.js',
     path: __dirname
   },
+  devtool: "eval",
   module: {
     loaders: [
       { test: /\.css$/,
         loader: ExtractTextPlugin.extract("css-loader") },
       { test: /\.png$/, loader: "file-loader" },
-      { test: /\.jsx?$/,
+      { test: /\.jsx$/,
         exclude: /(node_modules|bower_components|vendor)/,
         loader: 'babel?optional[]=runtime&stage=0' },
       { test: /\.jade$/,
