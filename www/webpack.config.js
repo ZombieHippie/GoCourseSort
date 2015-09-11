@@ -12,8 +12,8 @@ module.exports = {
         loader: ExtractTextPlugin.extract("css-loader") },
       { test: /\.png$/, loader: "file-loader" },
       { test: /\.jsx?$/,
-        exclude: /(node_modules|bower_components)/,
-        loader: 'babel' },
+        exclude: /(node_modules|bower_components|vendor)/,
+        loader: 'babel?optional[]=runtime&stage=0' },
       { test: /\.jade$/,
         exclude: /(node_modules|bower_components)/,
         loader: 'jade' }

@@ -12,6 +12,7 @@
 function CourseEntry (o) {
   if (o == null) { o = { O:{}, H:{}} }
   this.Id = o.I
+  this.Title = o.T
   this.Desc = o.D
   this.Prereqs = o.P
   this.Link = o.L
@@ -32,6 +33,8 @@ function GoCourseSort (websocket_uri) {
   this.ws_uri = websocket_uri;
   this._connectWebsocket();
   this.awaitingResponse = [];
+  this._readyCallbacks = [];
+  this.isReady = false;
 }
 
 function _DatabaseResultsConverter (callback) {
@@ -50,6 +53,11 @@ function _CourseConverter (callback) {
     if (error != null) callback(error)
     else callback(null, new CourseEntry(course))
   }
+}
+
+GoCourseSort.prototype.ready = function(callback) {
+  if (this.isReady) callback()
+  else this._readyCallbacks.push(callback)
 }
 
 GoCourseSort.prototype.search = function(src, callback) {
@@ -85,7 +93,12 @@ GoCourseSort.prototype._respond = function(error, data) {
 GoCourseSort.prototype._connectWebsocket = function () {
   var self = this;
   self.wss = new window.WebSocket(self.ws_uri);
-  self.wss.onopen = function () { console.log("opened websocket") }
+  self.wss.onopen = function () {
+    this.isReady = true;
+    while(self._readyCallbacks.length > 0) {
+       self._readyCallbacks.pop()();
+    }
+  }
   self.wss.onmessage = function (messageEvent) {
     var data = JSON.parse(messageEvent.data);
     // respond to latest request
@@ -94,6 +107,7 @@ GoCourseSort.prototype._connectWebsocket = function () {
   }
   self.wss.onclose = function () {
     self.wss = null;
+    this.isReady = false;
     setTimeout(self._connectWebsocket(), 2000);
   }
 };

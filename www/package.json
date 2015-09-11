@@ -12,6 +12,7 @@
     "extract-text-webpack-plugin": "latest",
     "css-loader": "latest",
     "jade-loader": "latest",
-    "angular": "latest"
+    "angular": "latest",
+    "angular-route": "~1.4.0"
   }
 }

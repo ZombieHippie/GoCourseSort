@@ -1,4 +1,8 @@
 body { margin: 0; font-family: sans-serif; background: #f2f2f2; }
-.search-bar { position: fixed; top: 0; left: 0; right: 0; height: 3em;
+.top-bar { position: fixed; top: 0; left: 0; right: 0; height: 40pt;
 background-color: #dbdbdb; border-bottom: 2px solid #d2d2d2;}
-.view-courses { margin-top: 3em; }
+.app-view { margin-top: 40pt; }
+
+
+.search-bar * { font-size: 16pt; height: 30pt; margin: 5pt 0; }
+.search-bar label { margin-right: 5pt; }
