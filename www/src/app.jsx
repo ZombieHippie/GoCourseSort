@@ -12,6 +12,8 @@ var catalogApp = angular.module('catalogApp', [
   'ngRoute', 'ngSanitize'
 ]);
 
+require("./apply-colors.jsx")
+
 catalogApp.config( ($routeProvider) => {
   $routeProvider
   .when('/', {
@@ -81,5 +83,12 @@ catalogApp.config( ($routeProvider) => {
     restrict: 'C',
     scope: true,
     template: require("./components/course-small.jade")()
+  }
+})
+.filter('linkc', () => {
+  var course_id_re_g = /([A-Z]{3}) ?(\d{2,3})/g
+  return function (input) {
+    if (typeof input === "string" && input.replace != null)
+      return input.replace(course_id_re_g, "<a href=\"#courses/$1$2\" data-linkc>$1 $2</a>")
   }
 })

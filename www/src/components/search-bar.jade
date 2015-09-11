@@ -1,4 +1,4 @@
 form.search-bar(ng-controller="SearchBarCtrl" ng-submit="callSearch(query)")
   label(for="searchBox") Search
-  input#searchBox(type="text" ng-model="query")
+  input#searchBox(type="text" ng-model="query" placeholder="Search courses...")
   input(type="submit" value="Go")

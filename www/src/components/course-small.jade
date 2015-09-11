@@ -1,7 +1,7 @@
 h3
   a(ng-bind="course.Title" ng-href="#/courses/{{course.Id}}")
-p.prereqs(ng-bind-html="course.Prereqs")
-p.desc(ng-bind-html="course.Desc")
+p.prereqs(ng-bind-html="course.Prereqs | linkc")
+p.desc(ng-bind-html="course.Desc | linkc")
 div.hours
   div.credit-hours(ng-bind="course.Hours.Credit")
   div.lecture-hours(ng-bind="course.Hours.Lecture")

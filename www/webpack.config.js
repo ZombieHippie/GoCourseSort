@@ -11,7 +11,7 @@ module.exports = {
     loaders: [
       { test: /\.css$/,
         loader: ExtractTextPlugin.extract("css-loader") },
-      { test: /\.png$/, loader: "file-loader" },
+      { test: /\.png$/, loader: "url-loader?limit=100000" },
       { test: /\.jsx$/,
         exclude: /(node_modules|bower_components|vendor)/,
         loader: 'babel?optional[]=runtime&stage=0' },

@@ -1,12 +1,15 @@
-div.search-info
-  table
-    tbody
-      tr
-        td
-          | Total Results:&nbsp;
-          span(ng-bind="searchResults.TotalResults")
-        td
-          | Execution Time:&nbsp;
-          span(ng-bind="executionTimeSimplified")
-          | s
-.course-small.search-result(ng-repeat="course in searchResults.Results")
+.search-results
+  div.search-info
+    table
+      tbody
+        tr
+          td
+            | Total Results:&nbsp;
+            span(ng-bind="searchResults.TotalResults")
+          td
+            | Execution Time:&nbsp;
+            span(ng-bind="executionTimeSimplified")
+            | s
+  .course-small.search-result(ng-repeat="course in searchResults.Results" ng-class="course.Link + '_cd ' + course.Link + '_bg025'")
+  br
+  p Search queries limited to 10 results.

@@ -1,6 +1,19 @@
-div(ng-if="error")
-  .error {{ error }}
-div(ng-if="!error")
-  h1 {{ course.Title }}
-  p(ng-bind-html="course.Prereqs")
-  p {{ course.Desc }}
+
+.course-view
+  div(ng-if="error")
+    .error {{ error }}
+  div(ng-if="!error")
+    h1(ng-bind="course.Title" ng-class="course.Link + '_bc'")
+    .course-details
+      p.prereqs(ng-bind-html="course.Prereqs | linkc")
+      p.desc(ng-bind-html="course.Desc | linkc")
+      div.hours
+        div.credit-hours(ng-bind="course.Hours.Credit")
+        div.lecture-hours(ng-bind="course.Hours.Lecture")
+        div.lab-hours(ng-bind="course.Hours.Lab")
+      br
+      div.offered
+        strong Typically offered:&nbsp;
+        span(ng-if="course.Offered.Fall") Fall&nbsp;
+        span(ng-if="course.Offered.Spring") Spring&nbsp;
+        span(ng-if="course.Offered.Summer") Summer&nbsp;

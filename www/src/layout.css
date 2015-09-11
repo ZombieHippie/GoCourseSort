@@ -1,9 +1,33 @@
 body { margin: 0; font-family: sans-serif; background: #fff; }
-.top-bar { position: fixed; top: 0; left: 0; right: 0; height: 40pt;
+.top-bar { position: fixed; top: 0; left: 0; right: 0; height: 60px;
 background-color: #f2f2f2; border-bottom: 1px solid #eee;
 z-index: 1;}
-.app-view { margin-top: 40pt; padding: 20pt;}
+.top-bar>.top-logo,
+.top-bar>search-bar {float:left;}
+.app-view { margin-top: 60px; padding: 20px;}
+
+.top-logo { margin: 0 10px 0 40px; background-image: url("mostate.png"); width: 140px; height: 60px; }
+
+.search-bar {margin:0;}
+.search-bar * { font-size: 16px; height: 36px; margin: 12px 0; }
+.search-bar label { margin: 0 10px 0 40px; display: none;}
+.search-bar input[type=text] { padding: 0 10px; }
+
+.search-results { padding-left: 100px; }
+@media(max-width: 800px) {
+  .search-results { padding-left: 5%; padding-right: 5%; }
+}
 
 
-.search-bar * { font-size: 16pt; height: 30pt; margin: 5pt 0; }
-.search-bar label { margin-right: 5pt; }
+.search-results .hours,.search-results .offered { display: none;}
+
+.course-view .course-details {
+  max-width: 728px;
+}
+
+.course-view h1 {
+  display: inline-block;
+  border-bottom: 3px solid;
+}
+
+a, a:visited { color: darkblue; }
