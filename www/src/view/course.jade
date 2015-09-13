@@ -2,11 +2,12 @@
 .course-view
   div(ng-if="error")
     .error {{ error }}
-  div(ng-if="!error")
+  div(ng-if="!error && course != null")
+    //- need to put course != null, so that link-courses has obj
     h1(ng-bind="course.Title" ng-class="course.Link + '_bc'")
     .course-details
-      p.prereqs(ng-bind-html="course.Prereqs | linkc")
-      p.desc(ng-bind-html="course.Desc | linkc")
+      p.prereqs(link-courses="course.Prereqs")
+      p.desc(link-courses="course.Desc")
       div.hours
         div.credit-hours(ng-bind="course.Hours.Credit")
         div.lecture-hours(ng-bind="course.Hours.Lecture")

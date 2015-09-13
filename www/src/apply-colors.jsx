@@ -25,6 +25,14 @@ background-color: ${color.replace(rgbRe, "rgba($1, $2, $3, .25)")} !important;
 background-color: ${color.replace(rgbRe, (match, r, g, b) => {
   return `rgba(${Math.max(parseInt(r) - 40, 0)}, ${Math.max(parseInt(g) - 40, 0)}, ${Math.max(parseInt(b) - 40,0)}, 1)`
 })} !important;
+}${mapColorToLink[color].map((val)=> "." + val + "_bgl").join(", ")} {
+background-color: ${color.replace(rgbRe, (match, r, g, b) => {
+  return `rgba(${Math.max(parseInt(r) + 100, 0)}, ${Math.max(parseInt(g) + 100, 0)}, ${Math.max(parseInt(b) + 100,0)}, 1)`
+})} !important;
+}${mapColorToLink[color].map((val)=> "." + val + "_bgl025").join(", ")} {
+background-color: ${color.replace(rgbRe, (match, r, g, b) => {
+  return `rgba(${Math.max(parseInt(r) + 100, 0)}, ${Math.max(parseInt(g) + 100, 0)}, ${Math.max(parseInt(b) + 100,0)}, 0.25)`
+})} !important;
 }${mapColorToLink[color].map((val)=> "." + val + "_cd").join(", ")} {
 color: ${color.replace(rgbRe, (match, r, g, b) => {
   return `rgba(${Math.max(parseInt(r) - 40, 0)}, ${Math.max(parseInt(g) - 40, 0)}, ${Math.max(parseInt(b) - 40,0)}, 1)`

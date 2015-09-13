@@ -1,0 +1,8 @@
+.department-results
+  h1(ng-bind="departmentId" ng-class="department.Link + '_bc'")
+  div.res-courses
+    h2(ng-repeat-start="level in department.CourseLevels"
+      ng-bind="level")
+    .course-level(ng-repeat-end)
+      .course-small(ng-repeat="course in department.CoursesByLevel[level] | orderBy:Id"
+        ng-class="'id-' + course.Id")

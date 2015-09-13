@@ -1,14 +1,18 @@
-h3
-  a(ng-bind="course.Title" ng-href="#/courses/{{course.Id}}")
-p.prereqs(ng-bind-html="course.Prereqs | linkc")
-p.desc(ng-bind-html="course.Desc | linkc")
-div.hours
-  div.credit-hours(ng-bind="course.Hours.Credit")
-  div.lecture-hours(ng-bind="course.Hours.Lecture")
-  div.lab-hours(ng-bind="course.Hours.Lab")
-br
-div.offered
-  strong Typically offered:&nbsp;
-  span(ng-if="course.Offered.Fall") Fall&nbsp;
-  span(ng-if="course.Offered.Spring") Spring&nbsp;
-  span(ng-if="course.Offered.Summer") Summer&nbsp;
+.course-found(ng-if="course.Title != null")
+  h3(ng-bind="course.Title")
+  p.prereqs(link-courses="course.Prereqs")
+  div.desc-container
+    p.desc(link-courses="course.Desc")
+  div.hours
+    div.credit-hours(ng-bind="course.Hours.Credit")
+    div.lecture-hours(ng-bind="course.Hours.Lecture")
+    div.lab-hours(ng-bind="course.Hours.Lab")
+  br
+  div.offered
+    strong Typically offered:&nbsp;
+    span(ng-if="course.Offered.Fall") Fall&nbsp;
+    span(ng-if="course.Offered.Spring") Spring&nbsp;
+    span(ng-if="course.Offered.Summer") Summer&nbsp;
+.course-not-found(ng-if="course.Title == null")
+  em(ng-bind="course.Id")
+  span &nbsp;does not exist in the database

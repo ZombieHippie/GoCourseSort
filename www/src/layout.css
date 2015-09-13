@@ -4,20 +4,20 @@ background-color: #f2f2f2; border-bottom: 1px solid #eee;
 z-index: 1;}
 .top-bar>.top-logo,
 .top-bar>search-bar {float:left;}
-.app-view { margin-top: 60px; padding: 20px;}
+.app-view { margin-top: 60px;}
 
 .top-logo { margin: 0 10px 0 40px; background-image: url("mostate.png"); width: 140px; height: 60px; }
 
 .search-bar {margin:0;}
 .search-bar * { font-size: 16px; height: 36px; margin: 12px 0; }
 .search-bar label { margin: 0 10px 0 40px; display: none;}
-.search-bar input[type=text] { padding: 0 10px; }
+.search-bar input[type=search] { padding: 0 10px; }
 
-.search-results { padding-left: 100px; }
+.search-results, .department-results { padding-left: 100px; }
 @media(max-width: 800px) {
-  .search-results { padding-left: 5%; padding-right: 5%; }
+  .search-results, .department-results { padding-left: 5%; padding-right: 5%; }
+  .department-results .course-small { max-width: 100%; margin: 0 !important; height: auto !important; border-bottom: 1px solid; }
 }
-
 
 .search-results .hours,.search-results .offered { display: none;}
 
@@ -30,4 +30,59 @@ z-index: 1;}
   border-bottom: 3px solid;
 }
 
+.res-courses .course-level {
+  -webkit-column-count: 3; /* Chrome, Safari, Opera */
+  -moz-column-count: 3; /* Firefox */
+  column-count: 3;
+  width: 100%;
+}
+@media (max-width: 900px) {
+.res-courses .course-level {
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+  column-count: 2;
+}
+}
+@media (max-width: 600px) {
+.res-courses .course-level {
+  -webkit-column-count: 1; /* Chrome, Safari, Opera */
+  -moz-column-count: 1; /* Firefox */
+  column-count: 1;
+}
+}
+
+.department-results .course-small {
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside:avoid;
+  -moz-page-break-inside:avoid;
+  page-break-inside: avoid;
+  break-inside: avoid-column;
+  margin: 10px;
+  width: auto;
+  padding: 0;
+  display: block;
+}
+.department-results .course-small>div {
+  padding: 20px;
+  background: #f7f7f7;
+}
+
+.department-results .course-small .desc-container,
+.department-results .course-small .hours,
+.department-results .course-small .offered {
+  display: none;
+}
+
+#hover-info { max-width: 350px;
+  font-size: 16px;
+  background-color: #f7f7f7; box-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  opacity: 0; transition: opacity .1s;}
+#hover-info>div { padding: 20px; }
+#hover-info.show { opacity: 1; }
+#hover-info h3 { margin-top: 0;}
 a, a:visited { color: darkblue; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.course-not-found {  color: red;}
+
