@@ -1,6 +1,6 @@
 # GoCourseSort
 
-A Go websocket server and search engine with an Angular powered user interface.
+A Go websocket server and [search engine](https://github.com/ZombieHippie/GoCourseSort/blob/53a75615096d1e899a0be1489798e317711eeb5e/database.go#L149-L242) with an Angular powered user interface.
 
 ![Search interface](/screenshots/02-interface-search.PNG)
 ![Department page](/screenshots/02-department-page.PNG)
