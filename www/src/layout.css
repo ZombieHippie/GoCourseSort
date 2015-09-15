@@ -36,7 +36,7 @@ z-index: 1;}
   column-count: 3;
   width: 100%;
 }
-@media (max-width: 900px) {
+@media (max-width: 1200px) {
 .res-courses .course-level {
   -webkit-column-count: 2; /* Chrome, Safari, Opera */
   -moz-column-count: 2; /* Firefox */
@@ -64,15 +64,16 @@ z-index: 1;}
 }
 .department-results .course-small>div {
   padding: 20px;
-  background: #f7f7f7;
+  margin-bottom: 20px;
+  //background: #f7f7f7;
 }
-
+/*
 .department-results .course-small .desc-container,
 .department-results .course-small .hours,
 .department-results .course-small .offered {
   display: none;
 }
-
+*/
 #hover-info { max-width: 350px;
   font-size: 16px;
   background-color: #f7f7f7; box-shadow: 2px 2px 8px rgba(0,0,0,0.4);
@@ -86,3 +87,4 @@ a:hover { text-decoration: underline; }
 
 .course-not-found {  color: red;}
 
+[link-to]:hover { text-decoration: underline; }

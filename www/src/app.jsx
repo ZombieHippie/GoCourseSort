@@ -16,6 +16,7 @@ var catalogApp = angular.module('catalogApp', [
 ]);
 
 require("./apply-colors.jsx")
+var course_id_re_g = /([A-Z]{3}) ?(\d{2,3})/g
 
 catalogApp.config( ($routeProvider) => {
   $routeProvider
@@ -131,29 +132,39 @@ catalogApp.config( ($routeProvider) => {
   }
 })
 .factory('HoverInfo', require("./hover-info.jsx"))
-// borrowed from http://stackoverflow.com/a/17426614/2096729
-.directive('linkCourses', ['$compile', function ($compile) {
-  var course_id_re_g = /([A-Z]{3}) ?(\d{2,3})/g
+
+.directive('linkTo', function ($location) {
   return {
     restrict: 'A',
-    compile: function linkCoursesCompile (templetElement) {
-      return function linkCoursesLink (scope, element, attrs) {
-        element = element[0]
-        scope.$watch(attrs.linkCourses, (value) => {
-          // when the 'compile' expression changes
-          // assign it into the current DOM
-          if (typeof value === "string" && value.replace != null) {
-            value = value.replace(course_id_re_g, "<a href=\"#/department/$1/$2\" data-link=\"$1$2\">$1 $2</a>")
-            element.innerHTML = value
+    link: function linkDataLink (scope, element, attrs) {
+      var courseInfo = course_id_re_g.exec(scope.$eval(attrs.linkTo))
+      element.on("click", () => {
+        $location.url('/department/' + courseInfo[1] + '/' + courseInfo[2])
+        scope.$apply()
+      })
+    }
+  }
+})
+// borrowed from http://stackoverflow.com/a/17426614/2096729
+.directive('linkCourses', ['$compile', function ($compile) {
+  return {
+    restrict: 'A',
+    link: function linkCoursesLink (scope, element, attrs) {
+      element = element[0]
+      scope.$watch(attrs.linkCourses, (value) => {
+        // when the 'compile' expression changes
+        // assign it into the current DOM
+        if (typeof value === "string" && value.replace != null) {
+          value = value.replace(course_id_re_g, "<a href=\"#/department/$1/$2\" data-link=\"$1$2\">$1 $2</a>")
+          element.innerHTML = value
 
-            // compile the new DOM and link it to the current
-            // scope.
-            // NOTE: we only compile .childNodes so that
-            // we don't get into infinite loop compiling ourselves
-            $compile(element.childNodes)(scope)
-          }
-        })
-      }
+          // compile the new DOM and link it to the current
+          // scope.
+          // NOTE: we only compile .childNodes so that
+          // we don't get into infinite loop compiling ourselves
+          $compile(element.childNodes)(scope)
+        }
+      })
     }
   }
 }])
