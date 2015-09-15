@@ -1,5 +1,5 @@
 // GoCourseSort, written by Cole Lawrence
-// depends on caolan/async, and pieroxy/lz-string
+// depends on browser-store, and caolan/async
 (function(mod) {
   if (typeof exports == "object" && typeof module == "object") // CommonJS
     module.exports = mod(require("browser-store"), require("async"));
