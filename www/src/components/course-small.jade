@@ -1,6 +1,6 @@
 .course-found(ng-if="course.Title != null")
   h3(ng-bind="course.Title" link-to="course.Id")
-  div(style="text-align: center"): a(ng-href="#/course/{{course.Id}}") course details
+  div(style="text-align: center"): a(ng-href="#/courses/{{course.Id}}") course details
   p.prereqs(link-courses="course.Prereqs")
   div.desc-container
     p.desc(link-courses="course.Desc")
