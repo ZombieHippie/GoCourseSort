@@ -59,7 +59,7 @@ catalogApp.config( ($routeProvider) => {
     $scope.courseId = current.pathParams.courseId
     var avail = "https://prodssb.missouristate.edu/prod/bwckctlg.p_disp_listcrse?term_in=201620&subj_in=$1&crse_in=$2&schd_in="
     avail = $scope.courseId.replace(/([A-Z]+) ?(\d+)/, avail)
-    $scope.availabilityIframe = $sce.trustUrl(avail)
+    $scope.availabilityIframe = $sce.trustAsResourceUrl(avail)
     gocoursesort.ready(()=> {
       gocoursesort.get($scope.courseId, (error, course)=> {
         $scope.error = error
