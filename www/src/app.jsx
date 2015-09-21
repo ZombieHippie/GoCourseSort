@@ -58,7 +58,7 @@ catalogApp.config( ($routeProvider) => {
   $scope.$on('$routeChangeSuccess', function (event, current, previous) {
     $scope.courseId = current.pathParams.courseId
     var avail = "https://prodssb.missouristate.edu/prod/bwckctlg.p_disp_listcrse?term_in=201620&subj_in=$1&crse_in=$2&schd_in="
-    $scope.availabilityIframe = $scope.courseId.replace(/([A-Z]+) ?(\\d+)/, avail)
+    $scope.availabilityIframe = $scope.courseId.replace(/([A-Z]+) ?(\d+)/, avail)
     gocoursesort.ready(()=> {
       gocoursesort.get($scope.courseId, (error, course)=> {
         $scope.error = error
