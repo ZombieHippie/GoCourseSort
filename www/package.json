@@ -6,13 +6,13 @@
     "url": "https://github.com/ZombieHippie/GoCourseSort"
   },
   "dependencies": {
-    "babel-loader": "latest",
+    "babel-loader": "5.3.2",
     "jquery": "~2.1",
     "webpack": "~1.9",
-    "extract-text-webpack-plugin": "latest",
-    "css-loader": "latest",
-    "jade-loader": "latest",
-    "angular": "latest",
+    "extract-text-webpack-plugin": "0.8.2",
+    "css-loader": "0.18.0",
+    "jade-loader": "0.7.1",
+    "angular": "~1.4",
     "angular-route": "~1.4.0",
     "angular-sanitize": "~1.4.5",
     "async": "~1.4.2",
