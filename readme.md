@@ -4,9 +4,9 @@ A Go websocket server and [search ranking algorithm for courses](https://github.
 
 ## Problem
 
-Missouri State is very good at keeping all of [their course catalogs online]("See Computer Science department catalog" http://www.missouristate.edu/registrar/catalog/courses_cs.htm) and up to date, but it becomes burdensome to use their online catalogs when you must keep track of many many courses at a time while planning your four years.
+Missouri State is very good at keeping all of [their course catalogs online](http://www.missouristate.edu/registrar/catalog/courses_cs.htm "See Computer Science department catalog") and up to date, but it becomes burdensome to use their online catalogs when you must keep track of many many courses at a time while planning your four years.
 
-Questions like "What course was my professor describing with  'Animation' in the title?" are very difficult to answer without knowing the department of the course, because [every catalog page is per department]("See all the different departments with catalogs" http://www.missouristate.edu/registrar/catalog/coursesearch.htm).
+Questions like "What course was my professor describing with  'Animation' in the title?" are very difficult to answer without knowing the department of the course, because [every catalog page is per department](http://www.missouristate.edu/registrar/catalog/coursesearch.htm "See all the different departments with catalogs").
 
 So, when you must track down around a hundred different courses and what their prerequisites are, this can be burdensome with the limited tools available.
 
